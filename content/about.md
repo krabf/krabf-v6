@@ -21,7 +21,7 @@ Get in touch:
 - <a rel="me" href="https://mastodon.social/@krabf">Mastodon</a>
 - <a href="http://twitter.com/krabf_" rel="me">Twitter</a>
 - <a href="http://instagram.com/krabf" rel="me">Instagram</a>
-- <a href="/rss.xml" type="application/rss+xml">RSS</a>
+- <a href="/index.xml" type="application/rss+xml">RSS</a>
 
 
 <hr>
