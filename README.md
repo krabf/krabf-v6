@@ -11,6 +11,4 @@ Simply built with Hugo, posts are in markdown.
 
 No license.
 
-
-<div id="wcb" class="carbonbadge"></div>
-<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/30ae8ce3-c24d-403c-b6a3-61463d596929/deploy-status)](https://app.netlify.com/sites/krabf/deploys)
