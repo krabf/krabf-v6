@@ -1,0 +1,84 @@
+{{ define "meta" }}
+  {{ with .Params.description }}
+    <meta name="description" content="{{ . }}" />
+  {{ else }}
+    <meta name="description" content="{{ .Summary | truncate 155 }}" />
+  {{ end }}
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:type" content="blog" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  {{ with .Params.image }}
+    <meta property="og:image" content="{{ . }}" />
+  {{ else }}
+    <meta property="og:image" content="https://krabf.netlify.app/media/favicon.ico" />
+  {{ end }}
+  {{ with .Params.description }}
+    <meta name="description" content="{{ . }}" />
+  {{ else }}
+    <meta property="og:description" content="{{ .Summary | truncate 300 }}" />
+  {{ end }}
+  <meta property="blog:published_time" content="{{ .Date.Format "January 2, 2006" }}" />
+  <meta property="blog:modified_time" content="{{ .Lastmod.Format "January 2, 2006" }}" />
+  <meta property="blog:author" content="Kushaiah Felisilda" />
+  {{ with .Keywords }}
+    <meta property="article:section" content="{{ index . 0 | title }}" />
+  {{ end }}
+{{ end }}
+
+{{ define "main" }}
+  <article class="blog">
+    <header>
+      <h1>{{ .Title }}</h1>
+      <p>
+        <time datetime="{{ .Date.Format "January 2, 2006" }}">
+          {{ .Date.Format "January 2, 2006" }}
+        </time>
+        {{ with .Params.link }}
+          ∙ <a href="{{ . }}" class="markup-link">{{ (urls.Parse .).Host }}</a>
+        {{ end }}
+      </p>
+    </header>
+    <section>
+      {{ if .Truncated }}
+        <div class="markup">
+          {{ .Summary }}
+        </div>
+        {{ if .Params.toc }}
+          <nav class="toc">
+            <h2>In this post</h2>
+            {{ .TableOfContents }}
+          </nav>
+        {{ end }}
+        <div class="markup">
+          {{ safeHTML (replace .Content .Summary "") }}
+        </div>
+      {{ else }}
+        <div class="markup">
+          {{ .Content }}
+        </div>
+      {{ end }}
+      {{ if .Params.series }}
+        {{ with index $.Site.Data.series .Params.series }}
+          <aside class="toc">
+            <h2>{{ .title }}</h2>
+            <ol>
+              {{ range .blog }}
+                  {{ if .slug }}
+                    {{ if eq .slug $.Page.Slug }}
+                      <li class="active">{{ .title }}</li>
+                    {{ else }}
+                      <li><a href="{{ .slug | relURL }}">{{ .title }}</a></li>
+                    {{ end }}
+                  {{ else }}
+                    <li><span>{{ .title }}</span></li>
+                  {{ end }}
+              {{ end }}
+            </ol>
+          </aside>
+        {{ end }}
+      {{ end }}
+    </section>
+  </article>
+  <p class="cta">Thoughts? <a href="mailto:krabfx@gmail.com">Email me.</a></p>
+{{ end }}

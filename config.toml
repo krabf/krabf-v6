@@ -1,0 +1,30 @@
+baseURL = "https://krabf.netlify.app/"
+languageCode = "en-us"
+title = "Kushaiah Felisilda"
+
+summaryLength = 1_000_000
+rssLimit = 10
+enableGitInfo = true
+
+[taxonomies]
+  category = "categories"
+
+[permalinks]
+  blog = "/blog/:slug"
+  coffee = "/coffee/:slug"
+  categories = "/:title"
+  projects = ":slug"
+
+[author]
+  name = "Kushaiah Felisilda"
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    ordered = true

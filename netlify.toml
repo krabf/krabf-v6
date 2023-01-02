@@ -1,0 +1,28 @@
+[build]
+command = "hugo --minify"
+publish = "public"
+
+[build.environment]
+HUGO_VERSION = "0.101.0"
+HUGO_ENV = "production"
+
+[[redirects]]
+from = "/blog"
+to = "/blog"
+
+[[redirects]]
+from = "/coffee"
+to = "/coffee"
+
+[[redirects]]
+from = "/feed"
+to = "/index.xml"
+
+[[redirects]]
+from = "/feed/articles"
+to = "/articles/index.xml"
+
+[[redirects]]
+from = "/semver-deps"
+to = "/composer-semver-and-underlying-dependency-changes"
+
