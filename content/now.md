@@ -18,7 +18,7 @@ Being sober has been one of the best things that ever happened to me. I must adm
 I love the internet. As I said, it has taught me a lot of what I know. I am still learning how to code.
 
 ### Health
-Since my family appears to have inherited sickness, I am beginning my journey to living healthy in 2023. My first step should be to minimize my sugar intake. Then I decided to add exercise to my daily, or maybe weekly routine.
+Since my family appears to have inherited sickness, I am beginning my journey to living healthy in 2023. My first step should be to minimize my sugar intake. Then I decided to add exercise to my weekly routine.
 
 ### *Last updated on January 1, 2023*
 
