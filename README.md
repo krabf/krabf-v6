@@ -10,5 +10,3 @@ Simply built with Hugo, posts are in markdown.
 ## License
 
 No license.
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/30ae8ce3-c24d-403c-b6a3-61463d596929/deploy-status)](https://app.netlify.com/sites/krabf/deploys)
