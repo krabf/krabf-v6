@@ -60,7 +60,7 @@ body {
   color: var(--text);
   background-color: var(--body);
   line-height: 1.6;
-  font-family: 'Inter', sans-serif;
+  font-family: 'Fira Sans', sans-serif;
   font-size: 20px;
 }
 
