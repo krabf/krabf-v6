@@ -145,7 +145,7 @@ input[type="submit"] {
 }
 
 .header {
-  font-size: var(--font-small);
+  font-size: 0.9rem;
   color: var(--text-light);
   padding: 1rem 0;
   line-height: 1.5;
