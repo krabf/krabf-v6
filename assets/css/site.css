@@ -291,7 +291,7 @@ input[type="submit"] {
 
 .archive {
   display: grid;
-  gap: 1.5rem;
+  gap: 2.0rem;
   line-height: 1.25;
 }
 
