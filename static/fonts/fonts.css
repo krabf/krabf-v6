@@ -46,13 +46,6 @@
     src: local('Fira Sans Bold'), url('FiraSans-Bold.woff') format('woff');
     }
     
-
-    @font-face {
-    font-family: 'Fira Sans Black';
-    font-style: normal;
-    font-weight: normal;
-    src: local('Fira Sans Black'), url('FiraSans-Black.woff') format('woff');
-    }
     
     @font-face {
         font-family: 'Fira Code';
