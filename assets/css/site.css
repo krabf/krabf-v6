@@ -301,7 +301,8 @@ input[type="submit"] {
 }
 
 .archive > li li {
-  margin-top: 1.5rem;
+  margin-top: 0.35rem;
+  margin-bottom: 1.5rem;
 }
 
 /******************************************************************************\
