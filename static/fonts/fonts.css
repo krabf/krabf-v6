@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'Fira Sans Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Fira Sans Regular'), url('FiraSans-Regular.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Fira Sans Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Fira Sans Italic'), url('FiraSans-Italic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Fira Sans Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Fira Sans Thin'), url('FiraSans-Thin.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Fira Sans Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Fira Sans Light'), url('FiraSans-Light.woff') format('woff');
+    }
+     
+
+    @font-face {
+    font-family: 'Fira Sans Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Fira Sans Medium'), url('FiraSans-Medium.woff') format('woff');
+    }
+    
+    
+
+    @font-face {
+    font-family: 'Fira Sans Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Fira Sans Bold'), url('FiraSans-Bold.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Fira Sans Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Fira Sans Black'), url('FiraSans-Black.woff') format('woff');
+    }
+    
+    @font-face {
+        font-family: 'Fira Code';
+        src: url('woff2/FiraCode-Regular.woff2') format('woff2'),
+          url("woff/FiraCode-Regular.woff") format("woff");
+        font-weight: 400;
+        font-style: normal;
+      }
+
+      @font-face {
+        font-family: 'Fira Code';
+        src: url('woff2/FiraCode-Medium.woff2') format('woff2'),
+          url("woff/FiraCode-Medium.woff") format("woff");
+        font-weight: 500;
+        font-style: normal;
+      }
+
+      @font-face {
+        font-family: 'Fira Code';
+        src: url('woff2/FiraCode-Bold.woff2') format('woff2'),
+          url("woff/FiraCode-Bold.woff") format("woff");
+        font-weight: 700;
+        font-style: normal;
+      }
