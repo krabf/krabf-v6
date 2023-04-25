@@ -5,12 +5,12 @@
         <p>{{ .Key }}</p>
         {{ range .Pages }}
           <ul>
+            
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+            <p style="font-size:16px;" color:="var(--text-light);">{{ .Summary | truncate 300 }}</p>
             {{ if .Date }}
       <time>{{ .Date | time.Format ":date_medium" }}</time>
       {{ end }}
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-            <p style="font-size:16px;" color:="var(--text-light);">{{ .Summary | truncate 300 }}</p>
-            
           </ul>
         {{ end }}
       </li>
