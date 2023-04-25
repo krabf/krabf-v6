@@ -8,9 +8,7 @@
             
             <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
             <p style="font-size:16px;" color:="var(--text-light);">{{ .Summary | truncate 300 }}</p>
-            {{ if .Date }}
-      <time>{{ .Date | time.Format ":date_medium" }}</time>
-      {{ end }}
+            <p style="font-size:16px;" color:="var(--text-light);">{{ .Date | time.Format ":date_long" }}</p>
           </ul>
         {{ end }}
       </li>
