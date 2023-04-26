@@ -7,10 +7,8 @@ summary = "Today I celebrate five years of sobriety."
 +++
 
 
-<figure>
-  <img src="/content/blog/images/5-year-sober/5-years-sober.jpg" alt="I've been sober for 5 years badge from IAmSober app" loading="lazy" src="/content/blog/images/5-year-sober/5-years-sober.jpg">
-  <figcaption>I've been sober for 5 years badge from IAmSober app</figcaption>
-</figure>
+
+![I've been sober for 5 years badge from IAmSober app](/static/media/5-years-sober.jpg "I've been sober for 5 years badge from IAmSober app")
 
 Today, I celebrate five years of sobriety. I don't recall much of the night that led to my decision to quit drinking, but I'm glad I did. It wasn't an easy journey, but it was certainly worth it.
 
