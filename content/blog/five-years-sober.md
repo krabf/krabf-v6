@@ -8,7 +8,7 @@ summary = "Today I celebrate five years of sobriety."
 
 
 <figure>
-  <img src="/content/blog/images/5-years-sober.jpg" alt="I've been sober for 5 years badge from IAmSober app" loading="lazy" />
+  <img src="/content/blog/images/5-years-sober.jpg" alt="I've been sober for 5 years badge from IAmSober app" loading="lazy" src="/content/blog/images/5-years-sober.jpg">
   <figcaption>I've been sober for 5 years badge from IAmSober app</figcaption>
 </figure>
 
