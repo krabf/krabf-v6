@@ -1,4 +1,4 @@
-baseURL = "https://krabf.com/"
+baseURL = "https://krabf.com"
 languageCode = "en-us"
 title = "Kushaiah Felisilda"
 
@@ -10,11 +10,11 @@ enableGitInfo = true
   category = "categories"
 
 [permalinks]
-  posts = "/:slug"
+  blog = "/:slug"
   coffee = "/coffee/:slug"
   categories = "/:title"
   tags = "/tags/:title"
-   projects = ":slug"
+  projects = ":slug"
 
 [author]
   name = "Kushaiah Felisilda"
