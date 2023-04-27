@@ -1,6 +1,7 @@
 +++
 date = 2023-01-23
 title = "Five Years Sober"
+slug = "five-years-sober"
 categories = ["blog"]
 keywords = ["sobriety", "health"]
 summary = "Today I celebrate five years of sobriety."

@@ -1,6 +1,7 @@
 +++
 date = 2023-01-05
 title = "Calendars"
+slug = "calendars"
 categories = ["uses", "tools"]
 keywords = ["calendar", "productivity", "apps"]
 summary = "Looking for a Fantastical alternative"
