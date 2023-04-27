@@ -10,10 +10,11 @@ enableGitInfo = true
   category = "categories"
 
 [permalinks]
-  blog = "/blog/:slug"
+  posts = "/:slug"
   coffee = "/coffee/:slug"
   categories = "/:title"
-  projects = ":slug"
+  tags = "/tags/:title"
+   projects = ":slug"
 
 [author]
   name = "Kushaiah Felisilda"

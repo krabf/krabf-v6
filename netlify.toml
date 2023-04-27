@@ -7,12 +7,32 @@ HUGO_VERSION = "0.101.0"
 HUGO_ENV = "production"
 
 [[redirects]]
-from = "/blog"
-to = "/blog"
+from = "/posts"
+to = "/"
 
 [[redirects]]
-from = "/coffee"
-to = "/coffee"
+from = "/2016/:post"
+to = "/:post"
+
+[[redirects]]
+from = "/2017/:post"
+to = "/:post"
+
+[[redirects]]
+from = "/2018/:post"
+to = "/:post"
+
+[[redirects]]
+from = "/posts/2016/:post"
+to = "/:post"
+
+[[redirects]]
+from = "/posts/2017/:post"
+to = "/:post"
+
+[[redirects]]
+from = "/posts/2018/:post"
+to = "/:post"
 
 [[redirects]]
 from = "/feed"
@@ -21,8 +41,4 @@ to = "/index.xml"
 [[redirects]]
 from = "/feed/articles"
 to = "/articles/index.xml"
-
-[[redirects]]
-from = "/semver-deps"
-to = "/composer-semver-and-underlying-dependency-changes"
 
