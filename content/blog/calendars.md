@@ -2,7 +2,7 @@
 date = 2023-01-05
 title = "Calendars"
 slug = "calendars"
-categories = ["uses", "tools"]
+categories = ["uses", "tools", "app", "blog"]
 keywords = ["calendar", "productivity", "apps"]
 summary = "Looking for a Fantastical alternative"
 +++
@@ -11,7 +11,7 @@ summary = "Looking for a Fantastical alternative"
 
 I think it’s time to replace Fantastical with Calendar 366. 
 
-Right now, I'm using three calendars in total. [Fantastical](https://flexibits.com/fantastical) is my main, [Calendar 366](https://nspektor.com/) for my Apple Watch, and [Cron](https://cron.com/) for beta testing use. The default [Apple Calendar](https://www.icloud.com/calendar)app is meh for me. Lacks a lot of functionality and features for everyday use. I've been using Fantastical ever since. I REALLY love the menu bar feature. I've been adding events using the menu bar feature and it just works perfectly. I'm only able to open the full window when plotting schedules, and viewing previous and next months. I can do a lot of things with the free version on my Mac and iOS. The downside is the free version doesn't support Apple Watch. That's where Calendar 366 comes in. 
+Right now, I'm using three calendars in total. [Fantastical](https://flexibits.com/fantastical) is my main, [Calendar 366](https://nspektor.com/) for my Apple Watch, and [Cron](https://cron.com/) for beta testing use. The default [Apple Calendar](https://www.icloud.com/calendar) app is meh for me. Lacks a lot of functionality and features for everyday use. I've been using Fantastical ever since. I REALLY love the menu bar feature. I've been adding events using the menu bar feature and it just works perfectly. I'm only able to open the full window when plotting schedules, and viewing previous and next months. I can do a lot of things with the free version on my Mac and iOS. The downside is the free version doesn't support Apple Watch. That's where Calendar 366 comes in. 
 
 ![Fanstastical Menu Bar feature](/media/fantastical-menu-bar.png "Fanstastical Menu Bar feature")
 
