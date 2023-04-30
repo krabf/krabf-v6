@@ -302,7 +302,7 @@ input[type="submit"] {
 }
 
 .archive > li li {
-  font-weight: bold;
+  font-size: 4rem; font-weight: bold;
   margin-top: .5rem;
 }
 
