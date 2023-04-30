@@ -296,13 +296,14 @@ input[type="submit"] {
 }
 
 .archive > li > p {
-  font-size: var(--font-small); font-weight: bold;
+  font-size: var(--font-small); 
   color: var(--text-light);
+  margin-bottom: .5rem;
 }
 
 .archive > li li {
+  font-weight: bold;
   margin-top: 1.5rem;
-  margin-bottom: .5rem;
 }
 
 /******************************************************************************\
