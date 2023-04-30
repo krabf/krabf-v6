@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Fira Sans Regular';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     src: local('Fira Sans Regular'), url('FiraSans-Regular.woff2') format('woff');
     }
     
@@ -9,7 +9,7 @@
     @font-face {
     font-family: 'Fira Sans Italic';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 400;
     src: local('Fira Sans Italic'), url('FiraSans-Italic.woff2') format('woff');
     }
     
@@ -17,7 +17,7 @@
     @font-face {
     font-family: 'Fira Sans Thin';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 100;
     src: local('Fira Sans Thin'), url('FiraSans-Thin.woff2') format('woff');
     }
     
@@ -25,7 +25,7 @@
     @font-face {
     font-family: 'Fira Sans Light';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 300;
     src: local('Fira Sans Light'), url('FiraSans-Light.woff2') format('woff');
     }
      
@@ -33,7 +33,7 @@
     @font-face {
     font-family: 'Fira Sans Medium';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 500;
     src: local('Fira Sans Medium'), url('FiraSans-Medium.woff2') format('woff');
     }
     
@@ -42,7 +42,7 @@
     @font-face {
     font-family: 'Fira Sans Bold';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 700;
     src: local('Fira Sans Bold'), url('FiraSans-Bold.woff2') format('woff');
     }
     
