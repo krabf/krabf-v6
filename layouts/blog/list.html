@@ -1,5 +1,5 @@
 {{ define "main" }}
-  <ul class="archive">
+  <ul class="blog">
     {{ range ((where $.Site.RegularPages "Section" "blog").GroupByDate "January 2006") }}
       <li>
         <p>{{ .Key }}</p>
