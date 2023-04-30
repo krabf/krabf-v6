@@ -304,12 +304,7 @@ input[type="submit"] {
 .archive > li li {
   font-size: 30px; font-weight: bold;
   margin-top: .5rem;
-}
 
-.archive a:hover:not(.active) {
-    background-color: #007AFC;
-    transition: background-color 0.3s;
-    transition-timing-function: ease;
 }
 
 /******************************************************************************\
