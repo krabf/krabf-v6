@@ -297,13 +297,13 @@ input[type="submit"] {
 
 .archive > li > p {
   font-size: var(--font-small); 
-  color: var(--text-light);
+  color: var(--text-light); text-transform: uppercase; letter-spacing: 1px;
   margin-bottom: .5rem;
 }
 
 .archive > li li {
   font-weight: bold;
-  margin-top: 1.5rem;
+  margin-top: .5rem;
 }
 
 /******************************************************************************\
