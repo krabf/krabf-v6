@@ -7,7 +7,7 @@ tags = ["Dune", "film trailers"]
 summary = "Why I choose to skip trailers"
 +++
 
-I have to admit, I try to avoid movie trailers as much as possible because I don't want any spoilers. Even though they're only a minute-long, most trailers reveal too much in that short amount of time. I know even as filmmakers we make them for our projects, even if they're just shorts because they're effective for marketing.[^1] I even had a project in my Editing class way back in college where I did the same thing.
+I have to admit, I try to avoid movie trailers as much as possible because I don't want any spoilers. Even though they're only a minute-long, most trailers reveal too much in that short amount of time. I know even as filmmakers we make them for our projects, even if they're just shorts because they're effective.[^1] I even had a project in my Editing class way back in college where I did the same thing.
 
 <lite-youtube videoid="yfh8ScwW8Ug" style="background-image: url(&quot;https://i.ytimg.com/vi/yfh8ScwW8Ug/hqdefault.jpg&quot;);" class="lyt-activated"><button type="button" class="lty-playbtn"><span class="lyt-visually-hidden">Play</span></button><iframe width="560" height="315" title="Play" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube-nocookie.com/embed/yfh8ScwW8Ug?autoplay"></iframe></lite-youtube>
 
@@ -19,4 +19,4 @@ Anyway, have you seen the trailer for Dune: Part Two? It's giving me goosebumps!
 
 
 
-[^1]: Kerrigan, F. (2010). Chapter 7: Film Marketing Materials. In Film Marketing. essay, Routledge. 
+[^1]: Kernan, L. (2005). Coming attractions: Reading American Movie Trailers. University of Texas Press. 
