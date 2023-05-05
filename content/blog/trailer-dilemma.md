@@ -7,7 +7,7 @@ tags = ["Dune", "film trailers"]
 summary = "Why I choose to skip trailers"
 +++
 
-I have to admit, I try to avoid movie trailers as much as possible because I don't want any spoilers. Even though they're only a minute-long, most trailers reveal too much in that short amount of time. I know even as filmmakers we make them for our projects, even if they're just shorts because they're effective.[^1] I even had a project in my Editing class way back in college where I did the same thing.
+I have to admit, I try to avoid movie trailers as much as possible because I don't want any spoilers. Even though they're only a minute long, most trailers reveal too much in that short amount of time. I know even as filmmakers we make them for our projects, even if they're just shorts, because they're effective.[^1] One of my favorite things to do growing up was making film trailers that were different from their genre. It was a sort of exercise for me to show how a film can be shown differently, and also to test my skills in music and editing. I even had a project in my Editing class way back in college where I did the same thing.
 
 <lite-youtube videoid="yfh8ScwW8Ug" style="background-image: url(&quot;https://i.ytimg.com/vi/yfh8ScwW8Ug/hqdefault.jpg&quot;);" class="lyt-activated"><button type="button" class="lty-playbtn"><span class="lyt-visually-hidden">Play</span></button><iframe width="560" height="315" title="Play" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube-nocookie.com/embed/yfh8ScwW8Ug?autoplay"></iframe></lite-youtube>
 
