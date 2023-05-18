@@ -1,9 +1,8 @@
 ---
+date: {{ .Date }}
 title: "{{ replace .Name "-" " " | title }}"
 slug: {{ .Name }}
-date: {{ .Date }}
-categories: ["articles" , "blog"]
-keywords:
-summary: 
+categories: ["blog", "cat1"]
+tags: ["tag1", "tag2"]
+summary: ""
 ---
-
