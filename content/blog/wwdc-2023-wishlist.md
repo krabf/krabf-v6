@@ -7,12 +7,12 @@ tags = ["Apple", "WWDC", "Apple Power User"]
 summary = "My wishlist for Apple's annual Worldwide Developers Conference"
 +++
 
-Apple announced on March 29th that its 34th Worldwide Developers Conference will take place from June 5th to June 9th, 2023. The event will begin with a keynote on Monday, June 5th.
+[Apple](https://developer.apple.com/wwdc23/special-event/) announced on March 29th that its 34th [Worldwide Developers Conference](https://developer.apple.com/wwdc23/) will take place from June 5th to June 9th, 2023. The event will begin with a keynote on Monday, June 5th.
 
-As a user, I have my own needs and wants from Apple. Here's my #WWDC23 wishlist.
+I'm not a developer but as an Apple Power User, I have my own needs and wants from Apple. Here's my #WWDC23 wishlist.
 
 
-## iOS 17 /iPadOS 17
+## iOS 17 / iPadOS 17
 📱 Redesigned home screen and lock screen
 
 ⏰ Refined Focus Mode settings/schedule
