@@ -398,7 +398,9 @@ lite-youtube.lyt-activated > .lty-playbtn {
 }
 
 .archive > li li {
-  font-size: 30px; font-weight: medium;
+  font-size: 30px; 
+  font-size: var(--font-medium);
+  font-weight: 600;
   margin-top: .5rem;
 
 }

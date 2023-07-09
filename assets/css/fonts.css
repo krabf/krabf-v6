@@ -37,7 +37,13 @@
     src: local('Fira Sans Medium'), url('FiraSans-Medium.woff2') format('woff');
     }
     
-    
+    @font-face {
+      font-family: 'Fira Sans SemiBold';
+      font-style: normal;
+      font-weight: 600;
+      src: local('Fira Sans SemiBold'), url('FiraSans-SemiBold.woff2') format('woff');
+      }
+      
 
     @font-face {
     font-family: 'Fira Sans Bold';
