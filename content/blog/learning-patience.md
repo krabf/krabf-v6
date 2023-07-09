@@ -4,7 +4,7 @@ title = "Learning patience"
 slug = "learning-patience"
 categories = ["Personal", "blog", "tech", "tools"]
 keywords = ["technology", "accessibility"]
-summary = "This is how I learn to be patient."
+summary = "This is how I learn to be patient"
 +++
 
 It's been two weeks since I've been trying to recover my WD Passport hard drive for the third time since I bought it, and it's been frustrating. I don't think the hard drive is faulty or aging; it's more about accessibility issues. The problem is that we have a mix of Samsung and Apple devices at home, and they don't seem to work well together.

@@ -4,7 +4,7 @@ title = "Hello World!"
 slug = "hello-world"
 categories = ["blog"]
 keywords = ["hello world", "personal blog"]
-summary = "First post for the new and redesigned website."
+summary = "First post for the new and redesigned website"
 +++
 
 Hello World!

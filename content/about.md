@@ -18,15 +18,15 @@ If you want to get to know more about me or collaborate, please send me an [emai
 
 Get in touch:
 
-- <a rel="me" href="https://mastodon.social/@krabf">Mastodon</a>
-- <a href="http://twitter.com/krabf_" rel="me">Twitter</a>
-- <a href="http://instagram.com/krabf" rel="me">Instagram</a>
-- <a href="/index.xml" type="application/rss+xml">RSS</a>
-- [Proton Mail](mailto:krabf@protonmail.com)
-- Email me for Signal
+<a rel="me" href="https://mastodon.social/@krabf">Mastodon</a>
+<a href="http://twitter.com/krabf_" rel="me">Twitter</a>
+<a href="http://instagram.com/krabf" rel="me">Instagram</a>
+<a href="/index.xml" type="application/rss+xml">RSS</a>
+[Proton Mail](mailto:krabf@protonmail.com)
+Email me for Signal
 
 <hr>
 
 
 ### Colophon
-This site is created with [Hugo](https://gohugo.io/), hosted in [Netlify](https://www.netlify.com/), and distributed globally via [Cloudflare](https://www.cloudflare.com/). Posts are written in HTML and Markdown. More info [here](/colophon.md).
+This site is created with [Hugo](https://gohugo.io/), hosted in [Netlify](https://www.netlify.com/), and distributed globally via [Cloudflare](https://www.cloudflare.com/). Posts are written in HTML and Markdown. More info [here](/colophon).

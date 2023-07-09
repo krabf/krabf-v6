@@ -4,7 +4,7 @@ title = "I finally have a functional blog"
 slug = "a-functional-blog"
 categories = ["blog"]
 keywords = ["personal blog", "writing"]
-summary = "I now have a space on the internet where I can share my thoughts to the world. "
+summary = "I now have a space on the internet where I can share my thoughts to the world"
 +++
 
 I have always wanted my corner of the Internet. The World Wide Web has had a profound effect on my life in ways I could never have imagined. I never thought it would be possible to access so much knowledge with a single search.

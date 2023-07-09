@@ -4,7 +4,7 @@ title = "Five Years Sober"
 slug = "five-years-sober"
 categories = ["blog"]
 keywords = ["sobriety", "health"]
-summary = "Today I celebrate five years of sobriety."
+summary = "Today I celebrate five years of sobriety"
 +++
 
 

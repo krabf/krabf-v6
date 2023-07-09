@@ -4,7 +4,7 @@ title = "Province life is slow life"
 slug = "province-life-is-slow-life"
 categories = ["Personal", "blog"]
 keywords = ["province"]
-summary = "There will always be an itch in your system that makes you want to go home."
+summary = "There will always be an itch in your system that makes you want to go home"
 +++
 
 I grew up in a province where only 4 buses pass by every hour. The beach is only a 10-minute trip away, the air is always refreshing, and people greet each other with a smile on the road. Being away for college was exciting and fun; meeting new people, having new experiences, and overcoming new hurdles. But there will always be an itch in your system that makes you want to go home. There's something about the province that relaxes me, even if I don't always agree with the politics.
