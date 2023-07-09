@@ -61,7 +61,7 @@ body {
   background-color: var(--body);
   line-height: 1.5;
   font-family: 'Fira Sans', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 /******************************************************************************\
@@ -398,7 +398,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 }
 
 .archive > li li {
-  font-size: 30px; font-weight: bold;
+  font-size: 30px; font-weight: medium;
   margin-top: .5rem;
 
 }
