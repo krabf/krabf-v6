@@ -61,7 +61,7 @@ body {
   background-color: var(--body);
   line-height: 1.5;
   font-family: 'Fira Sans', sans-serif;
-  font-size: 20px;
+  font-size: 16px;
 }
 
 /******************************************************************************\
@@ -92,7 +92,7 @@ hr:after {
   width: 100%;
   text-align: center;
   color: var(--text-light);
-  font-size: var(--font-medium);
+  font-size: var(--font-large);
   margin: 1.5rem 0;
 }
 
@@ -209,7 +209,7 @@ input[type="submit"] {
 }
 
 .blog header h1 {
-  font-size: var(--font-medium);
+  font-size: var(--font-extra-large);
   font-weight: 500;
   line-height: 1.15;
   padding:  0 1.5rem;
@@ -244,7 +244,7 @@ input[type="submit"] {
 }
 
 .coffee header h1 {
-  font-size: var(--font-medium);
+  font-size: var(--font-extra-large);
   font-weight: 500;
   line-height: 1.15;
   padding:  0 1.5rem;
@@ -450,13 +450,13 @@ lite-youtube.lyt-activated > .lty-playbtn {
 }
 
 .markup h1 {
-  font-size: var(--font-medium);
+  font-size: var(--font-extra-large);
   font-weight: 500;
   margin-bottom: 3rem;
 }
 
 .markup h2 {
-  font-size: var(--font-medium);
+  font-size: var(--font-large);
   font-weight: 500;
   margin-top: 2.625rem;
   margin-bottom: 1.5rem;
