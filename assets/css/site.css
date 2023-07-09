@@ -9,10 +9,10 @@
   --link: #1d4ed8;
   --button: var(--text);
 
-  --font-small:  0.85rem;
+  --font-small:  0.7rem;
   --font-medium:  0.85rem;
-  --font-large: 1.2rem;
-  --font-extra-large: 1.5rem;
+  --font-large: 1.1rem;
+  --font-extra-large: 1.3rem;
 
   --border-radius: 0.3em;
 }
@@ -46,7 +46,7 @@
 }
 
 html {
-  font-size: 20px;
+  font-size: 14px;
 }
 
 @media (min-width: 640px) {
