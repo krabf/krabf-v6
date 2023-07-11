@@ -217,7 +217,7 @@ input[type="submit"] {
 }
 
 .blog header h2 {
-  font-size: var(--font-extra-large);
+  font-size: var(--font-large);
   font-weight: 600;
   line-height: 1.15;
   padding:  0 1.5rem;
