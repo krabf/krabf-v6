@@ -14,6 +14,9 @@
   --font-large: 1.1rem;
   --font-extra-large: 1.3rem;
 
+  --font-sans: 'Fira Sans', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-mono: 'Fira Code', monospace, ui-monospace, SFMono-Regular, Menlo,
+
   --border-radius: 0.3em;
 }
 
