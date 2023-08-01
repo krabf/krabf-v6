@@ -5,6 +5,8 @@ title = "Kushaiah Felisilda"
 summaryLength = 1_000_000
 rssLimit = 10
 enableGitInfo = true
+enableZoom = true
+block = true
 
 [taxonomies]
   category = "categories"
@@ -27,5 +29,11 @@ enableGitInfo = true
     noClasses = false
   [markup.goldmark.renderer]
       unsafe = true
+      block = true
+      title = true
+  [markup.goldmark.parser.attribute]
+      unsafe = true
+      block = true
+      title = true
   [markup.tableOfContents]
     ordered = true

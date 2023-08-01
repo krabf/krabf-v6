@@ -9,13 +9,13 @@
   --link: #1d4ed8;
   --button: var(--text);
 
-  --font-small:  0.7rem;
-  --font-medium:  0.85rem;
-  --font-large: 1.1rem;
-  --font-extra-large: 1.3rem;
+  --font-small:  0.65rem;
+  --font-medium:  0.75rem;
+  --font-large: 1.25rem;
+  --font-extra-large: 1.85rem;
 
-  --font-sans: 'Fira Sans', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --font-mono: 'Fira Code', monospace, ui-monospace, SFMono-Regular, Menlo,
+  --font-sans: 'IBM Plex Serif', ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-mono: 'IBM Plex Mono', monospace, ui-monospace, SFMono-Regular, Menlo,
 
   --border-radius: 0.3em;
 }
@@ -36,25 +36,59 @@
 }
 
 @media (prefers-color-scheme: dark) {
+        
+  html:not(.light) body, html:not(.light) body.ri {
+     color: #d7d7d7;
+     background-color: #222;
+     -moz-osx-font-smoothing: grayscale;
+  }
+   html:not(.light) ::selection {
+     background: #00f;
+     background: #fff;
+     color: #333;
+  }
+   html:not(.light) a {
+     color: inherit;
+     text-decoration: none;
+     text-decoration-color: #fff;
+     border: 0;
+     box-shadow: none;
+  }
+  html:not(.light) .markup .link-list strong {
+    text-decoration: #fff wavy underline;
+  }
+  html:not(.light) .markup a:not(.link-subtle) {
+    text-decoration-color: #fff;
+  }
+  html:not(.light) .markup .link-list strong:hover { 
+    color: #fff;
+  }
+   html:not(.light) a:hover {
+     color: #fff;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
   :root {
-    --body: #111827;
-    --shade: #1f2937;
+    --body: #222;
+    --shade: #424242;
     --border: #374151;
     --text: #d1d5db;
     --text-light: #a2a8b4;
     --highlight: #1d4ed8;
-    --link: #3b82f6;
+    --link: #fff;
     --button: var(--border);
   }
 }
 
+
 html {
-  font-size: 14px;
+  font-size: 1.15rem;
 }
 
-@media (min-width: 640px) {
+@media (max-width: 640px) {
   html {
-    font-size: 20px;
+    font-size: 1rem;
   }
 }
 
@@ -63,8 +97,9 @@ body {
   color: var(--text);
   background-color: var(--body);
   line-height: 1.5;
-  font-family: 'Fira Sans', sans-serif;
-  font-size: 20px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-family: 'IBM Plex Serif', serif;
+  font-size: 1.15rem;
 }
 
 /******************************************************************************\
@@ -136,8 +171,8 @@ input[type="submit"] {
   margin: 0 auto;
   max-width: 36rem;
   width: 100%;
-  padding-left: 0.75rem;
-  padding-right: 0.75rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
 }
 
 @media (min-width: 640px) {
@@ -150,6 +185,8 @@ input[type="submit"] {
 .header {
   font-size: 1rem;
   color: var(--text-light);
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
   padding: 1rem 0;
   line-height: 1.5;
 }
@@ -167,13 +204,14 @@ input[type="submit"] {
 }
 
 .header strong span {
-  font-weight: 400;
+  font-weight: 300;
   color: var(--text-light);
 }
 
 @media (min-width: 640px) {
   .header strong {
     grid-column: 1 / 2;
+    font-size: 18px;
   }
 }
 
@@ -187,6 +225,7 @@ input[type="submit"] {
 
 .content {
   min-height: 100vh;
+  margin-bottom: 1rem;
   padding: 0.75rem 0;
 }
 
@@ -377,7 +416,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 .cta {
   margin-top: 1.5rem;
   color: var(--text-light);
-  font-size: var(--font-medium);
+  font-size: 1rem;
 }
 
 @media (min-width: 640px) {
@@ -389,7 +428,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 .cta a {
   position: relative;
   color: var(--link);
-  text-decoration: none;
+  text-decoration: #007AFC wavy underline;
 }
 
 /******************************************************************************\
@@ -403,16 +442,21 @@ lite-youtube.lyt-activated > .lty-playbtn {
 }
 
 .archive > li > p {
-  font-size: var(--font-small); 
-  color: var(--text-light); text-transform: uppercase; letter-spacing: 1px;
+  font-size: var(--font-medium); 
+  color: var(--text-light); 
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: bold;
+  text-transform: uppercase; 
+  letter-spacing: 1px;
   margin-bottom: .5rem;
 }
 
 .archive > li li {
-  font-size: 30px; font-weight: medium;
+  font-size: 30px; 
+  font-weight: 500;
   margin-top: .5rem;
-
 }
+
 
 /******************************************************************************\
  * Newsletter                                                                 *
@@ -467,7 +511,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 }
 
 .markup h2 {
-  font-size: var(--font-extra-large);
+  font-size: var(--font-large);
   font-weight: 700;
   margin-top: 2.625rem;
   margin-bottom: 1.5rem;
@@ -486,9 +530,10 @@ lite-youtube.lyt-activated > .lty-playbtn {
 }
 
 .markup a:not(.link-subtle),
-.markup-link {
-  color: var(--link);
+.markup-link 
+a:hover { 
   text-decoration: underline;
+  text-decoration-color: #007AFC;
 }
 
 .markup em {
@@ -511,6 +556,8 @@ lite-youtube.lyt-activated > .lty-playbtn {
 .markup ol {
   list-style-type: decimal;
   padding-left: 1.33em;
+  font-size: .8rem;
+  font-family: 'IBM Plex Mono', monospace;
 }
 
 .markup .link-list {
@@ -525,23 +572,28 @@ lite-youtube.lyt-activated > .lty-playbtn {
   padding: 0.75em 1.15em;
   color: var(--text-light);
   background-color: var(--shade);
-  border-radius: var(--border-radius);
-  font-size: 0.9em;
+  border-radius: 0.5em;
+  font-size: 0.9rem;
   line-height: 1.4;
 }
 
 .markup .link-list strong {
   display: block;
-  font-size: 1.1em;
+  font-size: 1.3em;
   font-weight: 500;
   color: var(--text);
-  margin-bottom: 0.1em;
+  margin-bottom: 0.1em; 
+  text-decoration: #007AFC wavy underline;
 }
+.markup .link-list strong:hover { 
+  color: #007AFC;
+}
+
 
 .markup img {
   display: block;
   max-width: 100%;
-  margin: 0 -0.25rem;
+  margin: -0.25 -0.25rem;
   border-radius: var(--border-radius);
 }
 
@@ -555,6 +607,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 .markup pre + em {
   display: block;
   font-size: var(--font-medium);
+  font-family: 'IBM Plex Mono', monospace;
   color: var(--text-light);
   text-align: center;
   margin-top: 0.5rem;
@@ -608,7 +661,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 .markup code {
   color: #fff;
   background-color: #3574e0;
-  font-family: 'Fira Code', monospace;
+  font-family: 'IBM Plex Mono', monospace;
 }
 
 .markup pre {

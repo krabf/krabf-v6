@@ -4,12 +4,14 @@
       <li>
         <p>{{ .Key }}</p>
         {{ range .Pages }}
+        <a href="{{ .RelPermalink }}">
           <ul>
-            
-            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-            <p style="font-size:16px;" color:="var(--text-light);">{{ .Summary | truncate 300 }}</p>
-            <p style="font-size:14px;" color:="var(--text-light);">{{ .Date | time.Format ":date_long" }}</p>
+            <li>{{ .Title }}</li>
+            <p style="font-size: 16px;">{{ .Summary | truncate 300 }}</p>
+            <p style="font-size:14px;">{{ .Date | time.Format ":date_long" }}</p>
+            </p>
           </ul>
+        </a>
         {{ end }}
       </li>
     {{ end }}
