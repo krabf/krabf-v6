@@ -11,48 +11,31 @@ summary = "My wishlist for Apple's annual Worldwide Developers Conference"
 
 I'm not a developer but as an Apple Power User, I have my own needs and wants from Apple. Here's my #WWDC23 wishlist.
 
-
 ## iOS 17 / iPadOS 17
-📱 Redesigned home screen and lock screen
-
-⏰ Refined Focus Mode settings/schedule
-
-🗺️ Default map app *
-
-📍 Map app's location services to go to the actual Location Services setting itself *
-
-🧩 Interactive widgets *
-
-🩸 Cycle Tracking improvements 
-
-🪫 Clips and Shortcuts apps to not drain the battery *
-
-📸 Assigned volume button from photo and recording
-
+~~📱 Redesigned home screen and lock screen~~\
+⏰ Refined Focus Mode settings/schedule\
+🗺️ Default map app *\
+📍 Map app's location services to go to the actual Location Services setting itself *\
+~~🧩 Interactive widgets *~~\
+🩸 Cycle Tracking improvements\
+🪫 Clips and Shortcuts apps to not drain the battery *\
+📸 Assigned volume button from photo and recording\
 💳 Allowing the Wallet app to add membership cards *
 
-
 ## watchOS 10
-📳 Customized vibrate alert for different notifications/apps *
-
-🌈 MORE PRIDE WATCH FACES
-
-⌚ More digital clock watch faces
-
+📳 Customized vibrate alert for different notifications/apps *\
+🌈 MORE PRIDE WATCH FACES\
+⌚ More digital clock watch faces\
 🔎 Find Devices to actually work
 
-
-## macOS 14
-⚙️ Better System Settings *
-
-🗂️ Enhanced Finder
-
-🎯 An option to have different Focus Modes from iOS? *
-
+## macOS 14 (Sonoma)
+⚙️ Better System Settings *\
+🗂️ Enhanced Finder\
+🎯 An option to have different Focus Modes from iOS? *\
 🖥️ Launchpad customization
 
-
 ## General
-📶  Working Bluetooth connectivity
+📶  Working Bluetooth connectivity\
+~~📲 Enhanced Airdrop *~~
 
-📲 Enhanced Airdrop *
+*Updated: August 1, 2023*
