@@ -136,7 +136,7 @@ hr:after {
 
 @media (min-width: 640px) {
   hr {
-    margin: 2.25rem 0;
+    margin: 3rem 0;
   }
 }
 
@@ -519,7 +519,6 @@ lite-youtube.lyt-activated > .lty-playbtn {
 
 .markup h3 {
   font-weight: 700;
-  text-transform: uppercase;
   font-size: var(--font-medium);
   letter-spacing: 0.05em;
   margin-top: 2.25rem;
@@ -601,12 +600,39 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
 }
+.container {
+  padding-left: 0;
+  padding-right: 0px;
+  min-width: 320px; /* Adjust as needed for your design */
+}
+
+.twocol {
+  display: flex; /* Use flexbox for layout */
+  flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+  margin-right: 0; /* Remove margin */
+}
+
+.twocol .sbs {
+  flex: 0 0 50%; /* Each column takes 50% of the available width */
+  padding: 5px;
+  text-align: center;
+}
+
+.twocol img {
+  max-width: 100%;
+  height: auto;
+}
+
+.twocol figcaption {
+  margin-top: 5px;
+  text-align: center;
+}
 
 .markup figcaption,
 .markup img + em,
 .markup pre + em {
   display: block;
-  font-size: var(--font-medium);
+  font-size: var(--font-small);
   font-family: 'IBM Plex Mono', monospace;
   color: var(--text-light);
   text-align: center;
