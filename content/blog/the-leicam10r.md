@@ -107,7 +107,7 @@ f1.4, 1/360s, ISO 800
 </figcaption>
 </figure>
 
-The Leica M10-R's 40MP full frame sensor captures an impressive amount of data and offers stunning image quality, enhanced by the renowned "Leica look." This paired with the [Leica Summilux-M 35/f1.4 ASPH lens](https://leica-camera.com/en-int/photography/lenses/m/summilux-m-35mm-f1-4-asph-black) is particularly noteworthy, producing a natural look straight out of the camera. The colors produced by the camera were, in fact, surprising at first because it just looked so good, or is it because I haven’t upgraded my camera gear in the last five years?
+The Leica M10-R camera delivers exceptional image quality thanks to its 40MP full-frame sensor and the renowned "Leica look." This paired with the [Leica Summilux-M 35/f1.4 ASPH lens](https://leica-camera.com/en-int/photography/lenses/m/summilux-m-35mm-f1-4-asph-black) is particularly noteworthy, producing a natural look straight out of the camera. The colors produced by the camera were, in fact, surprising at first because it just looked so good, or is it because I haven’t upgraded my camera gear in the last five years?
 <br>
 <figure>
 <img src="/media/leica_m10r/bgc.jpg" alt="My partner and I trying to properly focus the camera in the comfort room alley at BGC" data-action="zoom" >
@@ -132,7 +132,7 @@ f3.4, 1/15s, ISO 100
 </figcaption>
 </figure>
 
-The Leica M10-R's 40MP full-frame sensor captures an impressive amount of data, but with great quality comes great storage requirements. Shooting 15 DNG photos alone can fill up to 3GB of storage. I was experimenting with the Monochrome feature and it almost easily fills up a 64GB SD card. These storage demands are indicative of the camera's uncompromising pursuit of image quality and will require users to invest in ample storage solutions. I haven’t been able to experience the scary “Storage is full” prompt because I always ALWAYS transfer my files end of the day.
+The 40MP sensor captures an impressive amount of data, but with great quality comes great storage requirements. Shooting 15 DNG photos alone can fill up to 3GB of storage. I was experimenting with the Monochrome feature and it almost easily fills up a 64GB SD card. These storage demands are indicative of the camera's uncompromising pursuit of image quality and will require users to invest in ample storage solutions. I haven’t been able to experience the scary “Storage is full” prompt because I always ALWAYS transfer my files end of the day.
 <br>
 <br>
 Recently, I began using [Capture One](https://www.captureone.com/en) to edit my RAW files, which has caused me to consider moving away from Lightroom Classic after almost seven years of use. While it's difficult to say goodbye to Lightroom's efficient [catalog management](https://helpx.adobe.com/ph_en/lightroom-classic/help/lightroom-catalog-basics.html) and browsing capabilities for my vast library of photos in various file formats, I'm still undecided on which photo editing software to ultimately choose because I still use Adobe software for creative work.
