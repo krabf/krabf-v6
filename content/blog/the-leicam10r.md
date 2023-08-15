@@ -140,7 +140,7 @@ The 40MP sensor captures an impressive amount of data, but with great quality co
 f5.6, 1/180s, ISO 1600
 </figcaption>
 </figure>
-
+<br>
 Recently, I began using [Capture One](https://www.captureone.com/en) to edit my RAW files, which has caused me to consider moving away from Lightroom Classic after almost seven years of use. While it's difficult to say goodbye to Lightroom's efficient [catalog management](https://helpx.adobe.com/ph_en/lightroom-classic/help/lightroom-catalog-basics.html) and browsing capabilities for my vast library of photos in various file formats, I'm still undecided on which photo editing software to ultimately choose because I still use Adobe software for creative work.
 <br>
 <br>
