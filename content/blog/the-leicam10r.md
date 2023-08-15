@@ -134,18 +134,6 @@ f3.4, 1/15s, ISO 100
 
 The 40MP sensor captures an impressive amount of data, but with great quality comes great storage requirements. Shooting 15 DNG photos alone can fill up to 3GB of storage. I was experimenting with the Monochrome feature and it almost easily fills up a 64GB SD card. These storage demands are indicative of the camera's uncompromising pursuit of image quality and will require users to invest in ample storage solutions. I haven’t been able to experience the scary “Storage is full” prompt because I always ALWAYS transfer my files end of the day.
 <br>
-<br>
-Recently, I began using [Capture One](https://www.captureone.com/en) to edit my RAW files, which has caused me to consider moving away from Lightroom Classic after almost seven years of use. While it's difficult to say goodbye to Lightroom's efficient [catalog management](https://helpx.adobe.com/ph_en/lightroom-classic/help/lightroom-catalog-basics.html) and browsing capabilities for my vast library of photos in various file formats, I'm still undecided on which photo editing software to ultimately choose because I still use Adobe software for creative work.
-<br>
-<figure>
-<img src="/media/leica_m10r/binondo-lanterns.jpg" alt="Chinese lanterns on the street of Binondo" data-action="zoom" >
-<figcaption>Binondo lanterns<br>
-f4.8, 1/25s, ISO 400
-</figcaption>
-</figure>
-
-Undoubtedly, the Leica M10-R is a remarkable camera, although it may not cater to everyone's requirements. For those who prioritize autofocus and USB charging, the [Leica Q-Cameras](https://leica-camera.com/en-int/photography/cameras/q) may be a better fit. The Leica M10-R's baseplate is not necessarily a deal-breaker, but can be delicate and frustrating to use at first. The price of the battery, a hefty [₱9,100](https://leica-store.ph/products/leica-m10-battery-charger-bc-scl-5) for a tiny battery, which I will still need to buy an extra one for peace of mind. Notably, the M10-R lacks the convenience of USB charging, with no ports on the camera itself. Just a removable baseplate for the battery and memory card.
-<br>
 <figure>
 <img src="/media/leica_m10r/tuf-bw.jpg" alt="Person sitting on a barbershop chair" data-action="zoom" >
 <figcaption>TUF in B&W (M10-R's built-in Monochrome)<br>
@@ -153,9 +141,21 @@ f5.6, 1/180s, ISO 1600
 </figcaption>
 </figure>
 
+Recently, I began using [Capture One](https://www.captureone.com/en) to edit my RAW files, which has caused me to consider moving away from Lightroom Classic after almost seven years of use. While it's difficult to say goodbye to Lightroom's efficient [catalog management](https://helpx.adobe.com/ph_en/lightroom-classic/help/lightroom-catalog-basics.html) and browsing capabilities for my vast library of photos in various file formats, I'm still undecided on which photo editing software to ultimately choose because I still use Adobe software for creative work.
+<br>
+<br>
+Undoubtedly, the Leica M10-R is a remarkable camera, although it may not cater to everyone's requirements. For those who prioritize autofocus and USB charging, the [Leica Q-Cameras](https://leica-camera.com/en-int/photography/cameras/q) may be a better fit. The Leica M10-R's baseplate is not necessarily a deal-breaker, but can be delicate and frustrating to use at first. The price of the battery, a hefty [₱9,100](https://leica-store.ph/products/leica-m10-battery-charger-bc-scl-5) for a tiny battery, which I will still need to buy an extra one for peace of mind. Notably, the M10-R lacks the convenience of USB charging, with no ports on the camera itself. Just a removable baseplate for the battery and memory card.
+<br>
+<br>
 When traveling with my Leica M10-R, I have had to get creative in my approach to carrying a charger. Due to the length of the original charger, I nearly encountered issues with airport baggage control. So I have resorted to using an Apple power adaptor to ensure that I am not held up during travel.
 <br>
 <br>
+<figure>
+<img src="/media/leica_m10r/binondo-lanterns.jpg" alt="Chinese lanterns on the street of Binondo" data-action="zoom" >
+<figcaption>Binondo lanterns<br>
+f4.8, 1/25s, ISO 400
+</figcaption>
+</figure>
 I struggle with capturing images in low-light environments, particularly at night. These situations can be stressful, so I sometimes choose to use my iPhone 12 Pro instead. It’s something I’m currently trying to master since some of the events I attend take place indoors or at night. Daytime is just the most favorable and enjoyable to work with. Some of the photos included here are unedited and highlight the beauty of natural lighting.
 <br>
 <figure>
