@@ -39,8 +39,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Serif:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Serif:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     {{ with resources.Get "css/reset.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
@@ -48,22 +48,23 @@
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
 
-
-      <meta name="description" content="Kushaiah Felisilda’s personal website — films, filmmaking, technology, photography & more." />
+    {{ block "meta" . }}
       <meta property="og:title" content="{{ .Title }}" />
       <meta property="og:type" content="website" />
       <meta property="og:locale" content="en_US" />
       <meta property="og:url" content="{{ .Permalink }}" />
-      <meta property="og:image" content="{{ "og.png" | absURL }}" />
-      <meta property="og:description" content="Kushaiah Felisilda’s personal website — films, filmmaking, technology, photography & more." />
+      <meta property="og:image" content="https://www.krabf.com/static/og.png" />
+      <meta property="og:description" content="Kushaiah Felisilda’s personal website — films, filmmaking, technology, photography & more.">
+  
 
-       <!-- Twitter Open Graph -->
-       <meta name="twitter:card" content="summary_large_image"/>
-       <meta name="twitter:image" content="https://www.krabf.com/static/og.png"/>
-       <meta name="twitter:title" content="{{ .Title }}"/>
-       <meta name="twitter:description" content="Kushaiah Felisilda’s personal website — films, filmmaking, technology, photography & more."/>
- 
-  </head>
+      <!-- Twitter Open Graph -->
+      
+      <meta name="twitter:card" content="summary_large_image"/>
+      <meta name="twitter:site" content="@krabf_"/>
+	    <meta name="twitter:title" content="{{ .Title }}"/>
+	    <meta name="twitter:description" content="Kushaiah Felisilda’s personal website — films, filmmaking, technology, photography & more.">
+  {{end}}
+    </head>
   <body>
     <header class="header">
       <div class="wrap">
