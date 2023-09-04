@@ -740,6 +740,25 @@ a:hover {
   border-bottom: 1px solid var(--text);
 }
 
+.footer {
+  position: relative;
+  display: block;
+  background: #111827;
+  padding: 20px 0; /* Remove left and right padding, as they will be centered */
+  color: var(--text-inverted); /* Text color for the footer */
+  text-align: center; /* Center the content horizontally */
+}
+
+
+.social-media {
+  width: 100%;
+  display: flex;
+  gap: 0.3em;
+  justify-content: center; /* Center the content horizontally within the footer */
+  align-items: center; /* Center vertically if needed */
+  padding-bottom: 5rem;
+}
+
 /******************************************************************************\
  * Table of contents                                                          *
 \******************************************************************************/
