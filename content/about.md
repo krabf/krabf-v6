@@ -108,7 +108,9 @@ I use a lot of applications and software to increase my productivity both at wor
 - [PluralEyes4](https://www.maxon.net/en/red-giant/pluraleyes): For seamless audio and video syncing.
 - [Keka](https://www.keka.io/) and [The Unarchiver](https://theunarchiver.com/): For file archiving/compression.
 
-
+<br>
 These are only a few of the many applications I regularly use for work and personal use, and I find them to be instrumental in my productivity and efficiency.
+
+<br>
 
 I understand that this is a long list of apps and software, but please note that I do not receive any compensation for mentioning them. If you find my blog informative, engaging, helpful or whatever, you can show your support by [buying me a coffee](https://www.buymeacoffee.com/krabf) or making a donation via PayPal, Maya or GCash (message me for account info). Thank you for your consideration.
