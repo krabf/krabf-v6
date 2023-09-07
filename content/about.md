@@ -13,10 +13,11 @@ Outside of work, I am a self-proclaimed serial hobbyist. Recently, I've taken a 
 
 If you're interested in knowing, here's what I'm up to right [now](/now)
 
+
 <hr>
 
 
-**Get in touch:**\
+### Get in touch:
 <a rel="me" href="https://mastodon.social/@krabf">Mastodon</a>\
 <a href="https://www.threads.net/@krabf" rel="me">Threads</a>\
 <a href="http://instagram.com/krabf" rel="me">Instagram</a>\
@@ -24,10 +25,9 @@ If you're interested in knowing, here's what I'm up to right [now](/now)
 [Proton Mail](mailto:krabf@protonmail.com)\
 Email me for Signal
 
-<hr>
 
-## Colophon
-This site is created with [Hugo](https://gohugo.io/), hosted in [Netlify](https://www.netlify.com/), and distributed globally via [Cloudflare](https://www.cloudflare.com/). Fonts in use are [IBM Plex Serif](https://www.ibm.com/plex/) and [IBM Plex Mono](https://github.com/IBM/plex). Posts are written in HTML and Markdown. Spent countless of hours with the CSS. All by tweaking and learning other people's work and watching YouTube videos and reading some blog posts/docs. I don’t run analytics or visitor tracking of any kind. I am actively working to increase the accessibility and usability of my website to everyone. If you find some issues, please let me know.
+# Colophon
+This site is created with [Hugo](https://gohugo.io/), hosted in [Netlify](https://www.netlify.com/), and distributed globally via [Cloudflare](https://www.cloudflare.com/). Posts are written in HTML and Markdown. More info [here](/colophon).
 
 
 <hr>
@@ -35,29 +35,75 @@ This site is created with [Hugo](https://gohugo.io/), hosted in [Netlify](https:
 
 # Tools I Use
 
-## Gear
-
-I photograph with the [Leica M10-R](https://leica-camera.com/en-int/photography/cameras/m/m10-r-black/details) with [Summilux 35mm f/1.4](https://leica-camera.com/en-int/photography/lenses/m/summilux-m-35mm-f1-4-asph-black) as my main lens (probably my only lens). I sometimes use my trusty Sony A7RII for video and photo with the [Sony 16-50mm f/3.5-5.6 OSS](https://www.sony.com.ph/electronics/camera-lenses/selp1650) and [Sony FE 24-240mm f/3.5-6.3 OSS](https://www.sony.com.ph/electronics/camera-lenses/sel24240). Currently using the A7RII as a webcam. I have been trying out [Capture One](https://www.captureone.com/en) for a few months to edit my photos now and it has been great. I just wish the mobile version didn't have a subscription.
-
-My workstation consists of a [2021 16" M1 Max MacBook Pro](https://support.apple.com/kb/SP858?locale=en_US). I'm using the [Apple Studio Display](https://www.apple.com/ph/studio-display/) as my monitor and it's probably the best display compnaion for my M1 MacBook. I slightly got into mechanical keyboards and I'm still thinking if I should make this a hobby as an excuse for a TGR Jane. Right now I'm using a [Keychron Q1 Knob QMK](https://www.keychron.com/products/keychron-q2-qmk-custom-mechanical-keyboard?variant=40218169147481) and I use a "three-input peripherals" kind of thing using the Magic Trackpad 2 and Magic Mouse. I recently learned this is how [MKBHD](https://youtube.com/watch?v=cxp-FCDUkNc&t=459) works when editing or browsing! My headphones is still the [ATHM40x](https://www.audio-technica.com/en-eu/ath-m40x) and the 2nd gen [AirPods](https://www.apple.com/ph/shop/product/MV7N2ZA/A/airpods-with-charging-case).
-
-I use the balzing fast [Samsung T7 1TB](https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/portable-ssd-t7-usb-3-2-1tb--gray--mu-pc1t0t-am/) SSD and [WD Elements 14TB](https://www.westerndigital.com/en-ap/products/external-drives/wd-elements-desktop-usb-3-0-hdd#WDBBKG0140HBK-AESN) HDD for archiving.
-
-I had a basic setup that worked for me. As my needs grew and I required more performance, I was fortunate enough to upgrade my tools. I have invested both time and money in acquiring these tools, and I believe the investment has been well worth it.
 
 
-## Mac Apps and Software
+
+## Hardware: General
+- [16" MacBook Pro](https://support.apple.com/kb/SP858?locale=en_US): A powerhuse. Configured with Apple M1 Max, 64GB of unified memory and 4TB SSD.
+- [Apple Studio Display](https://www.apple.com/ph/studio-display/): As my monitor and I don't have any complaints.
+- [Keychron Q1 Knob QMK](https://www.keychron.com/products/keychron-q2-qmk-custom-mechanical-keyboard?variant=40218169147481): I slightly got into mechanical keyboards and I'm still thinking if I should have another hobby as an excuse for a TGR Jane.
+
+
+## Hardware: Audio
+- [ATHM40x](https://www.audio-technica.com/en-eu/ath-m40x): I love these headphones for editing.
+- [AirPods](https://www.apple.com/ph/shop/product/MV7N2ZA/A/airpods-with-charging-case): I still use the 2nd gen AirPods, handy when traveling but needs an upgrade.
+
+## Hardware: Camera
+-  [Leica M10-R](https://leica-camera.com/en-int/photography/cameras/m/m10-r-black/details): As my main body.
+- [Summilux 35mm f/1.4](https://leica-camera.com/en-int/photography/lenses/m/summilux-m-35mm-f1-4-asph-black) as my main lens (probably my only lens).
+- [Sony A7RII](https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7rm2-b): For video and sometimes photo. But currently using it as my webcam.
+- [Sony A6000](https://www.sony-asia.com/electronics/interchangeable-lens-cameras/ilce-6000-body-kit): My first intro to Sony's α series camera. I got this when I had my Banana Pancake Trail way back in 2017 — very lightweight and portable.
+- [Sony 16-50mm f/3.5-5.6 OSS](https://www.sony.com.ph/electronics/camera-lenses/selp1650): This was included with the A6000 as a kit. I use it at my webcam lens.
+- [Sony FE 24-240mm f/3.5-6.3 OSS](https://www.sony.com.ph/electronics/camera-lenses/sel24240): Great zoom lens that isn't too expensive and relatively light.
+
+## Hardware: Storage
+- [Samsung T7 1TB](https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/portable-ssd-t7-usb-3-2-1tb--gray--mu-pc1t0t-am/): SSD for work and projects.
+- [WD Elements 14TB](https://www.westerndigital.com/en-ap/products/external-drives/wd-elements-desktop-usb-3-0-hdd#WDBBKG0140HBK-AESN): HDD for archiving.
+
 
 I use a lot of applications and software to increase my productivity both at work and in my personal life.
 
-For work, I primarily use [Adobe Creative Cloud](https://www.adobe.com/ph_en/creativecloud.html), specifically Premiere Pro and After Effects, which are paid for by my employer, saving me a significant amount of money. I use the [Apple Script Editor](https://support.apple.com/en-ph/guide/script-editor/welcome/mac) to automatically create folders when I have new projects coming in or create quick actions and automate workflows. [Figma](https://www.figma.com) for interface design, and minimal graphics work. [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) for color grading practice, and [PluralEyes4](https://www.maxon.net/en/red-giant/pluraleyes) for seamless audio and video syncing. [Shutter Encoder](https://www.shutterencoder.com/) is my preferred tool for converting and encoding videos and audio, as it is more efficient than HandBrake. [ScreenFlow](https://www.telestream.net/screenflow/) is a great help in creating tutorials and workflow samples through video. For file archiving and compression, I use [Keka](https://www.keka.io/) and [The Unarchiver](https://theunarchiver.com/), respectively, as they are both reliable and do not slow down my workflow when handling large files. [Transmit](https://panic.com/transmit/) is my preferred tool for transferring files between work and personal cloud services.
 
-All coding happens in [Visual Studio Code](https://code.visualstudio.com/) and sometimes in [Sublime Text](https://www.sublimetext.com/), [GitHub Desktop](https://desktop.github.com/), and [iTerm](https://iterm2.com/).
+## Software: General
+- [Things](https://culturedcode.com/): As a task manager.
+- [Cron](https://cron.com/): Main calendar.
+- [Calendar 366](https://nspektor.com/en): To access the calendar through the menu bar.
+- [Spark](https://sparkmailapp.com/) and [Apple Mail](https://support.apple.com/en-gb/guide/mail/welcome/mac): I have this love/hate relationship with emails so I can't choose one.
+- [Arc](https://arc.net/): My primary browser for desktop.
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/): My browser for coding and development.
+- [Alfred](https://www.alfredapp.com/): Spotlight replacement to quickly search for files and information in the system.
+- [NetNewsWire](https://netnewswire.com/): I read a lot of RSS feeds everyday and this is the perfect one for me.
+- [Bartender](https://www.macbartender.com/): For organizing utility apps on the menu bar (free version).
+- [Raycast](https://www.raycast.com/): Another Spotlight replacement, but blazingly fast.
+- [Dropzone](https://aptonic.com): Such a handy little app for moving and copying files to different folders.
+- [Maccy](https://maccy.app/): My clipboard manager.
+- [Shottr](https://shottr.cc/): Screenshot tool.
+- [Tot](https://tot.rocks/): My very handy text companion.
 
-I use [Alfred](https://www.alfredapp.com/) and [Raycast](https://www.raycast.com/) as Spotlight replacements to quickly search for files and information in my system. While I have been using Alfred for years, I may switch to Raycast due to its additional features. For faster workflow, I rely on utility apps like [Dropzone](https://aptonic.com/) to move and copy files to different folders, [Maccy,](https://maccy.app/) as my clipboard manager, [Shottr](https://shottr.cc/) as my screenshot tool, and [Tot](https://tot.rocks/) is my very handy text companion. [Notion](https://www.notion.so/) is my tool of choice for project management, while [Obsidian](https://obsidian.md/) helps me manage my personal knowledge. I use [Arc](https://arc.net/), Firefox, and Safari as my web browsers and I read RSS feeds and newsletters with [NetNewsWire](https://netnewswire.com/). I prefer using [Cron](https://cron.com/) as my calendar and [Calendar 366](https://nspektor.com/en) to access it through the menu bar. I also use other utility apps on the menu bar, and [Bartender's](https://www.macbartender.com/) free version helps me keep them organized.
 
-These are only a few of the many applications I regularly use for work and personal use, and I find them to be instrumental in my productivity and efficiency.
+## Software: Writing
+- [Notion](https://www.notion.so/): For project management.
+- [Obsidian](https://obsidian.md/): For managing personal knowledge and writing.
 
-I understand that this is a long list of apps and software, but please note that I do not receive any compensation for mentioning them.
 
-**If you find my blog informative, engaging, helpful or whatever, you can show your support by [buying me a coffee](https://www.buymeacoffee.com/krabf) or making a donation via PayPal, Maya or GCash (email me for account info). Thank you for your consideration.**
+## Software: Development
+- [Visual Studio Code](https://code.visualstudio.com/): Code-editor of choice.
+- [Sublime Text](https://www.sublimetext.com/): For testing and drafting code.
+- [GitHub Desktop](https://desktop.github.com/): To interact better with GitHub through a GUI.
+- [iTerm](https://iterm2.com/): Terminal of choice.
+
+
+## Software: Photography & Design
+- [Capture One](https://www.captureone.com/en): For photo editing.
+- [Figma](https://www.figma.com/): For interface design. And light graphic design.
+
+
+## Software: Editing
+- [Adobe Creative Cloud](https://www.adobe.com/ph_en/creativecloud.html): Specifically Premiere Pro and After Effects for video editing.
+- [AppleScript Editor](https://support.apple.com/en-ph/guide/script-editor/welcome/mac): For automatically creating folders when new projects come in.
+- [Transmit](https://panic.com/transmit/): For transferring files between cloud services.
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve): For editing and color grading personal projects.
+- [Shutter Encoder](https://www.shutterencoder.com/): For converting and encoding videos and audio. And I believe it is more efficient than HandBrake.
+- [ScreenFlow](https://www.telestream.net/screenflow/): For creating tutorials, workflows, and walkthroughs.
+- [PluralEyes4](https://www.maxon.net/en/red-giant/pluraleyes): For seamless audio and video syncing.
+- [Keka](https://www.keka.io/) and [The Unarchiver](https://theunarchiver.com/): For file archiving/compression.
