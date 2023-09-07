@@ -17,38 +17,38 @@ If you're interested in knowing, here's what I'm up to right [now](/now)
 <hr>
 
 
-### Get in touch:
+### Get in touch:  
 <a rel="me" href="https://mastodon.social/@krabf">Mastodon</a>\
 <a href="https://www.threads.net/@krabf" rel="me">Threads</a>\
 <a href="http://instagram.com/krabf" rel="me">Instagram</a>\
 <a href="/index.xml" type="application/rss+xml">RSS</a>\
 [Proton Mail](mailto:krabf@protonmail.com)\
-Email me for Signal
+Email me for Signal  
+<br>
 
-
-# Colophon
+## Colophon
 This site is created with [Hugo](https://gohugo.io/), hosted in [Netlify](https://www.netlify.com/), and distributed globally via [Cloudflare](https://www.cloudflare.com/). Posts are written in HTML and Markdown. More info [here](/colophon).
 
 
 <hr>
 
 
-# Tools I Use
+### Tools I Use
 
 
 
 
-## Hardware: General
+#### Hardware: General
 - [16" MacBook Pro](https://support.apple.com/kb/SP858?locale=en_US): A powerhuse. Configured with Apple M1 Max, 64GB of unified memory and 4TB SSD.
 - [Apple Studio Display](https://www.apple.com/ph/studio-display/): As my monitor and I don't have any complaints.
 - [Keychron Q1 Knob QMK](https://www.keychron.com/products/keychron-q2-qmk-custom-mechanical-keyboard?variant=40218169147481): I slightly got into mechanical keyboards and I'm still thinking if I should have another hobby as an excuse for a TGR Jane.
 
 
-## Hardware: Audio
+#### Hardware: Audio
 - [ATHM40x](https://www.audio-technica.com/en-eu/ath-m40x): I love these headphones for editing.
 - [AirPods](https://www.apple.com/ph/shop/product/MV7N2ZA/A/airpods-with-charging-case): I still use the 2nd gen AirPods, handy when traveling but needs an upgrade.
 
-## Hardware: Camera
+#### Hardware: Camera
 -  [Leica M10-R](https://leica-camera.com/en-int/photography/cameras/m/m10-r-black/details): As my main body.
 - [Summilux 35mm f/1.4](https://leica-camera.com/en-int/photography/lenses/m/summilux-m-35mm-f1-4-asph-black) as my main lens (probably my only lens).
 - [Sony A7RII](https://electronics.sony.com/imaging/interchangeable-lens-cameras/full-frame/p/ilce7rm2-b): For video and sometimes photo. But currently using it as my webcam.
@@ -56,7 +56,7 @@ This site is created with [Hugo](https://gohugo.io/), hosted in [Netlify](https:
 - [Sony 16-50mm f/3.5-5.6 OSS](https://www.sony.com.ph/electronics/camera-lenses/selp1650): This was included with the A6000 as a kit. I use it at my webcam lens.
 - [Sony FE 24-240mm f/3.5-6.3 OSS](https://www.sony.com.ph/electronics/camera-lenses/sel24240): Great zoom lens that isn't too expensive and relatively light.
 
-## Hardware: Storage
+#### Hardware: Storage
 - [Samsung T7 1TB](https://www.samsung.com/us/computing/memory-storage/portable-solid-state-drives/portable-ssd-t7-usb-3-2-1tb--gray--mu-pc1t0t-am/): SSD for work and projects.
 - [WD Elements 14TB](https://www.westerndigital.com/en-ap/products/external-drives/wd-elements-desktop-usb-3-0-hdd#WDBBKG0140HBK-AESN): HDD for archiving.
 
@@ -64,7 +64,7 @@ This site is created with [Hugo](https://gohugo.io/), hosted in [Netlify](https:
 I use a lot of applications and software to increase my productivity both at work and in my personal life.
 
 
-## Software: General
+#### Software: General
 - [Things](https://culturedcode.com/): As a task manager.
 - [Cron](https://cron.com/): Main calendar.
 - [Calendar 366](https://nspektor.com/en): To access the calendar through the menu bar.
@@ -81,7 +81,7 @@ I use a lot of applications and software to increase my productivity both at wor
 - [Tot](https://tot.rocks/): My very handy text companion.
 
 
-## Software: Writing
+#### Software: Writing
 - [Notion](https://www.notion.so/): For project management.
 - [Obsidian](https://obsidian.md/): For managing personal knowledge and writing.
 
