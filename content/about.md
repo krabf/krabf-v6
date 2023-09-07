@@ -86,19 +86,19 @@ I use a lot of applications and software to increase my productivity both at wor
 - [Obsidian](https://obsidian.md/): For managing personal knowledge and writing.
 
 
-## Software: Development
+#### Software: Development
 - [Visual Studio Code](https://code.visualstudio.com/): Code-editor of choice.
 - [Sublime Text](https://www.sublimetext.com/): For testing and drafting code.
 - [GitHub Desktop](https://desktop.github.com/): To interact better with GitHub through a GUI.
 - [iTerm](https://iterm2.com/): Terminal of choice.
 
 
-## Software: Photography & Design
+#### Software: Photography & Design
 - [Capture One](https://www.captureone.com/en): For photo editing.
 - [Figma](https://www.figma.com/): For interface design. And light graphic design.
 
 
-## Software: Editing
+#### Software: Editing
 - [Adobe Creative Cloud](https://www.adobe.com/ph_en/creativecloud.html): Specifically Premiere Pro and After Effects for video editing.
 - [AppleScript Editor](https://support.apple.com/en-ph/guide/script-editor/welcome/mac): For automatically creating folders when new projects come in.
 - [Transmit](https://panic.com/transmit/): For transferring files between cloud services.
@@ -107,3 +107,8 @@ I use a lot of applications and software to increase my productivity both at wor
 - [ScreenFlow](https://www.telestream.net/screenflow/): For creating tutorials, workflows, and walkthroughs.
 - [PluralEyes4](https://www.maxon.net/en/red-giant/pluraleyes): For seamless audio and video syncing.
 - [Keka](https://www.keka.io/) and [The Unarchiver](https://theunarchiver.com/): For file archiving/compression.
+
+
+These are only a few of the many applications I regularly use for work and personal use, and I find them to be instrumental in my productivity and efficiency.
+
+I understand that this is a long list of apps and software, but please note that I do not receive any compensation for mentioning them. If you find my blog informative, engaging, helpful or whatever, you can show your support by [buying me a coffee](https://www.buymeacoffee.com/krabf) or making a donation via PayPal, Maya or GCash (message me for account info). Thank you for your consideration.
