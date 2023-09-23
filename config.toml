@@ -21,6 +21,7 @@ block = true
 [params]
   name = "Kushaiah Felisilda"
   image = "media/og.jpg"
+  description = "Kushaiah Felisilda’s personal website — films, filmmaking, technology, photography & more."
   
 
 [outputs]
