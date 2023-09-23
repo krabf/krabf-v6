@@ -2,9 +2,12 @@
 <html lang="en">
   <head>
 
+    {{ partial "header.html" . }}
+
     {{ with resources.Get "css/zoom.css" | minify }}
     <style>{{ .Content | safeCSS }}</style>
   {{end}}
+
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
@@ -14,7 +17,6 @@
       <title>{{ $.Site.Title }}</title>
     {{ end }}
 
-    
 
    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -23,9 +25,6 @@
    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#676767">
    <meta name="msapplication-TileColor" content="#ffffff">
    <meta name="theme-color" content="#ffffff">
-
-
-
 
     <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Kushaiah Felisilda" />
     <link rel="alternate" type="application/rss+xml" href="/blog/index.xml" title="Kushaiah Felisilda: Blog" />
@@ -36,10 +35,10 @@
     <link rel="webmention" href="https://webmention.io/user102101.com/webmention" />
     <link rel="pingback" href="https://webmention.io/user102101.com/xmlrpc" />
   -->
-
   <style>
     @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Serif:wght@300;400;500;600;700&display=swap');
   </style>
+
 
      {{ with resources.Get "css/reset.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
@@ -48,23 +47,9 @@
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
 
-    {{ block "meta" . }}
-      <meta property="og:title" content="{{ .Title }}" />
-      <meta property="og:type" content="website" />
-      <meta property="og:locale" content="en_US" />
-      <meta property="og:url" content="{{ .Permalink }}" />
-      <meta property="og:image" content="https://www.krabf.com/static/og.png" />
-      <meta property="og:description" content="Kushaiah Felisilda’s personal website — films, filmmaking, technology, photography & more.">
-  
-
-      <!-- Twitter Open Graph -->
-      
-      <meta name="twitter:card" content="summary_large_image"/>
-      <meta name="twitter:site" content="@krabf_"/>
-	    <meta name="twitter:title" content="{{ .Title }}"/>
-	    <meta name="twitter:description" content="Kushaiah Felisilda’s personal website — films, filmmaking, technology, photography & more.">
-  {{end}}
     </head>
+
+    
   <body>
     <header class="header">
       <div class="wrap">

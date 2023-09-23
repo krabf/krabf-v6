@@ -18,8 +18,10 @@ block = true
   tags = "/tags/:title"
   projects = ":slug"
 
-[author]
+[params]
   name = "Kushaiah Felisilda"
+  image = "media/og.jpg"
+  
 
 [outputs]
   home = ["HTML", "RSS"]
