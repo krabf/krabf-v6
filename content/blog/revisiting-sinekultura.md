@@ -19,15 +19,15 @@ We had this class until sophomore year, and if I remember correctly, we had to w
 
 I came across my old Tumblr page that I used as a way to keep track of the Sinekultura class. We would take pictures of the films we watched in the theater. Those memories flooded back and it hit me how much I truly treasure the experiences and knowledge I gained from that class. I admit, I wish I had valued it more back then.
 
-![Bicycle Thieves by Vittorio De Sica (1948)](/media/revisiting-sinekultura/sinekultura3.jpg "A scene from Bicycle Thieves by Vittorio De Sica")
+![Bicycle Thieves by Vittorio De Sica (1948)](/media/revisiting-sinekultura/sinekultura3.jpg "A scene from Bicycle Thieves by Vittorio De Sica (1948)")
 
-![Rope by Alfred Hitchcock (1948)](/media/revisiting-sinekultura/sinekultura4.jpg "A scene from Rope by Alfred Hitchcock")
+![Rope by Alfred Hitchcock (1948)](/media/revisiting-sinekultura/sinekultura4.jpg "A scene from Rope by Alfred Hitchcock (1948)")
 
 Looking back, I realize that the Sinekultura class gave us a special and valuable opportunity to really understand cinema and culture. It allowed us to explore different film genres, learn from experts in the field, and develop our own critical thinking skills through the essays we wrote. It was kinda like learning how to curate and be a curator for film organizations or film festivals. I remember how each week, we would have a theme or genre, and it was so much fun. I was always curious about what the next film would be and how it would make me feel and reflect on the previous one. The class was about understanding why these films were important in their time and how they still resonate with us today. It was about recognizing how cinema can challenge social norms, including how women are portrayed. The class let us explore different perspectives and opens up conversations about what matters most to us. It's like a window into different worlds, where we can learn, reflect, and grow. And hey, it's not just about watching movies, it's about connecting with the stories and ideas behind them.
 
 ![Screenwriting workshop](/media/revisiting-sinekultura/screenwriting-workshop.jpg "Screenwriting workshop")
 
-![Jay Lind on History of Horror Films](/media/revisiting-sinekultura/jay-lind-workshop.jpg "Screenwriting workshop")
+![Jay Lind on History of Horror Films](/media/revisiting-sinekultura/jay-lind-workshop.jpg "Jay Lind on History of Horror Films")
 
 Sinekultura wasn't just about watching movies and attending workshops, it was about really connecting with the stories and ideas behind them.
 
