@@ -19,9 +19,9 @@
       <h1>{{ .Title }}</h1>
       <p>
       {{ with .Params.link }}
-      ⌘ <a href="{{ . }}" class="markup-link">{{ (urls.Parse .).Host }}</a>
+      ⌘ <a href="{{ . }}" class="markup-link">{{ (urls.Parse .).Host }}</a> ∙ 
       {{ end }}
-      ∙ <time datetime="{{ .Date.Format "January 2, 2006" }}">
+      <time datetime="{{ .Date.Format "January 2, 2006" }}">
           {{ .Date.Format "January 2, 2006" }}
         </time>
         </p>
