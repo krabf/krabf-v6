@@ -5,6 +5,7 @@ slug = "burnout-2023"
 categories = ["blog", "personal"]
 keywords = ["burnout", "corporate"]
 summary = "Burnout, 2023 edition A.K.A my most burnout yet"
+image = "/media/burnout-2023.jpg"
 +++
 
 Ever met someone who's been burnt out from life and work? Nope, because she's been ignoring people for the past two months.
