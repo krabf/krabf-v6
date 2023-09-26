@@ -9,7 +9,7 @@ image = "/media/revisiting-sinekultura/revisiting-sinekultura.jpg"
 +++
 
 
-I feel like I didn't appreciate the Sinekultura class enough. It was a class where we watched films, both old and new, and that's all we did. We would just watch the films, and sometimes our professor would ask us to write essays about them. We even had workshops and invited professors from other film schools in Cebu or Manila.
+I feel like I didn't appreciate the Sinekultura class enough. It was a class where we watched films, both old and new, and that's all we did. We would just watch the films, and sometimes our professor would ask us to write essays about them. We even had workshops and talks and we invited professors and film scholars anywhere in the Philippines.
 
 Sinekultura: *Sine* means "cinema" and *kultura* means "culture" in Cebuano, which are two of my favorites, to be honest. I mean, I attended the class, but I wish I had taken it more seriously. [^1]
 
