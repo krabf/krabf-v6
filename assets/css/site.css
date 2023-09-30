@@ -423,6 +423,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 @media (min-width: 640px) {
   .cta {
     margin-top: 3rem;
+    text-decoration: #007AFC wavy underline;
   }
 }
 
@@ -506,27 +507,28 @@ lite-youtube.lyt-activated > .lty-playbtn {
 }
 
 .markup h1 {
+  font-size: 1.8rem;
   font-size: var(--font-extra-large);
   font-weight: 700;
   margin-bottom: 3rem;
 }
-
 .markup h2 {
+  font-size: 1.6rem;
   font-size: var(--font-large);
   font-weight: 700;
   margin-top: 2.625rem;
   margin-bottom: 1.5rem;
 }
-
 .markup h3 {
   font-weight: 700;
-  font-size: var(--font-medium);
-  letter-spacing: 0.05em;
+  font-size: 1.5rem;
   margin-top: 2.25rem;
 }
-
-.markup h2 + h3 {
-  margin-top: 1.5rem;
+.markup h4 {
+  font-weight: 700;
+  font-size: 1.2rem;
+  letter-spacing: 0.05em;
+  margin-top: 2.25rem;
 }
 
 .markup a:not(.link-subtle),
@@ -588,6 +590,12 @@ a:hover {
 .markup .link-list strong:hover { 
   color: #007AFC;
 }
+@media (max-width: 640px) {
+  .markup .link-list strong {
+    text-decoration: #007AFC wavy underline;
+  }
+}
+
 
 
 .markup img {
@@ -645,7 +653,6 @@ a:hover {
   padding: 0.75rem;
   margin: 0 -0.75rem;
   background-color: #eaebee;
-  border-radius: var(--border-radius);
 }
 
 @media (min-width: 640px) {
@@ -758,6 +765,7 @@ a:hover {
   gap: 0.3em;
   justify-content: center; /* Center the content horizontally within the footer */
   align-items: center; /* Center vertically if needed */
+  padding-top: 5rem;
   padding-bottom: 5rem;
 }
 

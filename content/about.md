@@ -8,7 +8,9 @@ Hi, my name is Kush (she/her) and I’m an independent filmmaker and video edito
 I’m currently working as a Live Action Video Editor at [fewStones](https://fewstones.com/), a Singapore-based video production company.
 Previously, I helped mental health companies and practitioners such as [Integrated Psychiatry Institute](https://psychiatryinstitute.com/) and [Performance Excellence & Recovery Consulting](https://www.trainwithperc.com) with video and content. I have been a Notion Ambassador since November 2020 and I create [Notion templates](https://krabf.gumroad.com) on the side and I hope Notioners find them very useful. You can visit my [work site](https://krabf.com/works) to view some of the stuff I’ve edited and produced.
 
-Outside of work, I am a self-proclaimed serial hobbyist. Recently, I've taken a great interest in brewing coffee at home. I put a lot of time and effort into writing coffee reviews, and I'm working on transferring those to this blog, so please be patient. I love photography as well, and I try to publish my photos online, though I am generally shy about doing this. On any given day, I watch one or two movies. I am fascinated by technology, especially ethical and useful technologies. The World Wide Web has always fascinated me. I enjoy tinkering with the Internet. And I spend most of my time these days thinking about the web—how it works, how it’s changing, and how we can make it a better place. I feel as though I grew up on the Internet, and that it has taught me a lot of what I know. Technology has often found ways to pull me into new hobbies like making websites. I’ve made lots of websites that I forgot most of them.
+Outside of work, I am a self-proclaimed serial hobbyist. Recently, I've taken a great interest in brewing coffee at home. I put a lot of time and effort into writing coffee reviews, and I'm working on transferring those to this blog, so please be patient. I love photography as well, and I try to publish my photos online, though I am generally shy about doing this. On any given day, I watch a film or two.
+
+I am fascinated by technology, especially ethical and useful technologies. The World Wide Web has always fascinated me. I enjoy tinkering with the Internet. And I spend most of my time these days thinking about the web—how it works, how it’s changing, and how we can make it a better place. I feel as though I grew up on the Internet, and that it has taught me a lot of what I know. Technology has often found ways to pull me into new hobbies like making websites. I’ve made lots of websites that I forgot most of them.
 
 
 If you're interested in knowing, here's what I'm up to right [now](/now)
@@ -22,20 +24,17 @@ If you're interested in knowing, here's what I'm up to right [now](/now)
 <a href="https://www.threads.net/@krabf" rel="me">Threads</a>\
 <a href="http://instagram.com/krabf" rel="me">Instagram</a>\
 <a href="/index.xml" type="application/rss+xml">RSS</a>\
-[Proton Mail](mailto:krabf@protonmail.com)\
-Email me for Signal  
+Email me for Signal and Proton Mail
 <br>
 
-## Colophon
-This site is created with [Hugo](https://gohugo.io/), hosted in [Netlify](https://www.netlify.com/), and distributed globally via [Cloudflare](https://www.cloudflare.com/). Posts are written in HTML and Markdown. More info [here](/colophon).
+### Colophon
+This site is created with [Hugo](https://gohugo.io/), hosted in [Netlify](https://www.netlify.com/), and distributed globally via [Cloudflare](https://www.cloudflare.com/). Posts are written in HTML and Markdown. All by tweaking and learning other people's work and watching YouTube videos and reading some blog posts/docs. I am actively working to increase the accessibility and usability of my website to everyone.
 
 
 <hr>
 
 
 ### Tools I Use
-
-
 
 
 #### Hardware: General
@@ -110,7 +109,6 @@ I use a lot of applications and software to increase my productivity both at wor
 
 <br>
 These are only a few of the many applications I regularly use for work and personal use, and I find them to be instrumental in my productivity and efficiency.
-
 <br>
-
+<br>
 I understand that this is a long list of apps and software, but please note that I do not receive any compensation for mentioning them. If you find my blog informative, engaging, helpful or whatever, you can show your support by [buying me a coffee](https://www.buymeacoffee.com/krabf) or making a donation via PayPal, Maya or GCash (message me for account info). Thank you for your consideration.
