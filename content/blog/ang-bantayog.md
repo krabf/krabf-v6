@@ -31,6 +31,6 @@ We must never forget so that we may never again suffer the same fate.
 
 Those who visit the website can light a candle once a day to reveal the name of a Martial Law victim.
 
-![A lit candle for Juan Balondo Mabahin, a Martial Law victim. ](/media/ang-bantayog/ang-bantayog-kandila.jpg "A lit candle for Juan Balondo Mabahin, a Martial Law victim.")
+![A lit candle for Juan Balondo Mabahin, a Martial Law victim](/media/ang-bantayog/ang-bantayog-kandila.jpg "A lit candle for Juan Balondo Mabahin, a Martial Law victim")
 
 ***Never forget, never again.***
