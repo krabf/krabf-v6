@@ -13,7 +13,7 @@ On September 23, 1972, the Philippines experienced a significant event when the 
 
 [*Ang Bantayog*](http://ang-bantayog.com/) (The Monument) is an internet art piece by Chia Amisola that showcases 11,103 candles symbolizing the names from the Human Rights Victims' Claims Board's Roll of Victims. The website reflects the struggle of collective memory since the imposition of martial law in the Philippines. It can be experienced in two ways: 'one' and 'whole,' altering how memories are shared.
 
-![*Ang Bantayog* homepage](/media/ang-bantayog/ang-bantayog-isa-buo.jpg "*Ang Bantayog* homepage")
+![*Ang Bantayog* homepage](/media/ang-bantayog/ang-bantayog-isa-buo.jpg "Ang Bantayog homepage")
 
 > Intentionally programmed & designed to keep ‘defaults’ in mind, the monument operates within the environmental constraints of its technologies. For instance, ‘localStorage’ is used to store the ‘names remembered’, a form of data storage without expiration that is usually only erased when the user’s (browser) history itself is cleared. The website itself is accessible by a temporary domain (e.g. an equivalent to acquiring ‘property’ on the web, in exchange for a human-readable address in the URL).
 
