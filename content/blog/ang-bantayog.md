@@ -9,7 +9,7 @@ summary: "An internet art piece that speaks to memorials, mourning, and memory a
 image: /media/ang-bantayog/ang-bantayog.jpg
 ---
 
-On September 23, 1972, the Philippines experienced a significant event when the dictator Ferdinand Marcos declared martial law. This decision granted Marcos immense authority and control over the nation, allowing him to exercise his power without limitations. The imposition of martial law marked a turning point in Philippine history, as it led to a period of repression, human rights violations, and political suppression. The digital landscape has played a role in the rise of Bongbong Marcos Jr., the son of the dictator, who now holds the position of the 17th president of the Philippines. The impact of this action reverberated throughout the country and left a lasting imprint on the collective memory of the Filipino people. 
+On September 23, 1972, the Philippines experienced a significant event when the dictator Ferdinand Marcos declared martial law. This decision granted Marcos immense authority and control over the nation, allowing him to exercise his power without limitations. The imposition of martial law marked a turning point in Philippine history, as it led to a period of repression, human rights violations, and political suppression. The digital landscape has played a role in the rise of Bongbong Marcos Jr., the son of the dictator, who now holds the position of the 17th president of the Philippines. The impact of this action reverberated throughout the country and left a lasting imprint on the collective memory of the Filipino people.
 
 [*Ang Bantayog*](http://ang-bantayog.com/) (The Monument) is an internet art piece by Chia Amisola that showcases 11,103 candles symbolizing the names from the Human Rights Victims' Claims Board's Roll of Victims. The website reflects the struggle of collective memory since the imposition of martial law in the Philippines. It can be experienced in two ways: 'one' and 'whole,' altering how memories are shared.
 
@@ -23,7 +23,7 @@ More about this on [Chia's blog](https://chias.blog/2023/the-monument/). And a Q
 
 It’s my first time to encounter such internet art and Chia Amisola has done an exceptional job of demonstrating respect for the victims of Martial Law. And in a way, the artwork serves as a powerful tribute to those affected by the oppressive regime.
 
-![*Ang Bantayog* Buo](/media/ang-bantayog/ang-bantayog-buo.jpg "*Ang Bantayog* Buo")
+![Ang Bantayog Buo](/media/ang-bantayog/ang-bantayog-buo.jpg "Ang Bantayog Buo")
 
 The idea of utilizing websites and the internet to create a networked experience for memorializing victims of Martial Law is truly remarkable. It demonstrates how the inherent functionalities of browsers and the internet can be harnessed to pay tribute to those affected by the oppressive regime. It reminds me of the enduring power of collective remembrance and the potential of technology to preserve and convey historical narratives. The concept of leveraging the inherent nature of browsers and the internet to facilitate this memorialization is both ingenious and impactful.
 
