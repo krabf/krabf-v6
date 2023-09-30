@@ -420,13 +420,6 @@ lite-youtube.lyt-activated > .lty-playbtn {
   font-size: 1rem;
 }
 
-@media (min-width: 640px) {
-  .cta {
-    margin-top: 3rem;
-    text-decoration: #007AFC wavy underline;
-  }
-}
-
 .cta a {
   position: relative;
   color: var(--link);
