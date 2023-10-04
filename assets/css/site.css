@@ -135,10 +135,13 @@ hr:after {
   margin: 1.5rem 0;
 }
 
-@media (min-width: 640px) {
-  hr {
-    margin: 3rem 0;
-  }
+hr.s1 {
+  border: none;
+  width: 50%;
+  text-align: center;
+  height: 2px;
+  background-color: #efefef;
+  margin: 0 auto; /* Center horizontally on all devices */
 }
 
 input[type="email"],
@@ -646,6 +649,15 @@ a:hover {
   padding: 0.75rem;
   margin: 0 -0.75rem;
   background-color: #eaebee;
+  border-radius: var(--border-radius);
+}
+
+.markup blockquote cite {
+  display: block;
+  margin-top: 1rem;
+  margin-bottom: -1rem;
+  font-size: var(--font-medium);
+  color: var(--text-light);
 }
 
 @media (min-width: 640px) {
@@ -656,13 +668,6 @@ a:hover {
   }
 }
 
-.markup blockquote cite {
-  display: block;
-  margin-top: 1rem;
-  margin-bottom: -1rem;
-  font-size: var(--font-medium);
-  color: var(--text-light);
-}
 
 .markup blockquote cite a {
   color: inherit;
@@ -745,20 +750,55 @@ a:hover {
 .footer {
   position: relative;
   display: block;
-  background: #111827;
   padding: 20px 0; /* Remove left and right padding, as they will be centered */
   color: var(--text-inverted); /* Text color for the footer */
   text-align: center; /* Center the content horizontally */
 }
 
+[aria-label] {
+  position: relative;
+}
+
+[aria-label]:after {
+  content: attr(aria-label);
+  display: none;
+  position: absolute;
+  top: 150%; /* Position at the top */
+  left: 50%; /* Center horizontally */
+  transform: translateX(-50%); /* Center horizontally */
+  z-index: 5000;
+  pointer-events: none;
+  padding: 8px 10px;
+  line-height: 1rem;
+  overflow: visible;
+  color: #fff;
+  background-color: #5e5f60b3;
+  border-radius: 0.3rem;
+  font-size: 0.8rem; /* Set font size to 0.5rem */
+  font-family: monospace; /* Use a monospace font */
+  font-weight: normal;
+}
+
+
+[aria-label]:hover:after, [aria-label]:focus:after {
+  display: block;
+}
+
+.kind {
+  /* Center the text horizontally */
+  text-align: center;
+  margin-bottom: 0.1rem; /* Adjust as needed */
+  font-size: 0.8rem;
+  color: var(--text-light)
+}
 
 .social-media {
   width: 100%;
   display: flex;
-  gap: 0.3em;
+  gap: 0.5em;
   justify-content: center; /* Center the content horizontally within the footer */
   align-items: center; /* Center vertically if needed */
-  padding-top: 5rem;
+  padding-top: 1rem;
   padding-bottom: 5rem;
 }
 
