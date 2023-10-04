@@ -4,7 +4,7 @@ title: About
 
 ![My face](/media/Kushaiah.jpg "Hello")
 
-Hi, my name is Kush (she/her) and I’m an independent filmmaker and video editor based in Cebu City, Philippines.
+Kamusta? My name is Kush (she/her) and I’m an independent filmmaker and video editor based in Cebu City, Philippines.
 I’m currently working as a Live Action Video Editor at [fewStones](https://fewstones.com/), a Singapore-based video production company.
 Previously, I helped mental health companies and practitioners such as [Integrated Psychiatry Institute](https://psychiatryinstitute.com/) and [Performance Excellence & Recovery Consulting](https://www.trainwithperc.com) with video and content. I have been a Notion Ambassador since November 2020 and I create [Notion templates](https://krabf.gumroad.com) on the side and I hope Notioners find them very useful. You can visit my [work site](https://krabf.com/works) to view some of the stuff I’ve edited and produced.
 
@@ -23,7 +23,7 @@ If you're interested in knowing, here's what I'm up to right [now](/now)
 <a rel="me" href="https://mastodon.social/@krabf">Mastodon</a>\
 <a href="https://www.threads.net/@krabf" rel="me">Threads</a>\
 <a href="http://instagram.com/krabf" rel="me">Instagram</a>\
-<a href="/index.xml" type="application/rss+xml">RSS</a>\
+<a href="/index.xml" type="application/rss+xml">RSS</a> ([*Help! What is a feed?*](https://aboutfeeds.com/))\
 Email me for Signal and Proton Mail
 <br>
 
