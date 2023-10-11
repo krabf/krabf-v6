@@ -801,6 +801,11 @@ a:hover {
   padding-top: 1rem;
   padding-bottom: 5rem;
 }
+@media (prefers-color-scheme: dark) {
+  .social-media {
+    fill: #A2A8B4;
+  }
+}
 
 /******************************************************************************\
  * Table of contents                                                          *
