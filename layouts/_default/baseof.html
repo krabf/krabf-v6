@@ -47,9 +47,7 @@
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
 
-    </head>
-
-
+  </head>
   <body>
     <header class="header">
       <div class="wrap">
@@ -74,7 +72,8 @@
             <ul>
               <li class="{{ cond (eq "coffee" $section) "active" "" }}">
                 <a href="/coffee">Coffee</a>
-              <li><a href="/index.xml">RSS</a></li>
+                <li class="{{ cond (eq "bookmarks" $section) "active" "" }}">
+              <li><a href="/bookmarks">Bookmarks</a></li>
             </ul>
           </nav>
         </div>
