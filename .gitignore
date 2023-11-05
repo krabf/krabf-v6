@@ -6,3 +6,4 @@ node_modules
 .hugo_build.lock
 static/.DS_Store
 static/.DS_Store
+static/.DS_Store
