@@ -40,7 +40,7 @@ The pricing for the 14-inch MacBook Pro with the M3 Pro chip starts at ₱129,99
 And in true Apple Online Store Philippines fashion, the product is currently unavailable for delivery.[^1]
 
 ![14-inch M3 MacBook Pro pricing from Apple Philippines](/media/new-apple-m3-chips/Apple-MacBook-Pro14-M3-Pricing.jpeg "14-inch M3 MacBook Pro pricing from Apple Philippines")
-![16-inch M3 MacBook Pro pricing from Apple Philippine](/media/new-apple-m3-chips/Apple-MacBook-Pro16-M3-Pricing.jpeg "16-inch M3 MacBook Pro pricing from Apple Philippine")
+![16-inch M3 MacBook Pro pricing from Apple Philippine](/media/new-apple-m3-chips/Apple-MacBook-Pro16-M3-Pricing.jpeg "16-inch M3 MacBook Pro pricing from Apple Philippines")
 
 For now, I plan to wait until I find a good reason to upgrade to an M3. I really wish software companies would be kinder to their products and optimize them, so we wouldn't feel the need to keep upgrading our hardware all the time.
 
