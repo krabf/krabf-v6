@@ -1,6 +1,6 @@
 +++
 date = 2023-10-31
-title = "Apple Scary Fast Event"
+title = "New M3 family of chips"
 slug = "new-apple-m3-chips"
 categories = ["apple", "MacBook", "technology"]
 keywords = ["Apple", "A17", "M3", "MacBook", "technology"]
