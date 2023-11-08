@@ -8,7 +8,7 @@ summary = "Apple's Shot on iPhone campaign and what it really means"
 image = "/media/shot-on-iphone.jpg"
 +++
 
-![Apple's "Shot on iPhone" frame at the end of their Scary Fast event](/media/shot-on-iphone/Apple-Shot-on-iPhone-15-Pro-Max.jpg "Apple's "Shot on iPhone" frame at the end of their Scary Fast event")
+![Shot on iPhone frame at the end of their Scary Fast event](/media/shot-on-iphone/Apple-Shot-on-iPhone.jpg "Shot on iPhone frame at the end of their Scary Fast event")
 
 Apple's "Shot on iPhone" frame unveiled at the end of their "Scary Fast" event my exceeded expectations. The integration of CGI was so sophisticated that it challenged my perception of what's achievable with the iPhone 15 Pro Max. It left me eager see the behind the scenes right away. Apple then promptly released the BTS of the keynote and the interviews, providing undeniable evidence of the iPhone 15’s remarkable versatility.
 
