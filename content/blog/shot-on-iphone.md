@@ -42,4 +42,4 @@ Remember, great films have already been made using smartphones. Take *Tangerine*
 
 
 
-[^1]: Funny Apple politely told them, “We wish you luck,” according to the producer.
+[^1]: Funny Apple politely told them, “We wish you luck” according to the producer.
