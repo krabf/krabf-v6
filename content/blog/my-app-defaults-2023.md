@@ -11,128 +11,75 @@ Inspired by [Kev Quirk’s post](https://kevquirk.com/my-default-apps-at-the-end
 
 I appreciate blogrolls that help discover personal blogs.
 
-- 📮 Mail Server
-	- Gmail
-	- iCloud
+
+📮 Mail Server: Gmail and iCloud
   
-- 📨 Mail Client
-	- [Spark Mail](https://sparkmailapp.com/)
+📨 Mail Client: [Spark Mail](https://sparkmailapp.com/)
   
-- ✅ To-Do
-	- [Things](https://culturedcode.com/things/?ref=krabf.com)
+✅ To-Do: [Things](https://culturedcode.com/things/?ref=krabf.com)
   
-- 📝 Notes
-	- Apple Notes
+📝 Notes: Apple Notes
   
-- 🖼️ Photo Management
-	- Apple Photos
-	- Google Photos (with backup to HDD)
+🖼️ Photo Management: Apple Photos and Google Photos (with backup to HDD)
   
-- 📆 Calendar
-	- [Cron](https://cron.com/)
-	- [Calendar 366](https://nspektor.com/en) (Menu bar access)
+📆 Calendar: [Cron](https://cron.com/) and [Calendar 366](https://nspektor.com/en) (menu bar access)
   
-- ☁️ Cloud File Storage
-	- iCloud
-	- Google Drive
-	- [Dropbox](https://www.dropbox.com/)
+☁️ Cloud File Storage: iCloud, Google Drive, and [Dropbox](https://www.dropbox.com/)
   
-- 📰 RSS
-	- [NetNewsWire](https://netnewswire.com/?ref=krabf.com)
+📰 RSS: [NetNewsWire](https://netnewswire.com/?ref=krabf.com)
   
-- 🤸🏼‍♂️ Contacts
-	- Apple Contacts (backed by iCloud)
+🤸🏼‍♂️ Contacts: Apple Contacts (backed by iCloud)
   
-- 🌐 Browser
-	- [Arc](https://arc.net/gift/2f9acd28)
-	- Firefox
+🌐 Browser: [Arc](https://arc.net/gift/2f9acd28) and Firefox
 
-- 💬 Chat
-	- iMessage
-	- FB Messenger (family)
-	- Instagram messages (friends)
-	- Signal (few friends)
+💬 Chat: iMessage, FB Messenger (family), Instagram messages (friends) and Signal (few friends)
 
-- 🔖 Bookmarks
-	- [Raindrop](https://raindrop.io/?ref=krabf.com)
+🔖 Bookmarks: [Raindrop](https://raindrop.io/?ref=krabf.com)
 
-- 📑 Read It Later
-	- [Omnivore](https://omnivore.app/?ref=krabf.com) (highlights integration to Obsidian is so good)
+📑 Read It Later: [Omnivore](https://omnivore.app/?ref=krabf.com) (highlights integration to Obsidian is so good)
 
-- 📃 Word Processing
-	- I'm trying out different apps. But might stick to [Obsidian](https://obsidian.md/?ref=krabf.com) or [iA Writer](https://ia.net/writer) because sync is a must
+📃 Word Processing: I'm trying out different apps. But might stick to [Obsidian](https://obsidian.md/?ref=krabf.com) or [iA Writer](https://ia.net/writer) because sync is a must
 
-- 📈 Spreadsheets
-	- Google Sheets
+📈 Spreadsheets: Google Sheets
 
-- 📊 Presentations (rarely create one)
-	- Google Slides
-	- Figma
+📊 Presentations: Google Slides and Figma
 
-- 🛒 Grocery
-	- Apple Notes (shared notes with my partner)
+🛒 Grocery: Apple Notes (shared notes with my partner)
 
-- 🍱 Meal Planning
-	- Apple Notes (shared notes with my partner)
-	- [Notion](https://www.notion.so/?ref=krabf.com) ( for recipes)
+🍱 Meal Planning: Apple Notes (shared notes with my partner) and [Notion](https://www.notion.so/?ref=krabf.com) ( for recipes)
 
-- 📽️ Movie Tracking
-	- [Letterboxd](https://letterboxd.com/)
+📽️ Movie Tracking: [Letterboxd](https://letterboxd.com/)
   
-- 💰 Personal Finance
-	- [WalletApp](https://budgetbakers.com/?ref=krabf.com)
+💰 Personal Finance: [WalletApp](https://budgetbakers.com/?ref=krabf.com)
 
-- News
-	- RSS
-	- Browsers
-	- YouTube
-	- Podcasts
+📰 News: RSS, YouTube and Podcasts
 
-- 🎶 Music
-	- [Spotify](https://www.spotify.com)
+🎶 Music: [Spotify](https://www.spotify.com)
 
-- 🎧 Podcast
-	- [Overcast](https://overcast.fm/)
+🎧 Podcast: [Overcast](https://overcast.fm/)
 
-- 🔐 Password Management
-	- [Bitwarden](https://bitwarden.com/)
-	- [OTP Auth](https://cooperrs.de/) (one time passwords)
+🔐 Password Management: [Bitwarden](https://bitwarden.com/) and [OTP Auth](https://cooperrs.de/) (one time passwords)
 
-- 🖥️ Screenshot
-	- [Shottr](https://shottr.cc/?ref=krabf.com)
+🖥️ Screenshot: [Shottr](https://shottr.cc/?ref=krabf.com)
 
-- 🤖 Code Editor
-	- [VSCode](https://code.visualstudio.com/)
-	- [Sublime](https://www.sublimetext.com/)
+🤖 Code Editor: [VSCode](https://code.visualstudio.com/) and [Sublime](https://www.sublimetext.com/)
 
-- ⌨️ Launcher
-	- [Raycast](https://www.raycast.com/?ref=krabf.com)
+⌨️ Launcher: [Raycast](https://www.raycast.com/?ref=krabf.com)
   
-- 🗄️ Project Management
-	- [Notion](https://www.notion.so/?ref=krabf.com)
+🗄️ Project Management: [Notion](https://www.notion.so/?ref=krabf.com)
   
-- 🗃️ Personal Knowledge Management
-	- [Obsidian](https://obsidian.md/)
+🗃️ Personal Knowledge Management: [Obsidian](https://obsidian.md/)
 
-- 🌤️ Weather
-	- [Hello Weather](https://helloweather.com/?ref=krabf.com)
-	- [Windy](https://www.windy.com) (This is the most reliable weather forecast, especially during typhoons. It helped me "save" my car during Typhoon Odette (Rai). My brother also recommended it.)
+🌤️ Weather: [Hello Weather](https://helloweather.com/?ref=krabf.com) and [Windy](https://www.windy.com) (This is the most reliable weather forecast, especially during typhoons. It helped me "save" my car during Typhoon Odette (Rai). My brother also recommended it.)
 
-- 🤳🏼 Social Media
-	- [Instagram](https://www.instagram.com/krabf/)
-	- [Mona](https://apps.apple.com/us/app/mona-for-mastodon/id1659154653) for [Mastodon](https//mastodon.social/@krabf)
+🤳🏼 Social Media: [Instagram](https://www.instagram.com/krabf/)and [Mona](https://apps.apple.com/us/app/mona-for-mastodon/id1659154653) for [Mastodon](https//mastodon.social/@krabf)
 
-- 🗺️ Maps
-	- Google Maps
-	- [Waze](https://www.waze.com/live-map/) (for driving directions)
+🗺️ Maps: Google Maps and [Waze](https://www.waze.com/live-map/) (for driving directions)
 
-- 🖌️ Photo Editor
-	- [Capture One](https://www.captureone.com/en)
-	- [Adobe Lightroom Classic](https://www.adobe.com/ph_en/products/photoshop-lightroom-classic.html)
+🖌️ Photo Editor: [Capture One](https://www.captureone.com/en)
+and [Adobe Lightroom Classic](https://www.adobe.com/ph_en/products/photoshop-lightroom-classic.html)
 
-- 📹 NLE
-	- [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
-	- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+📹 NLE: [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) and [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 
 I've included some apps that I use every day. While I attempt to use Apple's default apps, there are certain third-party apps that offer superior functionality.
 
