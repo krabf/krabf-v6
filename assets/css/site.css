@@ -9,8 +9,8 @@
   --link: #1d4ed8;
   --button: var(--text);
 
-  --font-small:  0.65rem;
-  --font-medium:  0.75rem;
+  --font-small:  0.75rem;
+  --font-medium:  0.9rem;
   --font-large: 1.25rem;
   --font-extra-large: 1.85rem;
 
@@ -100,7 +100,10 @@ body {
   line-height: 1.5;
   font-family: 'IBM Plex Mono', monospace;
   font-family: 'IBM Plex Serif', serif;
-  font-size: 1.15rem;
+  font-size: .9rem;
+  -moz-hyphens: auto;
+  hyphens: auto;
+  -webkit-hyphenate-character: "-";
 }
 
 /******************************************************************************\
@@ -637,7 +640,7 @@ a:hover {
 .markup ol {
   list-style-type: decimal;
   padding-left: 1.33em;
-  font-size: .8rem;
+  font-size: 0.65rem;
   font-family: 'IBM Plex Mono', monospace;
 }
 
