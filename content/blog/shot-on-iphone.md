@@ -10,7 +10,7 @@ image = "/media/shot-on-iphone.jpg"
 
 ![Shot on iPhone frame at the end of their Scary Fast event](/media/shot-on-iphone/Apple-Shot-on-iPhone.jpg "Shot on iPhone frame at the end of their Scary Fast event")
 
-Apple's "Shot on iPhone" frame unveiled at the end of their "Scary Fast" event my exceeded expectations. The integration of CGI was so sophisticated that it challenged my perception of what's achievable with the iPhone 15 Pro Max. It left me eager see the behind the scenes right away. Apple then promptly released the BTS of the keynote and the interviews, providing undeniable evidence of the iPhone 15’s remarkable versatility.
+Apple's "Shot on iPhone" frame unveiled at the end of their "Scary Fast" event exceeded my expectations. The integration of CGI was so sophisticated that it challenged my perception of what's achievable with the iPhone 15 Pro Max. It left me eager see the behind the scenes right away. Apple then promptly released the BTS of the keynote and the interviews, providing undeniable evidence of the iPhone 15’s remarkable versatility.
 
 <lite-youtube videoid="Way9Dexny3w" style="background-image: url(&quot;https://i.ytimg.com/vi/V3dbG9pAi8I/hqdefault.jpg&quot;);" class="lyt-activated"><button type="button" class="lty-playbtn"><span class="lyt-visually-hidden">Play</span></button><iframe width="560" height="315" title="Play" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube-nocookie.com/embed/V3dbG9pAi8I?autoplay"></iframe></lite-youtube>
 
