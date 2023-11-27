@@ -7,7 +7,9 @@ keywords = ["default apps", "Kev Quirk", "Rob Knight", "Hemispheric Views"]
 summary = "Default apps I use on my Mac this 2023"
 +++
 
-Inspired by [Kev Quirk’s post](https://kevquirk.com/my-default-apps-at-the-end-of-2023/?ref=krabf.com), I decided to share my list of default apps. This idea stemmed from [episode #097](https://listen.hemisphericviews.com/097/?ref=krabf.com) of _[Hemispheric Views](https://hemisphericviews.com/?ref=krabf.com)_, where [Andrew Canion](https://andrewcanion.com/?ref=krabf.com) hosted a 'Duel of the Defaults' with [Jason Burk](https://grepjason.sh/?ref=krabf.com) and [Martin "Mr. Default" Feld](https://loungeruminator.net/?ref=krabf.com) to see who was the most default Mac user. In other words, who used the most default Apple apps and services on their Mac. [Robb Knight](https://rknight.me/?ref=krabf.com) has even compiled a [list of blog posts](https://defaults.rknight.me/?ref=krabf.com) with people’s default apps.
+Inspired by [Kev Quirk’s post](https://kevquirk.com/my-default-apps-at-the-end-of-2023), I decided to share my list of default apps. This idea stemmed from [episode #097](https://listen.hemisphericviews.com/097/?ref=krabf.com) of _[Hemispheric Views](https://hemisphericviews.com/?ref=krabf.com)_, where [Andrew Canion](https://andrewcanion.com/?ref=krabf.com) hosted a 'Duel of the Defaults' with [Jason Burk](https://grepjason.sh/?ref=krabf.com) and [Martin "Mr. Default" Feld](https://loungeruminator.net/?ref=krabf.com) to see who was the most default Mac user. In other words, who used the most default Apple apps and services on their Mac.
+
+[Robb Knight](https://rknight.me/?ref=krabf.com) has even compiled a [list of blog posts](https://defaults.rknight.me/?ref=krabf.com) with people’s default apps.
 
 I appreciate blogrolls that help discover personal blogs.
 
@@ -70,11 +72,11 @@ I appreciate blogrolls that help discover personal blogs.
   
 🗃️ Personal Knowledge Management: [Obsidian](https://obsidian.md/)
 
-🌤️ Weather: [Hello Weather](https://helloweather.com/?ref=krabf.com) and [Windy](https://www.windy.com) (This is the most reliable weather forecast, especially during typhoons. It helped me "save" my car during Typhoon Odette (Rai). My brother also recommended it.)
+🌤️ Weather: [Hello Weather](https://helloweather.com/?ref=krabf.com) and [Windy](https://www.windy.com) (Windy is the most reliable weather forecast, especially during typhoons. It helped me "save" my car during Typhoon Odette (Rai). My brother also recommended it.)
 
-🤳🏼 Social Media: [Instagram](https://www.instagram.com/krabf/)and [Mona](https://apps.apple.com/us/app/mona-for-mastodon/id1659154653) for [Mastodon](https//mastodon.social/@krabf)
+🤳🏼 Social Media: [Instagram](https://www.instagram.com/krabf/) and [Mona](https://apps.apple.com/us/app/mona-for-mastodon/id1659154653) for [Mastodon](https//mastodon.social/@krabf)
 
-🗺️ Maps: Google Maps and [Waze](https://www.waze.com/live-map/) (for driving directions)
+🗺️ Maps: Google Maps and [Waze](https://www.waze.com/live-map/) for driving directions
 
 🖌️ Photo Editor: [Capture One](https://www.captureone.com/en)
 and [Adobe Lightroom Classic](https://www.adobe.com/ph_en/products/photoshop-lightroom-classic.html)
@@ -84,3 +86,8 @@ and [Adobe Lightroom Classic](https://www.adobe.com/ph_en/products/photoshop-lig
 I've included some apps that I use every day. While I attempt to use Apple's default apps, there are certain third-party apps that offer superior functionality.
 
 Check [here](https://krabf.com/about/#:~:text=website%20to%20everyone.-,tools%20i%20use,-Hardware%3A%20General) to see more detailed information about the apps and software I use.
+
+### Other people's defaults
+- [App Defaults (2023 Edition) - Jack Baty](https://baty.net/2023/11/app-defaults-2023-edition/)
+- [App Defaults - Manuel Moreale](https://manuelmoreale.com/app-defaults)
+- [App Defaults - Luke Harris](https://www.lkhrs.com/blog/2023/defaults/)
