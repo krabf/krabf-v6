@@ -17,7 +17,6 @@ It was a surprisingly peculiar experience for me, to say the least. It was my fi
 
 Spotting the entrance from afar, it had a familiar, cozy feel, much like a small house combined with a coffee shop. It had that weathered charm carrying the weight of stories and was discreetly tucked away. The minute I stepped into the place for the first time, I was greeted by a sticker of [Garapata](https://www.instagram.com/garapata_), a popular character created by [Dex Fernandez](https://dexfernandez.blogspot.com/?ref=krabf.com). The place was adorned with artworks hanging on the walls, shelves full of books and sculptures, and event posters. The place felt worn and warm, a result of the relentless tropical heat, even the bustling fans seemed to merely stir the air. Yet the moment we found a table and settled in, there was this inviting atmosphere that filled the place. Engaging in conversation with newfound friends made the heat bearable, creating a truly unique and welcoming vibe.
 
-<br>
 <div class="container">
   <div class="twocol">
     <figure class="sbs">
@@ -29,7 +28,6 @@ Spotting the entrance from afar, it had a familiar, cozy feel, much like a small
 <figcaption>Kukuk's legendary interior and gorgeous flooring</figcaption>
 </div>
 </div>
-<br>
 
 Kukuk's Nest, affectionally known as Turtle's, was more than a venue, it was a living, breathing platform for artistic expression. It hosted an array of events, encouraging both established artists and enthusiastic novices to showcase their creativity. Its walls were a canvas for exhibits, and its open area became theaters for film screenings and transformed into stages for a wide range of performances. This atmosphere of openness and creativity made it a beacon for artists of any kind.
 
