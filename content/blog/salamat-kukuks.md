@@ -13,15 +13,23 @@ When I was a Political Science student in 2014, I had this strange longing to fi
 
 It was a surprisingly peculiar experience for me, to say the least. It was my first time attending an art exhibit, and there were all sorts of strange and quirky performance art pieces that made me question if they could even be considered art (I know, I’m sorry, my dear artist friends.) Anyway, my friend extended their invitation to join them for a few celebratory beers at their favorite spot, Turtle’s.
 
-Spotting the entrance from afar, it had a familiar, cozy feel, much like a small house combined with a coffee shop. It had that weathered charm carrying the weight of stories and was discreetly tucked away. The minute I stepped into the place for the first time, I was greeted by a sticker of [Garapata](https://www.instagram.com/garapata_), a popular character created by [Dex Fernandez](https://dexfernandez.blogspot.com/?ref=krabf.com). The place was adorned with artworks hanging on the walls, shelves full of books and sculptures, and event posters. The place felt worn and warm, a result of the relentless tropical heat, even the bustling fans seemed to merely stir the air. Yet the moment we found a table and settled in, there was this inviting atmosphere that filled the place. Engaging in conversation with newfound friends made the heat bearable, creating a truly unique and welcoming vibe.
-
 ![Garapata with other stickers on the entryway](/media/salamat-kukuks/kukuks-garapata.jpg "Garapata with other stickers on the entryway")
 
-![My first time in Kukuk's, also the first photo I took there](/media/salamat-kukuks/kukuks-first-visit.jpg "My first time in Kukuk's, also the first photo I took there")
+Spotting the entrance from afar, it had a familiar, cozy feel, much like a small house combined with a coffee shop. It had that weathered charm carrying the weight of stories and was discreetly tucked away. The minute I stepped into the place for the first time, I was greeted by a sticker of [Garapata](https://www.instagram.com/garapata_), a popular character created by [Dex Fernandez](https://dexfernandez.blogspot.com/?ref=krabf.com). The place was adorned with artworks hanging on the walls, shelves full of books and sculptures, and event posters. The place felt worn and warm, a result of the relentless tropical heat, even the bustling fans seemed to merely stir the air. Yet the moment we found a table and settled in, there was this inviting atmosphere that filled the place. Engaging in conversation with newfound friends made the heat bearable, creating a truly unique and welcoming vibe.
 
-![Kukuk's legendary interior and gorgeous flooring](/media/salamat-kukuks/kukuks-interior.jpg "Kukuk's legendary interior and gorgeous flooring")
-
-![Cat sleeping on the table for for sale items at a Garage sale](/media/salamat-kukuks/kukuks-garage-sale.jpg "#CatsWithJobs, #WarehouseCat; Garage Sale. April 27, 2019")
+<br>
+<div class="container">
+  <div class="twocol">
+    <figure class="sbs">
+<img src="/media/salamat-kukuks/kukuks-first-visit.jpg" alt="My first time in Kukuk's, also the first photo I took there" data-action="zoom">
+<figcaption>My first time in Kukuk's, also the first photo I took there</figcaption>
+</figure>
+  <figure class="sbs">
+<img src="/media/salamat-kukuks/kukuks-interior.jpg" alt="Kukuk's legendary interior and gorgeous flooring" data-action="zoom">
+<figcaption>Kukuk's legendary interior and gorgeous flooring</figcaption>
+</div>
+</div>
+<br>
 
 Kukuk's Nest, affectionally known as Turtle's, was more than a venue, it was a living, breathing platform for artistic expression. It hosted an array of events, encouraging both established artists and enthusiastic novices to showcase their creativity. Its walls were a canvas for exhibits, and its open area became theaters for film screenings and transformed into stages for a wide range of performances. This atmosphere of openness and creativity made it a beacon for artists of any kind.
 
@@ -40,6 +48,8 @@ Friendships began spontaneously in the dimly lit corners of the place, and even 
 Back when I had all the energy in the world, Kukuk's was my go-to place. I would drop by, sometimes still in my school uniform, just to unwind. Kukuk's was my sanctuary on tough days. I really found comfort there. I could vent about my personal frustrations, school stress, or political views with a friendly stranger, and always end up having a meaningful conversation.
 
 Over the years, I've had the pleasure of witnessing a multitude of art exhibits, music gigs, and performance art pieces. Each one is a unique spectacle in its own right, offering a new perspective or a fresh take on self-expression. My very first encounter with an art exhibit was merely the starting point of my journey into the riveting world of art. It feels like a lifetime ago, yet it's a memory that I hold dear. That first experience was like opening a door to a whole new universe filled with creativity, passion, and brilliant minds. It was a bit overwhelming at first, trying to understand the different forms of art and the messages they conveyed.
+
+![Cat sleeping on the table for for sale items at a Garage sale](/media/salamat-kukuks/kukuks-garage-sale.jpg "#CatsWithJobs, #WarehouseCat; Garage Sale. April 27, 2019")
 
 Notably, my visits to Kukuk's played a pivotal role in steering my academic journey towards Fine Arts (Cinema). With each exhibit, I began to appreciate the diversity of artistic expression. Kukuk’s had its own vibrant culture of art and community. Every artist, gig, and performance I've seen since then has enhanced my understanding of art, constantly reshaping and expanding my perspective of what art can be. This includes even the most chaotically creative pieces.
 
