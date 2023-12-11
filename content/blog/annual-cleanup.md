@@ -25,6 +25,6 @@ I swear by the [Johnny Decimal System](https://johnnydecimal.com/?ref=krabf.com)
 Here's to a tidier and more organized living space in 2024!
 
 
-[^1]: I can already feel my exhaustion from socializing setting in.
+[^1]: I'm already starting to feel a bit worn out from all the socializing I’ll be doing.
 [^2]: My partner asked me why I love my coffee boxes so much. It's not merely about the box's aesthetics or its thoughtful design like the robust packaging of my [carafes](<https://en.wikipedia.org/wiki/Carafe#:~:text=A%20carafe%20(%2Fk%C9%99%CB%88,as%20carafes%20in%20American%20English.>) to prevent damage during transit — but about what's inside that brings me joy. Brewing coffee at home has been a lifesaver during the pandemic and has added excitement to my daily routine.
 [^3]: I am tired already just thinking about the photos I have.
