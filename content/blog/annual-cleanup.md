@@ -20,7 +20,9 @@ While we embrace minimalism, I personally own a significant amount of tech equip
 
 I'm close to finishing the revamp of my digital files. My Google Drive files are now well-organized. I've also completed re-structuring my Obsidian vault, but I still lack a proper structure for my PKM system. The upcoming task involves sorting through my Raindrop bookmarks, which are estimated to contain ~3,000 links. This volume is due to my previous habit of indiscriminately saving everything there, including importing bookmarks from Chrome and Firefox. The final task for this year’s digital overhaul is to organize my Notion database, which will be quite a challenge considering it has ~10,000 pages. I'm continuing to use the JD System in conjunction with my personalized version of the [PARA Method](https://fortelabs.com/blog/para/?ref=krabf.com). Next year, I intend to address the content on my five hard drives, yes, FIVE.[^3]
 
-I swear by the [Johnny Decimal System](https://johnnydecimal.com/?ref=krabf.com). It took me a considerable amount of time to figure out how to implement this system effectively. I first learned about it early this year, and now, at the end of the year, I've finally managed to create an organizational system that works for me.
+![Obsidian vault in open graph view](/media/annual-cleanup/obsidian-vault-2023.png "My humble Obsidian Vault using the Johnny Decimal system")
+
+I swear by the [Johnny Decimal system](https://johnnydecimal.com/?ref=krabf.com). It took me a considerable amount of time to figure out how to implement this system effectively. I first learned about it early this year, and now, at the end of the year, I've finally managed to create an organizational system that works for me.
 
 Here's to a tidier and more organized living space in 2024!
 
