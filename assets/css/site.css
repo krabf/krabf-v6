@@ -777,42 +777,21 @@ a:hover {
   background-color: var(--highlight);
 }
 
-/* Your original styles for .markup code */
 .markup code {
-  color: #fff;
-  background-color: #3574e0;
-  font-family: 'IBM Plex Mono', monospace;
-}
-
-.markup pre {
-  background-color: var(--button);
-  color: var(--text-inverted);
-  display: block;
-  font-size: 0.9em;
-  margin: 0 -0.75rem;
-  overflow-x: auto;
-  padding: 0.75rem;
-}
-
-/* Additional styles for .highlight pre and pre */
-.highlight pre,
-pre {
-  background-color: #f8f8f8;
-  border: 1px solid #cccccc;
-  font-size: 13px;
-  line-height: 19px;
-  overflow: auto;
-  padding: 6px 10px;
-  border-radius: 3px;
-}
-
-/* Additional styles for pre code and pre tt */
-pre code,
-pre tt {
-  background-color: transparent;
+  color:#000;
+  background-color: none;
   border: none;
+  font-family:ibm plex mono,monospace
 }
-
+.markup pre {
+  bbackground-color:#f8f8f8;
+  border:1px solid #ccc;
+  font-size:13px;
+  line-height:19px;
+  overflow:auto;
+  padding:6px 10px;
+  border-radius:3px
+}
 
 @media (min-width: 640px) {
   .markup pre {
