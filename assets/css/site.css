@@ -777,6 +777,7 @@ a:hover {
   background-color: var(--highlight);
 }
 
+/* Your original styles for .markup code */
 .markup code {
   color: #fff;
   background-color: #3574e0;
@@ -792,6 +793,26 @@ a:hover {
   overflow-x: auto;
   padding: 0.75rem;
 }
+
+/* Additional styles for .highlight pre and pre */
+.highlight pre,
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+/* Additional styles for pre code and pre tt */
+pre code,
+pre tt {
+  background-color: transparent;
+  border: none;
+}
+
 
 @media (min-width: 640px) {
   .markup pre {
