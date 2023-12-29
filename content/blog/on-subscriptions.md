@@ -11,7 +11,7 @@ I've been reading others' subscription posts and I am taken aback by the conside
 
 ### Cloud storage:
 
-- Google Drive (200 GB) (₱1,659.50/year)- I keep my images and files here, allowing me to access them from multiple devices. This includes important documents such as my vaccine records, passport, and birth certificate. Google Drive is also useful for freelance work and general file sharing, as it is a widely used platform in the Philippines.
+- Google Drive (200 GB) (₱1,659.50/year) - I keep my images and files here, allowing me to access them from multiple devices. This includes important documents such as my vaccine records, passport, and birth certificate. Google Drive is also useful for freelance work and general file sharing, as it is a widely used platform in the Philippines.
 
 - iCloud (50 GB) (₱54.84/month) - My partner and I are contemplating the use of iCloud storage to cut down our cloud storage costs. We both currently pay separately for Google One, so an iCloud Family Sharing plan with 50GB appears to be a more reasonable option at the moment.
 
