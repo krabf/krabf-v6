@@ -116,7 +116,7 @@ figure a { box-shadow: none; }
 figure a:hover { box-shadow: none; }
 figcaption a, figcaption a:hover { box-shadow: inset 0 -1px 0 #007AFC; box-shadow: none; }
 
-em { font-style: italic; }
+em { font-family: 'Newsreader', serif; font-style: italic; }
 
 ::selection {
   background: #ffff66;
@@ -622,6 +622,7 @@ a:hover {
 
 .markup em {
   font-style: italic;
+  font-family: 'Newsreader', serif;
 }
 
 .markup em code {
