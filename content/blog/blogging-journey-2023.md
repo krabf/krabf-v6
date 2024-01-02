@@ -8,7 +8,7 @@ summary = "Learning and growing through personal blogging"
 image = "/media/blogging-journey-2023.jpg"
 +++
 
-> *Happy New Year! Although 2023 felt like an eternity, here's hoping that 2024 brings you joy, success, and endless possibilities. Let's welcome the new beginnings with optimism and hope. I'm grateful to have checked off a few of my personal goals this past year. Let's embrace the new beginnings with optimism and hope.*
+> *Happy New Year! Although 2023 felt like an eternity, here's hoping that 2024 brings you joy, success, and endless possibilities. I'm grateful to have checked off a few of my personal goals this past year. Let's welcome the new beginnings with optimism and hope.*
 
 Given the current [enshittification in quality of social media platforms](https://kottke.org/23/01/the-enshittification-lifecycle-of-online-platforms), many are reviving personal blogs. This is a nostalgic attempt to regain control over content and platforms. 2023 truly became the [year of personal websites](https://matthiasott.com/notes/the-year-of-the-personal-website), marked by an influx in new [webrings and blogrolls](https://krabf.com/webrings-and-blogrolls/). These brought back the essence of authentic connection, content ownership, and helped rebuild genuine online communities.
 
