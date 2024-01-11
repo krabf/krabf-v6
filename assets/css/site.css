@@ -44,8 +44,7 @@
      -moz-osx-font-smoothing: grayscale;
   }
    html:not(.light) ::selection {
-     background: #00f;
-     background: #fff;
+     background: #ff6;
      color: #333;
   }
    html:not(.light) a {
@@ -66,6 +65,13 @@
   }
    html:not(.light) a:hover {
      color: #fff;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not(.light) .markup blockquote {
+    background-color: #808080;
+    color: #fff;
   }
 }
 
