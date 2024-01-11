@@ -181,21 +181,19 @@ input[type="submit"] {
  * Layout                                                                     *
 \******************************************************************************/
 
-.wrap {
-  margin: 0 auto;
-  max-width: 36rem;
-  width: 100%;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
+wrap {
+  margin:0 auto;
+  max-width:40rem;
+  width:100%;
+  padding-left:1.25rem;
+  padding-right:1.25rem
 }
-
-@media (min-width: 640px) {
+@media(min-width:640px) {
   .wrap {
-    padding-left: 3rem;
-    padding-right: 3rem;
+    padding-left:3rem;
+    padding-right:3rem
   }
 }
-
 .header {
   font-size: 1rem;
   color: var(--text-light);
@@ -207,7 +205,7 @@ input[type="submit"] {
 
 .header-grid {
   display: grid;
-  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr; 
   gap: 0.75rem;
 }
 
@@ -223,9 +221,13 @@ input[type="submit"] {
 }
 
 @media (min-width: 640px) {
+  .header-grid {
+    grid-template-columns: 3fr 1fr 1fr 1fr; 
+  }
+
   .header strong {
     grid-column: 1 / 2;
-    font-size: 18px;
+    font-size: 1rem;
   }
 }
 
