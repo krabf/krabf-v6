@@ -1,6 +1,6 @@
 {{ define "main" }}
   <ul class="archive">
-    {{ range ((where $.Site.RegularPages "Section" "bookmarks").GroupByDate "January 2006") }}
+    {{ range ((where $.Site.RegularPages "Section" "links").GroupByDate "January 2006") }}
         <p class="coffee-date">{{ .Key }}</p>
         <p style="font-size:14px;">{{ .Date | time.Format ":date_long" }}</p>
         <p>{{ .Key }}</p>

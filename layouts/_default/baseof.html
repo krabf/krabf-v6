@@ -72,10 +72,18 @@
           </nav>
           <nav>
             <ul>
-              <li class="{{ cond (eq "coffee" $section) "active" "" }}">
-                <a href="/coffee">Coffee</a>
-                <li class="{{ cond (eq "bookmarks" $section) "active" "" }}">
-              <li><a href="/bookmarks">Bookmarks</a></li>
+              <li class="{{ cond (eq "weeknotes" $section) "active" "" }}">
+                <a href="/weeknotes">Weeknotes</a>
+                <li class="{{ cond (eq "coffee" $section) "active" "" }}">
+              <li><a href="/coffee">Coffee</a></li>
+            </ul>
+          </nav>
+          <nav>
+            <ul>
+              <li class="{{ cond (eq "links" $section) "active" "" }}">
+                <a href="/links">Links</a>
+                <li class="{{ cond (eq "photos" $section) "active" "" }}">
+              <li><a href="/photos">Photos</a></li>
             </ul>
           </nav>
         </div>
