@@ -1,7 +1,7 @@
 +++
 date = 2024-01-07
-title = "WEEKNOTE 01"
-slug = "weeknote01"
+title = "WEEKNOTES 01"
+slug = "weeknotes01"
 categories = ["personal", "weeknotes"]
 keywords = ["Metro Manila Film Festival", "Mallari", "Sinulog", "Craig Mod", "Kevin Kelly", "Anybox", "Numeric Citizen"]
 week = "2024-W01 - 1 to 7 January"
