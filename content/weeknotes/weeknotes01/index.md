@@ -28,7 +28,7 @@ The *manananggal* scene made the entire film ridiculous. The first few jump scar
 
 We returned home to the province last month a little earlier than usual because transportation is chaotic during the holidays. We got our own room for the ship accommodation because we had Nooning with us, and we wanted her to relax during the trip. We just love spoiling her.
 
-![View from the ship deck](/weeknotes/weeknote01/20240104-ship-deck.jpg "View from the ship deck while waiting for our turn to maneuver the car and exit (iOS night mode on the iPhone 12 Pro is bad)")
+![View from the ship deck](/weeknotes/weeknotes01/20240104-ship-deck.jpg "View from the ship deck while waiting for our turn to maneuver the car and exit (iOS night mode on the iPhone 12 Pro is bad)")
 
 So we're back in the city after the holidays and it's already [Sinulog](https://en.wikipedia.org/wiki/Sinulog) everywhere. Pit Señor!
 
@@ -57,7 +57,7 @@ Wes Anderson co-curates the new film club [Galerie](https://www.galerie.com/) wi
 Eyeing on [Anybox](https://anybox.app/), a new bookmark manager. Thinking about [this](https://numericcitizen.me/when-war-in-ukraine-influences-my-application-choices/) blog post from Numeric Citizen.
 
 <div align="center">
-   <a href="https://www.last.fm/music/The+Kooks/Inside+In+Inside+Out"><img src="/weeknotes/weeknote01/the-kooks-inside-in-inside-out.webp" alt="The Kooks Inside In / Inside Out" width="350">
+   <a href="https://www.last.fm/music/The+Kooks/Inside+In+Inside+Out"><img src="/weeknotes/weeknotes01/the-kooks-inside-in-inside-out.webp" alt="The Kooks Inside In / Inside Out" width="350">
 </a>
 <figcaption>The Kooks Inside In / Inside Out is a great album to get you pumped up before you start working.</figcaption>
 </figure>
