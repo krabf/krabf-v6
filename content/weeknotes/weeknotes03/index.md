@@ -41,10 +41,11 @@ I’m not buying the Apple Vision Pro but I do like their ad for their upcoming 
 
 <lite-youtube videoid="aqTIB_q40bo" style="background-image: url(&quot;https://i.ytimg.com/vi/aqTIB_q40bo/hqdefault.jpg&quot;);" class="lyt-activated"><button type="button" class="lty-playbtn"><span class="lyt-visually-hidden">Play</span></button><iframe width="560" height="315" title="Play" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube-nocookie.com/embed/aqTIB_q40bo?autoplay"></iframe></lite-youtube>
 
+MYMP holds a special place in my heart as they were my first concert experience. They were absolutely amazing, but I'm not sure what they're up to these days. I only know that they were cancelled because of their political stances, lol.
 
 <div align="center">
    <a href="https://www.last.fm/music/MYMP/_/Tell+Me+Where+It+Hurts"><img src="/weeknotes/weeknotes03/mymp-beyond-acoustic.jpg" alt="The Kooks Inside In / Inside Out" width="350">
 </a>
-<figcaption>MYMP holds a special place in my heart as they were my first concert experience. They were absolutely amazing, but I'm not sure what they're up to these days.I only know that they were cancelled because of their political stances, lol. But their music from 2005 - 2008 was really good.</figcaption>
+<figcaption>Their music from 2005 - 2008 was really good.</figcaption>
 </figure>
 </div>
