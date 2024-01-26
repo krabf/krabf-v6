@@ -33,4 +33,8 @@ Just the thought of the foods I should avoid was painful because I absolutely lo
 
 I don’t know how to feel about all this. It's definitely a challenge, but I'm up for it. After all, life is full of twists and turns, and this is just another chapter in my journey towards better health.
 
-![Polaroid of me post-surgery](/blog/2024-01-26-what-was-i-made-for/post-surgery-sit.jpg "First time sitting down after surgery. It took a village to help me up from the bed 🤘🏻")
+<figure>
+<img src="/blog/2024-01-26-what-was-i-made-for/post-surgery-sit.jpg" alt="Polaroid of me post-surgery" data-action="zoom" >
+<figcaption>First time sitting down after surgery. It took a village to help me up from the bed 🤘🏻
+</figcaption>
+</figure>
