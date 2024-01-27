@@ -44,7 +44,7 @@ I’m not buying the Apple Vision Pro but I do like their ad for their upcoming 
 MYMP holds a special place in my heart as they were my first concert experience. They were absolutely amazing, but I'm not sure what they're up to these days. I only know that they were cancelled because of their political stances, lol.
 
 <div align="center">
-   <a href="https://www.last.fm/music/MYMP/_/Tell+Me+Where+It+Hurts"><img src="/weeknotes/weeknotes03/mymp-beyond-acoustic.jpg" alt="The Kooks Inside In / Inside Out" width="350">
+   <a href="https://www.last.fm/music/MYMP/_/Tell+Me+Where+It+Hurts"><img src="/weeknotes/weeknotes03/mymp-beyond-acoustic.jpg" alt="M.Y.M.P - Beyond Acoustic album" width="350">
 </a>
 <figcaption>Their music from 2005 - 2008 was really good.</figcaption>
 </figure>
