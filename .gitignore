@@ -2,12 +2,7 @@
 public
 resources
 node_modules
-.DS_Store
 .hugo_build.lock
-static/.DS_Store
-static/.DS_Store
-static/.DS_Store
-static/.DS_Store
 .DS_Store
 content/.DS_Store
-.DS_Store
+static/.DS_Store
