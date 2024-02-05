@@ -44,7 +44,7 @@ I'm probably procrastinating, but I'm working on the coffee reviews. I promise.
 
 ---
 
-# Misc
+# The Week In Links
 
 [The Walk and Talk: Everything We Know by Kevin Kelly & Craig Mod](https://craigmod.com/ridgeline/176/) - A walk-and-talk is a moveable salon. A small group of people walk together for a week, having casual conversations side-by-side during most of the day. Craig Mod recaps the Thailand walk and talk with [Kevin Kelly](https://kk.org/), [Jason Kottke](https://kottke.org/), [Derek Sivers](https://sive.rs/), [Liz Danzico](https://bobulate.com/2023/12/expanding-home/), and others.
 

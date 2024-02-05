@@ -31,7 +31,7 @@ Dealing with a health issue can actually be a good opportunity to take a break f
 
 ---
 
-# Misc
+# The Week In Links
   
 [Pika](https://pika.page/) provides a user-friendly platform for bloggers, balancing free access with a reasonably priced subscription. I came across this page when I was [exploring on curated online spaces](https://krabf.com/collections/). Their commitment to user privacy and an ad-free experience is commendable. Offers free blogging for up to 50 posts. Unlimited blogging requires a paid subscription of $6/month or $60/year. Pika is created by [Good Enough](https://goodenough.us/), decent people who just want a decent place to scream our decent thoughts into the void.
 

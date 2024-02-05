@@ -29,7 +29,7 @@ I just had my first cup of coffee this year, and it feels like I'm back to my no
 
 ---
 
-# Misc 
+# The Week In Links
 
 [The Joys of Getting Organized](https://zenhabits.net/joy/) by Zen Habits
 
