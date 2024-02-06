@@ -27,6 +27,7 @@ I've been a huge fan of Alfred Hitchcock for as long as I can remember. Rear Win
 
 [Project Tapestry](https://www.kickstarter.com/projects/iconfactory/project-tapestry/) - Project Tapestry aims to create a universal, chronological timeline app for iOS, consolidating social media, RSS feeds, and other sources in one place. The app will use data source plug-ins to integrate various services, with the option for users to create their own using a simple API. The Iconfactory is seeking community support through Kickstarter pledges. I'm not sure if I need this app, but it does look fun and interesting because personal websites and RSS feeds are making a [comeback](https://matthiasott.com/notes/the-year-of-the-personal-website).
 
+Apple Vision Pro reviews are everywhere this week, and this is the best review out there. I LIVE for Joanna Stern's humor.
 
 <lite-youtube videoid="8xI10SFgzQ8" style="background-image: url(&quot;https://i.ytimg.com/vi/8xI10SFgzQ8/hqdefault.jpg&quot;);" class="lyt-activated"><button type="button" class="lty-playbtn"><span class="lyt-visually-hidden">Play</span></button><iframe width="560" height="315" title="Play" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube-nocookie.com/embed/8xI10SFgzQ8?autoplay"></iframe></lite-youtube>
 
