@@ -1,99 +1,107 @@
 @font-face {
-  font-family: 'Rowan-Light';
-  src: url('../fonts/Rowan-Light.woff2') format('woff2'),
-       url('../fonts/Rowan-Light.woff') format('woff'),
-       url('../fonts/Rowan-Light.ttf') format('truetype');
-       font-weight: 300;
-       font-display: swap;
-       font-style: normal;
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-BlackItalic.eot');
+  src: local('MetaSerifPro-BlackItalic'),
+      url('MetaSerifPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-BlackItalic.woff2') format('woff2'),
+      url('MetaSerifPro-BlackItalic.woff') format('woff'),
+      url('MetaSerifPro-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
 }
 
-
 @font-face {
-  font-family: 'Rowan-LightItalic';
-  src: url('../fonts/Rowan-LightItalic.woff2') format('woff2'),
-       url('../fonts/Rowan-LightItalic.woff') format('woff'),
-       url('../fonts/Rowan-LightItalic.ttf') format('truetype');
-       font-weight: 300;
-       font-display: swap;
-       font-style: italic;
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-Medium.eot');
+  src: local('MetaSerifPro-Medium'),
+      url('MetaSerifPro-Medium.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-Medium.woff2') format('woff2'),
+      url('MetaSerifPro-Medium.woff') format('woff'),
+      url('MetaSerifPro-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
 }
 
-
 @font-face {
-  font-family: 'Rowan-Regular';
-  src: url('../fonts/Rowan-Regular.woff2') format('woff2'),
-       url('../fonts/Rowan-Regular.woff') format('woff'),
-       url('../fonts/Rowan-Regular.ttf') format('truetype');
-       font-weight: 400;
-       font-display: swap;
-       font-style: normal;
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-LightItalic.eot');
+  src: local('MetaSerifPro-LightItalic'),
+      url('MetaSerifPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-LightItalic.woff2') format('woff2'),
+      url('MetaSerifPro-LightItalic.woff') format('woff'),
+      url('MetaSerifPro-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
 }
 
-
 @font-face {
-  font-family: 'Rowan-Italic';
-  src: url('../fonts/Rowan-Italic.woff2') format('woff2'),
-       url('../fonts/Rowan-Italic.woff') format('woff'),
-       url('../fonts/Rowan-Italic.ttf') format('truetype');
-       font-weight: 400;
-       font-display: swap;
-       font-style: italic;
-}
-
-
-@font-face {
-  font-family: 'Rowan-Medium';
-  src: url('../fonts/Rowan-Medium.woff2') format('woff2'),
-       url('../fonts/Rowan-Medium.woff') format('woff'),
-       url('../fonts/Rowan-Medium.ttf') format('truetype');
-       font-weight: 500;
-       font-display: swap;
-       font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'Rowan-MediumItalic';
-  src: url('../fonts/Rowan-MediumItalic.woff2') format('woff2'),
-       url('../fonts/Rowan-MediumItalic.woff') format('woff'),
-       url('../fonts/Rowan-MediumItalic.ttf') format('truetype');
-       font-weight: 500;
-       font-display: swap;
-       font-style: italic;
-}
-
-
-@font-face {
-  font-family: 'Rowan-Bold';
-  src: url('../fonts/Rowan-Bold.woff2') format('woff2'),
-       url('../fonts/Rowan-Bold.woff') format('woff'),
-       url('../fonts/Rowan-Bold.ttf') format('truetype');
-       font-weight: 700;
-       font-display: swap;
-       font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'Rowan-BoldItalic';
-  src: url('../fonts/Rowan-BoldItalic.woff2') format('woff2'),
-       url('../fonts/Rowan-BoldItalic.woff') format('woff'),
-       url('../fonts/Rowan-BoldItalic.ttf') format('truetype');
-       font-weight: 700;
-       font-display: swap;
-       font-style: italic;
-}
-
-
-@font-face {
-  font-family: 'IBM Plex Mono';
-  src: url('IBMPlexMono.eot');
-  src: local('IBM Plex Mono'), local('IBMPlexMono'),
-      url('IBMPlexMono.eot?#iefix') format('embedded-opentype'),
-      url('IBMPlexMono.woff2') format('woff2'),
-      url('IBMPlexMono.woff') format('woff'),
-      url('IBMPlexMono.ttf') format('truetype');
+  font-family: 'MetaSerifPro-Book';
+  src: url('MetaSerifPro-Book.eot');
+  src: local('MetaSerifPro-Book'),
+      url('MetaSerifPro-Book.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-Book.woff2') format('woff2'),
+      url('MetaSerifPro-Book.woff') format('woff'),
+      url('MetaSerifPro-Book.ttf') format('truetype');
   font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-Light.eot');
+  src: local('MetaSerifPro-Light'),
+      url('MetaSerifPro-Light.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-Light.woff2') format('woff2'),
+      url('MetaSerifPro-Light.woff') format('woff'),
+      url('MetaSerifPro-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-BoldItalic.eot');
+  src: local('MetaSerifPro-BoldItalic'),
+      url('MetaSerifPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-BoldItalic.woff2') format('woff2'),
+      url('MetaSerifPro-BoldItalic.woff') format('woff'),
+      url('MetaSerifPro-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MetaSerifPro-BookItalic';
+  src: url('MetaSerifPro-BookItalic.eot');
+  src: local('MetaSerifPro-BookItalic'),
+      url('MetaSerifPro-BookItalic.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-BookItalic.woff2') format('woff2'),
+      url('MetaSerifPro-BookItalic.woff') format('woff'),
+      url('MetaSerifPro-BookItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-MediumItalic.eot');
+  src: local('MetaSerifPro-MediumItalic'),
+      url('MetaSerifPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-MediumItalic.woff2') format('woff2'),
+      url('MetaSerifPro-MediumItalic.woff') format('woff'),
+      url('MetaSerifPro-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-Bold.eot');
+  src: local('MetaSerifPro-Bold'),
+      url('MetaSerifPro-Bold.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-Bold.woff2') format('woff2'),
+      url('MetaSerifPro-Bold.woff') format('woff'),
+      url('MetaSerifPro-Bold.ttf') format('truetype');
+  font-weight: bold;
   font-style: normal;
 }
