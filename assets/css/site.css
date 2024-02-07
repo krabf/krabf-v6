@@ -106,7 +106,7 @@ body {
   background-color: var(--body);
   line-height: 1.5;
   font-family: 'IBM Plex Mono', monospace;
-  font-family: 'MetaSerifPro', serif;
+  font-family: 'ff-meta-serif-web-pro', serif;
   font-size: 1rem;
   -moz-hyphens: auto;
   hyphens: auto;
