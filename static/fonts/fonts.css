@@ -1,99 +1,107 @@
 @font-face {
-  font-family: 'IBM Plex Serif';
-  src: url('IBMPlexSerif.eot');
-  src: local('IBM Plex Serif'), local('IBMPlexSerif'),
-      url('IBMPlexSerif.eot?#iefix') format('embedded-opentype'),
-      url('IBMPlexSerif.woff2') format('woff2'),
-      url('IBMPlexSerif.woff') format('woff'),
-      url('IBMPlexSerif.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-BlackItalic.eot');
+  src: local('MetaSerifPro-BlackItalic'),
+      url('MetaSerifPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-BlackItalic.woff2') format('woff2'),
+      url('MetaSerifPro-BlackItalic.woff') format('woff'),
+      url('MetaSerifPro-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
 }
 
 @font-face {
-  font-family: 'IBM Plex Serif';
-  src: url('IBMPlexSerif-Medium.eot');
-  src: local('IBM Plex Serif Medium'), local('IBMPlexSerif-Medium'),
-      url('IBMPlexSerif-Medium.eot?#iefix') format('embedded-opentype'),
-      url('IBMPlexSerif-Medium.woff2') format('woff2'),
-      url('IBMPlexSerif-Medium.woff') format('woff'),
-      url('IBMPlexSerif-Medium.ttf') format('truetype');
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-Medium.eot');
+  src: local('MetaSerifPro-Medium'),
+      url('MetaSerifPro-Medium.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-Medium.woff2') format('woff2'),
+      url('MetaSerifPro-Medium.woff') format('woff'),
+      url('MetaSerifPro-Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'IBM Plex Serif';
-  src: url('IBMPlexSerif-Bold.eot');
-  src: local('IBM Plex Serif Bold'), local('IBMPlexSerif-Bold'),
-      url('IBMPlexSerif-Bold.eot?#iefix') format('embedded-opentype'),
-      url('IBMPlexSerif-Bold.woff2') format('woff2'),
-      url('IBMPlexSerif-Bold.woff') format('woff'),
-      url('IBMPlexSerif-Bold.ttf') format('truetype');
-  font-weight: bold;
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-LightItalic.eot');
+  src: local('MetaSerifPro-LightItalic'),
+      url('MetaSerifPro-LightItalic.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-LightItalic.woff2') format('woff2'),
+      url('MetaSerifPro-LightItalic.woff') format('woff'),
+      url('MetaSerifPro-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MetaSerifPro-Book';
+  src: url('MetaSerifPro-Book.eot');
+  src: local('MetaSerifPro-Book'),
+      url('MetaSerifPro-Book.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-Book.woff2') format('woff2'),
+      url('MetaSerifPro-Book.woff') format('woff'),
+      url('MetaSerifPro-Book.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'IBM Plex Serif';
-  src: url('IBMPlexSerif-Light.eot');
-  src: local('IBM Plex Serif Light'), local('IBMPlexSerif-Light'),
-      url('IBMPlexSerif-Light.eot?#iefix') format('embedded-opentype'),
-      url('IBMPlexSerif-Light.woff2') format('woff2'),
-      url('IBMPlexSerif-Light.woff') format('woff'),
-      url('IBMPlexSerif-Light.ttf') format('truetype');
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-Light.eot');
+  src: local('MetaSerifPro-Light'),
+      url('MetaSerifPro-Light.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-Light.woff2') format('woff2'),
+      url('MetaSerifPro-Light.woff') format('woff'),
+      url('MetaSerifPro-Light.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'IBM Plex Serif';
-  src: url('IBMPlexSerif-SemiBold.eot');
-  src: local('IBM Plex Serif SemiBold'), local('IBMPlexSerif-SemiBold'),
-      url('IBMPlexSerif-SemiBold.eot?#iefix') format('embedded-opentype'),
-      url('IBMPlexSerif-SemiBold.woff2') format('woff2'),
-      url('IBMPlexSerif-SemiBold.woff') format('woff'),
-      url('IBMPlexSerif-SemiBold.ttf') format('truetype');
-  font-weight: 600;
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-BoldItalic.eot');
+  src: local('MetaSerifPro-BoldItalic'),
+      url('MetaSerifPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-BoldItalic.woff2') format('woff2'),
+      url('MetaSerifPro-BoldItalic.woff') format('woff'),
+      url('MetaSerifPro-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MetaSerifPro-BookItalic';
+  src: url('MetaSerifPro-BookItalic.eot');
+  src: local('MetaSerifPro-BookItalic'),
+      url('MetaSerifPro-BookItalic.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-BookItalic.woff2') format('woff2'),
+      url('MetaSerifPro-BookItalic.woff') format('woff'),
+      url('MetaSerifPro-BookItalic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-MediumItalic.eot');
+  src: local('MetaSerifPro-MediumItalic'),
+      url('MetaSerifPro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-MediumItalic.woff2') format('woff2'),
+      url('MetaSerifPro-MediumItalic.woff') format('woff'),
+      url('MetaSerifPro-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MetaSerifPro';
+  src: url('MetaSerifPro-Bold.eot');
+  src: local('MetaSerifPro-Bold'),
+      url('MetaSerifPro-Bold.eot?#iefix') format('embedded-opentype'),
+      url('MetaSerifPro-Bold.woff2') format('woff2'),
+      url('MetaSerifPro-Bold.woff') format('woff'),
+      url('MetaSerifPro-Bold.ttf') format('truetype');
+  font-weight: bold;
   font-style: normal;
-}
-
-@font-face {
-  font-family: 'IBM Plex Serif';
-  src: url('IBMPlexSerif-Italic.eot');
-  src: local('IBM Plex Serif Italic'), local('IBMPlexSerif-Italic'),
-      url('IBMPlexSerif-Italic.eot?#iefix') format('embedded-opentype'),
-      url('IBMPlexSerif-Italic.woff2') format('woff2'),
-      url('IBMPlexSerif-Italic.woff') format('woff'),
-      url('IBMPlexSerif-Italic.ttf') format('truetype');
-  font-weight: normal;
-  font-style: italic;
-}
-    
-@font-face {
-  font-family: 'IBM Plex Mono';
-  src: url('IBMPlexMono.eot');
-  src: local('IBM Plex Mono'), local('IBMPlexMono'),
-      url('IBMPlexMono.eot?#iefix') format('embedded-opentype'),
-      url('IBMPlexMono.woff2') format('woff2'),
-      url('IBMPlexMono.woff') format('woff'),
-      url('IBMPlexMono.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Newsreader';
-  src: url('Newsreader.woff2') format('woff2'),
-      url('Newsreader.woff2') format('truetype');
-  font-weight: normal;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: 'Newsreader';
-  src: url('Newsreader.woff2') format('woff2'),
-      url('Newsreader.woff2') format('truetype');
-  font-weight: normal;
-  font-style: italic;
 }
