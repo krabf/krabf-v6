@@ -153,6 +153,14 @@ hr.s1 {
   background-color:#efefef;
   margin:0 auto
 }
+hr.s2 {
+  border:none;
+  width:48%;
+  text-align:center;
+  height:2px;
+  background-color:#efefef;
+  margin:0 auto
+}
 
 input[type="email"],
 input[type="submit"] {
