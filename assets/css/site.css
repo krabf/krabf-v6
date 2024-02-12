@@ -532,6 +532,18 @@ lite-youtube.lyt-activated > .lty-playbtn {
   text-decoration: #007AFC wavy underline;
 }
 
+.donation {
+  position: absolute;
+  transition: all 0.2s ease-in-out;
+  opacity: 1;
+
+}
+
+.donation:hover {
+  transform: scale(1.03);
+  opacity: 0.9;
+}
+
 /******************************************************************************\
  * Archive                                                                    *
 \******************************************************************************/
