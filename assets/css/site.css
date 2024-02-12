@@ -532,6 +532,11 @@ lite-youtube.lyt-activated > .lty-playbtn {
   text-decoration: #007AFC wavy underline;
 }
 
+.useful {
+  text-transform: uppercase;
+  color: #007AFC;
+}
+
 .donation {
   position: absolute;
   transition: all 0.2s ease-in-out;
