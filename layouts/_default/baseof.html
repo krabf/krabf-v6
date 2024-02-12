@@ -89,7 +89,7 @@
     <main class="content">
       <div class="wrap">
         {{ block "main" . }}{{ end }}
-      </div>
+     
     </main>
 
     {{ with resources.Get "css/chroma.css" | minify }}
@@ -102,6 +102,6 @@
     <script src="/js/lazyload.min.js"></script>
 
     {{ partial "footer.html" . }}
-
+  </div>
   </body>
 </html>

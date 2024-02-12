@@ -43,7 +43,7 @@
       {{ else }}
         <div class="markup">
           {{ .Content }}
-        </div>
+        
       {{ end }}
       {{ if .Params.series }}
         {{ with index $.Site.Data.series .Params.series }}
@@ -69,6 +69,9 @@
   </article>
   <br>
   <hr>
+  <hr class="s1">
   <br>
   {{ partial "cta.html" . }}
+  <hr class="s1">
+</div>
 {{ end }}

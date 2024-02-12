@@ -146,12 +146,12 @@ hr:after {
 }
 
 hr.s1 {
-  border: none;
-  width: 50%;
-  text-align: center;
-  height: 2px;
-  background-color: #efefef;
-  margin: 0 auto; /* Center horizontally on all devices */
+  border:none;
+  width:100%;
+  text-align:center;
+  height:2px;
+  background-color:#efefef;
+  margin:0 auto
 }
 
 input[type="email"],
