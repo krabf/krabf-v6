@@ -151,7 +151,7 @@ hr.s1 {
   text-align:center;
   height:2px;
   background-color:#efefef;
-  margin:0 auto
+  margin-top: 5rem;
 }
 hr.s2 {
   border:none;
