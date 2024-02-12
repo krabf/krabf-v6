@@ -535,6 +535,9 @@ lite-youtube.lyt-activated > .lty-playbtn {
 .useful {
   text-transform: uppercase;
   color: #007AFC;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-top: 2.25rem;
 }
 
 .donation {
