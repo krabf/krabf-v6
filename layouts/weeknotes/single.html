@@ -56,7 +56,7 @@
                       <li><a href="{{ .slug | relURL }}">{{ .title }}</a></li>
                     {{ end }}
                   {{ else }}
-                    <li><span>{{ .title }}</span></li>
+                  <li><span>{{ .title }}</span></li>
                   {{ end }}
               {{ end }}
             </ol>
@@ -67,6 +67,11 @@
   </article>
   <br>
   <hr>
+  <hr class="s1">
   <br>
-  <p class="cta">Thoughts? <a href="mailto:krabfx@gmail.com">Email me.</a></p>
+  {{ partial "cta.html" . }}
+
+  <hr class="s1">
+
+</div>
 {{ end }}
