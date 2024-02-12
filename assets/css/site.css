@@ -521,7 +521,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 \******************************************************************************/
 
 .cta {
-  margin-top: 1.5rem;
+  margin-top: 1.2rem;
   color: var(--text);
   font-size: 1rem;
 }
@@ -536,8 +536,8 @@ lite-youtube.lyt-activated > .lty-playbtn {
   text-transform: uppercase;
   color: #007AFC;
   font-weight: 700;
-  font-size: 1.5rem;
-  margin-top: 2.25rem;
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
 }
 
 .donation {
