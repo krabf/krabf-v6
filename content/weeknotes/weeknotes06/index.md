@@ -11,7 +11,7 @@ I'm 4 weeks into recovery after gallbladder removal, but this week hasn't been g
 
 Over the past two weeks I have been switching between different web browsers. I am considering writing a blog post about this. I still find myself consistently using the Arc Browser. Its vertical tabs and Little Arc feature are particularly impressive and useful.
 
-# This Week In Links
+# The Week In Links
 
 🤯 The [Slack](https://www.theverge.com/2016/9/28/13098164/slack-is-an-acronym) acronym is wild but also makes perfect sense!
 
@@ -19,7 +19,7 @@ Over the past two weeks I have been switching between different web browsers. I 
 
 💖 [How to Address What’s Really Causing Your Avoidance](https://zenhabits.net/whats-causing-your-avoidance/) - What causes our avoidance? [Leo Babauta](http://leobabauta.com/?ref=krabf.com) of [zen habits](https://zenhabits.net/about/?ref=krabf.com) walks us through the emotional roots of avoidance.
 
-🥸 [Frame by Brilliant Labs](https://brilliant.xyz/products/frame) is the new AI wearable device in the game. I am curious about how the user interface would accommodate individuals with astigmatism and visual impairments.  
+🥸 [Frame by Brilliant Labs](https://brilliant.xyz/products/frame/?ref=krabf.com) is the new AI wearable device in the game. I am curious about how the user interface would accommodate individuals with astigmatism and visual impairments.  
 
 <lite-youtube videoid="xiR-XojPVLk" style="background-image: url(&quot;https://i.ytimg.com/vi/xiR-XojPVLk/hqdefault.jpg&quot;);" class="lyt-activated"><button type="button" class="lty-playbtn"><span class="lyt-visually-hidden">Play</span></button><iframe width="560" height="315" title="Play" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube-nocookie.com/embed/xiR-XojPVLk?autoplay"></iframe></lite-youtube>
 
