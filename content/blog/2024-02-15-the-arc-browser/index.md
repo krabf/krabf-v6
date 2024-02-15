@@ -44,7 +44,7 @@ I uninstalled the app the next day because of its sluggishness and it just felt 
 
 But for the purpose of this post, I reinstalled the app and gave it another try. Unfortunately, it is still SLOW. The Browse for Me feature takes minutes and the links don't connect for me — it's like they aren't even considering the quality of sources.
 
-![Alt text](arc-official-source.jpg "Quote text from *fan experience* but no source")
+![Alt text](arc-official-source.jpg "Quote text from fan experience but no source")
 
 Josh Miller's complaints about Google only providing links during his Verge interview are quite ironic. Arc Search also simply presents users with a collection of links, without additional meaningful or useful information. It's definitely something they need to work on. But for now, acting like this is revolutionary when it's got the same issues as what's already out there? Not cool.  
 
