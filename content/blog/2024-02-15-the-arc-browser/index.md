@@ -8,7 +8,7 @@ summary = "Rant on Arc Browser/The Browser Company"
 image = "the-arc-browser.jpg"
 +++
 
-I am currently undecided between browsers. I have a love/hate relationship with Safari, and Chrome is a power hog because I use Adobe everyday. Although Firefox is great, it tends to be slow. And with the recent [news](https://techcrunch.com/2024/02/13/mozilla-downsizes-as-it-refocuses-on-firefox-and-ai-read-the-memo/?guccounter=1) that they're going to fire 60 people to “focus on bringing "trustworthy AI into Firefox." And Edge? Let's not go there. But then there's Arc, the new contender that's disrupting the browser space. It exceeds the competition with an array of built-in capabilities that provide a seamless browsing experience. Peek, for instance, is wonderful. I've used Arc for two years without even tapping into the AI perks in Arc Max
+I am currently undecided between browsers. I have a love/hate relationship with Safari, and Chrome is a power hog because I use Adobe everyday. Although Firefox is great, it tends to be slow. And with the recent [news](https://techcrunch.com/2024/02/13/mozilla-downsizes-as-it-refocuses-on-firefox-and-ai-read-the-memo/?ref=krabf.com) that they're going to fire 60 people to “focus on bringing "trustworthy AI into Firefox." And Edge? Let's not go there. But then there's Arc, the new contender that's disrupting the browser space. It exceeds the competition with an array of built-in capabilities that provide a seamless browsing experience. Peek, for instance, is wonderful. I've used Arc for two years without even tapping into the AI perks in Arc Max
 
 ![Arc split screen](arc-split-screen.jpg "Arc Split Screen")
 
