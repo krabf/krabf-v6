@@ -5,7 +5,7 @@ slug = "what-was-i-made-for"
 categories = ["personal", "health"]
 keywords = ["life", "Barbie", "Billie Eilish"]
 summary = "I don't know how to feel, but someday, I might"
-image = "/media/post-surgery-sit-down.jpg"
+image = "post-surgery-sit-down.jpg"
 +++
 
 
