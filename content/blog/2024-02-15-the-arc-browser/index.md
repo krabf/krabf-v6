@@ -36,7 +36,7 @@ We were able to do solid research and find good information long before AI came 
 
 I was excited to try out Arc's new mobile search app, but honestly, it's been a letdown so far. The "fastest way to search" claim didn't match my experience - it was slow and sluggish in finding results. The info it did pull up often lacked clear sources, so I couldn't even tell if it was reliable. I watched [Matt Birchler](https://birchtree.me/?ref=krabf.com) from [A Better Computer](https://youtube.com/watch?v=-9Pw62MEdfA) give an overview of Arc Search, and I encountered the same issue with the "Browse for Me" feature.
 
-![Arc Search "Browse For Me" feature"](browse-for-me.jpg "Arc Search "Browse For Me" feature")
+![Arc Search "Browse For Me" feature"](browse-for-me.jpg "Arc Search Browse For Me feature")
 
 I uninstalled the app the next day because of its sluggishness and it just felt like Google Chrome with haptic features.
 
@@ -44,7 +44,7 @@ I uninstalled the app the next day because of its sluggishness and it just felt 
 
 But for the purpose of this post, I reinstalled the app and gave it another try. Unfortunately, it is still SLOW. The Browse for Me feature takes minutes and the links don't connect for me — it's like they aren't even considering the quality of sources.
 
-![Alt text](arc-official-source.jpg "Quote text from "fan experience" but no source")
+![Alt text](arc-official-source.jpg "Quote text from *fan experience* but no source")
 
 Josh Miller's complaints about Google only providing links during his Verge interview are quite ironic. Arc Search also simply presents users with a collection of links, without additional meaningful or useful information. It's definitely something they need to work on. But for now, acting like this is revolutionary when it's got the same issues as what's already out there? Not cool.  
 
