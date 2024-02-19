@@ -17,7 +17,7 @@ Luckily, there was no need to worry. We just have to watch if she vomits again o
 
 We were supposed to be in Manila this week on a little vacation, but we decided it was better to stay home until Nooning is back to normal. I guess our trip will have to wait until next time.
 
-![Fawn chihuahua all curled up](/weeknotes07/nooning.jpg "Nooning all curled up")
+![Fawn chihuahua all curled up](/weeknotes/weeknotes07/nooning.jpg "Nooning all curled up")
 
 ---
 
