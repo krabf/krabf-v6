@@ -95,7 +95,7 @@ html {
 
 @media (max-width: 640px) {
   html {
-    font-size: 1rem;
+    font-size: 1.125rem;
     font-weight: 500;
   }
 }
@@ -663,7 +663,7 @@ a:hover {
 }
 @media(max-width:640px) {
   .markup em {
-  font-weight: 700;
+  font-weight: 500;
   }
 }
 
