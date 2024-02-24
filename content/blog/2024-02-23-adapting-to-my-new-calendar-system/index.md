@@ -16,6 +16,6 @@ That said, it did mess with my head at first. I'd lose track of what day it was 
 
 Culturally, Sunday has traditionally been the start of the week here in the Philippines and all the customized commercial calendars reflect that. So I don't think it's possible to have the Monday as the start of the week in these calendars.
 
-![Tradition Philippine Calendar in Filipino homes](philippine-calendar.webp "Tradition Philippine Calendar in Filipino homes")
+![Traditional Philippine Calendar in Filipino homes](philippine-calendar.webp "Traditional Philippine Calendar in Filipino homes")
 
 I'm still adjusting even if it's been months, but overall I'm happy I made the switch.
