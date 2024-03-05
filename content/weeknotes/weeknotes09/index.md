@@ -35,8 +35,9 @@ Having been an athlete during my elementary and high school years, I felt compel
 
 ---
 
+
 <div align="center">
-   <a href="https://www.last.fm/music/PREP/Getaway+(feat.+Phum+Viphurit)+-+Single"><img src="/weeknotes/weeknote09/getaway-prep-phum-viphurit.jpg" alt="Getaway by PREP feat. Phum Viphurit" width="450">
+   <a href="https://www.last.fm/music/PREP/Getaway+(feat.+Phum+Viphurit)+-+Single"><img src="/weeknotes/weeknotes09/getaway-prep-phum-viphurit.jpg" alt="Getaway by PREP feat. Phum Viphurit" width="450">
 </a>
 <figcaption>New PREP song "Getaway" featuring Phum Viphurit</figcaption>
 </figure>
