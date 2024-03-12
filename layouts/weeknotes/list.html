@@ -8,7 +8,7 @@
           <ul>
             <li>{{ .Title }}</li>
             <p style="font-size: 16px;">{{ .Summary | truncate 300 }}</p>
-            <p style="font-size: 14px; font-family: 'IBM Plex Mono', monospace;">{{ .Week | truncate 300 }}</p>       
+            <p style="font-size: 14px; font-family: 'IBM Plex Mono', monospace;">{{ .Params.Week }}</p>       
           </ul>
         </a>
         {{ end }}
