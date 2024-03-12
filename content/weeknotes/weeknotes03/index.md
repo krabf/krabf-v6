@@ -4,7 +4,7 @@ title = "WEEKNOTES 03"
 slug = "weeknotes03"
 categories = ["personal", "weeknotes"]
 week = "2024-W03 - 15 to 21 January"
-summary = "2024-W03 - 15 to 21 January"
+summary = "Finally out of the hospital"
 +++
 
 Finally, we're out of the hospital, and I can't express how relieved I am that we no longer have to worry about the hefty payment we made throughout our stay. Gone are the days of enduring those IV injections from doctors and nurses. However, now my focus shifts to recovery, but waiting game for the pain to subside feels like an eternity.

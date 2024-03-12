@@ -5,7 +5,7 @@ slug = "weeknotes01"
 categories = ["personal", "weeknotes"]
 keywords = ["Metro Manila Film Festival", "Mallari", "Sinulog", "Craig Mod", "Kevin Kelly", "Anybox", "Numeric Citizen"]
 week = "2024-W01 - 1 to 7 January"
-summary = "2024-W01 - 1 to 7 January"
+summary = "Recurring gas pain, Mallari, Back in Cebu"
 +++
 
 > I'm trying out a new personal project on my blog called "weeknotes." It's a write-up about what has happened in my life and a collection of links that I discovered and explored throughout the week. It's like a journal of sorts, maybe.

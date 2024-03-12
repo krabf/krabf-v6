@@ -4,7 +4,7 @@ title = "WEEKNOTES 07"
 slug = "weeknotes07"
 categories = ["personal", "weeknotes"]
 week = "2024-W07 - 12 to 18 February"
-summary = "2024-W07 - 12 to 18 February"
+summary = "Nooning is fine"
 +++
 
 Last week, Nooning started throwing up her food. After the first time, we rushed her to the vet. I don't usually panic when she vomits once, but my partner thought we should get her checked out since this was different. She threw up all her kibble, not just a little bit.

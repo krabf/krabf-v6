@@ -27,7 +27,7 @@
     <section>
       {{ if .Truncated }}
         <div class="markup">
-          {{ .Summary }}
+          {{ .Week }}
         </div>
         {{ if .Params.toc }}
           <nav class="toc">
@@ -36,7 +36,7 @@
           </nav>
         {{ end }}
         <div class="markup">
-          {{ safeHTML (replace .Content .Summary "") }}
+          {{ safeHTML (replace .Content .Week "") }}
         </div>
       {{ else }}
         <div class="markup">

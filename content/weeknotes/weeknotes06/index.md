@@ -4,7 +4,7 @@ title = "WEEKNOTES 06"
 slug = "weeknotes06"
 categories = ["personal", "weeknotes"]
 week = "2024-W06 - 5 to 11 February"
-summary = "2024-W06 - 5 to 11 February"
+summary = "4 weeks into recovery"
 +++
 
 I'm 4 weeks into recovery after gallbladder removal, but this week hasn't been good. I have been experiencing some discomfort in my stomach when I move too much, like getting up from bed or walking longer distances. However, I believe this is simply because my surgical wounds are healing, so it's likely that the internal wounds are healing as well.

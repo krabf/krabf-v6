@@ -4,7 +4,7 @@ title = "WEEKNOTES 08"
 slug = "weeknotes08"
 categories = ["personal", "weeknotes"]
 week = "2024-W08 - 19 to 25 February"
-summary = "2024-W08 - 19 to 25 February"
+summary = "Submitted my resignation"
 +++
 
 Last Wednesday marked the end of an important chapter in my professional life as I bid farewell to my position at fewStones. Over the course of the last two years that I've spent there, I've had the immense pleasure and privilege of learning from some of the most fantastic editors and incredibly gifted graphic designers in the industry. It's been a journey of constant learning, growth, and professional development for me. The opportunity to work alongside such a talented and collaborative team has been nothing short of a blessing. I feel extremely fortunate to have been part of this wonderful team that not only elevated my work but also enriched my experience in countless ways.

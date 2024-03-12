@@ -4,7 +4,7 @@ title = "WEEKNOTES 09"
 slug = "weeknotes09"
 categories = ["personal", "weeknotes"]
 week = "2024-W09 - 26 February to 3 March"
-summary = "2024-W09 - 26 February to 3 March"
+summary = "Back in my hometown for my niece's sports event"
 +++
 
 

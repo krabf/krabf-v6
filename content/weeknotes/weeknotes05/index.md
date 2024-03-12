@@ -4,7 +4,7 @@ title = "WEEKNOTES 05"
 slug = "weeknotes05"
 categories = ["personal", "weeknotes"]
 week = "2024-W05 - 29 January to 04 February"
-summary = "2024-W05 - 29 January to 04 February"
+summary = "Post-op check ups, hourse chores"
 +++
 
 Wow, what a hectic week it has been! It's been non-stop laundry and cleaning around the house. After two weeks of just resting, we finally tackled our house chores. It feels great to have everything tidy and organized again!
