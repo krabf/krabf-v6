@@ -4,8 +4,8 @@ title = "WEEKNOTES 10"
 slug = "weeknotes10"
 categories = ["personal", "weeknotes"]
 week = "2024-W10 - 5 to 10 March"
-summary = "2024-W10 - 15 to 21 January"
-summary = "first week at the new ,"
+summary = "2024-W10 - 5 to 10 March"
+summary = "first week at the new job, Wong Kar-wai on the big screen"
 +++
 
 My first week at the new job was filled with informative training sessions and a warm welcome from the team. It was a bit exhausting, but I loved getting to know the ins and outs of the company and familiarizing myself with the team. It's all newbie stuff generally. I am fortunate to be part of a wonderful and supportive team. This level of support is new to me, but it reassures me that I'm in good hands.
