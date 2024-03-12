@@ -4,7 +4,6 @@ title = "WEEKNOTES 10"
 slug = "weeknotes10"
 categories = ["personal", "weeknotes"]
 week = "2024-W10 - 5 to 10 March"
-summary = "2024-W10 - 5 to 10 March"
 summary = "First week at the new job, Wong Kar-wai"
 +++
 
