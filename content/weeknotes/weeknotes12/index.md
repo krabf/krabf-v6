@@ -16,7 +16,7 @@ There's been a whirlwind of events happening in Cebu every weekend this month �
 
 # The Week in Links
 
-🖥️ [Dense Discover Issue 280](https://www.densediscovery.com/issues/280)
+🖥️ [Dense Discovery Issue 280](https://www.densediscovery.com/issues/280)
 > Working in technology means one thing above all else: chasing scale. There is a reason why much of the tech world is obsessed with growth. Free from physical constraints, digital systems can scale to an incomprehensible size. The appeal of conquering the engineering, design and business challenges of mega-scale is strong, the rewards immense. But ultimately, when our work consists mostly of reconfiguring abstract systems and optimising data flows, we thirst for impact that feels more real and relatable.
 
 👥 [D.I.E. Diversity, Inclusivity & Equity](https://gcd.studio/pages/d-i-e-diversity-inclusivity-and-equity) by [Laurent Yee](https://read.cv/laurent) - Highlighting how users are **forced to perform for digital interfaces**, specifically how visual UX design cues on digital forms limit identity (broad, fluid, diverse) into finite multiple choice questions. The project explores the limitations of digital interfaces, particularly in UX design, focusing on how they restrict identity into multiple choice questions. It satirizes the UX design philosophy, aiming to build alternative systems.
