@@ -10,11 +10,12 @@ block = true
 
 [taxonomies]
   category = "categories"
+  keyword = "keywords"
 
 [permalinks]
   blog = "/:slug"
   coffee = "/coffee/:slug"
-  categories = "/:title"
+  categories = "/categories/:slug"
   tags = "/tags/:title"
   projects = ":slug"
 

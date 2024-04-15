@@ -432,7 +432,61 @@ input[type="submit"] {
   }
 }
 
+/******************************************************************************\
+ * Categories                                                                  *
+\******************************************************************************/
 
+.categories-container {
+  margin-top: 20px;
+}
+
+.categories {
+  list-style-type: none;
+  padding: 0;
+}
+
+.categories-text p {
+  font-size: 2rem;
+}
+.categories li a {
+  margin-bottom: 10px;
+}
+
+.category {
+  display: flex;
+  align-items: center;
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+
+.category a {
+  text-decoration: none;
+}
+
+.category a:hover {
+  color: #007afc;
+}
+
+.category a:hover + .category-badge,
+.category-badge:hover {
+  color: #007afc;
+}
+
+.category-badge {
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+  transition: color 0.3s; /* Add transition for smooth color change */
+}
+
+@media screen and (max-width: 768px) {
+  .categories-container h2 {
+    font-size: 20px;
+  }
+  
+  .category-badge {
+    padding: 3px 8px;
+  }
+}
 
 /******************************************************************************\
  * YOUTUBE LIGHT - https://github.com/paulirish/lite-youtube-embed              *

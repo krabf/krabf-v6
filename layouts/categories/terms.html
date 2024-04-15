@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="categories-container">
+  <div class="categories-text">
+    <p>{{ .Title }}</p>
+  </div>
+  <ul class="categories">
+    {{ range .Data.Terms.Alphabetical }}
+      <li class="category">
+        <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+        <span class="category-badge">{{ .Count }}</span>
+      </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
