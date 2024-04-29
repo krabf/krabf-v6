@@ -36,7 +36,7 @@ In other *literary* news, I'm reading a book! I'm only 30 pages in but it's stil
 
 
 <div align="center">
-   <a href="https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb?si=efe24341a19a4daf"><img src="/weeknotes/weeknote17/salamin-salamin.jpg" alt="Salamin, Salamin by BINI" width="450">
+   <a href="https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb?si=efe24341a19a4daf"><img src="/weeknotes/weeknotes17/salamin-salamin.jpg" alt="Salamin, Salamin by BINI" width="450">
 </a>
 <figcaption>LSS!</figcaption>
 </figure>
