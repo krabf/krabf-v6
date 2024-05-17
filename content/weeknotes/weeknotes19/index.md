@@ -35,4 +35,4 @@ We'll see how we feel after really experiencing Singapore for an extended stay. 
 
 ---
 
-My RSS feed game is an absolute mess right now. You see, I was out of town for the past couple weeks on a little adventure, and in that time my feed just completely blew up to over 3,000 unread articles! I'm trying my best to power through and get caught up, but let's just say it's been a slow crawl. So if you notice me being a little behind on sharing links from the last couple of weeks, just know I'm working on it! Bear with me while I chip away at this mountain of a backlog.
+My RSS feed game is an absolute mess right now. I was out of town for the past couple weeks on a little adventure (still am), and in that time my feed just completely blew up to over 3,000 unread articles! I'm trying my best to power through and get caught up, but let's just say it's been a slow crawl. So if you notice me being a little behind on sharing links from the last couple of weeks, just know I'm working on it! Bear with me while I chip away at this mountain of a backlog.
