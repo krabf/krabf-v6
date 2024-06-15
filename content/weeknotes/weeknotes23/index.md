@@ -17,7 +17,7 @@ Getting back into my normal routine has been really tough since my grandfather p
 
 👾 [The church of Roblox: How young Filipino Catholics are building more inclusive spaces](https://restofworld.org/2024/roblox-church-filipino-catholics/)
 
-![Roblox Filipino Catholics has an open-door policy for participants. Roblox Filipino Catholics on Facebook](content/weeknotes/weeknotes23/roblox-20240613.png "Roblox Filipino Catholics has an open-door policy for participants. Roblox Filipino Catholics on Facebook")
+![Roblox Filipino Catholics has an open-door policy for participants](/weeknotes/weeknotes23/roblox-20240613.png "Roblox Filipino Catholics has an open-door policy for participants")
 
 🖼️ Doing a research for work this week about texts on videos and in prints and stumbled upon the amazing archive of the creator of the Vertigo film poster, [Saul Bass](https://filmartgallery.com/pages/saul-bass-archive).
 
@@ -32,7 +32,7 @@ Getting back into my normal routine has been really tough since my grandfather p
 ---
 
 <div align="center">
-   <a href="https://open.spotify.com/track/3O4s2m47MFhnGqmpkjoKYk?si=a934824754c94995"><img src="/weeknotes/weeknote23/dan-fogelberg.jpg" alt="Leader of the Band by Dan Fogelberg" width="450">
+   <a href="https://open.spotify.com/track/3O4s2m47MFhnGqmpkjoKYk?si=a934824754c94995"><img src="/weeknotes/weeknotes23/dan-fogelberg.jpg" alt="Leader of the Band by Dan Fogelberg" width="450">
 </a>
 <figcaption>Leader of the Band by Dan Fogelberg</figcaption>
 </figure>
