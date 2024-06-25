@@ -3,7 +3,7 @@ date = 2024-06-23
 title = "WEEKNOTES 25"
 slug = "weeknotes25"
 categories = ["personal", "weeknotes"]
-week = "2024-W25 - 17 to 23 Junes"
+week = "2024-W25 - 17 to 23 June"
 summary = "You’d have to stop the world just to stop the feeling"
 +++
 
