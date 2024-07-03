@@ -7,7 +7,7 @@ week = "2024-W26 - 24 to 30 June"
 summary = "Fleabag"
 +++
 
-Sorry for the late update on the weeknotes, I was in Manila for my first (non-virtual) company event (which I will write about next week)
+> Sorry for the late update on the weeknotes, I was in Manila for my first (non-virtual) company event (which I will write about next week)
 
 I caught a screening of National Theatre Live: Fleabag on the big screen last June 25. And thank you [CCP](https://culturalcenter.gov.ph/press-release/experience-the-best-of-british-theater-a-second-time-around-with-new-ccp-ntl-season/) for bringing this show in Cebu! By the halfway point, I was in tears, overwhelmed by the experience of seeing my favorite show and person larger than life. Phoebe Waller-Bridge is an absolute genius — in my opinion, she's the best writer out there right now. If I could have a phone call with anyone, it'd be her. I'd love the chance to tell her how much her work meant to me during the pandemic, how it kept me going through those tough times. Her humor and honesty were like a lifeline when I needed it most.
 
