@@ -17,7 +17,8 @@ block = true
   coffee = "/coffee/:slug"
   categories = "/categories/:slug"
   tags = "/tags/:title"
-  projects = ":slug"
+  links = "/links/:slug/"
+
 
 [params]
   name = "Kushaiah Felisilda"
