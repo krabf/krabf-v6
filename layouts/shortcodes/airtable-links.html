@@ -1,0 +1,44 @@
+<div id="airtable-links">
+    <!-- Bookmarks will be inserted here by JavaScript -->
+  </div>
+  
+  <script>
+  const AIRTABLE_API_KEY = 'pat7cdP9zqFaZum83.7d329fad9095db4665c079342e52a9b99834ccbb9b6b7f0c4ca95a64f0d25494';
+  const BASE_ID = 'tbluRyW91uw8ZOPGG';
+  const TABLE_NAME = 'Bookmarks';
+  
+  async function fetchBookmarks() {
+    const url = `https://api.airtable.com/v0/${tbluRyW91uw8ZOPGG}/${Bookmakrs}`;
+    const response = await fetch(url, {
+      headers: {
+        'Authorization': `Bearer ${pat7cdP9zqFaZum83.7d329fad9095db4665c079342e52a9b99834ccbb9b6b7f0c4ca95a64f0d25494}`
+      }
+    });
+    const data = await response.json();
+    return data.records;
+  }
+  
+  function renderBookmarks(bookmarks) {
+    const container = document.getElementById('airtable-bookmarks');
+    bookmarks.forEach(bookmark => {
+      const bookmarkDiv = document.createElement('div');
+      bookmarkDiv.className = 'title';
+  
+      const link = document.createElement('a');
+      link.href = bookmark.fields.URL;
+      link.textContent = bookmark.fields.Title;
+      link.className = 'title';
+      link.target = 'url';
+  
+      const tag = document.createElement('span');
+      tag.textContent = bookmark.fields.Tag;
+      tag.className = 'tags';
+  
+      bookmarkDiv.appendChild(link);
+      bookmarkDiv.appendChild(tag);
+      container.appendChild(bookmarkDiv);
+    });
+  }
+  
+  fetchBookmarks().then(renderBookmarks);
+  </script>
