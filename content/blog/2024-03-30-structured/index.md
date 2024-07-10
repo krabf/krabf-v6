@@ -1,5 +1,5 @@
 +++
-date = 2024-03-30
+date = 2024-04-15
 title = "Structured"
 slug = "structured"
 categories = ["personal", "productivity"]
