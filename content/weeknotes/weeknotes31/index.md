@@ -25,7 +25,7 @@ I just turned 27.
 
 🍝 [The Origin & Evolution of Italian Stuffed Pasta Shapes](https://kottke.org/24/07/the-origin-evolution-of-italian-stuffed-pasta-shapes?ref=krabf.com) *via* [kottke.org](https://kottke.org?ref=krabf.com)
 
-![Phylogeny of pasta ripiena](content/weeknotes/weeknotes31/pasta-shapes-evolution.jpg "Phylogeny of pasta ripiena. The geographical regions considered include A: northern Italy (blue), B: central Italy (aqua), C: southern Italy (green), D: Sardinia (yellow), and E: outgroups (red). Pie charts show ancestral distribution probabilities inferred by BioGeoBEARS")
+![Phylogeny of pasta ripiena](/weeknotes/weeknotes31/pasta-shapes-evolution.png "Phylogeny of pasta ripiena")
 
 ⚪ [Hi, I'd like order a $1.8M domain, please.](https://archive.is/20240801205005/https://www.404media.co/ai-friend-company-spent-1-8-million-and-most-its-funds-on-domain-name/) The CEO of this new wearable AI watched Her and immediately resonated with it.
 
