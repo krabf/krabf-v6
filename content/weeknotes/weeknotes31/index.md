@@ -1,3 +1,4 @@
++++
 date = 2024-08-04
 title = "WEEKNOTES 31"
 slug = "weeknotes31"
