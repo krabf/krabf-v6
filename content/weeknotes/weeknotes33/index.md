@@ -36,7 +36,7 @@ I'm back in my hometown for the week, eager to explore all the new shops that ha
 
 
 <div align="center">
-   <a href="https://www.last.fm/music/Lorde/Pure+Heroine"><img src="/weeknotes/weeknotes33/lorde-pure-heroine.webp" alt="Lorde = Pure Heroine" width="450">
+   <a href="https://www.last.fm/music/Lorde/Pure+Heroine"><img src="/weeknotes/weeknotes33/lorde-pure-heroine.webp" alt="Lorde - Pure Heroine" width="450">
 </a>
 <figcaption>Lorde - Pure Heroine</figcaption>
 </figure>

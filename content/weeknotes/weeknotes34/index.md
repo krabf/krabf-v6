@@ -39,7 +39,7 @@ I've noticed a tendency to default back to Arc, largely due to persistent issues
 🔣 [A new symbol for the Fediverse was proposed](https://symbol.fediverse.info/). Reactions were mixed, and [Manuel Moreale had some thoughts about it](https://manuelmoreale.com/thoughts-on-symbols).
 
 <div align="center">
-   <a href="https://www.last.fm/music/Charli+XCX/_/B2b"><img src="/weeknotes/weeknotes34/charli-xcx-brat.webp" alt="B2b by Charli XCX" width="450">
+   <a href="https://www.last.fm/music/Charli+XCX/_/B2b"><img src="/weeknotes/weeknotes34/charli-xcx-brat-album-cover.jpg" alt="B2b by Charli XCX" width="450">
 </a>
 <figcaption>This has been on repeat (in my head) over the weekend lol</figcaption>
 </figure>
