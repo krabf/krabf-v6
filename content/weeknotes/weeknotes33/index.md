@@ -7,9 +7,7 @@ week = "2024-W33 - 12 August to 18 August"
 summary = "In Maasin once again"
 +++
 
-I'm back in my hometown for the week, and I've been dying to check out all the new shops that have popped up. Unfortunately, the heat has made going out quite challenging. It's surprisingly even hotter here than in Cebu, which I didn't think was possible. I was also going to do a photowalk in the middle of the day but the heat is just too much
-
-I'm back in my hometown for the week, eager to explore all the new shops that have popped up recently. However, the sweltering heat has made going out quite a challenge. Surprisingly, it's even hotter here than in Cebu, which I hadn't thought possible. I had planned to do a photowalk the other day, but had to reconsider. It seems my plans for exploration might have to wait.
+I'm back in my hometown for the week, and I've been dying to check out all the new shops that have popped up. Unfortunately, the heat has made going out quite challenging. Surprisingly, it's even hotter here than in Cebu, which I hadn't thought possible. I had planned to do a photowalk the other day, but had to reconsider. It seems my plans for exploration might have to wait.
 
 
 ---
