@@ -47,10 +47,10 @@ It's September 1st and I'm getting ready for the holiday season. Part of me is a
 
 
 ---
-![[WEEKNOTES 35/billie-eilish-hit-me-hard-and-soft.webp]]
+
 
 <div align="center">
-   <a href="https://www.last.fm/music/Billie+Eilish/HIT+ME+HARD+AND+SOFT><img src="/weeknotes/weeknotes35/billie-eilish-hit-me-hard-and-soft.webp" alt="Billie Eilish - Hit Me Hard and Soft" width="450">
+   <a href="https://www.last.fm/music/Billie+Eilish/HIT+ME+HARD+AND+SOFT><img src="/weeknotes/weeknotes35/billie-eilish-hit-me-hard-and-soft.jpg" alt="Billie Eilish - Hit Me Hard and Soft" width="450">
 </a>
 <figcaption>On repeat. And listening to the whole album again while writing this.</figcaption>
 </figure>
