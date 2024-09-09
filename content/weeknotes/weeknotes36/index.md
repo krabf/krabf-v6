@@ -28,7 +28,7 @@ It's been a busy week of cleaning and decluttering around here. We're signing on
 
 🏢 [Detailed Miniature “Sculptures of Urban Decay”](https://kottke.org/24/09/detailed-miniature-sculptures-of-urban-decay/?ref=krabf.com) by [Joshua Smith](https://www.instagram.com/joshua_smith_street_artist/) *via* [kottke.org](https://kottke.org)
 
-![Sculptures of Urban Decay by Joshua Smith](/weeknotes/weeknotes36/j-smith-mini-02.jpgg "Sculptures of Urban Decay by Joshua Smith")
+![Sculptures of Urban Decay by Joshua Smith](/weeknotes/weeknotes36/j-smith-mini-02.jpg "Sculptures of Urban Decay by Joshua Smith")
 
 ⚖️ [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://web.archive.org/web/20240904200623/https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/) 
 
