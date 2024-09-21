@@ -11,7 +11,7 @@ I've been using [Structured](https://structured.app/?ref=krabf.com) for more tha
 
 The visual timeline feature really shines. Watching my day unfold visually has reshaped how I tackle my tasks. It’s like having a personal compass for the day, guiding me and keeping me locked into the flow of each task.
 
-![Structured August Setup](/blog/2024-09-21-90+-days-of-structured/structured-august2024.png "Structured August Setup")
+![Structured August Setup](/blog/2024-09-21-150-days-with-structured/structured-august2024.png "Structured August Setup")
 
 Structured has this cool feature where you can set up different tasks for different days, but I've found I love sticking to the same routine every day. It's kinda funny though even with this set schedule, life happens and sometimes I'll have to switch things up because of some "important" thing (let's be real, it's usually not that important). However, the flexibility of the app allowed me to quickly reorganize and reprioritize without feeling like my entire day was derailed.
 
@@ -21,6 +21,6 @@ May was a rough month. I lost my grandfather, and for about two weeks in June, m
 
 I love knowing exactly what I'm supposed to be doing tomorrow at this time. It's like I get this weird urge to power through my tasks just so I can tick them off in Structured. I don't know what you'd call this feeling, maybe it's some kind of productivity high? Whatever it is, it gets me seriously pumped up.
 
-![Structured September Setup](/blog/2024-09-21-90+-days-of-structured/structured-september2024.png "Structured September Setup")
+![Structured September Setup](/blog/2024-09-21-150-days-with-structured/structured-september2024.png "Structured September Setup")
 
 I'm glad I took the plunge and committed to the annual subscription. This has definitely paid off in terms of increased productivity and reduced stress. While no app is a magic solution, Structured has provided me with the *framework* I needed to build better habits and make the most of my time.
