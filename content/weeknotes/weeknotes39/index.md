@@ -18,7 +18,7 @@ I think all this stress comes from dealing with car stuff (and few work stuff) l
 
 🚗 Speaking of cars, I spent a good 15 minutes in [slowroads](https://nileane.fr/@nileane/113194188891066173). Thanks to [Niléane](https://nileane.fr/@nileane/113194188891066173). Quite addicting.
 
-![Slowroads](/weeknotes/weeknotes39/slowroads.gif "Slowroads")
+![Slowroads](/weeknotes/weeknotes39/slowroads2.gif "Slowroads")
 
 📱 Apparently, my used to be favorite camera app was [rejected from the App Store](https://mjtsai.com/blog/2024/09/24/halide-rejected-from-the-app-store/?ref=krabf.com). Also, turns out I was a bit out of the loop — it seems like a lot of folks had fallen out of love with it [a while back](https://new.reddit.com/r/ShotWithHalide/comments/xkc5jf/your_free_updates_to_halide_have_ended/). Apparently, there are tons of [other](https://apps.apple.com/us/app/no-fusion-a-simple-pro-cam/id6444706244) [apps](https://www.mood.camera/) out there using [Process Zero](https://www.lux.camera/introducing-process-zero-for-iphone/) too. I kinda get why people got annoyed when they switched to a subscription model., which I don't subscribe by the way because I do't really use it as much.
 
@@ -34,9 +34,6 @@ I think all this stress comes from dealing with car stuff (and few work stuff) l
 
 ---
 
-<div align="center">
-   <a href="https://www.youtube.com/watch?v=JOfHl-l-75Q"><img src="/weeknotes/weeknote01/the-kooks-inside-in-inside-out.webp" alt="Good Neighbours cover Sabrina Carpenter’s ‘Espresso’ for Like A Version" width="450">
-</a>
-<figcaption>Good Neighbours cover Sabrina Carpenter’s ‘Espresso’ for Like A Version. Really obsessed with this cover and their performance! I knew it right away that the inspiration on this was <a href="https://www.youtube.com/watch?v=4BJDNw7o6so">Lisztomania by Phoenix</a>, which they mentioned on their <a href="https://www.youtube.com/watch?v=hY-OSciWP7o">behind the scenes interview</a>.</figcaption>
-</figure>
-</div>
+<lite-youtube videoid="JOfHl-l-75Q" style="background-image: url(&quot;https://i.ytimg.com/vi/JOfHl-l-75Q/hqdefault.jpg&quot;);" class="lyt-activated"><button type="button" class="lty-playbtn"><span class="lyt-visually-hidden">Play</span></button><iframe width="560" height="315" title="Play" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube-nocookie.com/embed/JOfHl-l-75Q?autoplay"></iframe></lite-youtube>
+
+Good Neighbours cover Sabrina Carpenter’s ‘Espresso’ for Like A Version. Really obsessed with this cover and their performance! I knew it right away that the inspiration on this was [Lisztomania by Phoenix](https://www.youtube.com/watch?v=4BJDNw7o6so), which they mentioned on their [behind the scenes interview](https://www.youtube.com/watch?v=hY-OSciWP7o).
