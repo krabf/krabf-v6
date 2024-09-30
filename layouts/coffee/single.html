@@ -5,6 +5,7 @@
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="{{ .Permalink }}" />
   <meta name="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
+  <meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.ogimage | absURL }}{{ end }}" />
   <meta property="coffee:published_time" content="{{ .Date.Format "January 2, 2006" }}" />
   <meta property="coffee:modified_time" content="{{ .Lastmod.Format "January 2, 2006" }}" />
   <meta property="coffee:author" content="Kushaiah Felisilda" />
@@ -58,7 +59,7 @@
                       <li><a href="{{ .slug | relURL }}">{{ .title }}</a></li>
                     {{ end }}
                   {{ else }}
-                  <li><span>{{ .title }}</span></li>
+                    <li><span>{{ .title }}</span></li>
                   {{ end }}
               {{ end }}
             </ol>
@@ -69,11 +70,6 @@
   </article>
   <br>
   <hr>
-  <hr class="s1">
   <br>
-  {{ partial "cta.html" . }}
-
-  <hr class="s1">
-
-</div>
+  <p class="cta">Thoughts? <a href="mailto:krabfx@gmail.com">Email me.</a></p>
 {{ end }}

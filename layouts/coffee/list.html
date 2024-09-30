@@ -1,25 +1,22 @@
 {{ define "main" }}
-  <ul class="archive">
+  <div class="coffee-archive">
     {{ range ((where $.Site.RegularPages "Section" "coffee").GroupByDate "January 2006") }}
       <p class="coffee-date">{{ .Key }}</p>
       <div class="coffee-list">
         {{ range .Pages }}
           <div class="coffee-item">
-            <a href="{{ .RelPermalink }}">
-              <div class="coffee-image">
-                <!-- Apply the circular container to the image -->
-                <div class="circle-container">
-                  <img src="{{ .Params.header_image }}" alt="{{ .Title }}">
-                </div>
+            <a href="{{ .RelPermalink }}" class="coffee-link">
+              <div class="circle-container">
+                <img src="{{ .Params.header_image }}" alt="{{ .Title }}">
               </div>
-              <p style="font-size: 12px; color: #9ca3af;">
+              <p class="coffee-date-individual">
                 {{ with .Date }}{{ . | time.Format ":date_long" }}{{ end }}
               </p>
-              <h3>{{ .Title }}</h3>
+              <h3 class="coffee-title">{{ .Title }}</h3>
             </a>
           </div>
         {{ end }}
       </div>
     {{ end }}
-  </ul>
+  </div>
 {{ end }}

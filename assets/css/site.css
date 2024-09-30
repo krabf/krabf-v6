@@ -319,41 +319,17 @@ input[type="submit"] {
  * Coffee                                                                   *
 \******************************************************************************/
 
-.coffee header {
-  margin-bottom: 1.5rem;
-  text-align: center;
-}
-
-@media (min-width: 640px) {
-  .coffee header {
-    margin-bottom: 3.75rem;
-  }
-}
-
-.coffee header h1 {
-  font-size: var(--font-extra-large);
-  font-weight: 500;
-  line-height: 1.15;
-  padding:  0 1.5rem;
+.coffee-archive {
+  max-width: 1200px;
   margin: 0 auto;
-}
-
-.coffee header p {
-  color: var(--text-light);
-  font-size:  var(--font-medium);
-  margin-top: 0.25rem;
-}
-
-@media (min-width: 640px) {
-  .coffee header p {
-    margin-top: 0.5rem;
-  }
+  padding: 0 20px;
 }
 
 .coffee-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 20px;
+  justify-content: center;
 }
 
 .coffee-item {
@@ -361,7 +337,6 @@ input[type="submit"] {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  margin-top: 20px;
   margin-bottom: 20px;
 }
 
@@ -372,13 +347,20 @@ input[type="submit"] {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.coffee-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  width: 100%;
 }
 
 .circle-container {
   position: relative;
   width: 100%;
-  padding-top: 100%; /* Maintain a 1:1 aspect ratio */
+  padding-bottom: 100%;
   border-radius: 50%;
   overflow: hidden;
   border: 2px solid black;
@@ -394,41 +376,60 @@ input[type="submit"] {
   height: 100%;
   object-fit: cover;
   filter: grayscale(100%);
+  transition: filter 0.3s;
 }
 
-.coffee-item p {
-  font-size: var(--font-medium);
-  color: var(--text-light);
-  font-family: 'IBM Plex Mono', monospace;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  margin-top: 0.5rem;
-}
-
-.coffee-image:hover img {
+.coffee-link:hover .circle-container img {
   filter: grayscale(0%);
 }
 
-.coffee-link {
-  text-decoration: none;
-  color: inherit;
-  display: block;
-  text-align: center;
+.coffee-date-individual {
+  font-size: 12px;
+  color: #9ca3af;
+  font-family: 'IBM Plex Mono', monospace;
+  margin-top: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.coffee-title {
+  font-size: 1rem;
+  margin: 0;
 }
 
 @media (max-width: 640px) {
   .coffee-list {
-    justify-content: center;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
   }
-  .coffee-item {
-    width: 100%;
+}
+
+.coffee header {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+@media (min-width: 640px) {
+  .coffee header {
+    margin-bottom: 3.75rem;
   }
-  .coffee-list {
-    width: 100%;
-  }
-  .circle-container {
-    max-width: 100%;
+}
+
+.coffee header h1 {
+  font-size: var(--font-extra-large);
+  font-weight: 700;
+  line-height: 1.15;
+  padding:  0 1.5rem;
+  margin: 0 auto;
+}
+
+.coffee header p {
+  color: var(--text-light);
+  font-size:  var(--font-medium);
+  margin-top: 0.25rem;
+}
+
+@media (min-width: 640px) {
+  .coffee header p {
+    margin-top: 0.5rem;
   }
 }
 
