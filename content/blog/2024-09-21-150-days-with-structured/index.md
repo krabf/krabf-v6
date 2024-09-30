@@ -5,7 +5,7 @@ slug = "150-days-with-structured"
 categories = ["personal", "apps", "productivity"]
 keywords = ["Structured", "productivity"]
 summary = "Structured app really helped me map out my days"
-image = "150-days-with-structured.jpg"
+image = "/blog/2024-09-21-150-days-with-structured/150-days-with-structured.jpg"
 +++
 
 I've been using [Structured](https://structured.app/?ref=krabf.com) for more than 150 days, and I'm delighted to say that it has significantly increased my productivity. My ability to plan out my days efficiently has greatly improved thanks to the app, and I now have much better time management.
