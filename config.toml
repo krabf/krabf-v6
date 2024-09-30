@@ -22,7 +22,7 @@ block = true
 
 [params]
   name = "Kushaiah Felisilda"
-  ogimage = "/media/og.jpg"
+  ogimage = "static/media/og.jpg"
   description = "Kushaiah Felisilda’s personal website — films, filmmaking, technology, photography & more."
   
 
