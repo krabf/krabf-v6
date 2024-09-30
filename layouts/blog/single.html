@@ -4,7 +4,6 @@
   <meta property="og:type" content="blog" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta name="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
   <meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.ogimage | absURL }}{{ end }}" />
   <meta property="blog:published_time" content="{{ .Date.Format "January 2, 2006" }}" />
   <meta property="blog:modified_time" content="{{ .Lastmod.Format "January 2, 2006" }}" />
