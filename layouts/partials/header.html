@@ -1,4 +1,6 @@
-<head>
+</head>
+
+    <!-- Open Graph tags -->
     <meta property="og:title" content="{{ .Title }}" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="en_US" />
@@ -6,21 +8,22 @@
     {{ if .Params.image }}
         <meta property="og:image" content="{{ .Params.image | absURL }}" />
     {{ else }}
-        <meta property="og:image" content="{{ .Site.Params.image | absURL }}" />
+        <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
     {{ end }}
-    <meta property="og:description" content="{{ with .Summary }}{{ . | html }}{{ else }}{{ .Site.Params.defaultDescription | html }}{{ end }}" />
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}" />
 
-    <!-- Twitter Open Graph -->
+    <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:site" content="@krabf_"/>
     <meta name="twitter:title" content="{{ .Title }}"/>
     {{ if .Params.image }}
         <meta name="twitter:image" content="{{ .Params.image | absURL }}" />
     {{ else }}
-        <meta name="twitter:image" content="{{ .Site.Params.image | absURL }}" />
+        <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
     {{ end }}
-    <meta name="twitter:description" content="{{ with .Summary }}{{ . | html }}{{ else }}{{ .Site.Params.defaultDescription | html }}{{ end }}" />
+    <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}" />
 
-    {{ template "_internal/opengraph.html" . }}
+
     {{ template "_internal/schema.html" . }}
+
 </head>
