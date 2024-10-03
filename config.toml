@@ -42,3 +42,7 @@ block = true
       title = true
   [markup.tableOfContents]
     ordered = true
+  [sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
