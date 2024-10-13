@@ -1,5 +1,5 @@
 +++
-date = 2024-10-20
+date = 2024-10-13
 title = "WEEKNOTES 41"
 slug = "weeknotes41"
 categories = ["personal", "weeknotes"]
