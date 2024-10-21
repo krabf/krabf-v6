@@ -4,24 +4,17 @@
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:url" content="{{ .Permalink }}" />
-    {{ if .Params.image }}
-        <meta property="og:image" content="{{ .Params.image | absURL }}" />
-    {{ else }}
-        <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
-    {{ end }}
+    
+    {{ $image := .Params.image | default .Site.Params.ogimage | absURL }}
+    <meta property="og:image" content="{{ $image }}" />
     <meta property="og:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
 
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:site" content="@krabf_"/>
     <meta name="twitter:title" content="{{ .Title }}"/>
-    {{ if .Params.image }}
-        <meta name="twitter:image" content="{{ .Params.image | absURL }}" />
-    {{ else }}
-        <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
-    {{ end }}
+    <meta name="twitter:image" content="{{ $image }}" />
     <meta name="twitter:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
 
     {{ template "_internal/schema.html" . }}
-
 </head>
