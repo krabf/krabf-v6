@@ -1,62 +1,29 @@
 <head>
-    <!-- Other head elements (title, charset, viewport, etc.) should be here -->
-
     <!-- Open Graph tags -->
     <meta property="og:title" content="{{ .Title }}" />
-    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+    <meta property="og:type" content="website" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:url" content="{{ .Permalink }}" />
-    {{ $ogImage := "" }}
-    {{ with .Params.image }}
-        {{ $ogImage = . }}
-    {{ else if .Params.images }}
-        {{ $ogImage = index .Params.images 0 }}
-    {{ end }}
-    {{ with $ogImage }}
-        {{ $resource := . }}
-        {{ if not (strings.HasPrefix . "http") }}
-            {{ $resource = $.Resources.GetMatch . }}
-        {{ end }}
-        {{ with $resource }}
-            <meta property="og:image" content="{{ .Permalink }}" />
-        {{ end }}
+    
+    {{ if .Params.image }}
+        <meta property="og:image" content="{{ .Params.image | absURL }}" />
     {{ else }}
         <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
     {{ end }}
+    
     <meta property="og:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
 
-    <!-- If it's a blog post, add these additional tags -->
-    {{ if and .IsPage (eq .Section "blog") }}
-        <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" />
-        <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" />
-        <meta property="article:author" content="Kushaiah Felisilda" />
-        {{ with .Params.categories }}
-            {{ range . }}
-                <meta property="article:section" content="{{ . }}" />
-            {{ end }}
-        {{ end }}
-        {{ with .Params.tags }}
-            {{ range . }}
-                <meta property="article:tag" content="{{ . }}" />
-            {{ end }}
-        {{ end }}
-    {{ end }}
-    
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:site" content="@krabf_"/>
     <meta name="twitter:title" content="{{ .Title }}"/>
-    {{ with $ogImage }}
-        {{ $resource := . }}
-        {{ if not (strings.HasPrefix . "http") }}
-            {{ $resource = $.Resources.GetMatch . }}
-        {{ end }}
-        {{ with $resource }}
-            <meta name="twitter:image" content="{{ .Permalink }}" />
-        {{ end }}
+    
+    {{ if .Params.image }}
+        <meta name="twitter:image" content="{{ .Params.image | absURL }}" />
     {{ else }}
         <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
     {{ end }}
+    
     <meta name="twitter:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
     
     {{ template "_internal/schema.html" . }}
