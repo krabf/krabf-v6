@@ -6,25 +6,25 @@
     <meta property="og:url" content="{{ .Permalink }}" />
     
     {{ if .Params.image }}
-        <meta property="og:image" content="{{ .Params.image | absURL }}" />
+        <meta property="og:image" content="{{ $.Site.BaseURL }}{{ .Params.image }}" />
     {{ else }}
         <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
     {{ end }}
     
     <meta property="og:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
-
+    
     <!-- Twitter Card tags -->
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:site" content="@krabf_"/>
     <meta name="twitter:title" content="{{ .Title }}"/>
     
     {{ if .Params.image }}
-        <meta name="twitter:image" content="{{ .Params.image | absURL }}" />
+        <meta name="twitter:image" content="{{ $.Site.BaseURL }}{{ .Params.image }}" />
     {{ else }}
         <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
     {{ end }}
     
     <meta name="twitter:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
-    
+
     {{ template "_internal/schema.html" . }}
 </head>
