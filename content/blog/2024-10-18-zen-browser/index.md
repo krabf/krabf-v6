@@ -4,7 +4,7 @@ title = "Zen Browser"
 slug = "zen-browser"
 categories = ["technology", "internet", "browsers"]
 keywords = ["browsers", "Arc", "Firefox", "Zen Browser", "Google"]
-image = "/blog/2024-10-18-zen-browser/zen-browser.jpg"
+image = "/zen-browser/zen-browser.jpg"
 summary = "Zen and the art of browser maintenance"
 +++
 
