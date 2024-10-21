@@ -1,20 +1,26 @@
 <head>
-    <!-- Open Graph tags -->
     <meta property="og:title" content="{{ .Title }}" />
     <meta property="og:type" content="website" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:url" content="{{ .Permalink }}" />
-    
-    {{ $image := .Params.image | default .Site.Params.ogimage | absURL }}
-    <meta property="og:image" content="{{ $image }}" />
-    <meta property="og:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
+    {{ if .Params.image }}
+        <meta property="og:image" content="{{ .Params.image | absURL }}" />
+    {{ else }}
+        <meta property="og:image" content="{{ .Site.Params.image | absURL }}" />
+    {{ end }}
+    <meta property="og:description" content="{{ with .Summary }}{{ . | html }}{{ else }}{{ .Site.Params.defaultDescription | html }}{{ end }}" />
 
-    <!-- Twitter Card tags -->
+    <!-- Twitter Open Graph -->
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:site" content="@krabf_"/>
     <meta name="twitter:title" content="{{ .Title }}"/>
-    <meta name="twitter:image" content="{{ $image }}" />
-    <meta name="twitter:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
+    {{ if .Params.image }}
+        <meta name="twitter:image" content="{{ .Params.image | absURL }}" />
+    {{ else }}
+        <meta name="twitter:image" content="{{ .Site.Params.image | absURL }}" />
+    {{ end }}
+    <meta name="twitter:description" content="{{ with .Summary }}{{ . | html }}{{ else }}{{ .Site.Params.defaultDescription | html }}{{ end }}" />
 
+    {{ template "_internal/opengraph.html" . }}
     {{ template "_internal/schema.html" . }}
 </head>
