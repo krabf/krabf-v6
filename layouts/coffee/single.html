@@ -1,18 +1,3 @@
-{{ define "meta" }}
-  <meta property="og:description" content="{{ .Summary }}" />
-  <meta property="og:title" content="{{ .Title }}" />
-  <meta property="og:type" content="coffee" />
-  <meta property="og:locale" content="en_US" />
-  <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.ogimage | absURL }}{{ end }}" />
-  <meta property="coffee:published_time" content="{{ .Date.Format "January 2, 2006" }}" />
-  <meta property="coffee:modified_time" content="{{ .Lastmod.Format "January 2, 2006" }}" />
-  <meta property="coffee:author" content="Kushaiah Felisilda" />
-  {{ with .Keywords }}
-    <meta property="coffee:section" content="{{ index . 0 | title }}" />
-  {{ end }}
-{{ end }}
-
 {{ define "main" }}
   <article class="coffee">
     <header>
