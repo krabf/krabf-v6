@@ -4,7 +4,7 @@ title = "The Arc Browser"
 slug = "the-arc-browser"
 categories = ["personal", "technology"]
 keywords = ["The Browser Company", "Arc Browser", "Arc Search", "Josh Miller", "Google"]
-image = "/the-arc-browser.jpg"
+image = "/the-arc-browser/the-arc-browser.jpg"
 summary = "Rant on Arc Browser/The Browser Company"
 +++
 
