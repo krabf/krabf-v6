@@ -4,8 +4,8 @@ title = "Zen Browser"
 slug = "zen-browser"
 categories = ["technology", "internet", "browsers"]
 keywords = ["browsers", "Arc", "Firefox", "Zen Browser", "Google"]
-summary = "Zen and the art of browser maintenance"
 image = "/2024-10-18-zen-browser/zen-browser.jpg"
+summary = "Zen and the art of browser maintenance"
 +++
 
 I've been on quite a browser journey [lately]([https://krabf.com/the-arc-browser/](https://krabf.com/the-arc-browser/)). I gave Firefox a try, but it encountered problems and felt so clunky that I was forced to do fresh installs in the end just to keep it running smoothly. Eventually, I threw in the towel and narrowed it down to Arc and Safari.
