@@ -9,7 +9,7 @@ summary = "Who's up for a challenge?"
 
 Only a week until December, and I just roped my partner into a wild challenge: we both need to lose 3kg before 2024 ends. This number might be easy for everyone else but we take things slow in this house HA! Anyway, Since we're both stupidly competitive, this should be fun. The stakes? Loser pays up! If we both hit our goals, we're treating ourselves to a feast (ironic, I know). But if we both fail? Well, we get nothing, which is just sad.
 
-On another exciting browser news, I’m back to using Safari as my main browser. Zen kept removing my essential tabs, and it was driving me crazy. Six months after ditching Arc, it's Shift-Command-C (`⇧⌘C`) for copying URLs is pure muscle memory at this point, so I try bringing it to every browser. Safari was a pain since it opens the web inspector ruler. After failed tweaks with System Preferences and Automator, I finally fixed it with Shortcuts and Raycast.
+On another exciting browser news, I’m back to using Safari as my main browser. Zen kept removing my essential tabs, and it was driving me crazy. Six months after ditching Arc, it's `Shift-Command-C` for copying URLs is pure muscle memory at this point, so I try bringing it to every browser. Safari was a pain since it opens the web inspector ruler. After failed tweaks with System Preferences and Automator, I finally fixed it with Shortcuts and Raycast.
 
 ---
 
