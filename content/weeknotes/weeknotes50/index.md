@@ -41,7 +41,6 @@ I honestly have lost hope for the Philippines. It's another [Mary Grace Piattos]
 
 ---
 
-https://www.youtube.com/watch?v=aJS-mpU1FDA
 <lite-youtube videoid="aJS-mpU1" style="background-image: url(&quot;https://i.ytimg.com/vi/aJS-mpU1/hqdefault.jpg&quot;);" class="lyt-activated"><button type="button" class="lty-playbtn"><span class="lyt-visually-hidden">Play</span></button><iframe width="560" height="315" title="Play" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube-nocookie.com/embed/aJS-mpU1?autoplay"></iframe></lite-youtube>
 
 Leonardo DaVinci Documentary by Ken Burns, Sarah Burns and David McMahon. Looking forward to watching this this week!
