@@ -9,9 +9,9 @@ summary = "Cebu Safari part deux, Leonardo da Vinci Documentary"
 
 Spent the weekend with my cousins at Cebu Safari (my second time this year, third all in all lmao.) It's been ages since we all got together, so this trip felt special. We're making a pact to meet up once or twice a year, knowing how work tends to consume our lives. The day was great, filled with catching up, banters, and exploring the safari. My feet, however, might disagree — they were pretty worn out by the end because the drive home through traffic was hell.
 
-ALSO, 
+ALSO,
 
-Christmas is next week?!?! HOW!!!
+Christmas is in two weeks?!?! HOW!!!
 
 ---
 
