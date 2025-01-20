@@ -7,7 +7,7 @@ week = "2025-W03 - 13 January to 19 January"
 summary = "A Week In Manila"
 +++
 
-What a packed week in Manila! Started off with three days of pure couple time, which led to one of my biggest concert dreams finally coming true — seeing Cigarettes After Sex live. Been waiting for this moment since 2013, and let me tell you, Greg Gonzales delivered that ethereal and experience I'd always imagined.
+What a packed week in Manila! Started off with three days of pure couple time, which led to one of my biggest concert dreams finally coming true — seeing Cigarettes After Sex live. Been waiting for this moment since 2013, and let me tell you, Greg Gonzales delivered that ethereal and heavenly experience I'd always imagined.
 
 We caught Interstellar in IMAX for its 10th anniversary. First time seeing it on the big screen, and wow, what a difference that makes.
 

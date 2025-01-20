@@ -1,6 +1,6 @@
 +++
 date = 2025-01-05
-title = "WEEKNOTES 01, 2025"
+title = "WEEKNOTES 01"
 slug = "weeknotes01"
 categories = ["personal", "weeknotes"]
 week = "2025-W01 - 30 December to 5 January"
