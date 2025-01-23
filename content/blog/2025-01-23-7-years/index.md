@@ -1,7 +1,7 @@
 +++
 date = 2025-01-23
-title = "7 Years" 
-slug = "7-years"
+title = "Seven Years Sober" 
+slug = "seven-years-sober"
 categories = ["personal", "goal"]
 keywords = ["sobriety", "health"]
 summary = "Each day is a quiet victory"
