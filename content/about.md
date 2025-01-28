@@ -21,6 +21,7 @@ I am fascinated by technology, especially ethical and useful technologies. I enj
 
 ### Get in touch:
 <a rel="me" href="https://mastodon.social/@krabf">Mastodon</a>\
+<a href="https://bsky.app/profile/krabf.com"> Bluesky</a>\
 <a href="https://www.threads.net/@krabf" rel="me">Threads</a>\
 <a href="http://instagram.com/krabf" rel="me">Instagram</a>\
 <a href="/index.xml" type="application/rss+xml">RSS</a>\
@@ -47,7 +48,7 @@ This site is created with [Hugo](https://gohugo.io/), hosted in [Netlify](https:
 
 ## Hardware: Audio
 - [ATHM40x](https://www.audio-technica.com/en-eu/ath-m40x): I love these headphones for editing.
-- [AirPods](https://www.apple.com/ph/shop/product/MV7N2ZA/A/airpods-with-charging-case): I still use the 2nd gen AirPods, handy when traveling but needs an upgrade.
+- [Bose QC35II](https://global.bose.com/content/consumer_electronics/b2c_catalog/worldwide/websites/en_ae/product/qc35_ii.html): I've had the Bose for 7 years now and I love the noise cancelling I get from these. Battery and connection isn't that great but they work perfectly when I need them especially on flights. 
 
 ## Hardware: Camera
 -  [Leica M10-R](https://leica-camera.com/en-int/photography/cameras/m/m10-r-black/details): As my main body.
@@ -62,28 +63,28 @@ This site is created with [Hugo](https://gohugo.io/), hosted in [Netlify](https:
 - [WD Elements 14TB](https://www.westerndigital.com/en-ap/products/external-drives/wd-elements-desktop-usb-3-0-hdd#WDBBKG0140HBK-AESN): HDD for archiving.
 
 
-I use a lot of applications and software to increase my productivity both at work and in my personal life.
+I use a lot of applications and software to increase my productivity both at work and in my personal life. 
 
 
 ## Software: General
+- [Raycast](https://www.raycast.com/): Another Spotlight replacement, but blazingly fast. A must-have.
 - [Things](https://culturedcode.com/): As a task manager.
 - [Fantastical](https://www.notion.so/product/calendar) - I'm back to using Fantastical because it just works! Yes, I still have a [love](https://krabf.com/adapting-to-my-new-calendar-system/)/[hate](https://krabf.com/calendars/) relationship with calendars.
-- [Spark](https://sparkmailapp.com/) - For personal emails.
-- Google Mail (web) - For work emails.
-- [Arc](https://arc.net/): My primary browser for desktop.
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/): My browser for coding and development.
-- [Raycast](https://www.raycast.com/): Spotlight replacement, but blazingly fast.
+- [Spark](https://sparkmailapp.com/) and [Apple Mail](https://support.apple.com/en-gb/guide/mail/welcome/mac): I have this love/hate relationship with emails so I can't choose one.
+- [Zen Browser](https://zen-browser.app/): My primary browser for desktop.
+- I switch between [Safari](https://www.apple.com/ph/safari/) and [Arc](https://arc.net/) as my secondary browser.
 - [NetNewsWire](https://netnewswire.com/): I read a lot of RSS feeds everyday and this is the perfect one for me.
-- [Bartender](https://www.macbartender.com/): For organizing utility apps on the menu bar (free version).
+- [Ice](https://icemenubar.app/): For organizing utility apps on the menu bar (free version).
 - [Dropzone](https://aptonic.com): Such a handy little app for moving and copying files to different folders.
 - [Maccy](https://maccy.app/): My clipboard manager.
 - [Shottr](https://shottr.cc/): Screenshot tool.
 - [Tot](https://tot.rocks/): My very handy text companion.
+- [ImageOptim](https://imageoptim.com/mac): Makes my images load faster.
 
 
 ## Software: Writing
 - [Notion](https://www.notion.so/): For project management.
-- [Obsidian](https://obsidian.md/): Most of my writings live here.
+- [Obsidian](https://obsidian.md/): Most of my writing live here.
 
 
 ## Software: Development
@@ -112,4 +113,4 @@ I use a lot of applications and software to increase my productivity both at wor
 
 These are only a few of the many applications I regularly use for work and personal use, and I find them to be instrumental in my productivity and efficiency.
 
-I understand that this is a long list of apps and software, but please note that I do not receive any compensation for mentioning them. If you find my blog informative, engaging, helpful or whatever, you can show your support by [buying me a coffee](https://www.buymeacoffee.com/krabf) or making a donation via PayPal, Maya or GCash (message me for account info). Thank you for your consideration.
+I understand this is a long list of apps and software, but please note that I do not receive any compensation for mentioning them. If you find my blog informative, engaging, helpful, or whatever, you can show your support by [buying me a coffee](https://www.buymeacoffee.com/krabf) or making a donation via PayPal, Maya or GCash (message me for account info). Thank you for your consideration.
