@@ -13,20 +13,28 @@ So, I had the privilege of seeing AURORA last January 31st. I wasn't planning on
 
 Sorry (not sorry) for the low-quality pictures! Enjoyed too much that had to dance with every song.
 
-<figure>
-<img src="aurora-1.jpg" alt="AURORA concert" data-action="zoom" >
+<div class="container">
+  <div class="twocol">
+    <figure class="sbs">
+<img src="aurora-1.jpg" alt="AURORA concert" data-action="zoom">
 <figcaption>Soulless Creatures</figcaption>
 </figure>
-<figure>
-<img src="aurora-2.jpg" alt="AURORA concert" data-action="zoom" >
+  <figure class="sbs">
+<img src="aurora-2.jpg" alt="AURORA concert" data-action="zoom">
 <figcaption>The Seed</figcaption>
-</figure>
+</div>
+</div>
 
-<figure>
-<img src="aurora-3.jpg" alt="AURORA concert" data-action="zoom" >
+<br>
+
+<div class="container">
+  <div class="twocol">
+    <figure class="sbs">
+<img src="aurora-3.jpg" alt="AURORA concert" data-action="zoom">
 <figcaption>When The Dark Dresses Lightly</figcaption>
 </figure>
-<figure>
-<img src="aurora-4.jpg" alt="AURORA concert" data-action="zoom" >
+  <figure class="sbs">
+<img src="aurora-4.jpg" alt="AURORA concert" data-action="zoom">
 <figcaption>Some Type Of Skin</figcaption>
-</figure>
+</div>
+</div>
