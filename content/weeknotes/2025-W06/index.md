@@ -16,15 +16,15 @@ Running's been complicated lately. Started back in 2012, but the running scene h
 
 # The Week in Links
 
-Still processing the news about [Barbie Hsu's passing](https://www.rappler.com/entertainment/celebrities/barbie-hsu-death/). For those of us who grew up watching Meteor Garden, her Shan Cai was our first taste of Asian romance dramas.
+🔗 Still processing the news about [Barbie Hsu's passing](https://www.rappler.com/entertainment/celebrities/barbie-hsu-death/?ref=krabf.com). For those of us who grew up watching Meteor Garden, her Shan Cai was our first taste of Asian romance dramas.
 
-[In spareness, you find enough.](https://minimalism.com/journal/spareness/?ref=krabf.com) *by* [Leo Babauta](https://zenhabits.net/)
+🔗 [In spareness, you find enough.](https://minimalism.com/journal/spareness/?ref=krabf.com) *by* [Leo Babauta](https://zenhabits.net/?ref=krabf.com)
 
-Treying out [Iconfactory's](https://iconfactory.com/) new app [Tapestry](https://usetapestry.com/) this week. "Tapestry combines posts from your favorite social media services like Bluesky, Mastodon, Tumblr and others with RSS feeds, podcasts, YouTube channels and more. All of your content presented in chronological order, with no algorithm deciding what you should or shouldn't see." I am not sure if my internet is slow or the app is just clunky. But nevertheless, Tapestry reminds me of [Twitterific](https://twitterrific.com/beyond) (RIP). But I still honestly prefer [Openvibe](https://openvibe.social/) just because I could post/like/repost there. But Tapestry's design is sleek and user-friendly. I'll continue to try it out and see if I run into a problem (which is usually just caused by the need for a subscription).
+🔗 Trying out [Iconfactory's](https://iconfactory.com/) new app [Tapestry](https://usetapestry.com/) this week. "Tapestry combines posts from your favorite social media services like Bluesky, Mastodon, Tumblr and others with RSS feeds, podcasts, YouTube channels and more. All of your content presented in chronological order, with no algorithm deciding what you should or shouldn't see." I am not sure if my internet is slow or the app is just clunky. But nevertheless, Tapestry reminds me of [Twitterific](https://twitterrific.com/beyond/?ref=krabf.com) (RIP). But I still honestly prefer [Openvibe](https://openvibe.social/?ref=krabf.com) just because I could post/like/repost there. But Tapestry's design is sleek and user-friendly. I'll continue to try it out and see if I run into a problem (which is usually just caused by the need for a subscription).
 
-[DeepSeek’s rise shows why China’s top AI talent is skipping Silicon Valley](https://restofworld.org/2025/china-ai-talent-deepseek-rise-us-dominance/)
+🔗 [DeepSeek’s rise shows why China’s top AI talent is skipping Silicon Valley](https://restofworld.org/2025/china-ai-talent-deepseek-rise-us-dominance/?ref=krabf.com)
 
-[Discover the IndieWeb, one blog post at a time.](https://indieblog.page/?ref=krabf.com). A website to randomly explore the IndieWeb. Simply click a button and you will be redirected to a random post from a personal blog.
+🔗 [Discover the IndieWeb, one blog post at a time.](https://indieblog.page/?ref=krabf.com). A website to randomly explore the IndieWeb. Simply click a button and you will be redirected to a random post from a personal blog.
 
 ---
 
