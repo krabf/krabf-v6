@@ -20,11 +20,6 @@ The EDSA Revolution wasn’t just a Manila event — it was a nationwide movemen
 
 ![The Freeman report during EDSA People Power in Cebu](people-power-cebu-2.jpg "The Freeman report during EDSA People Power in Cebu")
 
-<figure>
-<img src="people-power-cebu-1" alt="The Freeman Newspaper report during EDSA People Power" data-action="zoom" >
-<figcaption>The Freeman report during EDSA People Power in Cebu<figcaption>
-</figure>
-
 <br>
 <div class="container">
   <div class="twocol">
@@ -32,14 +27,14 @@ The EDSA Revolution wasn’t just a Manila event — it was a nationwide movemen
 <img src="people-power-cebu-1.jpg" alt="The Freeman Newspaper report during EDSA People Power in Cebu" data-action="zoom">
 <figcaption>The Freeman report during EDSA People Power in Cebu<figcaption>
 </figure>
-
-<br>
 <div class="container">
   <div class="twocol">
     <figure class="sbs">
 <img src="people-power-cebu-3.webp" alt="The Freeman Newspaper report during EDSA People Power in Cebu" data-action="zoom">
 <figcaption>Fuente Osmeña Circle in Cebu during People Power</figcaption>
 </figure>
+</div>
+</div>
 
 Beyond historical facts, what’s more concerning is the isolation that happens when we confine ourselves to academic spaces and digital screens. Some may not realize that Cebu still have events and mobilizations reflecting the spirit of EDSA. Labor unions fight for workers' rights, environmental groups protect natural resources, student organizations push for educational reform, and cultural workers preserve historical memory. These movements may not always trend online, but they continue shaping our community. [^4]
 
@@ -57,4 +52,5 @@ So the next time someone says Cebu or cities outside Metro Manila doesn’t cele
 [^2]: https://law.upd.edu.ph/wp-content/uploads/2020/09/UP-IHR-Martial-Law-Album-Plan.pdf
 [^3]: https://cebudailynews.inquirer.net/365044/cebu-and-the-days-leading-to-the-edsa-people-power-revolution
 [^4]: https://www.rappler.com/philippines/visayas/activists-leads-edsa-people-power-revolution-cebu-february-2023/
-[^5] [Photos are from the 1986 EDSA People Power Revolution by The Presidential Museum and Libray](https://www.flickr.com/photos/govph/albums/72157650893299265/)
+<br>
+Photos are from the 1986 EDSA People Power Revolution by The Presidential Museum and Library(https://www.flickr.com/photos/govph/albums/72157650893299265/)
