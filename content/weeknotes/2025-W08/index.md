@@ -17,7 +17,7 @@ I enjoy cleaning and organizing, and if I had all the time in the world, I’d p
 
 🔗 [Craig Mod's version of "Leave no trace"](https://craigmod.com/ridgeline/203/?ref=krabf.com)
 
-🔗 [Reflections on 25 years of Interconnected](https://interconnected.org/home/2025/02/19/reflections/?ref=krabf.com) *by* [Matt Webb](https://interconnected.org/?ref=krabf.com)
+🔗 [Reflections on 25 years of Interconnected](https://interconnected.org/home/2025/02/19/reflections) *by* [Matt Webb](https://interconnected.org/?ref=krabf.com)
 
 When I first wanted to start blogging, there was this unspoken rule that you HAD to use WordPress to be taken seriously. That, and you needed to monetize immediately with Adsense and other ad platforms. But all I wanted was a simple space to write down my thoughts. I eventually tried Tumblr instead, but that quickly morphed into just another place where I reblogged interesting stuff rather than creating anything original.
 
