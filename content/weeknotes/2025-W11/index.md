@@ -21,10 +21,11 @@ summary = "Dutertard"
 
 ---
 
-## Some People Need Killing : A Memoir of Murder in My Country  
-### By [Patricia Evangelista](https://patriciaevangelista.com/)
+### Some People Need Killing : A Memoir of Murder in My Country  
+## By [Patricia Evangelista](https://patriciaevangelista.com/)
 
 <div align="center">
-   <a href="https://www.penguinrandomhouse.com/books/612869/some-people-need-killing-by-patricia-evangelista/"><img src="some-people-need-killing-patricia-evangelista.jpg" alt="Some People Need Killing by Patricia Evangelista" width="550">
+   <a href="https://www.penguinrandomhouse.com/books/612869/some-people-need-killing-by-patricia-evangelista/"><img src="some-people-need-killing-patricia-evangelista.jpg" alt="Some People Need Killing by Patricia Evangelista" width="450">
 </a></div>
+<br>
 Some People Need Killing: A Memoir of Murder in My Country" by Patricia Evangelista is a powerful, deeply personal account of the Philippines’ war on drugs under President Rodrigo Duterte. The book offers a detailed, human-centered perspective on the violent campaign that led to thousands of deaths, often without due process. Evangelista, a trauma journalist and documentary filmmaker, recounts the harrowing stories of victims, families, and perpetrators, exploring how fear, justification, and complicity permeated Filipino society. The title itself echoes the chilling justification of a vigilante who claimed, “Some people need killing,” capturing the disturbing normalization of extrajudicial killings. Evangelista’s work critically examines the human cost of Duterte’s anti-drug crusade, revealing the psychological and moral toll on the nation. The book has been widely acclaimed, earning spots on multiple "Best of 2023" lists and winning the 2024 Helen Bernstein Book Award for Excellence in Journalism.
