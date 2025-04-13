@@ -46,7 +46,7 @@ One thing I did appreciate was the scenes between Gemma and Mark. Those moments 
 
 *Timpi* and *sikmura* aren't just practices we consciously choose, they're more like survival instincts that kick in, especially in Filipino work culture where hierarchy and pakikisama often take center stage. You don't always realize you're doing it until you're already deep in it — holding back a reaction in a tense meeting, smiling through a comment that didn’t sit right, or swallowing discomfort just to keep the peace.
 
-🔗 [Coffee Receipt Stories](coffeereceiptstories.co/?ref=krabf.com) *by* [Odding](https://oddingwang.com/) - Such a beautiful collection and website! A fun idea too when traveling, if only I could draw like this.
+🔗 [Coffee Receipt Stories](coffeereceiptstories.com/?ref=krabf.com) *by* [Odding](https://oddingwang.com/) - Such a beautiful collection and website! A fun idea too when traveling, if only I could draw like this.
 
 ![Coffee Receipt Stories homepage](coffee-receipt-stories1.jpg "Coffee Receipt Stories")
 
