@@ -654,50 +654,85 @@ lite-youtube.lyt-activated > .lty-playbtn {
 
 .archive {
   display: grid;
-  gap: 2.0rem;
-  line-height: 1.5;
+  gap: 1.25rem;
+  line-height: 1.3;
   list-style-type: none;
   padding: 0;
 }
 
 .archive > li > p {
-  font-size: var(--font-medium); 
+  font-size: var(--font-small); 
   color: var(--text-light); 
   font-family: 'IBM Plex Mono', monospace;
   font-weight: bold;
   text-transform: uppercase; 
   letter-spacing: 1px;
-  margin-bottom: 1rem;
-}
-
-.archive > li ul {
-  list-style-type: none;
-  padding: 0;
+  margin-bottom: 0.5rem;
 }
 
 .archive > li li {
-  font-size: 1.4rem; 
+  font-size: 1.1rem; 
   font-weight: 500;
-  margin-top: .5rem;
-  margin-bottom: .5rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
 }
 
 .archive a {
   text-decoration: none;
   color: var(--text);
   display: block;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.75rem;
   transition: color 0.2s;
+  padding: 0.5rem 0;
+}
+
+.archive a p {
+  color: var(--text-light);
+  margin-top: 0.15rem;
+  margin-bottom: 0.15rem;
+  font-size: var(--font-small);
+}
+
+/* Mobile-specific adjustments */
+@media (max-width: 640px) {
+  .archive {
+    gap: 1rem;
+  }
+
+  .archive > li li {
+    font-size: 1rem;
+    line-height: 1.4;
+  }
+
+  .archive a {
+    padding: 0.75rem 0;
+    margin-bottom: 0.5rem;
+  }
+
+  .archive a p {
+    font-size: 0.85rem;
+    line-height: 1.4;
+  }
+}
+
+/* Accessibility improvements */
+.archive a:focus {
+  outline: 2px solid var(--highlight);
+  outline-offset: 2px;
 }
 
 .archive a:hover {
   color: var(--highlight);
 }
 
-.archive a p {
-  color: var(--text-light);
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
+/* Ensure sufficient touch targets on mobile */
+@media (max-width: 640px) {
+  .archive a {
+    min-height: 44px; /* Minimum touch target size */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 }
 
 /******************************************************************************\
