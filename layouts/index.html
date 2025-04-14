@@ -11,7 +11,7 @@
     
     <div class="categories-container">
       <div class="categories-text">
-        <p>Browse by Topics</p>
+        <p><a href="/categories/">Browse by Topics</a></p>
       </div>
       <ul class="categories">
         {{ range first 6 (where .Site.Taxonomies.categories.ByCount "Count" ">" 0) }}
@@ -24,36 +24,14 @@
     </div>
     
     <ul class="link-list">
+      {{ range first 5 (where .Site.RegularPages "Section" "blog") }}
       <li>
-        <a href="/blogging-journey-2023">
-          <strong>Blogging Journey 2023</strong>
-          Learning and growing through personal blogging
+        <a href="{{ .RelPermalink }}">
+          <strong>{{ .Title }}</strong>
+          {{ .Summary | truncate 100 }}
         </a>
       </li>
-      <li>
-        <a href="/a-coffee-per-month">
-          <strong>A Coffee Per Month</strong>
-          Pricing is a delicate balance between profit and accessibility
-        </a>
-      </li>
-      <li>
-        <a href="/collections">
-          <strong>Collections</strong>
-          Exploring curated online spaces
-        </a>
-      </li>
-      <li>
-        <a href="/fleabag-is-totally-right">
-          <strong>Fleabag is totally right</strong>
-          Hair is everything
-        </a>
-      </li>
-      <li>
-        <a href="/okay-so-maybe-i-will-write">
-          <strong>Okay So Maybe I Will Try To Write</strong>
-          A bad writer's take on writing for this blog
-        </a>
-      </li>
+      {{ end }}
     </ul>
   <!--
      <hr>
