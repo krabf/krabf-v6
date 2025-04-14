@@ -5,10 +5,23 @@
     <meta property="og:locale" content="en_US" />
     <meta property="og:url" content="{{ .Permalink }}" />
     
+    {{ $ogImage := "" }}
     {{ if .Params.image }}
-        <meta property="og:image" content="{{ $.Site.BaseURL }}{{ .Params.image }}" />
-    {{ else }}
-        <meta property="og:image" content="{{ .Site.Params.ogimage | absURL }}" />
+        {{ $ogImage = printf "%s%s" $.Site.BaseURL .Params.image }}
+    {{ else if .Site.Params.ogimage }}
+        {{ $ogImage = .Site.Params.ogimage | absURL }}
+    {{ else if .Content }}
+        {{ $firstImage := findRE "<img[^>]+src=\"([^\">]+)\"" .Content 1 }}
+        {{ if $firstImage }}
+            {{ $ogImage = index (findRE "src=\"([^\">]+)\"" (index $firstImage 0) 1) 0 | replaceRE "src=\"" "" | replaceRE "\"" "" }}
+            {{ if not (hasPrefix $ogImage "http") }}
+                {{ $ogImage = printf "%s%s" $.Site.BaseURL $ogImage }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+    
+    {{ if $ogImage }}
+        <meta property="og:image" content="{{ $ogImage }}" />
     {{ end }}
     
     <meta property="og:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
@@ -18,10 +31,8 @@
     <meta name="twitter:site" content="@krabf_"/>
     <meta name="twitter:title" content="{{ .Title }}"/>
     
-    {{ if .Params.image }}
-        <meta name="twitter:image" content="{{ $.Site.BaseURL }}{{ .Params.image }}" />
-    {{ else }}
-        <meta name="twitter:image" content="{{ .Site.Params.ogimage | absURL }}" />
+    {{ if $ogImage }}
+        <meta name="twitter:image" content="{{ $ogImage }}" />
     {{ end }}
     
     <meta name="twitter:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
