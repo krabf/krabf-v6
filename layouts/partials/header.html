@@ -6,18 +6,25 @@
     <meta property="og:url" content="{{ .Permalink }}" />
     
     {{ $ogImage := "" }}
+    
+    {{/* First priority: Image from front matter */}}
     {{ if .Params.image }}
         {{ $ogImage = printf "%s%s" $.Site.BaseURL .Params.image }}
-    {{ else if .Content }}
-        {{ $firstImage := findRE "<img[^>]+src=\"([^\">]+)\"" .Content 1 }}
-        {{ if $firstImage }}
-            {{ $ogImage = index (findRE "src=\"([^\">]+)\"" (index $firstImage 0) 1) 0 | replaceRE "src=\"" "" | replaceRE "\"" "" }}
+    {{ end }}
+    
+    {{/* Second priority: First image from content */}}
+    {{ if not $ogImage }}
+        {{/* Look for markdown images ![alt](src) */}}
+        {{ $markdownImage := findRE `!\[[^\]]*\]\(([^)]+)\)` .Content 1 }}
+        {{ if $markdownImage }}
+            {{ $ogImage = index (findRE `\(([^)]+)\)` (index $markdownImage 0) 1) 0 | replaceRE `\(|\)` "" }}
             {{ if not (hasPrefix $ogImage "http") }}
                 {{ $ogImage = printf "%s%s" $.Site.BaseURL $ogImage }}
             {{ end }}
         {{ end }}
     {{ end }}
     
+    {{/* Third priority: Default ogImage from config */}}
     {{ if not $ogImage }}
         {{ $ogImage = .Site.Params.ogimage | absURL }}
     {{ end }}
