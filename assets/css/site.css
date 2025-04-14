@@ -661,7 +661,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 }
 
 .archive > li > p {
-  font-size: var(--font-small); 
+  font-size: var(--font-medium); 
   color: var(--text-light); 
   font-family: 'IBM Plex Mono', monospace;
   font-weight: bold;
@@ -671,7 +671,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 }
 
 .archive > li li {
-  font-size: 1.1rem; 
+  font-size: 1.5rem; 
   font-weight: 500;
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
@@ -683,7 +683,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
   display: block;
   margin-bottom: 0.75rem;
   transition: color 0.2s;
-  padding: 0.5rem 0;
+  padding: 0.035rem 0;
 }
 
 .archive a p {
