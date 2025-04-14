@@ -7,7 +7,9 @@ week = "2025-W15 - 07 April to 13 April"
 summary = "Maybe it's time for a change... chz"
 +++
 
-Been falling down a rabbit hole of personal blogs lately. With each new site I discover, that little voice in my head gets louder, *maybe it's time for a change*. Pretty ambitious considering I have zero website design skills and wouldn't know where to begin. Perhaps "redesign" is too grand a term — maybe I just want to add a few more pages, something to make visitors curious. But if I'm being honest with myself, this impulse isn't really about others. It's about creating something that feels fully mine. Not entirely sure what I'm chasing here, but the urge to build something personal keeps growing.
+Been falling down a rabbit hole of personal blogs lately. With each new site I discover, that little voice in my head gets louder, *maybe it's time for a change*. Pretty ambitious considering I have zero website design skills and wouldn't know where to begin. Perhaps "redesign" is too grand a term — maybe I just want to add a few more pages, something to make visitors curious.
+
+But if I'm being honest with myself, this impulse isn't really about others. It's about creating something that feels fully mine. Not entirely sure what I'm chasing here, but the urge to build something personal keeps growing.
 
 ---
 
@@ -19,11 +21,11 @@ Been falling down a rabbit hole of personal blogs lately. With each new site I d
 
 🔗 [From the FrankOcean community on Reddit: Moonlight Screenplay Book/ Prologue by Frank Ocean](https://www.reddit.com/r/FrankOcean/comments/1jrt7wf/moonlight_screenplay_book_prologue_by_frank_ocean/)
 
-![Moonlight Screenplay Book/ Prologue by Frank Ocean](moonlight-screenplay-book-prologue-by-frank-ocean.webp) "Moonlight Screenplay Book/ Prologue by Frank Ocean"
+![Moonlight Screenplay Book/ Prologue by Frank Ocean](moonlight-screenplay-book-prologue-by-frank-ocean.webp "Moonlight Screenplay Book/ Prologue by Frank Ocean")
 
 🔗 [1.5-million-year-old bone tools discovered in Tanzania are the oldest ever, reshaping early hominin technology](https://archaeologymag.com/2025/03/1-5-million-year-old-bone-tools-tanzania/) *via* [kottke.org](https://kottke.org/25/03/0046488-archaeologists-have-found)
 
-![Tools made on long bone diaphysis of very large mammals. Credit: I. de la Torre et al., Nature (2025)](1-5-million-year-old-bone-tools-tanzania-1.webp) "Tools made on long bone diaphysis of very large mammals. Credit: I. de la Torre et al., Nature (2025)"
+![Tools made on long bone diaphysis of very large mammals. Credit: I. de la Torre et al., Nature (2025)](1-5-million-year-old-bone-tools-tanzania-1.webp "Tools made on long bone diaphysis of very large mammals. Credit: I. de la Torre et al., Nature (2025)")
 
 🔗 [Digital Echoes and Unquiet Minds](https://www.chrbutler.com/digital-echoes-and-unquiet-minds) *by* [Christopher Butler](https://www.chrbutler.com/)
 
