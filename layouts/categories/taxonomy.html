@@ -1,21 +1,21 @@
 {{ define "main" }}
-<!-- Main Content -->
-<div class="categories-container">
   <div class="categories-text">
-    {{ range ((where $.Site.RegularPages "Section" "blog").GroupByDate "January 2006") }}
-    <li>
-      <p>{{ .Key }}</p>
-      {{ range .Pages }}
-      <a href="{{ .RelPermalink }}">
-        <ul>
-          <li>{{ .Title }}</li>
-          <p style="font-size: 16px;">{{ .Summary | truncate 300 }}</p>
-          <p style="font-size: 14px; font-family: 'IBM Plex Mono', monospace;">{{ .Date | time.Format ":date_long" }}</p>
-        </ul>
-      </a>
-      {{ end }}
-    </li>
-    {{ end }}
+    <h1 class="category-header"><a href="/categories/">Topics</a> / {{ .Title }}</h1>
   </div>
-</div>
+  <ul class="archive">
+    {{ range (.Pages.GroupByDate "January 2006") }}
+      <li>
+        <p>{{ .Key }}</p>
+        {{ range .Pages }}
+        <a href="{{ .RelPermalink }}">
+          <ul>
+            <li>{{ .Title }}</li>
+            <p style="font-size: 16px;">{{ .Summary | truncate 300 }}</p>
+            <p style="font-size: 14px; font-family: 'IBM Plex Mono', monospace;">{{ .Date | time.Format ":date_long" }}</p>
+          </ul>
+        </a>
+        {{ end }}
+      </li>
+    {{ end }}
+  </ul>
 {{ end }}
