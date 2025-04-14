@@ -443,14 +443,14 @@ input[type="submit"] {
 }
 
 .categories-text p {
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 600;
   margin-bottom: 1.5rem;
   color: var(--text);
 }
 
 .categories-text h1.category-header {
-  font-size: 1.8rem;
+  font-size: 1.2rem;
   font-weight: 700;
   margin-bottom: 2rem;
   color: var(--text);
