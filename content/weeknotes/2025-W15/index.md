@@ -9,7 +9,6 @@ summary = "Maybe it's time for a change... chz"
 
 Been falling down a rabbit hole of personal blogs lately. With each new site I discover, that little voice in my head gets louder, *maybe it's time for a change*. Pretty ambitious considering I have zero website design skills and wouldn't know where to begin. Perhaps "redesign" is too grand a term — maybe I just want to add a few more pages, something to make visitors curious. But if I'm being honest with myself, this impulse isn't really about others. It's about creating something that feels fully mine. Not entirely sure what I'm chasing here, but the urge to build something personal keeps growing.
 
-
 ---
 
 # The Week in Links
@@ -18,7 +17,7 @@ Been falling down a rabbit hole of personal blogs lately. With each new site I d
 
 🔗 [As the Trump administration purges web pages, this group is rushing to save them](https://www.npr.org/2025/03/23/nx-s1-5326573/internet-archive-wayback-machine-trump)
 
-🔗 From the FrankOcean community on Reddit: Moonlight Screenplay Book/ Prologue by Frank Ocean
+🔗 [From the FrankOcean community on Reddit: Moonlight Screenplay Book/ Prologue by Frank Ocean](https://www.reddit.com/r/FrankOcean/comments/1jrt7wf/moonlight_screenplay_book_prologue_by_frank_ocean/)
 
 ![Moonlight Screenplay Book/ Prologue by Frank Ocean](moonlight-screenplay-book-prologue-by-frank-ocean.webp) "Moonlight Screenplay Book/ Prologue by Frank Ocean"
 
