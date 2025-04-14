@@ -2,7 +2,7 @@
 date = 2023-08-15
 title = "The Leica M10-R"
 slug = "the-leicam10r"
-categories = ["Photography", "Technology", "blog"]
+categories = ["photography"]
 keywords = ["Leica"]
 summary = "A one year review of the Leica M10-R"
 +++

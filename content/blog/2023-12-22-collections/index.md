@@ -2,7 +2,7 @@
 date = 2023-12-22
 title = "Collections"
 slug = "collections"
-categories = ["personal", "art", "collections", "blogging"]
+categories = ["collections", "blogging"]
 keywords = ["collections", "Arena", "Pinterest", "Cosmos", "MyMind", "Mike Mills", "Christopher Butler", "Gemma Copeland"]
 summary = "Exploring curated online spaces"
 image = "collections.jpg"

@@ -2,7 +2,7 @@
 date = 2024-03-25
 title = "On Digital Relationships"
 slug = "on-digital-relationships"
-categories = ["personal", "internet", "digital relationships", "IndieWeb"]
+categories = ["personal", "WWW", "digital relationships", "IndieWeb"]
 keywords = ["digital relationships", "IndieWeb carnival", "blogging", "Manuel Moreale"]
 summary = "Personal thoughts on digital relationships and their ebb and flow over time"
 +++

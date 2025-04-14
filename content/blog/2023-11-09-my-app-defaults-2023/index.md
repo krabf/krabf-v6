@@ -2,8 +2,8 @@
 date = 2023-11-09
 title = "My App Defaults"
 slug = "my-app-defaults-2023"
-categories = ["Apple", "Mac", "technology"]
-keywords = ["default apps", "Kev Quirk", "Rob Knight", "Hemispheric Views"]
+categories = ["Apple", "tools"]
+keywords = ["default apps", "Kev Quirk", "Robb Knight", "Hemispheric Views"]
 summary = "Default apps I use on my Mac this 2023"
 +++
 

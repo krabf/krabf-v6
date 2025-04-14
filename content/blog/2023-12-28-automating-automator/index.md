@@ -2,7 +2,7 @@
 date = 2023-12-28
 title = "Automating Automator"
 slug = "automating-automator"
-categories = ["automation", "organization", "AppleScript"]
+categories = ["automation", "tools", "AppleScript"]
 keywords = ["Apple", "automation", "AppleScript", "ChatGPT", "OpenAI"]
 summary = "Gee pee tee things"
 image = "automating-automator.jpg"

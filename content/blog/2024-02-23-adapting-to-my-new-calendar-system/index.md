@@ -2,7 +2,7 @@
 date = 2024-02-23
 title = "Adapting to my New Calendar System"
 slug = "adapting-to-my-new-calendar-system"
-categories = ["personal", "productivity"]
+categories = ["personal", "productivity", "tools"]
 keywords = ["productivity", "calendars", "workflow"]
 summary = "A follow up on setting Monday as the start of my calendar week"
 link = "https://krabf.com/a-calendar-shift-experiment"

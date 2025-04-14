@@ -2,7 +2,7 @@
 date = 2024-01-01
 title = "Blogging Journey 2023"
 slug = "blogging-journey-2023"
-categories = ["blogging", "personal", "YearInReview"]
+categories = ["blogging", "personal", "Year In Review"]
 keywords = ["personal blogs", "enshittification”, “social media, “Matthias Ott”, “kottke.org", "krabf"]
 summary = "Learning and growing through personal blogging"
 image = "blogging-journey-2023.jpg"

@@ -2,7 +2,7 @@
 date = 2021-12-02
 title = "Province life is slow life"
 slug = "province-life-is-slow-life"
-categories = ["Personal", "blog"]
+categories = ["personal"]
 keywords = ["province"]
 summary = "There will always be an itch in your system that makes you want to go home"
 +++

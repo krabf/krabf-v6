@@ -2,7 +2,7 @@
 date = 2023-01-01
 title = "I finally have a functional blog"
 slug = "a-functional-blog"
-categories = ["blog"]
+categories = ["blogging"]
 keywords = ["personal blog", "writing"]
 summary = "I now have a space on the internet where I can share my thoughts to the world"
 +++

@@ -2,7 +2,7 @@
 date = 2023-11-28
 title = "Salamat, Kukuk's"
 slug = "salamat-kukuks"
-categories = ["personal", "Kukuk's", "Turtle's", "Cebu", "places and spaces"]
+categories = ["personal", "Cebu", "places and spaces"]
 keywords = ["art", "Cebu", "Kukuk's", "Cebu Creatives"]
 summary = "Thank you for being both a creative canvas and a welcoming haven"
 image = "salamat-kukuks.jpg"

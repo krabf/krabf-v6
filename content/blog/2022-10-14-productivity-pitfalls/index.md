@@ -2,7 +2,7 @@
 date = 2022-10-14
 title = "Productivity Pitfalls"
 slug = "productivity-pitfalls"
-categories = ["Personal", "productivity"]
+categories = ["productivity"]
 keywords = ["productivity", "mindful productivity", "hype"]
 summary = "Effectiveness vs. hype"
 +++

@@ -2,7 +2,7 @@
 date = 2023-11-08
 title = "Shot on iPhone"
 slug = "shot-on-iphone"
-categories = ["Apple", "iPhone", "technology"]
+categories = ["Apple", "technology"]
 keywords = ["Apple", "A17 Pro", "iPhone 15", "technology"]
 summary = "Apple's Shot on iPhone campaign and what it really means"
 image = "shot-on-iphone.jpg"

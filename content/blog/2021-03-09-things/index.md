@@ -2,7 +2,7 @@
 date = 2021-03-09
 title = "Things"
 slug = "things"
-categories = ["productivity", "tools", "uses", "blog"]
+categories = ["productivity", "tools"]
 keywords = ["Things 3", "Apple", "macOS", "iOS"]
 summary = "Trying out Things 3"
 +++

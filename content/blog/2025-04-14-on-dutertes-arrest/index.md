@@ -2,7 +2,7 @@
 date = "2025-03-14"
 title = "On Duterte's Arrest"
 slug = "on-dutertes-arrest"
-categories = ["personal", "politics"]
+categories = ["personal", "politics", "Philippines"]
 keywords = ["Duterte", "human rights", "ICC",]
 summary = "ICC arrests Rodrigo Duterte for drug war crimes."
 +++

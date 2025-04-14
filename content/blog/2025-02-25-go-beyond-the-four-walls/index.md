@@ -2,7 +2,7 @@
 date = 2025-02-25
 title = "Go Beyond The Four Walls"
 slug = "go-beyond-the-four-walls"
-categories = ["rant", "Philippines", "politics", "art"]
+categories = ["Philippines", "politics"]
 keywords = ["EDSA", "People Power Revolution", "Philippines", "Marcos Dictatorship"]
 summary = "The People Power Revolution"
 +++

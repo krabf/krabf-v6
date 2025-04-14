@@ -2,7 +2,7 @@
 date = 2023-05-30
 title = "WWDC 2023 Wishlist"
 slug = "wwdc-2023-wishlist"
-categories = ["blog"]
+categories = ["Apple"]
 tags = ["Apple", "WWDC", "Apple Power User"]
 summary = "My wishlist for Apple's annual Worldwide Developers Conference"
 +++

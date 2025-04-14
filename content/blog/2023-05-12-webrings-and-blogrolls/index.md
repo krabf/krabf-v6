@@ -2,14 +2,14 @@
 date = 2023-05-12
 title = "Webrings and Blogrolls"
 slug = "webrings-and-blogrolls"
-categories = ["blog"]
+categories = ["blogging", "WWW", "IndieWeb"]
 tags = ["blogroll", "webring", "indieweb"]
 summary = "The rabbit hole of blogs"
 +++
 
 On Kev Quirk’s [Anti-Social Update](https://kevquirk.com/anti-social-update), he wrote:
 
-> I rarely pick my phone up now and I certainly don’t doom-scroll... 
+> I rarely pick my phone up now and I certainly don’t doom-scroll...
 > ...because - you guessed it - instead of doom-scrolling, I’m either ignoring my phone completely, or reading RSS feeds.
 >
 > It’s much more enjoyable.

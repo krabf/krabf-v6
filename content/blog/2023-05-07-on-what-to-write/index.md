@@ -2,7 +2,7 @@
 date = 2023-05-07
 title = "On what to write"
 slug = "on-what-to-write"
-categories = ["blog", "writing"]
+categories = ["writing", "blogging"]
 tags = ["The Jolly Teapot", "blogging"]
 summary = "Here I am 15 months later, still struggling"
 +++

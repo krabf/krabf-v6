@@ -2,8 +2,8 @@
 date = 2023-12-29
 title = "On Subscriptions"
 slug = "on-subscriptions"
-categories = ["personal", "subscriptions", "apps", "YearInReview"]
-keywords = ["Apple", "subscription"]
+categories = ["personal", "tools", "Year In Review"]
+keywords = ["Apple", "subscriptions"]
 summary = "Thoughts on personal digital subscriptions and one-time payments"
 +++
 

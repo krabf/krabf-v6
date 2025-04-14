@@ -2,7 +2,7 @@
 date = 2023-09-26
 title = "Revisiting: Sinekultura"
 slug = "revisiting-sinekultura"
-categories = ["cinema", "personal"]
+categories = ["film", "personal"]
 keywords = ["cinema", "sinekultura", "Cebuano"]
 summary = "I stumbled upon my old Tumblr page for a class at university."
 image = "revisiting-sinekultura.jpg"

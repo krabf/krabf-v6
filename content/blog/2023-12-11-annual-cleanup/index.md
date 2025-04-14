@@ -2,7 +2,7 @@
 date = 2023-12-11
 title = "Annual Cleanup"
 slug = "annual-cleanup"
-categories = ["personal", "workflow", "systems"]
+categories = ["personal", "Digital Relationships"]
 keywords = ["decluttering", "new year", "2024", "digital organization"]
 summary = "Clutter into order using a systematic approach"
 image = "annual-cleanup.jpg"

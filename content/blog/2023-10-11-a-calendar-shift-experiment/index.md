@@ -2,7 +2,7 @@
 date = 2023-10-11
 title = "A Calendar Shift Experiment"
 slug = "a-calendar-shift-experiment"
-categories = ["calendars"]
+categories = ["personal", "productivity", "tools"]
 keywords = ["productivity", "calendar", "workflows"]
 summary = "Setting Monday as the start of the week"
 image = "a-calendar-shift-experiment.jpg"

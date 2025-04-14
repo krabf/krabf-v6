@@ -2,7 +2,7 @@
 date = 2023-10-09
 title = "Fleabag is totally right"
 slug = "fleabag-is-totally-right"
-categories = ["personal", "Fleabag"]
+categories = ["personal", "TV"]
 keywords = ["hairstyles", "haircut", "Felabag"]
 summary = "Hair is everything"
 image = "fleabag-is-totally-right.jpg"

@@ -2,7 +2,7 @@
 date = 2024-04-15
 title = "Structured"
 slug = "structured"
-categories = ["personal", "productivity"]
+categories = ["personal", "productivity", "tools"]
 keywords = ["productivity", "Structured"]
 summary = "Trying out the Structured app"
 +++

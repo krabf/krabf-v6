@@ -2,7 +2,7 @@
 date = 2024-09-21
 title = "150 Days with Structured"
 slug = "150-days-with-structured"
-categories = ["personal", "apps", "productivity"]
+categories = ["personal", "tools", "productivity"]
 keywords = ["Structured", "productivity"]
 summary = "Structured app really helped me map out my days"
 image = "/blog/2024-09-21-150-days-with-structured/150-days-with-structured.jpg"

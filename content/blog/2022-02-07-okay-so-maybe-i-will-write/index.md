@@ -2,7 +2,7 @@
 date = 2022-02-07
 title = "Okay so maybe I’ll try to write..."
 slug = "okay-so-maybe-i-will-write"
-categories = ["Personal", "blog"]
+categories = ["writing"]
 keywords = ["writing", "habits"]
 summary = "What to write?"
 +++

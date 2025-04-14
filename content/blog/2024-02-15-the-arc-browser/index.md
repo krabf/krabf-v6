@@ -2,7 +2,7 @@
 date = 2024-02-15
 title = "The Arc Browser"
 slug = "the-arc-browser"
-categories = ["personal", "technology"]
+categories = ["technology", "tools"]
 keywords = ["The Browser Company", "Arc Browser", "Arc Search", "Josh Miller", "Google"]
 image = "/the-arc-browser/the-arc-browser.jpg"
 summary = "Rant on Arc Browser/The Browser Company"

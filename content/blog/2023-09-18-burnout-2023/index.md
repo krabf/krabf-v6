@@ -2,7 +2,7 @@
 date = 2023-09-18
 title = "Burnout 2023"
 slug = "burnout-2023"
-categories = ["blog", "personal"]
+categories = ["health", "personal"]
 keywords = ["burnout", "corporate"]
 summary = "Burnout, 2023 edition A.K.A my most burnout yet"
 image = "burnout-2023.jpg"

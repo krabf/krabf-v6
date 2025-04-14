@@ -2,7 +2,7 @@
 date = 2023-05-04
 title = "Trailer dilemma"
 slug = "trailer-dilemma"
-categories = ["Blog", "Film"]
+categories = ["film"]
 tags = ["Dune", "film trailers"]
 summary = "Why I choose to skip trailers"
 +++

@@ -2,7 +2,7 @@
 date = 2023-02-20
 title = "Meta"
 slug = "meta"
-categories = ["Social Media", "Internet", "blog"]
+categories = ["WWW"]
 keywords = ["Meta", "Facebook"]
 summary = "My love/hate relationship with Facebook"
 +++

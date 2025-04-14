@@ -2,7 +2,7 @@
 date = 2022-01-23
 title = "Learning patience"
 slug = "learning-patience"
-categories = ["Personal", "blog", "tech", "tools"]
+categories = ["personal", "technology"]
 keywords = ["technology", "accessibility"]
 summary = "This is how I learn to be patient"
 +++

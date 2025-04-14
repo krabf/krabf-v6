@@ -3,7 +3,7 @@ date: 2023-09-30
 title: "Ang Bantayog"
 link: http://ang-bantayog.com/
 slug: "ang-bantayog"
-categories: ["websites", "internet"]
+categories: ["Philippines", "Politics", "WWW"]
 keywords: ["Philippines", "Martial Law", "Chia Amisolo", "ML51"]
 summary: "An internet art piece that speaks to memorials, mourning, and memory as experienced by machines and technologies"
 image: "ang-bantayog.jpg"

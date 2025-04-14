@@ -2,7 +2,7 @@
 date = 2024-10-18
 title = "Zen Browser"
 slug = "zen-browser"
-categories = ["technology", "internet", "browsers"]
+categories = ["technology", "tools"]
 keywords = ["browsers", "Arc", "Firefox", "Zen Browser", "Google"]
 image = "/zen-browser/zen-browser.jpg"
 summary = "Zen and the art of browser maintenance"

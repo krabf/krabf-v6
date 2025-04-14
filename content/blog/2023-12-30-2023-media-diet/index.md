@@ -2,7 +2,7 @@
 date = 2023-12-30
 title = "2023 Media Diet"
 slug = "2023-media-diet"
-categories = ["collections", "yearly review"]
+categories = ["Year In Review", "films", "TV", "coffee"]
 keywords = ["media diet", "films", "curating", "2023"]
 summary = "2023 Discoveries"
 +++
