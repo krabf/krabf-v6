@@ -11,29 +11,15 @@
     
     <div class="categories-container">
       <div class="categories-text">
-        <p>Browse by Categories</p>
+        <p>Browse by Topics</p>
       </div>
       <ul class="categories">
-        <li class="category">
-          <a href="/categories/personal">Personal</a>
-          <span class="category-badge">8</span>
-        </li>
-        <li class="category">
-          <a href="/categories/weeknotes">Weeknotes</a>
-          <span class="category-badge">6</span>
-        </li>
-        <li class="category">
-          <a href="/categories/blogging">Blogging</a>
-          <span class="category-badge">5</span>
-        </li>
-        <li class="category">
-          <a href="/categories/www">WWW</a>
-          <span class="category-badge">4</span>
-        </li>
-        <li class="category">
-          <a href="/categories/collections">Collections</a>
-          <span class="category-badge">3</span>
-        </li>
+        {{ range first 6 (where .Site.Taxonomies.categories.ByCount "Count" ">" 0) }}
+          <li class="category">
+            <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a>
+            <span class="category-badge">{{ .Count }}</span>
+          </li>
+        {{ end }}
       </ul>
     </div>
     
