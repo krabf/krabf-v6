@@ -116,9 +116,6 @@ body {
   font-family: 'ff-meta-serif-web-pro', serif;
   font-size: 1rem;
   -moz-hyphens: auto;
-  hyphens: auto;
-  -webkit-hyphenate-character: "-";
-}
 
 /******************************************************************************\
 * Selection                                                                    *
