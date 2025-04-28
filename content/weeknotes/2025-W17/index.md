@@ -33,7 +33,7 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 ![An opening illustration from 'The Residence by Maira Kalman](the-residence.webp "An opening illustration from 'The Residence by Maira Kalman")
 
-✺ [A Love Letter to The People Who Believe in People](https://creativemornings.com/blog/a-love-letter-to-the-people-who-believe-in-people/?ref=krabf.com) by[*Tina Roth Eisenberg](https://www.swiss-miss.com/?ref=krabf.com)*
+✺ [A Love Letter to The People Who Believe in People](https://creativemornings.com/blog/a-love-letter-to-the-people-who-believe-in-people/?ref=krabf.com) *by* [Tina Roth Eisenberg](https://www.swiss-miss.com/?ref=krabf.com)
 
 ---
 
