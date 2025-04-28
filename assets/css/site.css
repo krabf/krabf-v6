@@ -217,7 +217,7 @@ input[type="submit"] {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); 
   gap: 0.5rem;
-  text-align: center;
+  text-align: left;
   align-items: baseline;
 }
 
