@@ -116,8 +116,10 @@ body {
   font-family: 'ff-meta-serif-web-pro', serif;
   font-size: 1rem;
   -moz-hyphens: auto;
+  -webkit-hyphens: auto;
   hyphens: auto;
   -webkit-hyphenate-character: "-";
+  hyphenate-character: "-";
 }
 
 /******************************************************************************\
@@ -1192,4 +1194,27 @@ a:hover {
 
 .toc a {
   text-decoration: underline;
+}
+
+/* Links styling */
+.links .markup p {
+  margin-bottom: 1rem;
+}
+
+/* Styling for links with the ✺ symbol */
+.links .markup p:has(a) {
+  margin-bottom: 1.25rem;
+}
+
+/* Space between link entries */
+.sep {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.sep hr {
+  border: none;
+  border-top: 1px solid #eaebee;
+  width: 100%;
+  margin: 0 auto;
 }
