@@ -218,6 +218,7 @@ input[type="submit"] {
   grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); 
   gap: 0.5rem;
   text-align: center;
+  align-items: baseline;
 }
 
 .header strong {
@@ -225,6 +226,7 @@ input[type="submit"] {
   font-weight: 600;
   color: var(--text);
   text-align: left;
+  margin-bottom: 0.5rem;
 }
 
 .header strong span {
@@ -242,6 +244,7 @@ input[type="submit"] {
   .header strong {
     grid-column: 1 / 2;
     font-size: 1rem;
+    margin-bottom: 0;
   }
 }
 
@@ -252,6 +255,7 @@ input[type="submit"] {
 .header li a {
   display: inline-block;
   white-space: nowrap;
+  padding: 0.15rem 0;
 }
 
 .content {
