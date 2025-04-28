@@ -847,6 +847,12 @@ lite-youtube.lyt-activated > .lty-playbtn {
   letter-spacing: 0.05em;
   margin-top: 2.25rem;
 }
+.markup h5 {
+  font-weight: 700;
+  font-size: 1.02rem;
+  letter-spacing: 0.02em;
+  margin-top: 1rem;
+}
 
 .markup a:not(.link-subtle),
 .markup-link 
