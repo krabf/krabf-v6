@@ -6,7 +6,7 @@ layout = "blog"
 
 # Links
 
-#### A curated collection of interesting links from my weeknotes.
+##### A curated collection of interesting links from my weeknotes.
 
 {{< sep >}}
 
