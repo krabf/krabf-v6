@@ -14,6 +14,12 @@
   --font-large: 1.25rem;
   --font-extra-large: 1.85rem;
 
+  /* Grid and separator variables */
+  --grid-spacing: 1.25rem;
+  --grid-content-spacing: 1.5rem;
+  --grid-opacity: 0.3;
+  --color-text: var(--text);
+
   :root {
   --font-sans: 'ff-meta-serif-web-pro', serif, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --font-mono: 'IBM Plex Mono', monospace, ui-monospace, SFMono-Regular, Menlo,
@@ -85,6 +91,7 @@
     --highlight: #1d4ed8;
     --link: #fff;
     --button: var(--border);
+    --color-text: var(--text);
   }
 }
 
@@ -277,6 +284,7 @@ input[type="submit"] {
 .sep, .sep-no, .sep-solid {
   position: relative;
   margin-bottom: var(--grid-content-spacing);
+  margin:1.15rem;
   left: calc(0rem - var(--grid-spacing));
   width: calc(100% + 2 * var(--grid-spacing));
   border: none;
