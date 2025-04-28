@@ -1,20 +1,4 @@
 {{ define "main" }}
-  <article class="blog links">
-    <header>
-      <h1>{{ .Title }}</h1>
-      <p>{{ .Description }}</p>
-    </header>
-    <section>
-      <div class="markup">
-        {{ .Content }}
-      </div>
-    </section>
-  </article>
-  <br>
-  <hr>
-  <hr class="s1">
-  <br>
-  {{ partial "cta.html" . }}
-  
-  <hr class="s1">
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
 {{ end }}
