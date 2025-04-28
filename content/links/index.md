@@ -53,7 +53,7 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 ✺ [What to Draw and How to Draw It](https://publicdomainreview.org/collection/what-to-draw-and-how-to-draw-it-1913/?ref=krabf.com) *by* Edwin George Lutz *via* [The Public Domain Review](https://publicdomainreview.org/) - This brought back so many memories from when I first started working at my current company. We used to do a lot of creative exercises to keep things fun, and my guy Kyle would always come up with ones just like this. We'd always joke that we didn't know how to draw (which, to be fair, was mostly just me). Kyle would walk us through it, starting with simple shapes until, somehow, we had a bird hand-drawn on our paper. Another time, we did a maneki-neko, and it was just such a fun thing to draw together.
 
-![Maneki-neko drawing](maneki-neko-kush.jpg "My attempt to draw a maneki-neko")
+![Maneki-neko drawing](/weeknotes/2025-W16/maneki-neko-kush.jpg "My attempt to draw a maneki-neko")
 
 {{< sep >}}
 
@@ -85,7 +85,7 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 ✺ [1.5-million-year-old bone tools discovered in Tanzania are the oldest ever, reshaping early hominin technology](https://archaeologymag.com/2025/03/1-5-million-year-old-bone-tools-tanzania/) *via* [kottke.org](https://kottke.org/25/03/0046488-archaeologists-have-found)
 
-![Tools made on long bone diaphysis of very large mammals. Credit: I. de la Torre et al., Nature (2025)](1-5-million-year-old-bone-tools-tanzania-1.webp "Tools made on long bone diaphysis of very large mammals. Credit: I. de la Torre et al., Nature (2025)")
+![Tools made on long bone diaphysis of very large mammals. Credit: I. de la Torre et al., Nature (2025)](/weeknotes/2025-W15/1-5-million-year-old-bone-tools-tanzania-1.webp "Tools made on long bone diaphysis of very large mammals. Credit: I. de la Torre et al., Nature (2025)")
 
 {{< sep >}}
 
@@ -109,27 +109,27 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 ✺ [Lumon Industries WoeMeter](https://make3.co/work/woemeter/?ref=krabf.com) - Quick write-up on one of the standout props from Severance Season 2. Seriously, the amount of effort that went into it is wild. Massive credit to the props team (pun fully intended). The level of detail isn't just impressive! It's intentional. Everything feels like it belongs in that world, down to the most mundane object. You can tell they're not just filling space; they're building layers into the story with every item that shows up on screen.
 
-![Severance Season 2 Woemeter](severance_02_07_woemeter_03.jpg "Severance Season 2 Woemeter")
+![Severance Season 2 Woemeter](/weeknotes/2025-W14/severance_02_07_woemeter_03.jpg "Severance Season 2 Woemeter")
 
-![Severance Season 2 Woemeter Intensity](severance_02_07_woemeter_04.jpg "Severance Season 2 Woemeter")
+![Severance Season 2 Woemeter Intensity](/weeknotes/2025-W14/severance_02_07_woemeter_04.jpg "Severance Season 2 Woemeter")
 
 {{< sep >}}
 
 ✺ [Typography in Severance](https://severance.wiki/typography)
 
-![Manifold Extended type family designed by Connary Fagan](manifold-extended.jpg "Manifold Extended type family designed by Connary Fagan")
+![Manifold Extended type family designed by Connary Fagan](/weeknotes/2025-W14/manifold-extended.jpg "Manifold Extended type family designed by Connary Fagan")
 
-![The Lumon Industries logo](lumon-industries-logo.jpg "The Lumon Industries logo with Manifold Extended as its corporate typeface")
+![The Lumon Industries logo](/weeknotes/2025-W14/lumon-industries-logo.jpg "The Lumon Industries logo with Manifold Extended as its corporate typeface")
 
-![Forma DJR designed by David Jonathan and Roger Black](forma-djr.jpg "Forma DJR designed by David Jonathan and Roger Black")
+![Forma DJR designed by David Jonathan and Roger Black](/weeknotes/2025-W14/forma-djr.jpg "Forma DJR designed by David Jonathan and Roger Black")
 
-![Senior Refiner Checklist](senior-refinder-checklist.jpg "Senior Refiner Checklist")
+![Senior Refiner Checklist](/weeknotes/2025-W14/senior-refinder-checklist.jpg "Senior Refiner Checklist")
 
 {{< sep >}}
 
 ✺ [Ikea Australia leans Into the 'Severance' aesthetic](https://www.famouscampaigns.com/2025/03/ikea-australia-leans-into-the-severance-aesthetic/)
 
-![Severance Ikea ad](severance-ikea.jpg "For working that is mysterious and important")
+![Severance Ikea ad](/weeknotes/2025-W14/severance-ikea.jpg "For working that is mysterious and important")
 
 {{< sep >}}
 
@@ -143,9 +143,9 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 ✺ [Coffee Receipt Stories](https://coffeereceiptstories.com/?ref=krabf.com) *by* [Odding](https://oddingwang.com/) - Such a beautiful collection and website! A fun idea too when traveling, if only I could draw like this.
 
-![Coffee Receipt Stories homepage](coffee-receipt-stories1.jpg "Coffee Receipt Stories")
+![Coffee Receipt Stories homepage](/weeknotes/2025-W14/coffee-receipt-stories1.jpg "Coffee Receipt Stories")
 
-![Coffee Receipt Stories homepage](coffee-receipt-stories2.jpg "Coffee Receipt Stories")
+![Coffee Receipt Stories homepage](/weeknotes/2025-W14/coffee-receipt-stories2.jpg "Coffee Receipt Stories")
 
 {{< sep >}}
 
@@ -163,7 +163,7 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 ✺ Jay Graber. BDE. 100%. [I want one](https://worldwithoutcaesars.com/). NOW! Please restock.
 
-![Alt text](shirt.webp "World Without Caesars")
+![Alt text](/weeknotes/2025-W13/shirt.webp "World Without Caesars")
 
 {{< sep >}}
 
@@ -175,13 +175,13 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 The Swiss government unveiled a new design for its passport, created by Geneva-based studio [RETINAA](https://retinaa.ch/work/new-swiss-passport/?ref=krabf.com). The passport features intricate 3D-modeled reliefs of Switzerland's landscapes, custom typefaces, and security features that use water as a recurring theme to symbolize movement and connection. The color palette shifts through a gradient inspired by the country's diverse landscapes, and under ultraviolet light, hidden details emerge, creating a layered, interactive experience. It is so beautifully made. I want to see and hold one in person.
 
-![New Swiss Passport](new-swiss-passport.jpg "New Swiss Passport by the Geneva-based creative agency [RETINAA](https://retinaa.ch/work/new-swiss-passport)")
+![New Swiss Passport](/weeknotes/2025-W13/new-swiss-passport.jpg "New Swiss Passport by the Geneva-based creative agency [RETINAA](https://retinaa.ch/work/new-swiss-passport)")
 
-![The watercourses in the new Swiss passport.](swiss-passport-watercourses.jpg "The watercourses in the new Swiss passport")
+![The watercourses in the new Swiss passport.](/weeknotes/2025-W13/swiss-passport-watercourses.jpg "The watercourses in the new Swiss passport")
 
-![The data page of the passport.](new-swiss-passport-data-page.jpg "The data page of the passport")
+![The data page of the passport.](/weeknotes/2025-W13/new-swiss-passport-data-page.jpg "The data page of the passport")
 
-![The Bundeshaus in Bern — only visible under UV light](the-bundeshaus-in-bern-UV-light.jpg "The Bundeshaus in Bern — only visible under UV light")
+![The Bundeshaus in Bern — only visible under UV light](/weeknotes/2025-W13/the-bundeshaus-in-bern-UV-light.jpg "The Bundeshaus in Bern — only visible under UV light")
 
 {{< sep >}}
 
