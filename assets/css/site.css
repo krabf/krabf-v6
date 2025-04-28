@@ -215,14 +215,16 @@ input[type="submit"] {
 
 .header-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr; 
-  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); 
+  gap: 0.5rem;
+  text-align: center;
 }
 
 .header strong {
   grid-column: 1 / -1;
   font-weight: 600;
   color: var(--text);
+  text-align: left;
 }
 
 .header strong span {
@@ -233,6 +235,8 @@ input[type="submit"] {
 @media (min-width: 640px) {
   .header-grid {
     grid-template-columns: 3fr 1fr 1fr 1fr; 
+    gap: 0.75rem;
+    text-align: left;
   }
 
   .header strong {
@@ -242,11 +246,12 @@ input[type="submit"] {
 }
 
 .header li.active {
-  color: var(--link);
+  color: var(--highlight);
 }
 
 .header li a {
   display: inline-block;
+  white-space: nowrap;
 }
 
 .content {
