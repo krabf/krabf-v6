@@ -15,27 +15,27 @@ I caught a screening of National Theatre Live: Fleabag on the big screen last Ju
 
 # The Week in Links
 
-🎒 I recently got the [Aer Travel Pack 3 Small](https://aersf.com/collections/backpacks/products/travel-pack-3-small?country=PH), which I believe is ideal for one-bag travel. I used it during my trip to Manila last weekend and found it super! People who have of this bag in the EDC *cult* are not exaggerating when they praise its versatility. While it has a technical and masculine appearance, I don't view this negatively given its functionality. I'm pleased with the bag overall. 
+✺ I recently got the [Aer Travel Pack 3 Small](https://aersf.com/collections/backpacks/products/travel-pack-3-small?country=PH), which I believe is ideal for one-bag travel. I used it during my trip to Manila last weekend and found it super! People who have of this bag in the EDC *cult* are not exaggerating when they praise its versatility. While it has a technical and masculine appearance, I don't view this negatively given its functionality. I'm pleased with the bag overall. 
 
-📱 The [Boox Palma](https://shop.boox.com/products/palma) has gained significant attention recently, with many people expressing positive opinions about it. The e-paper device market is experiencing rapid growth and innovation, making it challenging to stay current with all the new developments. BUT I would still opt for an [iPad mini](https://www.apple.com/ph/ipad-mini/)(Apple, please add M4 chips on the iPad minis!) with cellular data or the [Samsung Galaxy Tab A9](https://www.samsung.com/ph/tablets/galaxy-tab-a9/buy/). I don't read much; instead, I mainly watch films and TV series.
+✺ The [Boox Palma](https://shop.boox.com/products/palma) has gained significant attention recently, with many people expressing positive opinions about it. The e-paper device market is experiencing rapid growth and innovation, making it challenging to stay current with all the new developments. BUT I would still opt for an [iPad mini](https://www.apple.com/ph/ipad-mini/)(Apple, please add M4 chips on the iPad minis!) with cellular data or the [Samsung Galaxy Tab A9](https://www.samsung.com/ph/tablets/galaxy-tab-a9/buy/). I don't read much; instead, I mainly watch films and TV series.
 
 ![Boox Palma](/weeknotes/2024-W26/boox-palma.jpg "Boox Palma")
 
-📸 The [Leica D-Lux 8](https://leica-camera.com/en-int/photography/cameras/d-lux/d-lux-8) is here... and it looks a bit like the Leica Q3? 17MP from the 22-megapixel ***micro four thirds*** CMOS image sensor paired to a 10.9-34mm f/1.7-2.8 DC Vario-Summilux lens. Interesting how this would compare to Ricoh GRs and Fujifilm's X100 cameras.
+✺ The [Leica D-Lux 8](https://leica-camera.com/en-int/photography/cameras/d-lux/d-lux-8) is here... and it looks a bit like the Leica Q3? 17MP from the 22-megapixel ***micro four thirds*** CMOS image sensor paired to a 10.9-34mm f/1.7-2.8 DC Vario-Summilux lens. Interesting how this would compare to Ricoh GRs and Fujifilm's X100 cameras.
 
 ![Leica D-Lux 8](/weeknotes/2024-W26/leica-d-lux8.jpg "Leica D-Lux 8")
 
-🧊 Replaced Bartender with [Ice menu bar tool](https://icemenubar.app/). Simple but powerful!
+✺ Replaced Bartender with [Ice menu bar tool](https://icemenubar.app/). Simple but powerful!
 
-🛝 Stack the deck with [Figma Slides](https://www.figma.com/blog/figma-slides/)
+✺ Stack the deck with [Figma Slides](https://www.figma.com/blog/figma-slides/)
 
-👤 [The interruption is a form of self-sabotage, but it also expresses a need for connection and validation](https://aeon.co/essays/why-do-i-let-myself-sabotage-my-own-best-laid-plans?ref=krabf.com) by Eliane Glaser
+✺ [The interruption is a form of self-sabotage, but it also expresses a need for connection and validation](https://aeon.co/essays/why-do-i-let-myself-sabotage-my-own-best-laid-plans?ref=krabf.com) by Eliane Glaser
 
-📽️ [13 Films to See in July](https://thefilmstage.com/13-films-to-see-in-july-2024/)
+✺ [13 Films to See in July](https://thefilmstage.com/13-films-to-see-in-july-2024/)
 
-🚫 [I’m not going to disable my adblocker for you](https://manuelmoreale.com/ads-hypocrisy) by Manuel Moreale
+✺ [I’m not going to disable my adblocker for you](https://manuelmoreale.com/ads-hypocrisy) by Manuel Moreale
 
-🔋 [Less activity, less energy](https://winnielim.org/journal/my-experience-on-starting-exercise-from-zero/?ref=krabf.com) by Winnie Lim
+✺ [Less activity, less energy](https://winnielim.org/journal/my-experience-on-starting-exercise-from-zero/?ref=krabf.com) by Winnie Lim
 
 ---
 

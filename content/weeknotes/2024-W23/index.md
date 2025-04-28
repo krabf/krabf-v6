@@ -13,21 +13,21 @@ Getting back into my normal routine has been really tough since my grandfather p
 
 # The Week in Links
 
-🎥 Happy Pride! Here are some [27 (give or take) greatest queer films of all time](https://gorhamandhenry.com/2023/06/27/27-give-or-take-of-the-best-queer-films-of-all-time/)
+✺ Happy Pride! Here are some [27 (give or take) greatest queer films of all time](https://gorhamandhenry.com/2023/06/27/27-give-or-take-of-the-best-queer-films-of-all-time/)
 
-👾 [The church of Roblox: How young Filipino Catholics are building more inclusive spaces](https://restofworld.org/2024/roblox-church-filipino-catholics/)
+✺ [The church of Roblox: How young Filipino Catholics are building more inclusive spaces](https://restofworld.org/2024/roblox-church-filipino-catholics/)
 
 ![Roblox Filipino Catholics has an open-door policy for participants](/weeknotes/2024-W23/roblox-20240613.png "Roblox Filipino Catholics has an open-door policy for participants")
 
-🖼️ Doing a research for work this week about texts on videos and in prints and stumbled upon the amazing archive of the creator of the Vertigo film poster, [Saul Bass](https://filmartgallery.com/pages/saul-bass-archive).
+✺ Doing a research for work this week about texts on videos and in prints and stumbled upon the amazing archive of the creator of the Vertigo film poster, [Saul Bass](https://filmartgallery.com/pages/saul-bass-archive).
 
-🏳️‍🌈 [The Bakla in Philippines Culture](https://sikodiwa.substack.com/i/145182884/the-bakla-in-philippine-culture) - How does _your particular experience_ expand or limit your perspective on and understanding of LGBTQ+ issues?
+✺ [The Bakla in Philippines Culture](https://sikodiwa.substack.com/i/145182884/the-bakla-in-philippine-culture) - How does _your particular experience_ expand or limit your perspective on and understanding of LGBTQ+ issues?
 
-💬 [Things the guys who stole my phone have texted me to try to get me to unlock it](https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it)
+✺ [Things the guys who stole my phone have texted me to try to get me to unlock it](https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it)
 
-🌐 [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/) by [Molly White](https://www.citationneeded.news/author/molly/) - Many yearn for the “good old days” of the web. We could have those good old days back — or something even better — and if anything, it would be easier now than it ever was.
+✺ [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/) by [Molly White](https://www.citationneeded.news/author/molly/) - Many yearn for the “good old days” of the web. We could have those good old days back — or something even better — and if anything, it would be easier now than it ever was.
 
-🗃️ "Organizing is only necessary when you have too many things to easily find what you’re looking for." - Leo Babauta for [Minimalism Life®](https://minimalism.substack.com/p/minimalism-is-the-end-of-organizing)
+✺ "Organizing is only necessary when you have too many things to easily find what you’re looking for." - Leo Babauta for [Minimalism Life®](https://minimalism.substack.com/p/minimalism-is-the-end-of-organizing)
 
 ---
 

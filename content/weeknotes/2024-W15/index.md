@@ -17,21 +17,21 @@ A little weekend project for the blog. I was inspired by the clean design of Pip
 
 # The Week in Links
 
-🚶🏻 Thinking about [this](https://twitter.com/amandafortini/status/1769868640789106951) tweet and all the decisions I could have made without worrying about others' opinions...
+✺ Thinking about [this](https://twitter.com/amandafortini/status/1769868640789106951) tweet and all the decisions I could have made without worrying about others' opinions...
 
-⏯️ [Frame.io Version 4 Beta](https://frame.io/?ref=krabf.com) is here! Redesigned interface for customizable workflows and Frame-accurate comments and consolidated feedback lists. I'm still on the waitlist but excited to try it out
+✺ [Frame.io Version 4 Beta](https://frame.io/?ref=krabf.com) is here! Redesigned interface for customizable workflows and Frame-accurate comments and consolidated feedback lists. I'm still on the waitlist but excited to try it out
 
-📺 [Humane AI Pin](https://humane.com/) [reviews](https://www.youtube.com/results?search_query=humane+ai+pin) are out and I'm enjoying the widespread negative feedback. I specifically liked [David Pierce's](https://www.youtube.com/watch?v=_w1vv7_dU2Y) real world review on the PIN and it's just really bad. But I'm also contemplating that this could have been an Apple prototype, given that the founders previously worked at Apple.
+✺ [Humane AI Pin](https://humane.com/) [reviews](https://www.youtube.com/results?search_query=humane+ai+pin) are out and I'm enjoying the widespread negative feedback. I specifically liked [David Pierce's](https://www.youtube.com/watch?v=_w1vv7_dU2Y) real world review on the PIN and it's just really bad. But I'm also contemplating that this could have been an Apple prototype, given that the founders previously worked at Apple.
 
-📓 [The Flipbook Experiment](https://pudding.cool/projects/flipbook/) by [Pudding Cool](https://pudding.cool/) - **15,053 frames** have been drawn when I tried it.
+✺ [The Flipbook Experiment](https://pudding.cool/projects/flipbook/) by [Pudding Cool](https://pudding.cool/) - **15,053 frames** have been drawn when I tried it.
 
-🤖 [Your ‘AI first’ company is giving me AI fatigue](https://www.fastcompany.com/91076730/ai-first-fatigue-company-artificial-intelligence-nft) by [Michael Grothaus](https://www.fastcompany.com/user/michael-grothaus) - "*Using ChatGPT for sales, marketing, or communications with customers does not make you an AI-first company. If that’s all it took, then surely you would have to boast about being an “Excel-first” company, too, because you used a spreadsheet to keep track of your customers.*"
+✺ [Your ‘AI first’ company is giving me AI fatigue](https://www.fastcompany.com/91076730/ai-first-fatigue-company-artificial-intelligence-nft) by [Michael Grothaus](https://www.fastcompany.com/user/michael-grothaus) - "*Using ChatGPT for sales, marketing, or communications with customers does not make you an AI-first company. If that’s all it took, then surely you would have to boast about being an “Excel-first” company, too, because you used a spreadsheet to keep track of your customers.*"
 
-🧠 [You Are What You Read, Even If You Don’t Always Remember It](https://blog.jim-nielsen.com/2024/you-are-what-you-read/) by Jim Nielsen
+✺ [You Are What You Read, Even If You Don’t Always Remember It](https://blog.jim-nielsen.com/2024/you-are-what-you-read/) by Jim Nielsen
 
-📸 Great photos from Greg Morris' [Short Trip To Skegness](http://greg-morris.micro.blog/2024/04/14/a-short-trip.html) - I've been seeing the Ricoh GRIIIx everywhere!
+✺ Great photos from Greg Morris' [Short Trip To Skegness](http://greg-morris.micro.blog/2024/04/14/a-short-trip.html) - I've been seeing the Ricoh GRIIIx everywhere!
 
-👤 [Why blog anonymously](https://frills.dev/blog/240411-anon/) - I've been following Frills for a little bit now, and I just love her and her blog (obviously). I totally agree with everything she said in that post. There was a time when I had an anonymous website (now abandoned), and it was such a thrill that people would engage with the things I wrote and did without even knowing me.
+✺ [Why blog anonymously](https://frills.dev/blog/240411-anon/) - I've been following Frills for a little bit now, and I just love her and her blog (obviously). I totally agree with everything she said in that post. There was a time when I had an anonymous website (now abandoned), and it was such a thrill that people would engage with the things I wrote and did without even knowing me.
 
 ---
 

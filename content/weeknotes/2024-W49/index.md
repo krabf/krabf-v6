@@ -17,17 +17,17 @@ Since I'm leaving my laptop behind this break, I'll still plan to update my week
 
 # The Week in Links
 
-🎦 [Reminder that Christopher Nolan's Interstellar is playing at IMAX screens in the US and Canada and YES YOU SHOULD WATCH IT](https://www.imax.com/en/ph/news/interstellar-imax-exclusive-digital-tickets)
+✺ [Reminder that Christopher Nolan's Interstellar is playing at IMAX screens in the US and Canada and YES YOU SHOULD WATCH IT](https://www.imax.com/en/ph/news/interstellar-imax-exclusive-digital-tickets)
 
-📶 [Barcode Jamming](https://www.youtube.com/watch?v=bOfpQt4KFCc) *via* [kottke.org](https://kottke.org/24/12/playing-music-with-barcode-scanners/?ref=krabf.com)
+✺ [Barcode Jamming](https://www.youtube.com/watch?v=bOfpQt4KFCc) *via* [kottke.org](https://kottke.org/24/12/playing-music-with-barcode-scanners/?ref=krabf.com)
 
-💔 [Companies break promised all the time](https://stephango.com/self-guarantee/?ref=krabf.com) *by* [Stephen Ango](https://stephango.com)
+✺ [Companies break promised all the time](https://stephango.com/self-guarantee/?ref=krabf.com) *by* [Stephen Ango](https://stephango.com)
 
-🔊 [Every Noise at Once](https://everynoise.com/) *by* [Glenn Mcdonald](https://www.furia.com)
+✺ [Every Noise at Once](https://everynoise.com/) *by* [Glenn Mcdonald](https://www.furia.com)
 
-🌐 [Jack Baty changed his blog again.](https://baty.net/2024/12/from-hugo-to-ghost-and-back-again/?ref=krabf.com)
+✺ [Jack Baty changed his blog again.](https://baty.net/2024/12/from-hugo-to-ghost-and-back-again/?ref=krabf.com)
 
-📰 The Verge just [launched a subscription model](https://www.theverge.com/2024/12/3/24306571/verge-subscription-launch-fewer-ads-unlimited-access-full-text-rss) with some great perks: full-text RSS, access to premium newsletters, and an "improved ad experience" — which seems totally backward. If subscribers are already paying, why are ads even in the picture? Manuel Moreale [wrote](https://manuelmoreale.com/the-correct-amount-of-ads-is-zero/?ref=krabf.com) something about this that resonates with me. I'm not sold on paying for news sites. **There are far better ways to make information accessible to everyone**. Sure, these sites need to keep the lights on, but this paywall approach is just another capitalist move that pushes people away. It's why so many folks end up scrolling through [Facebook](https://www.pewresearch.org/short-reads/2024/02/02/5-facts-about-how-americans-use-facebook-two-decades-after-its-launch/) for their [daily news](https://pmc.ncbi.nlm.nih.gov/articles/PMC6424427/#sec003) instead of seeking out quality journalism.
+✺ The Verge just [launched a subscription model](https://www.theverge.com/2024/12/3/24306571/verge-subscription-launch-fewer-ads-unlimited-access-full-text-rss) with some great perks: full-text RSS, access to premium newsletters, and an "improved ad experience" — which seems totally backward. If subscribers are already paying, why are ads even in the picture? Manuel Moreale [wrote](https://manuelmoreale.com/the-correct-amount-of-ads-is-zero/?ref=krabf.com) something about this that resonates with me. I'm not sold on paying for news sites. **There are far better ways to make information accessible to everyone**. Sure, these sites need to keep the lights on, but this paywall approach is just another capitalist move that pushes people away. It's why so many folks end up scrolling through [Facebook](https://www.pewresearch.org/short-reads/2024/02/02/5-facts-about-how-americans-use-facebook-two-decades-after-its-launch/) for their [daily news](https://pmc.ncbi.nlm.nih.gov/articles/PMC6424427/#sec003) instead of seeking out quality journalism.
 
 ---
 

@@ -13,26 +13,26 @@ In Manila this week for a staycation with my work friends. These folks took me u
 
 # The Week in Links
 
- [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino/?ref=krabf.com) *by* [John Gruber](daringfireball.net)
+✺ [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino/?ref=krabf.com) *by* [John Gruber](daringfireball.net)
 
-🔗 [This page is under construction](https://localghost.dev/blog/this-page-is-under-construction/?ref=krabf.com) *by* [Sophie Koonin](localghost.de)
+✺ [This page is under construction](https://localghost.dev/blog/this-page-is-under-construction/?ref=krabf.com) *by* [Sophie Koonin](localghost.de)
 > We owe it to ourselves to bring that spirit back, and we can do that by carving out our own individual spaces on the web.
 
-🔗 [With Great Power Came No Responsibility](https://pluralistic.net/2025/02/26/ursula-franklin/#) - Enshittification, disenshittification, enshittifying, counterenshittificatory, antienshittificatory, and a lot more. This is a long one. But very much on point!
+✺ [With Great Power Came No Responsibility](https://pluralistic.net/2025/02/26/ursula-franklin/#) - Enshittification, disenshittification, enshittifying, counterenshittificatory, antienshittificatory, and a lot more. This is a long one. But very much on point!
 
-🔗 [The webiste as a book](https://vhbelvadi.com/gonville/?ref=krabf.com) *via* [Chris Glass](https://chrisglass.com/?ref=krabf.com)
+✺ [The webiste as a book](https://vhbelvadi.com/gonville/?ref=krabf.com) *via* [Chris Glass](https://chrisglass.com/?ref=krabf.com)
 
-🔗 [About the Opt Out Project](https://www.optoutproject.net/about-the-opt-out-project/) - Another rabbit hole...
+✺ [About the Opt Out Project](https://www.optoutproject.net/about-the-opt-out-project/) - Another rabbit hole...
 
-📺 [Application To Be Lars Von Trier's "Female Girlfriend/Muse"](https://vimeo.com/1046594792) *via* [Aeon](https://aeon.co/?ref=krabf.com)
+✺ [Application To Be Lars Von Trier's "Female Girlfriend/Muse"](https://vimeo.com/1046594792) *via* [Aeon](https://aeon.co/?ref=krabf.com)
 
-🔗 [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/) *by* [Marcin Wichary](https://aresluna.org/) - Absolutely love this. Reminds me of the person back in my hometown who makes those custom stamps for my mom. Such a specific craft but one that always fascinated me.
+✺ [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/) *by* [Marcin Wichary](https://aresluna.org/) - Absolutely love this. Reminds me of the person back in my hometown who makes those custom stamps for my mom. Such a specific craft but one that always fascinated me.
 
-🔗 [I Am Trapped In The Criterion Closet](https://www.mcsweeneys.net/articles/i-am-trapped-in-the-criterion-closet/?ref=krabf.com) *by* [Pat Cassels](https://www.mcsweeneys.net/authors/patrick-cassels)
+✺ [I Am Trapped In The Criterion Closet](https://www.mcsweeneys.net/articles/i-am-trapped-in-the-criterion-closet/?ref=krabf.com) *by* [Pat Cassels](https://www.mcsweeneys.net/authors/patrick-cassels)
 
-🔗 Just found out about [Binocular Shot](https://binocularshot.com/). Part of me is disappointed because I've had this weird fascination with films featuring binocular shots ever since watching The Grand Budapest Hotel. Thought I might create something around this someday. But I'm also secretly pleased because now I have a list of films I've missed. Time to dive into some new viewing material.
+✺ Just found out about [Binocular Shot](https://binocularshot.com/). Part of me is disappointed because I've had this weird fascination with films featuring binocular shots ever since watching The Grand Budapest Hotel. Thought I might create something around this someday. But I'm also secretly pleased because now I have a list of films I've missed. Time to dive into some new viewing material.
 
-🔗 [History of ampersand & some other things](https://www.typography.com/blog/our-middle-name/?ref=krabf.com)
+✺ [History of ampersand & some other things](https://www.typography.com/blog/our-middle-name/?ref=krabf.com)
 
 ---
 Because my favorite sisters are [**back**](https://www.youtube.com/watch?v=dOI_QTmK8Ks), here’s one of my favorite covers from them.

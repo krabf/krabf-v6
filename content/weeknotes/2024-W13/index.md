@@ -17,17 +17,17 @@ I've been experimenting with a productivity app called [Structured](https://stru
 
 # The Week in Links
 
-📣 [Motherhood aside, Marina Summers won ‘Drag Race’ without winning the crown](https://www.rappler.com/voices/rappler-blogs/opinion-motherhood-aside-marina-summers-won-drag-race-without-winning-crown/) - *Marina won’t need the crown and scepter to rule the drag world. Having already proved her name and brand, she is free to reign the world like the drag queen she was born to be.*
+✺ [Motherhood aside, Marina Summers won ‘Drag Race’ without winning the crown](https://www.rappler.com/voices/rappler-blogs/opinion-motherhood-aside-marina-summers-won-drag-race-without-winning-crown/) - *Marina won’t need the crown and scepter to rule the drag world. Having already proved her name and brand, she is free to reign the world like the drag queen she was born to be.*
 
-🕸️ [*THE HTML REVIEW*](https://thehtml.review/03/) - is an annual journal of literature made to exist on the web. It is edited by [Maxwell Neely-Cohen](https://maxy.world/) and [Shelby Wilson](https://shelby.cool/) (via Andy Chung of post.cv)
+✺ [*THE HTML REVIEW*](https://thehtml.review/03/) - is an annual journal of literature made to exist on the web. It is edited by [Maxwell Neely-Cohen](https://maxy.world/) and [Shelby Wilson](https://shelby.cool/) (via Andy Chung of post.cv)
 
 ![THE HTML REVIEW homepage evoking phenakistiscope](the-html-review.gif "THE HTML REVIEW homepage evoking phenakistiscope")
 
-👩🏼 [This week I learned that Dolly Parton originally sang I Will Always Love You](https://kottke.org/24/03/i-will-always-love-you-at-50)
+✺ [This week I learned that Dolly Parton originally sang I Will Always Love You](https://kottke.org/24/03/i-will-always-love-you-at-50)
 
-🎙️ [The Tim Ferris Show #728 with Seth Godin](https://tim.blog/2024/03/20/seth-godin-3/)- This was a fascinating discussion about writing, blogging, creative processes, and thinking styles. (via [Swiss Miss](https://www.swiss-miss.com/2024/03/tim-ferriss-and-seth-godin.html))
+✺ [The Tim Ferris Show #728 with Seth Godin](https://tim.blog/2024/03/20/seth-godin-3/)- This was a fascinating discussion about writing, blogging, creative processes, and thinking styles. (via [Swiss Miss](https://www.swiss-miss.com/2024/03/tim-ferriss-and-seth-godin.html))
 
-🌐 [30 years ago, Benjie Tan connected the Philippines to the World Wide Web](https://jimayson.wordpress.com/2011/08/13/the-night-benjie-hooked-up-the-philippines-to-the-internet/) - Benjie Tan quietly made the Philippines' first Internet connection the night before the public announcement on March 29, 1994. Tan worked overnight to set up the router connection to Sprint, celebrating alone with a pizza after making history 🇵🇭
+✺ [30 years ago, Benjie Tan connected the Philippines to the World Wide Web](https://jimayson.wordpress.com/2011/08/13/the-night-benjie-hooked-up-the-philippines-to-the-internet/) - Benjie Tan quietly made the Philippines' first Internet connection the night before the public announcement on March 29, 1994. Tan worked overnight to set up the router connection to Sprint, celebrating alone with a pizza after making history 🇵🇭
 
 ![Benjamin Tan's email on PhilNet developments](the-night-benjie-tan-hooked-up-the-phillipines-to-the-v0-vmtqgdudh6rc1.webp "Benjamin Tan's email on PhilNet developments")
 

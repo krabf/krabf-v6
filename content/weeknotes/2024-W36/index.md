@@ -11,28 +11,27 @@ It's been a busy week of cleaning and decluttering around here. We're signing on
 
 ---
 
-
 # The Week in Links
 
-🛠️ [The Periodic Table of Tools](https://periodictableoftools.com/) by [Theodore Gray](https://home.theodoregray.com/blog)
+✺ [The Periodic Table of Tools](https://periodictableoftools.com/) by [Theodore Gray](https://home.theodoregray.com/blog)
 
 ![The Periodic Table of Tools](/weeknotes/2024-W36/the-periodic-table-of-tools.jpg "The Periodic Table of Tools")
 
 ![The Periodic Table of Tools](/weeknotes/2024-W36/the-periodic-table-of-tools-protractors.jpg "Protractors")
 
-📰 Silvio Rizzi's new [Reeder](https://apps.apple.com/us/app/reeder/id6475002485) app launched this week, integrating RSS feeds with diverse content sources like podcasts, YouTube, and social media. Despite mixed reviews, I considered trying it as an alternative to my buggy NetNewsWire iOS app. However, discovering that OPML import is behind a paywall quickly changed my mind. For now, I'm sticking with NetNewsWire, hoping for improvements or a more accessible alternative in the future.
+✺ Silvio Rizzi's new [Reeder](https://apps.apple.com/us/app/reeder/id6475002485) app launched this week, integrating RSS feeds with diverse content sources like podcasts, YouTube, and social media. Despite mixed reviews, I considered trying it as an alternative to my buggy NetNewsWire iOS app. However, discovering that OPML import is behind a paywall quickly changed my mind. For now, I'm sticking with NetNewsWire, hoping for improvements or a more accessible alternative in the future.
 
- 📼[Tapedeck.org](http://www.tapedeck.org/index.php) is a project of [neckcns.com](http://www.neckcns.com), built to showcase the amazing beauty and (sometimes) weirdness found in the designs of the common audio tape cassette.
+✺ [Tapedeck.org](http://www.tapedeck.org/index.php) is a project of [neckcns.com](http://www.neckcns.com), built to showcase the amazing beauty and (sometimes) weirdness found in the designs of the common audio tape cassette.
  
 ![Tapdeck.org](/weeknotes/2024-W36/tapedeck.jpg "Tapdeck.org")
 
-🏢 [Detailed Miniature “Sculptures of Urban Decay”](https://kottke.org/24/09/detailed-miniature-sculptures-of-urban-decay/?ref=krabf.com) by [Joshua Smith](https://www.instagram.com/joshua_smith_street_artist/) *via* [kottke.org](https://kottke.org)
+✺ [Detailed Miniature “Sculptures of Urban Decay”](https://kottke.org/24/09/detailed-miniature-sculptures-of-urban-decay/?ref=krabf.com) by [Joshua Smith](https://www.instagram.com/joshua_smith_street_artist/) *via* [kottke.org](https://kottke.org)
 
 ![Sculptures of Urban Decay by Joshua Smith](/weeknotes/2024-W36/j-smith-mini-02.jpg "Sculptures of Urban Decay by Joshua Smith")
 
-⚖️ [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://web.archive.org/web/20240904200623/https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/) 
+✺ [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://web.archive.org/web/20240904200623/https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/) 
 
-🖥️ [Deck.Gallery](https://www.deck.gallery/) is collection of nicely designed decks, slides, keynotes, guidelines. Taking notes for my presentations soon!
+✺ [Deck.Gallery](https://www.deck.gallery/) is collection of nicely designed decks, slides, keynotes, guidelines. Taking notes for my presentations soon!
 
 ---
 

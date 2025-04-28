@@ -15,16 +15,16 @@ I also got to watch some Wong Kar-wai films this weekend thanks to Film Developm
 
 # The Week in Links
 
-📰 I have been playing New York Times new word game [Strands](https://www.nytimes.com/games/strands)
+✺ I have been playing New York Times new word game [Strands](https://www.nytimes.com/games/strands)
 
-👩🏻‍💻 [Manuel Moreale](https://manuelmoreale.com/) hosted the February edition of the IndieWeb Carnival on the theme of [Digital Relationship](https://manuelmoreale.com/indieweb-carnival-digital-relationships) and he recently did a fantastic [roundup](https://manuelmoreale.com/indieweb-carnival-roundup). I have been reading them and it kind of inspired me to write one despite being a month late.
+✺ [Manuel Moreale](https://manuelmoreale.com/) hosted the February edition of the IndieWeb Carnival on the theme of [Digital Relationship](https://manuelmoreale.com/indieweb-carnival-digital-relationships) and he recently did a fantastic [roundup](https://manuelmoreale.com/indieweb-carnival-roundup). I have been reading them and it kind of inspired me to write one despite being a month late.
 
-🗣️ How to Have More Meaningful Conversations by [Charles Duhigg](https://time.com/author/charles-duhigg/) - I'm no supercommunicator but I do like talking and listening to people sometimes and when I do *engage* with people, I often do the "looping for understanding" thing.
+✺ How to Have More Meaningful Conversations by [Charles Duhigg](https://time.com/author/charles-duhigg/) - I'm no supercommunicator but I do like talking and listening to people sometimes and when I do *engage* with people, I often do the "looping for understanding" thing.
 > Looping has three steps: Ask a question; repeat back what you heard in your own words; and then ask if you got it right.
 
  I really liked the article and now I'm happily listening to the audiobook. It's very interesting!
 
-✍🏻 How to Build a Better Writing Habit by [Anne-Laure Le Cunff](https://nesslabs.com/author/annelaure) - This is pushing me to dive into reading and writing more. My goal for this year? To finish at least one book. You see, I'm more of a video and film buff, and reading hasn't always been my thing. But, I know if I want to be a good writer, I've got to read more. Since my attention can be a bit all over the place, I'm starting my reading journey with audiobooks. And yes, I just made this decision this week!
+✺ How to Build a Better Writing Habit by [Anne-Laure Le Cunff](https://nesslabs.com/author/annelaure) - This is pushing me to dive into reading and writing more. My goal for this year? To finish at least one book. You see, I'm more of a video and film buff, and reading hasn't always been my thing. But, I know if I want to be a good writer, I've got to read more. Since my attention can be a bit all over the place, I'm starting my reading journey with audiobooks. And yes, I just made this decision this week!
 
 ---
 

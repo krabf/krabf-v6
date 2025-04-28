@@ -2,7 +2,7 @@
 date = 2025-02-02
 title = "2025-W05"
 slug = "2025-W05"
-categories = ["personal", "weeknotes"]
+categories = ["personal", "weeknotes", "concerts"]
 week = "2025-W05 - 27 January to 2 February"
 summary = "January felt like forever!"
 +++

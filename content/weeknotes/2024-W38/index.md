@@ -14,19 +14,19 @@ I'm knee-deep in some serious planning for adulting decisions coming up next wee
 
 # The Week in Links
 
-👩🏻‍💻 [Published a new blog post about my favorite productivity app](https://krabf.com/150-days-with-structured/)
+✺ [Published a new blog post about my favorite productivity app](https://krabf.com/150-days-with-structured/)
 
-🤑 [Quiz: How much do you know about money?](https://restofworld.org/2024/quiz-global-inflation-rates/) *via* [Rest of World](https://restofworld.org/)
+✺ [Quiz: How much do you know about money?](https://restofworld.org/2024/quiz-global-inflation-rates/) *via* [Rest of World](https://restofworld.org/)
 
-🤣 [Comedian John Mulaney brutally roasts SF techies at Dreamforce](https://pxlnv.com/linklog/mulaney-dreamforce/?ref=krabf.com) *via* [Pixel Envy](https://pxlnv.com/)
+✺ [Comedian John Mulaney brutally roasts SF techies at Dreamforce](https://pxlnv.com/linklog/mulaney-dreamforce/?ref=krabf.com) *via* [Pixel Envy](https://pxlnv.com/)
 
-⚫ *[Simplicity](https://minimalism.substack.com/p/removing-complexity-to-add-meaning) is important in every aspect of your work—not only in how you design, but how you collaborate, how you choose to communicate, how you organize your files, how you lead your meetings*
+✺ *[Simplicity](https://minimalism.substack.com/p/removing-complexity-to-add-meaning) is important in every aspect of your work—not only in how you design, but how you collaborate, how you choose to communicate, how you organize your files, how you lead your meetings*
 
-🔗 [Long live hypertext!](https://tracydurnell.com/2024/09/19/long-live-hypertext/?ref=krabf.com) *via* [Tracy Durnell](https://tracydurnell.com/)
+✺ [Long live hypertext!](https://tracydurnell.com/2024/09/19/long-live-hypertext/?ref=krabf.com) *via* [Tracy Durnell](https://tracydurnell.com/)
 
-🎲 [Which came first?](https://artsandculture.google.com/experiment/what-came-first/ZQGBUPErEE3bVg) From Google Arts & Culture Experiments *via* [kottke.org](https://kottke.org/24/09/0045298-which-came-first-a-quiz/?ref=krabf.com) - I only got 120 points LOL
+✺ [Which came first?](https://artsandculture.google.com/experiment/what-came-first/ZQGBUPErEE3bVg) From Google Arts & Culture Experiments *via* [kottke.org](https://kottke.org/24/09/0045298-which-came-first-a-quiz/?ref=krabf.com) - I only got 120 points LOL
 
-🤖 [This](https://www.theverge.com/2024/9/17/24247253/social-ai-app-replace-humans-with-bots) “social network” app that’s simply a wave of AI bots replying to your every post is... dark and very detached. I feel like the person who made this is just so lonely.
+✺ [This](https://www.theverge.com/2024/9/17/24247253/social-ai-app-replace-humans-with-bots) “social network” app that’s simply a wave of AI bots replying to your every post is... dark and very detached. I feel like the person who made this is just so lonely.
 
 ---
 

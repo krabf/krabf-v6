@@ -15,19 +15,19 @@ I'm still working on the categories page for my website, but the code especially
 
 # The Week in Links
 
-👤 [Netflix Doc ‘What Jennifer Did’ Uses AI Images to Create False Historical Record](https://www.404media.co/netflix-doc-what-jennifer-did-uses-ai-images-to-create-false-historical-record/) - Documentary filmmakers were publishing guidelines on how to ethically use generative AI right as Netflix’s true crime doc was adding fake images to the historical record.
+✺ [Netflix Doc ‘What Jennifer Did’ Uses AI Images to Create False Historical Record](https://www.404media.co/netflix-doc-what-jennifer-did-uses-ai-images-to-create-false-historical-record/) - Documentary filmmakers were publishing guidelines on how to ethically use generative AI right as Netflix’s true crime doc was adding fake images to the historical record.
 
-🌐 [Web Without Women](https://nowebwithoutwomen.com/)
+✺ [Web Without Women](https://nowebwithoutwomen.com/)
 
 ![Susan Kare](/weeknotes/2024-W16/Susan_Kare.jpeg "COMPUTER ICONOGRAPHY WITHOUT SUSAN KARE // Susan Kare created icons and fonts for Apple Computers in the early 1980s tha introduced a clear, enjoyable standard of user interface design. Her work is a precursor to the icon-based emoji communication we see common today.")
 
-🤸🏻 [101 Additional Advices](https://kk.org/thetechnium/101-additional-advices/) - "When you find yourself procrastinating, don’t resist. Instead lean into it. Procrastinate 100%. Try to do absolutely nothing for 5 minutes. Make it your job. You’ll fail. After 5 minutes, you’ll be ready and eager to work."
+✺ [101 Additional Advices](https://kk.org/thetechnium/101-additional-advices/) - "When you find yourself procrastinating, don’t resist. Instead lean into it. Procrastinate 100%. Try to do absolutely nothing for 5 minutes. Make it your job. You’ll fail. After 5 minutes, you’ll be ready and eager to work."
 
-📦 [How I Reimagined My Digital Storage System](https://hulry.com/digital-storage/?ref=krabf.com) by Rahul Chowdhury - Rahul write about their journey of finding an optimal digital storage solution for their large video files and settled on a hybrid approach, using cloud storage for frequently accessed files and external hard drives in a RAID 1 configuration for archiving large video and photo files. I've got a kind of similar system for storing my files. I make sure to backup everything from my computer's local hard drive to an external HDD every month. It's not the fastest process, for sure and it usually takes a whole day to complete the backup but it's totally worth it for the peace of mind it gives me.
+✺ [How I Reimagined My Digital Storage System](https://hulry.com/digital-storage/?ref=krabf.com) by Rahul Chowdhury - Rahul write about their journey of finding an optimal digital storage solution for their large video files and settled on a hybrid approach, using cloud storage for frequently accessed files and external hard drives in a RAID 1 configuration for archiving large video and photo files. I've got a kind of similar system for storing my files. I make sure to backup everything from my computer's local hard drive to an external HDD every month. It's not the fastest process, for sure and it usually takes a whole day to complete the backup but it's totally worth it for the peace of mind it gives me.
 
-🚢 [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
+✺ [The invisible seafaring industry that keeps the internet afloat](https://www.theverge.com/c/24070570/internet-cables-undersea-deep-repair-ships)
 
-🗣️ [PodcastAP](https://podcastap.com/) - Follow Podcasts and Music feeds on the Fediverse
+✺ [PodcastAP](https://podcastap.com/) - Follow Podcasts and Music feeds on the Fediverse
 
 ---
 

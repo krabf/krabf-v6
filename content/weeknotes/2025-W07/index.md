@@ -13,19 +13,19 @@ Spent the weekend with some artists talking about the challenges of the creative
 
 # The Week in Links
 
-🔗 [How to professionally say](https://howtoprofessionallysay.akashrajpurohit.com/?ref=krabf.com)... A guide for your daily "professional" interactions *by* [Akash Rajpurohit](https://akashrajpurohit.com/?ref=krabf.com)
+✺ [How to professionally say](https://howtoprofessionallysay.akashrajpurohit.com/?ref=krabf.com)... A guide for your daily "professional" interactions *by* [Akash Rajpurohit](https://akashrajpurohit.com/?ref=krabf.com)
 
-🔗 Get free access to the largest collection of [Canadian films](https://www.nfb.ca/?ref=krabf.com) online. No subscription or ads.
+✺ Get free access to the largest collection of [Canadian films](https://www.nfb.ca/?ref=krabf.com) online. No subscription or ads.
 
-🔗 [My Life in Weeks](https://weeks.ginatrapani.org/?ref=krabf.com) *by* [Gina Trapani](https://ginatrapani.org/?ref=krabf.com)
+✺ [My Life in Weeks](https://weeks.ginatrapani.org/?ref=krabf.com) *by* [Gina Trapani](https://ginatrapani.org/?ref=krabf.com)
 
-🔗 [Why Blog If Nobody Reads It?](https://andysblog.uk/why-blog-if-nobody-reads-it/?ref=krabf.com) *by* [Andy Hawthorne](https://andyhawthorne.uk/?ref=krabf.com)
+✺ [Why Blog If Nobody Reads It?](https://andysblog.uk/why-blog-if-nobody-reads-it/?ref=krabf.com) *by* [Andy Hawthorne](https://andyhawthorne.uk/?ref=krabf.com)
 
 > Blogging forces clarity. It makes you structure your thoughts, sharpen your perspective. You stop writing fluff because — let’s be honest — you’re writing for yourself. And if you can’t keep yourself interested, nobody else stands a chance.
 > 
 > When you write, you think better. When you think better, you create better.
 
-🔗 [Why Do People Get Mad About Things That Are None of Their Business?](https://louplummer.lol/not-your-business/?ref=krabf.com) *by* [Lou Plummer](https://louplummer.lol/?ref=krabf.com)
+✺ [Why Do People Get Mad About Things That Are None of Their Business?](https://louplummer.lol/not-your-business/?ref=krabf.com) *by* [Lou Plummer](https://louplummer.lol/?ref=krabf.com)
 
 ---
 

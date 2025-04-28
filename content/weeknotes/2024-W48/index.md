@@ -15,21 +15,21 @@ Aaaaannnddddd, another Black Friday has come and gone, and my wallet remains unt
 
 # The Week in Links
 
-👣 Alexa, play [Take A Walk](https://infinitestroll.com/) by Passion Pit.
+✺ Alexa, play [Take A Walk](https://infinitestroll.com/) by Passion Pit.
 
-📞 [AI is making Philippines call center work more efficient, fort better and worse](https://restofworld.org/2024/ai-reshaping-call-center-work-philippines/?ref=krabf.com)
+✺ [AI is making Philippines call center work more efficient, fort better and worse](https://restofworld.org/2024/ai-reshaping-call-center-work-philippines/?ref=krabf.com)
 
-🎹 [Tame Impala’s Kevin Parker announces The Orchid synthesizer, a new songwriting tool](https://www.wallpaper.com/tech/tame-impalas-kevin-parker-announces-the-orchid-synthesizer-a-new-songwriting-tool)
+✺ [Tame Impala’s Kevin Parker announces The Orchid synthesizer, a new songwriting tool](https://www.wallpaper.com/tech/tame-impalas-kevin-parker-announces-the-orchid-synthesizer-a-new-songwriting-tool)
 
 ![The Orchid instrument from Telepathic Instruments and Tame Impala](/weeknotes/2024-W48/the-orchid-kevin-parker.jpg "This is The Orchid, a new instrument from a new company, Telepathic Instruments, set up by Kevin Parker, the musician, producer and brains behind Tame Impala")
 
-📱 [Last time](https://krabf.com/weeknotes/weeknotes46/), [Ben Wallace](https://ben-mini.github.io/) did [IMG_0416](https://ben-mini.github.io/2024/img-0416) and now we have [IMG_0001](https://walzr.com/IMG_0001) by [Riley Walz](https://walzr.com/)
+✺ [Last time](https://krabf.com/weeknotes/weeknotes46/), [Ben Wallace](https://ben-mini.github.io/) did [IMG_0416](https://ben-mini.github.io/2024/img-0416) and now we have [IMG_0001](https://walzr.com/IMG_0001) by [Riley Walz](https://walzr.com/)
 
-📑 [H1 Gallery](https://h1gallery.com/) - A collection of the best marketing headlines on the internet.
+✺ [H1 Gallery](https://h1gallery.com/) - A collection of the best marketing headlines on the internet.
 
-📁 [The File Folder Structure Every Designer Needs](https://danmall.com/posts/the-file-folder-structure-every-designer-needs/?ref=krabf.com) *via* [Chris Glass](https://chrisglass.com/?ref=krabf.com) - I’m a big fan of having a solid folder structure for everything digital. My mom was the original pro at this. She taught me to add years to filenames to make things easier to find. These days, I’ve settled on the Johnny Decimal system, which has been a game-changer. I even introduced it at work, and we’ve been using it ever since. It makes finding assets and collaborating so much simpler!
+✺ [The File Folder Structure Every Designer Needs](https://danmall.com/posts/the-file-folder-structure-every-designer-needs/?ref=krabf.com) *via* [Chris Glass](https://chrisglass.com/?ref=krabf.com) - I’m a big fan of having a solid folder structure for everything digital. My mom was the original pro at this. She taught me to add years to filenames to make things easier to find. These days, I’ve settled on the Johnny Decimal system, which has been a game-changer. I even introduced it at work, and we’ve been using it ever since. It makes finding assets and collaborating so much simpler!
 
-📷 [Leica’s engraved fonts](https://arun.is/blog/leica-font/?ref=krabf.com) *by* [Arun Venkatesan](https://arun.is/?ref=krabf.com) - Love this!
+✺ [Leica’s engraved fonts](https://arun.is/blog/leica-font/?ref=krabf.com) *by* [Arun Venkatesan](https://arun.is/?ref=krabf.com) - Love this!
 
 ---
 

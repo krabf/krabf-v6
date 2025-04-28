@@ -23,15 +23,15 @@ We were supposed to be in Manila this week on a little vacation, but we decided 
 
 # The Week in Links
 
-⌨️ Raycast is working on something exciting with their Emoji Picker. They have introduced custom keywords, which make it easier for users to find Emojis. Users can now save AI-searched Emojis with these custom keywords for quicker access.
+✺ Raycast is working on something exciting with their Emoji Picker. They have introduced custom keywords, which make it easier for users to find Emojis. Users can now save AI-searched Emojis with these custom keywords for quicker access.
 
 <lite-youtube videoid="Xc262WTsZoU" style="background-image: url(&quot;https://i.ytimg.com/vi/Xc262WTsZoU/hqdefault.jpg&quot;);" class="lyt-activated"><button type="button" class="lty-playbtn"><span class="lyt-visually-hidden">Play</span></button><iframe width="560" height="315" title="Play" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube-nocookie.com/embed/Xc262WTsZoU?autoplay"></iframe></lite-youtube>
 
-🎬 [Impressive first features](https://letterboxd.com/etolkin/list/what-a-fuckin-debut-impressive-first-features/) - Letterboxd list of impressive first features from beloved directors.
+✺ [Impressive first features](https://letterboxd.com/etolkin/list/what-a-fuckin-debut-impressive-first-features/) - Letterboxd list of impressive first features from beloved directors.
 
-🎶 There are a lot of [song releases](https://www.rollingstone.com/music/music-features/beyonce-dua-lipa-lainey-wilson-songs-you-need-to-know-1234969918/) this week!
+✺ There are a lot of [song releases](https://www.rollingstone.com/music/music-features/beyonce-dua-lipa-lainey-wilson-songs-you-need-to-know-1234969918/) this week!
 
-📰 I have subscribed to [what happened last week](https://whathappenedlastweek.com/?ref=krabf.com) by Sham Jaff and I think you should too.
+✺ I have subscribed to [what happened last week](https://whathappenedlastweek.com/?ref=krabf.com) by Sham Jaff and I think you should too.
 
 ---
 Beyoncé has released a new single called "Texas Hold 'Em" as part of her Act II album. It seems like we can expect a country bop!

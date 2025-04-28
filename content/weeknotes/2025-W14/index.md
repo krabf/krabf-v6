@@ -18,15 +18,15 @@ One thing I did appreciate was the scenes between Gemma and Mark. Those moments 
 
 # The Week in Links
 
-🔗 Bored? [Here's a fun little game for you](https://368chickens.com/).
+✺ Bored? [Here's a fun little game for you](https://368chickens.com/).
 
-🔗 [Lumon Industries WoeMeter](https://make3.co/work/woemeter/?ref=krabf.com) - Quick write-up on one of the standout props from Severance Season 2. Seriously, the amount of effort that went into it is wild. Massive credit to the props team (pun fully intended). The level of detail isn’t just impressive! It’s intentional. Everything feels like it belongs in that world, down to the most mundane object. You can tell they’re not just filling space; they’re building layers into the story with every item that shows up on screen.
+✺ [Lumon Industries WoeMeter](https://make3.co/work/woemeter/?ref=krabf.com) - Quick write-up on one of the standout props from Severance Season 2. Seriously, the amount of effort that went into it is wild. Massive credit to the props team (pun fully intended). The level of detail isn’t just impressive! It’s intentional. Everything feels like it belongs in that world, down to the most mundane object. You can tell they’re not just filling space; they’re building layers into the story with every item that shows up on screen.
 
 ![Severance Season 2 Woemeter](severance_02_07_woemeter_03.jpg "Severance Season 2 Woemeter")
 
 ![Severance Season 2 Woemeter Intensity](severance_02_07_woemeter_04.jpg "Severance Season 2 Woemeter")
 
-🔗 [Typography in Severance](https://severance.wiki/typography)
+✺ [Typography in Severance](https://severance.wiki/typography)
 
 ![Manifold Extended type family designed by Connary Fagan](manifold-extended.jpg "Manifold Extended type family designed by Connary Fagan")
 
@@ -36,27 +36,27 @@ One thing I did appreciate was the scenes between Gemma and Mark. Those moments 
 
 ![Senior Refiner Checklist](senior-refinder-checklist.jpg "Senior Refiner Checklist")
 
-🔗 [Ikea Australia leans Into the ‘Severance’ aesthetic](https://www.famouscampaigns.com/2025/03/ikea-australia-leans-into-the-severance-aesthetic/)
+✺ [Ikea Australia leans Into the ‘Severance’ aesthetic](https://www.famouscampaigns.com/2025/03/ikea-australia-leans-into-the-severance-aesthetic/)
 
 ![Severance Ikea ad](severance-ikea.jpg "For working that is mysterious and important")
 
-🔗 ["Severance" and Philippine Psychology](https://sikodiwa.substack.com/p/severance-and-philippine-psychology) *by* [Sikodiwa](https://sikodiwa.substack.com)
+✺ ["Severance" and Philippine Psychology](https://sikodiwa.substack.com/p/severance-and-philippine-psychology) *by* [Sikodiwa](https://sikodiwa.substack.com)
 
 > In Philippine psychology, this is similar to the dichotomy of loob (interior) and labas (exterior), except that we are more aware of what’s within us. Most of the time, it’s the outie that we try to control through embodied processes such as timpi (to contain) and sikmura (to stomach).
 
 *Timpi* and *sikmura* aren't just practices we consciously choose, they're more like survival instincts that kick in, especially in Filipino work culture where hierarchy and pakikisama often take center stage. You don't always realize you're doing it until you're already deep in it — holding back a reaction in a tense meeting, smiling through a comment that didn’t sit right, or swallowing discomfort just to keep the peace.
 
-🔗 [Coffee Receipt Stories](https://coffeereceiptstories.com/?ref=krabf.com) *by* [Odding](https://oddingwang.com/) - Such a beautiful collection and website! A fun idea too when traveling, if only I could draw like this.
+✺ [Coffee Receipt Stories](https://coffeereceiptstories.com/?ref=krabf.com) *by* [Odding](https://oddingwang.com/) - Such a beautiful collection and website! A fun idea too when traveling, if only I could draw like this.
 
 ![Coffee Receipt Stories homepage](coffee-receipt-stories1.jpg "Coffee Receipt Stories")
 
 ![Coffee Receipt Stories homepage](coffee-receipt-stories2.jpg "Coffee Receipt Stories")
 
-🔗 [How do animals sound across languages?](https://pudding.cool/2025/03/language/?ref=krabf.com) *"How can cultures hear the same physical sounds yet translate them into language so differently?"* Analyzing animal onomatopoeia across languages can demystify how we shape sound into meaning. *by* [Vivian Li](https://pudding.cool/author/vivian-li/)
+✺ [How do animals sound across languages?](https://pudding.cool/2025/03/language/?ref=krabf.com) *"How can cultures hear the same physical sounds yet translate them into language so differently?"* Analyzing animal onomatopoeia across languages can demystify how we shape sound into meaning. *by* [Vivian Li](https://pudding.cool/author/vivian-li/)
 
 > If a cow’s moo can interpreted so differently across cultures, how many other sounds might we experience uniquely through our linguistic filters? Whether cows go “moo”, “meuh”, or “음메”, onomatopoeia connects us to the natural world in a way that transcends linguistic boundaries. It invites us to play with sound, to embrace the quirks of language, and to recognize our shared instinct to listen and interpret. In doing so, onomatopoeia reminds us that even the simplest of sounds can tell a universal story, endlessly fascinating in its infinite variations.
 
-🔗 [Markdown and the Slow Fade of the Formatting Fetish](https://ia.net/topics/markdown-and-the-slow-fade-of-the-formatting-fetish/?ref=krabf.com) *by* iA Writer - I love [Markdown](https://daringfireball.net/projects/markdown/syntax/?ref=krabf.com) so much that I wish it worked in every tool. I still forget that some software doesn’t support it all that well.
+✺ [Markdown and the Slow Fade of the Formatting Fetish](https://ia.net/topics/markdown-and-the-slow-fade-of-the-formatting-fetish/?ref=krabf.com) *by* iA Writer - I love [Markdown](https://daringfireball.net/projects/markdown/syntax/?ref=krabf.com) so much that I wish it worked in every tool. I still forget that some software doesn’t support it all that well.
 
 *Phew! That was a lot of catch up!*
 

@@ -14,19 +14,19 @@ Being a woman with large feet is incredibly frustrating, especially when shoppin
 
 # The Week in Links
 
-🐦‍⬛ RIP James Earl Jones. [Here's him reading Edgar Allan Poe's The Raven](https://www.youtube.com/watch?v=sXU3RfB7308).
+✺ RIP James Earl Jones. [Here's him reading Edgar Allan Poe's The Raven](https://www.youtube.com/watch?v=sXU3RfB7308).
 
- The iPhone 16 lineup is built for [Apple Intelligence](https://www.apple.com/newsroom/2024/09/apple-intelligence-comes-to-iphone-ipad-and-mac-starting-next-month/) and introduces Camera Control. The Capture button will be a solid state capacitive button, with haptic feedback supplied by a built-in Taptic engine which mimics how a physical button would react when pressed. Neato. And for someone who still has the iPhone 12 Pro, I am eyeing for this upgrade that for sure will last me for another 5 years.
+✺ The iPhone 16 lineup is built for [Apple Intelligence](https://www.apple.com/newsroom/2024/09/apple-intelligence-comes-to-iphone-ipad-and-mac-starting-next-month/) and introduces Camera Control. The Capture button will be a solid state capacitive button, with haptic feedback supplied by a built-in Taptic engine which mimics how a physical button would react when pressed. Neato. And for someone who still has the iPhone 12 Pro, I am eyeing for this upgrade that for sure will last me for another 5 years.
 
 ![Apple iPhone 16 Camera Control](/weeknotes/2024-W37/Apple-iPhone-16-Camera-Control.jpg "Camera Control makes it even easier to capture memories on iPhone 16 Pro and iPhone 16. // via Apple")
 
- Next, we have Apple's new "Hearing Aid Feature" for AirPods Pro 2, approved by the FDA, transforms them into personalized hearing aids via a software update. It targets adults with mild to moderate hearing loss, offering accessibility and affordability compared to traditional hearing aids.
+✺ Next, we have Apple's new "Hearing Aid Feature" for AirPods Pro 2, approved by the FDA, transforms them into personalized hearing aids via a software update. It targets adults with mild to moderate hearing loss, offering accessibility and affordability compared to traditional hearing aids.
 
 ![Apple AirPods Hearing Aid feature](/weeknotes/2024-W37/Apple-AirPods-Hearing-Aid-240909.jpg "Users can fine-tune their experience at any time with the Hearing Aid feature, making access to hearing assistance easier than ever. // via Apple")
 
-🕉️ [life is all about novelty](https://winnielim.org/notes/life-is-all-about-novelty/) *by* [Winnie Lim](https://winnielim.org/)
+✺ [life is all about novelty](https://winnielim.org/notes/life-is-all-about-novelty/) *by* [Winnie Lim](https://winnielim.org/)
 
-🩷 [Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772/) *via* [Lee Peterson](https://ljpuk.net/2024/09/14/download-studio-ghibli-wallpapers/?ref=krabf.com)
+✺ [Studio Ghibli Wallpapers](https://www.ghibli.jp/info/013772/) *via* [Lee Peterson](https://ljpuk.net/2024/09/14/download-studio-ghibli-wallpapers/?ref=krabf.com)
 
 
 <br>

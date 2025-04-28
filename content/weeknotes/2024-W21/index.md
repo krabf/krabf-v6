@@ -7,7 +7,7 @@ week = "2024-W21 - 20 to 26 May"
 summary = "*Hindi ko po maalala*"
 +++
 
-I've got a lot of catching up to do this week - tons of emails, newsletters, videos, movies, and keeping up with the news. 
+I've got a lot of catching up to do this week - tons of emails, newsletters, videos, movies, and keeping up with the news.
 
 There's this story about a mayor in the Philippines that netizens calls the ["My Amnesia Girl"](https://www.rappler.com/nation/luzon/filipinos-online-reaction-memes-bamban-tarlac-mayor-alice-guo/) mayor that's been all over my social media feeds. Apparently, she can't remember a big part of her childhood. I'm not sure what's really going on there or who she might be protecting, but this whole thing seems like it'll blow over in a few months. You know how these viral stories go. Remember that [cult leader](https://www.aljazeera.com/news/2023/9/19/philippines-doomsday-cult-accused-of-child-sex-abuse) from Siargao island a while back?
 
@@ -19,17 +19,17 @@ I saw that new Alex Garland film [Civil War](https://a24films.com/films/civil-wa
 
 # The Week in Links
 
-🗒️ Trying out Jack Cheng's new lightweight note-taking app, [Bebop](https://apps.apple.com/us/app/bebop-quick-notes/id6477824795?ref=krabf.com)
+✺ Trying out Jack Cheng's new lightweight note-taking app, [Bebop](https://apps.apple.com/us/app/bebop-quick-notes/id6477824795?ref=krabf.com)
 
-❓ [Howtown](https://www.youtube.com/@Howtown_videos) is a new YouTube channel by journalists Adam Cole and Joss Fong. I've been a huge fan of [Joss Fong](https://www.youtube.com/@jossfong2798) for a while now after watching all those edutainment videos she did at Vox. Her stuff is always so well-researched and engaging to watch.
+✺ [Howtown](https://www.youtube.com/@Howtown_videos) is a new YouTube channel by journalists Adam Cole and Joss Fong. I've been a huge fan of [Joss Fong](https://www.youtube.com/@jossfong2798) for a while now after watching all those edutainment videos she did at Vox. Her stuff is always so well-researched and engaging to watch.
 
-📃 [Rebeca Toh's People and Blogs edition](https://manuelmoreale.com/pb-rebecca-toh)
+✺ [Rebeca Toh's People and Blogs edition](https://manuelmoreale.com/pb-rebecca-toh)
 
-🔎 Google [recently](https://www.404media.co/google-search-web-filter-ai-overview/) added AI-generated overviews to search results, frustrating some users. Amidst these changes, [Google quietly introduced a "Web" filter that displays search results without additional content or pre-processed answers](https://tedium.co/2024/05/17/google-web-search-make-default/). This filter presents search results resembling how Google looked a decade ago, without knowledge panels or ads. It provides a simplified view of search results, removing clutter.
+✺ Google [recently](https://www.404media.co/google-search-web-filter-ai-overview/) added AI-generated overviews to search results, frustrating some users. Amidst these changes, [Google quietly introduced a "Web" filter that displays search results without additional content or pre-processed answers](https://tedium.co/2024/05/17/google-web-search-make-default/). This filter presents search results resembling how Google looked a decade ago, without knowledge panels or ads. It provides a simplified view of search results, removing clutter.
 
-🕳️ A rabbit hole of [abandoned blogs](https://www.are.na/lucy-pham/abandoned-blogs)
+✺ A rabbit hole of [abandoned blogs](https://www.are.na/lucy-pham/abandoned-blogs)
 
-◼️ The most minimal sites on the web, curated in one [place](https://deadsimplesites.com/)
+✺ The most minimal sites on the web, curated in one [place](https://deadsimplesites.com/)
 
 ---
 

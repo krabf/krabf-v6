@@ -19,11 +19,11 @@ This year marks my second Christmas in the city with my partner instead of back 
 
 # The Week in Links
 
-🗃️ [A Blog Directory](https://blogroll.club/)
+✺ [A Blog Directory](https://blogroll.club/)
 
-📝 [Design ideas: e-menu for a food spot](https://blog.readymag.com/design-ideas-for-e-menu/?ref=krabf.com) *by* [Readymag](https://readymag.com/?ref=krabf.com) - I appreciate restaurants that put real thought into menu design. Here in the Philippines, most places stick to basic wall menus above the cashier or bulky menu books crammed with infographic-style layouts. During peak pandemic, I tried launching a fancy e-menu with QR codes in my hometown. The timing wasn't great - most folks weren't ready for digital menus, and not everyone had reliable access to smartphones. A bit ahead of its time, perhaps.  
+✺ [Design ideas: e-menu for a food spot](https://blog.readymag.com/design-ideas-for-e-menu/?ref=krabf.com) *by* [Readymag](https://readymag.com/?ref=krabf.com) - I appreciate restaurants that put real thought into menu design. Here in the Philippines, most places stick to basic wall menus above the cashier or bulky menu books crammed with infographic-style layouts. During peak pandemic, I tried launching a fancy e-menu with QR codes in my hometown. The timing wasn't great - most folks weren't ready for digital menus, and not everyone had reliable access to smartphones. A bit ahead of its time, perhaps.  
 
-📚 I may not be an avid reader, but I'm a sucker for great book cover design so here's [Lithub's 167 Best Book Covers of 2024](https://lithub.com/the-167-best-book-covers-of-2024/?ref=krabf.com). Reminds me of one of my favorite artists, [Elisha Zepeda](https://www.instagram.com/ez.bookdesign/).
+✺ I may not be an avid reader, but I'm a sucker for great book cover design so here's [Lithub's 167 Best Book Covers of 2024](https://lithub.com/the-167-best-book-covers-of-2024/?ref=krabf.com). Reminds me of one of my favorite artists, [Elisha Zepeda](https://www.instagram.com/ez.bookdesign/).
 
 
 <br>
@@ -56,13 +56,13 @@ This year marks my second Christmas in the city with my partner instead of back 
 </div>
 </div>
 
-🚶🏻‍♀️‍➡️ [View Your Step History in Weekly, Monthly, and Yearly Summaries with Trends in Pedometer++ 6.2](https://pedometer.app/blog/view-your-step-history-in-weekly-monthly-and-yearly-summaries-with-trends-in-pedometer-62/?ref=krabf.com) - Been testing different step-tracking apps lately. Dropped Pedometer++ last week since it wasn't working for me, and switched to [Stepz](https://stepzapp.com/) and [StepsApp](https://steps.app/). Though I might give Pedometer++ another shot, their new update offers a nice bird's eye view of step progress that's got me curious.
+✺ [View Your Step History in Weekly, Monthly, and Yearly Summaries with Trends in Pedometer++ 6.2](https://pedometer.app/blog/view-your-step-history-in-weekly-monthly-and-yearly-summaries-with-trends-in-pedometer-62/?ref=krabf.com) - Been testing different step-tracking apps lately. Dropped Pedometer++ last week since it wasn't working for me, and switched to [Stepz](https://stepzapp.com/) and [StepsApp](https://steps.app/). Though I might give Pedometer++ another shot, their new update offers a nice bird's eye view of step progress that's got me curious.
 
-🔘 [‘Silo’ to End With Season 4 as Apple TV+ Renews Series for Two More Seasons](https://variety.com/2024/tv/news/silo-renewed-season-3-ending-season-4-1236249072/) - I flew through Season 1 in three days. I couldn't get enough! But Season 2? It's dragging. The plot feels predictable, and the constant back-and-forth between flashbacks and present day is more confusing than clever. I'm still watching, but at a much slower pace since it's lost that spark.
+✺ [‘Silo’ to End With Season 4 as Apple TV+ Renews Series for Two More Seasons](https://variety.com/2024/tv/news/silo-renewed-season-3-ending-season-4-1236249072/) - I flew through Season 1 in three days. I couldn't get enough! But Season 2? It's dragging. The plot feels predictable, and the constant back-and-forth between flashbacks and present day is more confusing than clever. I'm still watching, but at a much slower pace since it's lost that spark.
 
-₿ [Man who claims he invented bitcoin faces prison after filing $1.1 trillion suit](https://arstechnica.com/tech-policy/2024/12/judge-rejects-craig-wrights-1-1-trillion-lawsuit-claiming-rights-to-bitcoin/) - Stupid.
+✺ [Man who claims he invented bitcoin faces prison after filing $1.1 trillion suit](https://arstechnica.com/tech-policy/2024/12/judge-rejects-craig-wrights-1-1-trillion-lawsuit-claiming-rights-to-bitcoin/) - Stupid.
 
-🎁 [The 12 Days of Christmas - A Tale of Avian Misery](https://vimeo.com/195030004) Written by Craig Ainsley, Narrated by Phoebe Waller-Bridge, Animation by Anomaly *via* [Chris Glass](https://chrisglass.com/?ref=krabf.com). A gem for Christmas.
+✺ [The 12 Days of Christmas - A Tale of Avian Misery](https://vimeo.com/195030004) Written by Craig Ainsley, Narrated by Phoebe Waller-Bridge, Animation by Anomaly *via* [Chris Glass](https://chrisglass.com/?ref=krabf.com). A gem for Christmas.
 
 ---
 

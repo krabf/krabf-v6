@@ -15,9 +15,9 @@ summary = "Dutertard"
 
 # Further reading
 
-🔗 [Philippines: Duterte Arrested on ICC Warrant](https://www.hrw.org/news/2025/03/12/philippines-duterte-arrested-icc-warrant)
+✺ [Philippines: Duterte Arrested on ICC Warrant](https://www.hrw.org/news/2025/03/12/philippines-duterte-arrested-icc-warrant)
 
-🔗 [Inside President Rodrigo Duterte’s brutal antidrug campaign in the Philippines, our photojournalist documented 57 homicide victims over 35 days.](https://www.nytimes.com/interactive/2016/12/07/world/asia/rodrigo-duterte-philippines-drugs-killings.html)
+✺ [Inside President Rodrigo Duterte’s brutal antidrug campaign in the Philippines, our photojournalist documented 57 homicide victims over 35 days.](https://www.nytimes.com/interactive/2016/12/07/world/asia/rodrigo-duterte-philippines-drugs-killings.html)
 
 ---
 

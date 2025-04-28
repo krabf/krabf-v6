@@ -17,11 +17,11 @@ I've been going through my old college photos, and I actually miss it — my fri
 
 # The Week in Links
 
-🔗 [The Hydrant Directory](https://www.dayroselane.com/hydrants/?ref=krabf.com)
+✺ [The Hydrant Directory](https://www.dayroselane.com/hydrants/?ref=krabf.com)
 
-🔗 [The Films That Ruined Us: introducing a new podcast, & how the poster was made](https://www.creativeboom.com/news/the-films-that-ruined-us/?ref=krabf.com) - Katy Cowan, Creative Boom's editor and co-host of the new podcast, explains what it's all about. "Some movies change you forever," she says. "Some leave you emotionally wrecked, some haunt your dreams, and some take over your life in ways you never saw coming."
+✺ [The Films That Ruined Us: introducing a new podcast, & how the poster was made](https://www.creativeboom.com/news/the-films-that-ruined-us/?ref=krabf.com) - Katy Cowan, Creative Boom's editor and co-host of the new podcast, explains what it's all about. "Some movies change you forever," she says. "Some leave you emotionally wrecked, some haunt your dreams, and some take over your life in ways you never saw coming."
 
-📺 [Watch this ‘Severance’ VFX breakdown from season one](https://beforesandafters.com/2025/03/09/watch-this-severance-vfx-breakdown-from-season-one/)
+✺ [Watch this ‘Severance’ VFX breakdown from season one](https://beforesandafters.com/2025/03/09/watch-this-severance-vfx-breakdown-from-season-one/)
 
 > Jeremy Keith on *["The web on mobile"](https://adactio.com/journal/21728)*
 > It doesn’t matter that the web is the perfect medium for just-in-time delivery of information. It doesn’t matter that web browsers can now do just about everything that native apps can do.
@@ -30,9 +30,9 @@ I've been going through my old college photos, and I actually miss it — my fri
 > 
 > But this is not a technical problem. This is a people problem. Specifically, the people who make websites.
 
-🔗 “The internet’s [favorite sex researcher](https://www.theatlantic.com/ideas/archive/2025/02/aella-internet-sex-researcher/681813/)” is a libertarian rationalist OnlyFans star with no real research credentials.
+✺ “The internet’s [favorite sex researcher](https://www.theatlantic.com/ideas/archive/2025/02/aella-internet-sex-researcher/681813/)” is a libertarian rationalist OnlyFans star with no real research credentials.
 
-🎵 [Tumblr users did something unhinged again](https://www.garbageday.email/p/tumblr-users-did-something-unhinged-again/?ref=krabf.com) - The song started with [a Tumblr post](https://www.tumblr.com/dikdikpronouncedxylophone/754471907884220416/agfdklgdfk-it-got-accepted-by-spotify-bigfoots?source=share) from last year, where multiple users shared stories about human resources training courses that used homophobic slurs in the context of “what not to say.” A user named bigfoots-biggest-fan saw the post last month and completed the dance remix on January 20th. — *via* [Garbage Day](https://www.garbageday.email/?ref=krabf.com)
+✺ [Tumblr users did something unhinged again](https://www.garbageday.email/p/tumblr-users-did-something-unhinged-again/?ref=krabf.com) - The song started with [a Tumblr post](https://www.tumblr.com/dikdikpronouncedxylophone/754471907884220416/agfdklgdfk-it-got-accepted-by-spotify-bigfoots?source=share) from last year, where multiple users shared stories about human resources training courses that used homophobic slurs in the context of “what not to say.” A user named bigfoots-biggest-fan saw the post last month and completed the dance remix on January 20th. — *via* [Garbage Day](https://www.garbageday.email/?ref=krabf.com)
 
 ---
 

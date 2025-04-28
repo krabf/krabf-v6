@@ -13,21 +13,21 @@ I've burned through half this week overthinking ways to improve my workout routi
 
 # The Week in Links
 
-🥐 [Croissant debuts a cross-posting app for Threads, Bluesky, and Mastodon](https://techcrunch.com/2024/10/01/croissant-debuts-a-cross-posting-app-for-threads-bluesky-and-mastodon/?ref=krabf.com) - Neat little app from [Ben McCarthy](https://benricemccarthy.com/?ref=krabf.com) and [Aaron Vegh](https://innoveghtive.com/). Croissant is a new iOS app designed for cross-posting to Bluesky, Mastodon, and Threads, offering features like threaded posts, image attachments, and alt text. It targets social media users with an affordable pricing model starting at $2.99 per month. I downloaded it, tried the free version, but realized I rarely post to these social media sites.
+✺ [Croissant debuts a cross-posting app for Threads, Bluesky, and Mastodon](https://techcrunch.com/2024/10/01/croissant-debuts-a-cross-posting-app-for-threads-bluesky-and-mastodon/?ref=krabf.com) - Neat little app from [Ben McCarthy](https://benricemccarthy.com/?ref=krabf.com) and [Aaron Vegh](https://innoveghtive.com/). Croissant is a new iOS app designed for cross-posting to Bluesky, Mastodon, and Threads, offering features like threaded posts, image attachments, and alt text. It targets social media users with an affordable pricing model starting at $2.99 per month. I downloaded it, tried the free version, but realized I rarely post to these social media sites.
 
-📺 [Juno for YouTube has been removed from the App Store](https://christianselig.com/2024/10/juno-removed/)
+✺ [Juno for YouTube has been removed from the App Store](https://christianselig.com/2024/10/juno-removed/)
 
-📄 [The secret power of a blog](https://tracydurnell.com/2024/09/29/the-secret-power-of-a-blog/) *by* [Tracy Durnell](https://tracydurnell.com/)
+✺ [The secret power of a blog](https://tracydurnell.com/2024/09/29/the-secret-power-of-a-blog/) *by* [Tracy Durnell](https://tracydurnell.com/)
 > Readers have different expectations for blog posts than more formal writing. Bloggers [don’t need to be experts](https://jvns.ca/blog/2023/06/05/some-blogging-myths/#myth-you-need-to-be-an-expert) or [have all the answers](https://tracydurnell.com/2023/11/01/mistakes-are-part-of-the-learning-process/). Posts [don’t have to be deep](https://tracydurnell.com/2023/03/27/blog-posts-dont-have-to-be-long/) or [long](https://tracydurnell.com/2020/12/05/write-shorter/). **The blog’s form is practically made for active learning**, for sharing thoughts and updates over a span of time.
 
 > We know, when we’re reading a blog, that we’re getting a glimpse into the writer’s active psyche, a tour of their studio as it were — not hearing their thesis presentation or reading their pre-print publication; **hearing from other people _being people_ is part of the appeal of blogs**.
 
 [ Trigger Warning: Twitter link]
-📃 I never imagined Helena Bonham Carter would be [reading](https://x.com/AllieEsiri/status/1841729552705306913) Mary Oliver's I Worried
+✺ I never imagined Helena Bonham Carter would be [reading](https://x.com/AllieEsiri/status/1841729552705306913) Mary Oliver's I Worried
 
-🔉 [BBC opens its sound effects archive for free download](https://sound-effects.bbcrewind.co.uk/)
+✺ [BBC opens its sound effects archive for free download](https://sound-effects.bbcrewind.co.uk/)
 
-📖 [At the clinic](https://www.thewhitereview.org/fiction/at-the-clinic/) *via* [kottke.org](https://kottke.org/24/10/two-sally-rooney-things-i-didnt-know-about/?ref=krabf.com)
+✺ [At the clinic](https://www.thewhitereview.org/fiction/at-the-clinic/) *via* [kottke.org](https://kottke.org/24/10/two-sally-rooney-things-i-didnt-know-about/?ref=krabf.com)
 
 ---
 

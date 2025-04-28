@@ -17,17 +17,17 @@ Singapore is an awesome place overall but it can be really expensive. I would ra
 
 # The Week in Links
 
-🏘️ [If you want to belong, find a third place](https://www.vox.com/the-highlight/24119312/how-to-find-a-third-place-cafe-bar-gym-loneliness-connection) - "Belonging isn’t some magical place that you can find in your next destination, it is where you feel most connected with the people around you, and that you have people who love you and that you love.”
+✺ [If you want to belong, find a third place](https://www.vox.com/the-highlight/24119312/how-to-find-a-third-place-cafe-bar-gym-loneliness-connection) - "Belonging isn’t some magical place that you can find in your next destination, it is where you feel most connected with the people around you, and that you have people who love you and that you love.”
 
-🚶‍♂️ Keeping Ben Pobjoy and Craig Mod's [tips for long walks](https://craigmod.com/ridgeline/187/).
+✺ Keeping Ben Pobjoy and Craig Mod's [tips for long walks](https://craigmod.com/ridgeline/187/).
 
-🔗 [People and Blogs: Om Malik](https://manuelmoreale.com/pb-om-malik)
+✺ [People and Blogs: Om Malik](https://manuelmoreale.com/pb-om-malik)
 
-🧠 I tried out [Memex](https://memex.garden/) way back when it first launched, but it was pretty rough around the edges at that point. It's a bookmarking tool that lets you save, highlight, and take notes on stuff you find online, right in your browser. Kinda similar to Omnivore, which I've been using. But I've noticed they've been pushing out updates like crazy lately, so I'm curious to give it another shot. The constant improvements have definitely caught my eye. Anyone else here using Memex these days? I'd love to hear if it's gotten better and more intuitive to use.
+✺ I tried out [Memex](https://memex.garden/) way back when it first launched, but it was pretty rough around the edges at that point. It's a bookmarking tool that lets you save, highlight, and take notes on stuff you find online, right in your browser. Kinda similar to Omnivore, which I've been using. But I've noticed they've been pushing out updates like crazy lately, so I'm curious to give it another shot. The constant improvements have definitely caught my eye. Anyone else here using Memex these days? I'd love to hear if it's gotten better and more intuitive to use.
 
-⭐ [Please Rate Your Experience by Robb Knight](https://rknight.me/blog/please-rate-your-experience/) - *How was your delivery? How was your ride? How was your call to customer support? How was your purchase you received literally 15 seconds ago? You only just got here but would you rate our website? How was your experience filling in our form to get access to your mother’s will? HOW WAS IT?*
+✺ [Please Rate Your Experience by Robb Knight](https://rknight.me/blog/please-rate-your-experience/) - *How was your delivery? How was your ride? How was your call to customer support? How was your purchase you received literally 15 seconds ago? You only just got here but would you rate our website? How was your experience filling in our form to get access to your mother’s will? HOW WAS IT?*
 
-❤️‍🔥 [Six definitions of love](https://stephango.com/love)
+✺ [Six definitions of love](https://stephango.com/love)
 
 ---
 

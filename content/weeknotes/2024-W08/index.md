@@ -15,11 +15,11 @@ As I gear up for a new adventure in a *more* formal corporate world, I've set as
 
 # The Week in Links
 
-🗞️ Vice Is Dead via [Pixel Envy by Nick Heer](https://pxlnv.com/linklog/vice-is-dead/) - I grew up reading Vice articles and it was where I get my news from other countries. This news is sad because Vice is one of the media sites that has the best coverage on the APAC art scene, especially from [Manila Community Radio](https://www.vice.com/en/article/epvdnw/manila-community-station-radio-music) shows.
+✺ Vice Is Dead via [Pixel Envy by Nick Heer](https://pxlnv.com/linklog/vice-is-dead/) - I grew up reading Vice articles and it was where I get my news from other countries. This news is sad because Vice is one of the media sites that has the best coverage on the APAC art scene, especially from [Manila Community Radio](https://www.vice.com/en/article/epvdnw/manila-community-station-radio-music) shows.
 
-👑 Jason Kottke of kottke.org and [his fiddle leaf tree](https://kottke.org/24/02/hows-it-going-today)
+✺ Jason Kottke of kottke.org and [his fiddle leaf tree](https://kottke.org/24/02/hows-it-going-today)
 
-📷 The [Fujifilm X100VI](https://fujifilm-x.com/global/products/cameras/x100vi/) has been released and is now available for pre-order. I skipped on the X100V but after seeing reviews and photos of the X100VI, I'm considering purchasing one 👀
+✺ The [Fujifilm X100VI](https://fujifilm-x.com/global/products/cameras/x100vi/) has been released and is now available for pre-order. I skipped on the X100V but after seeing reviews and photos of the X100VI, I'm considering purchasing one 👀
 
 ---
 

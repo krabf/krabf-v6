@@ -15,19 +15,19 @@ My partner and I just celebrated two years together. Two years! I'm so grateful 
 
 # The Week in Links
 
-🖼️ [OneMillionScreenshots](https://onemillionscreenshots.com/?ref=krabf.com) - A collection of 1,048,576
+✺ [OneMillionScreenshots](https://onemillionscreenshots.com/?ref=krabf.com) - A collection of 1,048,576
 
 ![One Million Screenshots homepage](/weeknotes/2024-W32/one-million-screenshots.jpg "One Million Screenshots")
 
-📁 Developer Thomas Tempelmann just released [version 2.5](https://findanyfile.app/versionhistory2.html) of [Find Any File](https://findanyfile.app/). I have been using the free version of this app ever since and it works so perfectly every time. FAF can search in locations that Spotlight can’t access, such as network volumes, hidden files, and system folders.
+✺ Developer Thomas Tempelmann just released [version 2.5](https://findanyfile.app/versionhistory2.html) of [Find Any File](https://findanyfile.app/). I have been using the free version of this app ever since and it works so perfectly every time. FAF can search in locations that Spotlight can’t access, such as network volumes, hidden files, and system folders.
 
-💿 [The Nostalgia Alphabet](https://www.behance.net/gallery/196350623/The-Nostalgia-Alphabet-Motion-Design) - [Thibaut Crépelle](https://www.thibaut.cool/) recreates 26 products from the 70s to 90s, using CAD software Plasticity. *via* Chris Glass
+✺ [The Nostalgia Alphabet](https://www.behance.net/gallery/196350623/The-Nostalgia-Alphabet-Motion-Design) - [Thibaut Crépelle](https://www.thibaut.cool/) recreates 26 products from the 70s to 90s, using CAD software Plasticity. *via* Chris Glass
 
 ![L for Laser, M for MiniDisc](/weeknotes/2024-W32/the-nostalgia-alphabet-l-m.png "L for Laser, M for MiniDisc")
 
-👽 [Reddit CEO hints that subreddit paywalls are on the way](https://mashable.com/article/reddit-ceo-hints-subreddit-paywalls-on-the-way-earnings-call)
+✺ [Reddit CEO hints that subreddit paywalls are on the way](https://mashable.com/article/reddit-ceo-hints-subreddit-paywalls-on-the-way-earnings-call)
 
-🎛️ Teenage Engineering goes medieval with the [EP-1320](https://mashable.com/article/reddit-ceo-hints-subreddit-paywalls-on-the-way-earnings-call). I don't really need it but I think I *WANT* it. Watch their [eclectic video](https://www.youtube.com/watch?v=LVLsRvGMwMk). Here's a review and demo by [Polo Tremolo](https://www.youtube.com/watch?v=U35OHxvYk5w)
+✺ Teenage Engineering goes medieval with the [EP-1320](https://mashable.com/article/reddit-ceo-hints-subreddit-paywalls-on-the-way-earnings-call). I don't really need it but I think I *WANT* it. Watch their [eclectic video](https://www.youtube.com/watch?v=LVLsRvGMwMk). Here's a review and demo by [Polo Tremolo](https://www.youtube.com/watch?v=U35OHxvYk5w)
 
 ![Teenage Engineering EP-1320 Medieval](/weeknotes/2024-W32/p-1-91169204-medieval-teenage-engineering.jpg "Teenage Engineering EP-1320 Medieval")
 

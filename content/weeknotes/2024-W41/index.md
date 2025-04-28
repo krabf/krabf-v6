@@ -13,20 +13,20 @@ I'm back in my hometown this week, juggling paperwork and *moving* stuff around.
 
 # The Week in Links
 
-👯‍♀️ Who has the same top four as you? [Letterboxd besties](https://letterboxd-besties.glitch.me/) got you covered! *by* [Sharpshooter labs](https://sharpshooterlabs.com/)
+✺ Who has the same top four as you? [Letterboxd besties](https://letterboxd-besties.glitch.me/) got you covered! *by* [Sharpshooter labs](https://sharpshooterlabs.com/)
 
-💻 [Crazy Stupid Tech](https://crazystupidtech.com/?ref=krabf.com) is a weekly newsletter about innovation and new technologies by longtime tech journalists [Om Malik](http://om.co) and Fred Vogelstein.
+✺ [Crazy Stupid Tech](https://crazystupidtech.com/?ref=krabf.com) is a weekly newsletter about innovation and new technologies by longtime tech journalists [Om Malik](http://om.co) and Fred Vogelstein.
 > We get that tech makes many of us more nervous than hopeful right now. But as Silicon Valley’s influence extends deeper into all corners of our economy and lives, there also have never been more interesting, crazy, stupid new and interesting technologies out there. They are not getting enough attention. So our goal is to tell you about them.
 
-⚰️ [It is the Night of the Living App](https://sophiestication.com/NightOfTheLivingApp/) *by* Sophiestication Software, Inc.
+✺ [It is the Night of the Living App](https://sophiestication.com/NightOfTheLivingApp/) *by* Sophiestication Software, Inc.
 
-💾 From Game Boys to wax cylinders, Green Day's [*Dookie*](https://www.dookiedemastered.com/) just got a nostalgic makeover in 15 unconventional formats!
+✺ From Game Boys to wax cylinders, Green Day's [*Dookie*](https://www.dookiedemastered.com/) just got a nostalgic makeover in 15 unconventional formats!
 
-🧟 [Robtober '24](https://v6.robweychert.com/blog/2024/10/robtober/) has finally arrived, and I've been eagerly anticipating it since last August! I'm particularly intrigued to see The Omen franchise on the list, despite my childhood trauma associated with black dogs from those films. Growing up, I found horror movies terrifying, and the events in The Omen left a lasting impression. While I still hate watching horror movies, I've mastered the art of using friends and family as human shields during movie nights.
+✺ [Robtober '24](https://v6.robweychert.com/blog/2024/10/robtober/) has finally arrived, and I've been eagerly anticipating it since last August! I'm particularly intrigued to see The Omen franchise on the list, despite my childhood trauma associated with black dogs from those films. Growing up, I found horror movies terrifying, and the events in The Omen left a lasting impression. While I still hate watching horror movies, I've mastered the art of using friends and family as human shields during movie nights.
 
-🕵🏻 [Never Send me a TikTok Video](https://rknight.me/blog/never-send-me-a-tiktok-video/?ref=krabf.com)
+✺ [Never Send me a TikTok Video](https://rknight.me/blog/never-send-me-a-tiktok-video/?ref=krabf.com)
 
-📺 [*Twin Peaks* Actually Explained: A 4‑Hour Video Essay Demystifies It All](https://www.openculture.com/2024/10/twin-peaks-actually-explained.html)
+✺ [*Twin Peaks* Actually Explained: A 4‑Hour Video Essay Demystifies It All](https://www.openculture.com/2024/10/twin-peaks-actually-explained.html)
 
 ---
 

@@ -13,17 +13,17 @@ I enjoy cleaning and organizing, and if I had all the time in the world, I’d p
 
 # The Week in Links
 
-🔗 [Documenting the Divine](https://www.are.na/editorial/documenting-the-divine/?ref=krabf.com) *by* [Chia Amisola](https://chia.design/?ref=krabf.com)
+✺ [Documenting the Divine](https://www.are.na/editorial/documenting-the-divine/?ref=krabf.com) *by* [Chia Amisola](https://chia.design/?ref=krabf.com)
 
-🔗 [Craig Mod's version of "Leave no trace"](https://craigmod.com/ridgeline/203/?ref=krabf.com)
+✺ [Craig Mod's version of "Leave no trace"](https://craigmod.com/ridgeline/203/?ref=krabf.com)
 
-🔗 [Reflections on 25 years of Interconnected](https://interconnected.org/home/2025/02/19/reflections) *by* [Matt Webb](https://interconnected.org/?ref=krabf.com)
+✺ [Reflections on 25 years of Interconnected](https://interconnected.org/home/2025/02/19/reflections) *by* [Matt Webb](https://interconnected.org/?ref=krabf.com)
 
 When I first wanted to start blogging, there was this unspoken rule that you HAD to use WordPress to be taken seriously. That, and you needed to monetize immediately with Adsense and other ad platforms. But all I wanted was a simple space to write down my thoughts. I eventually tried Tumblr instead, but that quickly morphed into just another place where I reblogged interesting stuff rather than creating anything original.
 
-🔗 [The endless internal struggle of phone photography](https://linksiwouldgchatyou.substack.com/p/the-endless-internal-struggle-of/?ref=krabf.com) *by* [Caitlin Dewey of Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/) (It's a Substack site. I'm sorry)
+✺ [The endless internal struggle of phone photography](https://linksiwouldgchatyou.substack.com/p/the-endless-internal-struggle-of/?ref=krabf.com) *by* [Caitlin Dewey of Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/) (It's a Substack site. I'm sorry)
 
-🔗 Fast Company’s Co.Design [held a competition](https://www.fastcompany.com/1662130/infographic-of-the-day-inception-contest-winner) to design an infographic diagramming the complex plot of the blockbuster movie Inception. [Rick Slusher's](https://www.rickslusher.com/?ref=krabf.com) [winning entry](https://www.rickslusher.com/Inception-The-Architecture/?ref=krabf.com) is fundamentally a timeline of Inception’s dream architecture, with each character’s trajectory represented. [Here's Rick explaining his thought process in full.](https://www.fastcompany.com/1662130/infographic-of-the-day-inception-contest-winner)
+✺ Fast Company’s Co.Design [held a competition](https://www.fastcompany.com/1662130/infographic-of-the-day-inception-contest-winner) to design an infographic diagramming the complex plot of the blockbuster movie Inception. [Rick Slusher's](https://www.rickslusher.com/?ref=krabf.com) [winning entry](https://www.rickslusher.com/Inception-The-Architecture/?ref=krabf.com) is fundamentally a timeline of Inception’s dream architecture, with each character’s trajectory represented. [Here's Rick explaining his thought process in full.](https://www.fastcompany.com/1662130/infographic-of-the-day-inception-contest-winner)
 
 ![Inception: The Architecture by Rick Slusher](/weeknotes/2025-W08/InceptionArch2_1600_c.png "Inception: The Architecture by Rick Slusher")
 

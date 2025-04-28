@@ -18,15 +18,15 @@ I've been following my new daily routine for a week now, and it's been fantastic
 
 # The Week in Links
 
-🤡 [April Cool's Day](https://www.aprilcools.club/) - I hate April Fool's so much now that I'm older. Some people use it as an excuse for their stupidity. So seeing this makes me happy. If I would have known about it, I would have participated. In other news, just this April 1 someone followed a page on Facebook that they would receive money if they would get a tattoo of the page's logo on their forehead. Immediately the guy did this of course in exchange of money but the next day the page announced it was just for April Fools. Netizens reacted that the page was held accountable for what the person did because not everyone knows what April Fools is, this is not being celebrated here in the Phiilppines too — it's a burgis ideas.
+✺ [April Cool's Day](https://www.aprilcools.club/) - I hate April Fool's so much now that I'm older. Some people use it as an excuse for their stupidity. So seeing this makes me happy. If I would have known about it, I would have participated. In other news, just this April 1 someone followed a page on Facebook that they would receive money if they would get a tattoo of the page's logo on their forehead. Immediately the guy did this of course in exchange of money but the next day the page announced it was just for April Fools. Netizens reacted that the page was held accountable for what the person did because not everyone knows what April Fools is, this is not being celebrated here in the Phiilppines too — it's a burgis ideas.
 
-🪑 [The Most Important Chair](https://www.instagram.com/p/C5I3sRfB5pl/) - Eames Chair who??? Vitra chairs could never
+✺ [The Most Important Chair](https://www.instagram.com/p/C5I3sRfB5pl/) - Eames Chair who??? Vitra chairs could never
 
-👨🏼‍🔬 [Adam Savage's Beautifully Chaotic Studio Tour](https://www.youtube.com/watch?v=sT1Ie7fw478)
+✺ [Adam Savage's Beautifully Chaotic Studio Tour](https://www.youtube.com/watch?v=sT1Ie7fw478)
 
-📰 [Dear Somebody by Mera Lee Patel](https://meeraleepatel.substack.com/) - Lovely weeknotes newsletter!
+✺ [Dear Somebody by Mera Lee Patel](https://meeraleepatel.substack.com/) - Lovely weeknotes newsletter!
 
-🌤️ [Suspension of classes due to extreme heat](https://www.sunstar.com.ph/cebu/cebu-lgus-suspend-face-to-face-classes-due-to-intense-heat) - The heat in the Philippines has been outrageous! The heat index can soar from a scorching 35°C (95°F) to an unbearable 42°C (107°F) in no time. This extreme heat has led to numerous class suspensions, as the conditions make it nearly impossible for students to concentrate or function properly in educational institutions. Like I said before the transition to the new academic calendar was implemented prematurely, and we were ill-prepared for its implementation.
+✺ [Suspension of classes due to extreme heat](https://www.sunstar.com.ph/cebu/cebu-lgus-suspend-face-to-face-classes-due-to-intense-heat) - The heat in the Philippines has been outrageous! The heat index can soar from a scorching 35°C (95°F) to an unbearable 42°C (107°F) in no time. This extreme heat has led to numerous class suspensions, as the conditions make it nearly impossible for students to concentrate or function properly in educational institutions. Like I said before the transition to the new academic calendar was implemented prematurely, and we were ill-prepared for its implementation.
 
 <lite-youtube videoid="vYaNiC4kchg" style="background-image: url(&quot;https://i.ytimg.com/vi/vYaNiC4kchg/hqdefault.jpg&quot;);" class="lyt-activated"><button type="button" class="lty-playbtn"><span class="lyt-visually-hidden">Play</span></button><iframe width="560" height="315" title="Play" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube-nocookie.com/embed/vYaNiC4kchg?autoplay"></iframe></lite-youtube>
 

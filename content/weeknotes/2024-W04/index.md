@@ -31,11 +31,11 @@ I just had my first cup of coffee this year, and it feels like I'm back to my no
 
 # The Week In Links
 
-[The Joys of Getting Organized](https://zenhabits.net/joy/) by Zen Habits
+✺ [The Joys of Getting Organized](https://zenhabits.net/joy/) by Zen Habits
 
-[Daft Social, The Anti-Social Social Network for Minimalists](https://daftsocial.com/) - The platform prioritizes simplification and reduction, restricting text formatting and character count in the subject line for consistency across email services.
+✺ [Daft Social, The Anti-Social Social Network for Minimalists](https://daftsocial.com/) - The platform prioritizes simplification and reduction, restricting text formatting and character count in the subject line for consistency across email services.
 
-[Happy 40th Birthday, Macintosh](https://mac40th.com/) - A lot of folks from Mastodon are sharing their first Mac https://mastodon.social/tags/MyFirstMac
+✺ [Happy 40th Birthday, Macintosh](https://mac40th.com/) - A lot of folks from Mastodon are sharing their first Mac https://mastodon.social/tags/MyFirstMac
 
 
 <lite-youtube videoid="iMBJrvEwv8s" style="background-image: url(&quot;https://i.ytimg.com/vi/iMBJrvEwv8s/hqdefault.jpg&quot;);" class="lyt-activated"><button type="button" class="lty-playbtn"><span class="lyt-visually-hidden">Play</span></button><iframe width="560" height="315" title="Play" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube-nocookie.com/embed/iMBJrvEwv8s?autoplay"></iframe></lite-youtube>

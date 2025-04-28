@@ -15,16 +15,16 @@ I got my wisdom tooth taken out last Friday, which was much needed! I'd been dea
 
 # The Week in Links
 
-💾 [about | ideas | now](https://aboutideasnow.com) - aboutideasnow.com exists to help you find your people. A searchable collection, 1000s of personal websites exist on the internet, outside of social media — created by creators, thinkers, and doers of all sorts. Created by [Peter Hagen](https://lindylearn.io/) and [Louis Barclay](https://louis.work/) - This is going to be another rabbit hole!
+✺ [about | ideas | now](https://aboutideasnow.com) - aboutideasnow.com exists to help you find your people. A searchable collection, 1000s of personal websites exist on the internet, outside of social media — created by creators, thinkers, and doers of all sorts. Created by [Peter Hagen](https://lindylearn.io/) and [Louis Barclay](https://louis.work/) - This is going to be another rabbit hole!
 
-🐦 [Lynn Fisher](https://lynnandtonic.com/) [archived her tweets](https://twitter.lynnandtonic.com/) and actually made it look like Twitter
+✺ [Lynn Fisher](https://lynnandtonic.com/) [archived her tweets](https://twitter.lynnandtonic.com/) and actually made it look like Twitter
 
-📄 Manuel Moreale's [People and Blogs](https://peopleandblogs.com/) series is so inspiring for blogging authentically. Instead of stressing about niches, it highlights people carving out their own spaces online by writing passions. His People and Blogs series has been a great way of discovering people and what they've done with their blogs and how to make them their own. Manuel reminds me blogging should be self-expression, not a chore. The one with [Brad Barrish](https://manuelmoreale.com/pb-brad-barrish/?ref=krabf.com) is probably my favorite edition — packed with a ton of great links to check out more of Brad's work and other interesting people too.
+✺ Manuel Moreale's [People and Blogs](https://peopleandblogs.com/) series is so inspiring for blogging authentically. Instead of stressing about niches, it highlights people carving out their own spaces online by writing passions. His People and Blogs series has been a great way of discovering people and what they've done with their blogs and how to make them their own. Manuel reminds me blogging should be self-expression, not a chore. The one with [Brad Barrish](https://manuelmoreale.com/pb-brad-barrish/?ref=krabf.com) is probably my favorite edition — packed with a ton of great links to check out more of Brad's work and other interesting people too.
 
-🌐 [The internet isn't dying, it's changing](https://coryd.dev/posts/2024/the-internet-isnt-dying-its-changing/?ref=krabf.com) by [Cory Dransfeldt](https://coryd.dev/)
+✺ [The internet isn't dying, it's changing](https://coryd.dev/posts/2024/the-internet-isnt-dying-its-changing/?ref=krabf.com) by [Cory Dransfeldt](https://coryd.dev/)
 > Communication can be slower, smaller in scale and healthier. Write a blog post, read another and author a thoughtful response. We don't need to scroll endlessly and we don't need content to be infinitely available.
 
-👩🏻‍💻 [You don't have to be a “content creator” to have a website](https://ohhelloana.blog/just-get-a-website/?ref=krabf.com) by [Ana Rodrigues](https://ohhelloana.blog/) - Yes! It's about being reachable! Heck, I want every local business to have their own website. I remember talking to some tourist years ago who were asking for directions. They said they had the hardest time finding this one shop because it had zero web presence. No website, not even a pinned location on Google Maps! A decent website doesn't have to be expensive or fancy.
+✺ [You don't have to be a “content creator” to have a website](https://ohhelloana.blog/just-get-a-website/?ref=krabf.com) by [Ana Rodrigues](https://ohhelloana.blog/) - Yes! It's about being reachable! Heck, I want every local business to have their own website. I remember talking to some tourist years ago who were asking for directions. They said they had the hardest time finding this one shop because it had zero web presence. No website, not even a pinned location on Google Maps! A decent website doesn't have to be expensive or fancy.
 
 ---
 

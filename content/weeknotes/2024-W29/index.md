@@ -30,23 +30,23 @@ The shop I went to didn't have the A1200 in stainless steel, which was a bit of 
 
 # The Week in Links
 
-📻 [Overcast celebrates its 10th anniversary with redesigned interface](https://www.macstories.net/reviews/overcast-celebrates-its-tenth-anniversary-with-a-redesigned-interface/)
+✺ [Overcast celebrates its 10th anniversary with redesigned interface](https://www.macstories.net/reviews/overcast-celebrates-its-tenth-anniversary-with-a-redesigned-interface/)
 
-💄 [In an attention economy, aesthetics play an integral role in projecting success and your standing in society.](https://www.dazeddigital.com/beauty/article/62929/1/the-rise-of-people-choosing-friends-for-their-feeds)
+✺ [In an attention economy, aesthetics play an integral role in projecting success and your standing in society.](https://www.dazeddigital.com/beauty/article/62929/1/the-rise-of-people-choosing-friends-for-their-feeds)
 
-👁️‍🗨️ [Understanding the Eye-Mind Connection](https://www.chrbutler.com/understanding-the-eye-mind-connection)
+✺ [Understanding the Eye-Mind Connection](https://www.chrbutler.com/understanding-the-eye-mind-connection)
 
-⌚ Everything you need. In the palm of your hand. [tinyPod](https://thetinypod.com/)
+✺ Everything you need. In the palm of your hand. [tinyPod](https://thetinypod.com/)
 
-❤️‍🔥 [Mary Oliver on What Attention Really Means and Her Moving Elegy for Her Soul Mate](https://www.themarginalian.org/2015/01/20/mary-oliver-molly-malone-cook-our-world/)
+✺ [Mary Oliver on What Attention Really Means and Her Moving Elegy for Her Soul Mate](https://www.themarginalian.org/2015/01/20/mary-oliver-molly-malone-cook-our-world/)
 
-🖼️ [2Craigs](https://www.2craigs.com/) *via* [Chris Glass](https://chrisglass.com/)
+✺ [2Craigs](https://www.2craigs.com/) *via* [Chris Glass](https://chrisglass.com/)
 
-⚠️ [Major Windows BSOD issue hits banks, airlines, and TV broadcasters](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue)
+✺ [Major Windows BSOD issue hits banks, airlines, and TV broadcasters](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue)
 
-🤖 Proof News created a [tool](https://www.proofnews.org/youtube-ai-search/) to search for creators in the YouTube AI training dataset. I see old materials from my current company being used.
+✺ Proof News created a [tool](https://www.proofnews.org/youtube-ai-search/) to search for creators in the YouTube AI training dataset. I see old materials from my current company being used.
 
-📃 [Smol Pub](https://smol.pub/), a tiny blogging hosting service
+✺ [Smol Pub](https://smol.pub/), a tiny blogging hosting service
 
 ---
 

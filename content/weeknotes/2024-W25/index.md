@@ -17,21 +17,21 @@ Now I'm in Season 3, the final season, and I still have mixed feelings. Part of 
 
 # The Week in Links
 
-🖥️ Matt Evans's [MicroMac](https://axio.ms/projects/2024/06/16/MicroMac.html)
+✺ Matt Evans's [MicroMac](https://axio.ms/projects/2024/06/16/MicroMac.html)
 
-🤖 Approximately 5.4 billion people used the internet in 2023. [Bots generate nearly half of internet traffic](https://www.chrbutler.com/the-internet-isnt-for-humans-anymore), increasing from 47.6% to 49.6% in 2023.
+✺ Approximately 5.4 billion people used the internet in 2023. [Bots generate nearly half of internet traffic](https://www.chrbutler.com/the-internet-isnt-for-humans-anymore), increasing from 47.6% to 49.6% in 2023.
 
-⛅ [How will your city feel in the future?](https://pudding.cool/2024/06/climate-zones/) by [Derek Taylor](https://pudding.cool/author/derek-taylor/)
+✺ [How will your city feel in the future?](https://pudding.cool/2024/06/climate-zones/) by [Derek Taylor](https://pudding.cool/author/derek-taylor/)
 
 ![Climate Zones by Derek Taylor](/weeknotes/2024-W25/the-pudding-climate-zones.png "Climate Zones by Derek Taylor")
 
-🦩 A photographer has been [disqualified from a picture competition](https://petapixel.com/2024/06/12/photographer-disqualified-from-ai-image-contest-after-winning-with-real-photo/) after his real photograph won in the AI image category.
+✺ A photographer has been [disqualified from a picture competition](https://petapixel.com/2024/06/12/photographer-disqualified-from-ai-image-contest-after-winning-with-real-photo/) after his real photograph won in the AI image category.
 
-🖼️ [The Google Visitor Experience](https://arun.is/blog/google-visitor-experience/?ref=krabf.com)
+✺ [The Google Visitor Experience](https://arun.is/blog/google-visitor-experience/?ref=krabf.com)
 
-🗣️ [Seven Conversation Hacks](https://randsinrepose.com/archives/seven-conversation-hacks/?ref=krabf.com)
+✺ [Seven Conversation Hacks](https://randsinrepose.com/archives/seven-conversation-hacks/?ref=krabf.com)
 
-🔎 [Should I remove this blog from Google Search?](https://thejollyteapot.com/2024/06/23/should-i-remove-this-blog-from-google-search)
+✺ [Should I remove this blog from Google Search?](https://thejollyteapot.com/2024/06/23/should-i-remove-this-blog-from-google-search)
 
 ---
 

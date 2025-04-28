@@ -19,19 +19,19 @@ We'll see how we feel after really experiencing Singapore for an extended stay. 
 
 # The Week in Links
 
-🛣️ [THE RETURN TO PACHINKO ROAD](https://craigmod.com/ridgeline/186/) is a new pop-up newsletter by my idol, [Craig Mod](https://craigmod.com).
+✺ [THE RETURN TO PACHINKO ROAD](https://craigmod.com/ridgeline/186/) is a new pop-up newsletter by my idol, [Craig Mod](https://craigmod.com).
 
-📱 [The redesigned iPad Air and new iPad Pro](https://www.apple.com/ipad-pro) - That OLED screen is just so gorgeous. I don't need one but I kinda want one.
+✺ [The redesigned iPad Air and new iPad Pro](https://www.apple.com/ipad-pro) - That OLED screen is just so gorgeous. I don't need one but I kinda want one.
 
-🍎 [Apple announces M4 with more CPU cores and AI focus, just months after M3](https://arstechnica.com/apple/2024/05/apple-announces-m4-with-more-cpu-cores-and-ai-focus-just-months-after-m3/)
+✺ [Apple announces M4 with more CPU cores and AI focus, just months after M3](https://arstechnica.com/apple/2024/05/apple-announces-m4-with-more-cpu-cores-and-ai-focus-just-months-after-m3/)
 
-🥅 [The Paradox of Goals](https://nesslabs.com/the-paradox-of-goals) explores the complexities and challenges of setting and achieving goals in today's world. Anne-Laure Le Cunff delves into the reasons why goals, whether achieved or failed, often leave individuals feeling unfulfilled and explores an alternative concept called "growth loops"
+✺ [The Paradox of Goals](https://nesslabs.com/the-paradox-of-goals) explores the complexities and challenges of setting and achieving goals in today's world. Anne-Laure Le Cunff delves into the reasons why goals, whether achieved or failed, often leave individuals feeling unfulfilled and explores an alternative concept called "growth loops"
 
-🧘🏼‍♂️ [The Possibility of Slowing Down](https://zenhabits.net/slow-retreat/)
+✺ [The Possibility of Slowing Down](https://zenhabits.net/slow-retreat/)
 
-🚧 [The tech industry doesn't deserve optimism it has earned skepticism](https://coryd.dev/posts/2024/the-tech-industry-doesnt-deserve-optimism-it-has-earned-skepticism/)
+✺ [The tech industry doesn't deserve optimism it has earned skepticism](https://coryd.dev/posts/2024/the-tech-industry-doesnt-deserve-optimism-it-has-earned-skepticism/)
 
-📸 [Depths of Field Simulator](https://jherr.github.io/depth-of-field/) - This provides a visual representation of how changing camera settings affects the depth of field in photography. The simulator includes parameters such as subject distance, focal length, aperture, and sensor size. A handy tool that looks terrible on mobile. And there a selection of subjects including humans and dogs, and devices like webcams and smartphones.
+✺ [Depths of Field Simulator](https://jherr.github.io/depth-of-field/) - This provides a visual representation of how changing camera settings affects the depth of field in photography. The simulator includes parameters such as subject distance, focal length, aperture, and sensor size. A handy tool that looks terrible on mobile. And there a selection of subjects including humans and dogs, and devices like webcams and smartphones.
 
 ---
 
