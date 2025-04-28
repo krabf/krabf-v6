@@ -118,6 +118,8 @@ body {
 \******************************************************************************/
 a { color: inherit; text-decoration-color: #007AFC; border: 0; box-shadow: none; }
 a:hover { color: #007AFC; }
+a:focus:not(:focus-visible) { outline: none; }
+a:focus-visible { outline: 2px solid var(--highlight); outline-offset: 2px; }
 
 figure a { box-shadow: none; }
 figure a:hover { box-shadow: none; }
@@ -719,6 +721,16 @@ lite-youtube.lyt-activated > .lty-playbtn {
 .archive a:focus {
   outline: 2px solid var(--highlight);
   outline-offset: 2px;
+}
+
+/* Accessibility improvements */
+.archive a:focus-visible {
+  outline: 2px solid var(--highlight);
+  outline-offset: 2px;
+}
+
+.archive a:focus:not(:focus-visible) {
+  outline: none;
 }
 
 .archive a:hover {
