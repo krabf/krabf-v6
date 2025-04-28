@@ -17,7 +17,7 @@ SAME
 
 {{< sep >}}
 
-✺ Emmy-nominated editor[Corey Frost](https://coreyscottfrost.com/ref?ref=krabf), and some amazing contributors created a Google Docs of [Post Production Resources](https://docs.google.com/document/d/1JwC-vxZVjY3DaoqTMwSaElK6JBxsI7fcxgGp2zR4Sdw/edit?usp=sharing)
+✺ Emmy-nominated editor [Corey Frost](https://coreyscottfrost.com/ref?ref=krabf), and some amazing contributors created a Google Docs of [Post Production Resources](https://docs.google.com/document/d/1JwC-vxZVjY3DaoqTMwSaElK6JBxsI7fcxgGp2zR4Sdw/edit?usp=sharing)
 
 {{< sep >}}
 
