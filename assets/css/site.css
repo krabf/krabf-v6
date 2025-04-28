@@ -274,18 +274,16 @@ input[type="submit"] {
  * Separators                                                                  *
 \******************************************************************************/
 
-.sep {
-  display: block;
-  width: 100%;
-  margin: 1.5rem 0;
-  height: 2px;
-  background-color: #efefef;
-}
-
-@media (prefers-color-scheme: dark) {
-  html:not(.light) .sep {
-    background-color: #374151;
-  }
+.sep, .sep-no, .sep-solid {
+  position: relative;
+  margin-bottom: var(--grid-content-spacing);
+  left: calc(0rem - var(--grid-spacing));
+  width: calc(100% + 2 * var(--grid-spacing));
+  border: none;
+  height: 1px;
+  background: var(--color-text);
+  opacity: var(--grid-opacity);
+  background: repeating-linear-gradient(90deg, transparent, transparent 5px, var(--color-text) 5px, var(--color-text) 10px);
 }
 
 /******************************************************************************\
