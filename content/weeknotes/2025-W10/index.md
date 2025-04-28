@@ -14,7 +14,6 @@ I've been going through my old college photos, and I actually miss it — my fri
 
 ---
 
-
 # The Week in Links
 
 ✺ [The Hydrant Directory](https://www.dayroselane.com/hydrants/?ref=krabf.com)
