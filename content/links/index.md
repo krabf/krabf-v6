@@ -6,7 +6,9 @@ layout = "blog"
 
 # Links
 
-A curated collection of interesting links from my weeknotes.
+#### A curated collection of interesting links from my weeknotes.
+
+{{< sep >}}
 
 ✺ [Website Manifesto ...a living document subject to encouraged to change/evolve/grow](https://fromemily.com/website-manifesto/?ref=krabf.com) *by* [Emily Moran Barwick](https://fromemily.com/?ref=krabf.com)
 > I want to avoid nicheifying myself and my work—[trapping myself in any one "frame."](https://fromemily.com/hi-im-terrified/#hi-im-existentially-angsty-as-fuck) I want this website to hold space for work that is joyous, irreverent, snarky, deadly serious, utterly frivolous, poignant, pointless, labored over, shat out in a sitting, inspiring, helpful, self-indulgent, humorous, biting, sarcastic, empathetic, armored, vulnerable, and ALL THE THINGS I am and can be all at once. I want this website to reflect (as much as a website can) the fullness of a human. (No pressure, website...)
@@ -36,7 +38,7 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 ✺ [The Story Behind Those Incredible 'The Residence' Opening Credits](https://www.shondaland.com/shondaland-series/the-residence/the-story-behind-those-incredible-the-residence-opening-credits)
 
-![An opening illustration from 'The Residence by Maira Kalman](the-residence.webp "An opening illustration from 'The Residence by Maira Kalman")
+![An opening illustration from 'The Residence by Maira Kalman](/weeknotes/2025-W17/the-residence.webp "An opening illustration from 'The Residence by Maira Kalman")
 
 {{< sep >}}
 
