@@ -1,4 +1,6 @@
 +++
+date = "2025-04-27"
+title = "2025-W17"
 slug = "2025-W17"
 categories = ["personal", "weeknotes"]
 week = "2025-W17 - 21 April to 27 April"
