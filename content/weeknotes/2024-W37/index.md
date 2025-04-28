@@ -67,12 +67,12 @@ Being a woman with large feet is incredibly frustrating, especially when shoppin
 
 ![Leica M11-D](/weeknotes/2024-W37/Product-7.jpg "The M11-D enables images with a resolution of either 60, 36 or 18 MP")
 
-💬 [List of pangrams](https://clagnut.com/blog/2380)
+✺ [List of pangrams](https://clagnut.com/blog/2380)
 > Ang bawat rehistradong kalahok sa patimpalak ay umaasang magantimpalaan ng Ã±ino
 
 TIL that this is the Tagalog version for the infamous "The quick brown fox..." but the character encoding issue on the website for **ñ** is so funny.
 
-📑 [Big publishers think libraries are the enemy](https://www.citationneeded.news/hachette-v-internet-archive/) *by* [Molly White](https://www.citationneeded.news/).
+✺ [Big publishers think libraries are the enemy](https://www.citationneeded.news/hachette-v-internet-archive/) *by* [Molly White](https://www.citationneeded.news/).
 
 > Libraries are critical infrastructure. Access to information is a human right. When you buy a book you should [truly own it](https://www.citationneeded.news/we-need-to-talk-about-digital-ownership/). When a library buys a book, they should be able to lend it. Readers should be able to read without any third parties spying over their shoulders, or preventing them from accessing the materials they have legally obtained.
 

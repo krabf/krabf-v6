@@ -37,7 +37,7 @@ It's September 1st and I'm getting ready for the holiday season. Part of me is a
 
 ✺ [Chris Welch](https://www.threads.net/@chriswelch/post/C-8LF4BOSAP/) did a thread about how Google Pixel's New "Reimagine" feature that uses AI to make deepfakes easily accessible. The increasing sophistication of AI makes it harder for people to distinguish fake images from real ones, which could lead to a future where trust in visual media is severely compromised.
 
-[John Gruber](https://daringfireball.net/linked/2024/08/26/welch-reimagine-pixel-9):
+✺ [John Gruber](https://daringfireball.net/linked/2024/08/26/welch-reimagine-pixel-9):
 
 > Everyone alive today has grown up in a world where you can’t believe everything you read. Now we need to adapt to a world where that applies just as equally to photos and videos.
 

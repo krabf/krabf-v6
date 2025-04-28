@@ -1,6 +1,6 @@
 +++
 description = "A collection of interesting links from my weeknotes"
-layout = "links"
+layout = "blog"
 +++
 
 # Links
@@ -11,6 +11,8 @@ A curated collection of interesting links from my weeknotes.
 > I want to avoid nicheifying myself and my work—[trapping myself in any one "frame."](https://fromemily.com/hi-im-terrified/#hi-im-existentially-angsty-as-fuck) I want this website to hold space for work that is joyous, irreverent, snarky, deadly serious, utterly frivolous, poignant, pointless, labored over, shat out in a sitting, inspiring, helpful, self-indulgent, humorous, biting, sarcastic, empathetic, armored, vulnerable, and ALL THE THINGS I am and can be all at once. I want this website to reflect (as much as a website can) the fullness of a human. (No pressure, website...)
 
 SAME
+
+{{< sep >}}
 
 ✺ Emmy-nominated editor[Corey Frost](https://coreyscottfrost.com/ref?ref=krabf), and some amazing contributors created a Google Docs of [Post Production Resources](https://docs.google.com/document/d/1JwC-vxZVjY3DaoqTMwSaElK6JBxsI7fcxgGp2zR4Sdw/edit?usp=sharing)
 
@@ -261,6 +263,8 @@ The Swiss government unveiled a new design for its passport, created by Geneva-b
 
 ✺ [Cinema Her Way: a starter park of nineteen films from women directors that you should see](https://letterboxd.com/journal/cinema-her-way-women-directors-watchlist/) - In celebration of Marya E. Gates's new book, *Cinema Her Way: Visionary Female Directors in Their Own Words*, Marya E. Gates selects one sensational ﬁlm from each of the nineteen women ﬁlmmakers she has interviewed to highlight the breadth of artistic contributions they have made to cinema’s past, present and future. **Mira Nair mentioned!**
 
+{{< sep >}}
+
 ✺ Waiting for my ***free*** [Sublime](https://sublime.app/?ref=krabf.com) access. Anyone tried this one yet?
 
 {{< sep >}}
@@ -355,7 +359,9 @@ When I first wanted to start blogging, there was this unspoken rule that you HAD
 
 {{< sep >}}
 
-✺ [Design ideas: e-menu for a food spot](https://blog.readymag.com/design-ideas-for-e-menu/?ref=krabf.com) *by* [Readymag](https://readymag.com/?ref=krabf.com) - I appreciate restaurants that put real thought into menu design. Here in the Philippines, most places stick to basic wall menus above the cashier or bulky menu books crammed with infographic-style layouts. During peak pandemic, I tried launching a fancy e-menu with QR codes in my hometown. The timing wasn't great - most folks weren't ready for digital menus, and not everyone had reliable access to smartphones. A bit ahead of its time, perhaps.  
+✺ [Design ideas: e-menu for a food spot](https://blog.readymag.com/design-ideas-for-e-menu/?ref=krabf.com) *by* [Readymag](https://readymag.com/?ref=krabf.com) - I appreciate restaurants that put real thought into menu design. Here in the Philippines, most places stick to basic wall menus above the cashier or bulky menu books crammed with infographic-style layouts. During peak pandemic, I tried launching a fancy e-menu with QR codes in my hometown. The timing wasn't great - most folks weren't ready for digital menus, and not everyone had reliable access to smartphones. A bit ahead of its time, perhaps. 
+
+{{< sep >}}
 
 ✺ I may not be an avid reader, but I'm a sucker for great book cover design so here's [Lithub's 167 Best Book Covers of 2024](https://lithub.com/the-167-best-book-covers-of-2024/?ref=krabf.com). Reminds me of one of my favorite artists, [Elisha Zepeda](https://www.instagram.com/ez.bookdesign/).
 
@@ -459,7 +465,11 @@ I honestly have lost hope for the Philippines. It's another [Mary Grace Piattos]
 
 ✺ [Jack Baty changed his blog again.](https://baty.net/2024/12/from-hugo-to-ghost-and-back-again/?ref=krabf.com)
 
+{{< sep >}}
+
 ✺ The Verge just [launched a subscription model](https://www.theverge.com/2024/12/3/24306571/verge-subscription-launch-fewer-ads-unlimited-access-full-text-rss) with some great perks: full-text RSS, access to premium newsletters, and an "improved ad experience" — which seems totally backward. If subscribers are already paying, why are ads even in the picture? Manuel Moreale [wrote](https://manuelmoreale.com/the-correct-amount-of-ads-is-zero/?ref=krabf.com) something about this that resonates with me. I'm not sold on paying for news sites. **There are far better ways to make information accessible to everyone**. Sure, these sites need to keep the lights on, but this paywall approach is just another capitalist move that pushes people away. It's why so many folks end up scrolling through [Facebook](https://www.pewresearch.org/short-reads/2024/02/02/5-facts-about-how-americans-use-facebook-two-decades-after-its-launch/) for their [daily news](https://pmc.ncbi.nlm.nih.gov/articles/PMC6424427/#sec003) instead of seeking out quality journalism.
+
+{{< sep >}}
 
 ✺ Alexa, play [Take A Walk](https://infinitestroll.com/) by Passion Pit.
 
@@ -497,11 +507,15 @@ I honestly have lost hope for the Philippines. It's another [Mary Grace Piattos]
 
 ✺ [Can you take a photo of us?](https://www.youtube.com/watch?v=SOKSqLOKaEU)
 
+{{< sep >}}
+
 ✺ Doing a video about [this news](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/) at work and it's crazy I don't see people talking about it.
 
 {{< sep >}}
 
 ✺ [Jeremy Allen White lookalike contest in Chicago draws more than 50 participants.](https://chicago.suntimes.com/entertainment-and-culture/2024/11/16/glenview-therapist-wins-jeremy-allen-white-lookalike-contest-in-chicago) This sounds fun! We have our version of lookalike from the noontime show, [It's Showtime here in the Philippines](https://www.youtube.com/results?search_query=showtime+lookalike).
+
+{{< sep >}}
 
 ✺ Japan has been top of my bucket list for as long as I can remember. I've been building my must-visit spots list and taking notes from my lodi [Craig Mod's](https://craigmod.com/) recommendations. And seeing [this](https://dirt.fyi/article/2024/11/louder-in-japan) pop up in my email just means I NEED to get that visa.
 
@@ -519,6 +533,8 @@ I honestly have lost hope for the Philippines. It's another [Mary Grace Piattos]
 > Built on the open source, secure, decentralized [Matrix protocol](https://matrix.org/about/), the app has the potential to become a global independent news distribution outlet, and promises to pave the way for a “shared reality” — a call Ressa has been making to counter “the cascading failures of a corrupted public information ecosystem.”
 
 This is quite impressive for a news organization here in the Philippines. What Rappler is doing is really smart and exactly what news organizations need right now. Most people don't realize that companies like Facebook and Google have way too much control over how we get our news. Rappler has dealt with both [government](https://www.nytimes.com/2020/06/14/business/maria-ressa-verdict-philippines-rappler.htm) [harassment](https://www.rappler.com/newsbreak/in-depth/why-rappler-won-case-duterte-time-sec-shutdown-order/) and Big Tech's power games, and instead of just complaining, they're doing something about it. They're building their own platform where they can connect directly with readers without anyone getting in the way.
+
+{{< sep >}}
 
 ✺ Fifteen million people, yes, [15 MILLION](https://www.engadget.com/social-media/bluesky-surges-to-15-million-users-after-getting-a-million-sign-ups-in-one-week-224213573.html), are moved to Bluesky this week. [I'm also over there, mostly lurking](https://bsky.app/profile/krabf.com).  But I'm mostly in this blog. POSSE.
 
@@ -540,11 +556,15 @@ This is quite impressive for a news organization here in the Philippines. What R
 
 ✺ The Onion just bought InfoWars, [here's why](https://theonion.com/heres-why-i-decided-to-buy-infowars/).
 
+{{< sep >}}
+
 ✺ Apple's making big moves in creative software, from updating Final Cut Pro to acquiring Pixelmator. While Adobe still dominates the enterprise space with their AI features, many creative pros are looking for alternatives. [Apple's timing couldn't be better](https://petapixel.com/2024/11/14/apple-smells-blood-in-the-water/), focusing on performance and tight ecosystem integration, they're positioning themselves as a serious challenger to Adobe's creative suite dominance.
 
 {{< sep >}}
 
 ✺ [Four simultaneous storms rage in the West Pacific,](https://edition.cnn.com/2024/11/12/climate/philippines-storms-west-pacific-intl-hnk/index.html) a direct result of "warming" oceans. The recent typhoons in the Philippines expose [a deeper issue](https://www.ibon.org/ph-disaster-preparedness-neglected/): the government's reactive approach to disasters isn't working. Instead of meaningful infrastructure improvements and environmental protection, the Marcos administration, like its predecessors, [continues to prioritize business interests](https://www.ibon.org/bbm-admin-to-foreigners-take-our-land-please/) over people's welfare and proper disaster preparedness. The country needs a shift from mere response to actual prevention, putting community needs and environmental protection first.
+
+{{< sep >}}
 
 ✺ Folks are moving away from Arc Browser and looking to other alternative browsers that [don't try to be cool.](https://www.theverge.com/2024/10/24/24279020/browser-company-ai-browser-arc) And i'm glad people are discovering [Zen Browser](https://zen-browser.app/), my current browser of choice (unless I odn't stumble upon another browser.) But this week I discovered [Horse Browser](https://browser.horse/), a browser built for professionals who demand focus and efficiency. It's got a tree-like tab management that they call Trails and could even add folders straight from the Tabs, just like Arc. It's Electron and it's $20/year or $60 lifetime — so no, thank you. But would be nice to have a trial (like no payment at all) for this browser to know if it's worth the price.
 
@@ -575,6 +595,8 @@ This is quite impressive for a news organization here in the Philippines. What R
 {{< sep >}}
 
 ✺ [midcenturyclassical.com](https://midcenturyclassical.com/) - I had this sitting on my tab for the whole week and I kind of forgot how I stumbled upon this website. It's a personal collection by Jonas (it says on the Instagram account). And it's a wonderful collections site.
+
+{{< sep >}}
 
 ✺ Apple dropped some exciting new products this week! They unveiled the [M4 Pro and M4 Max](https://www.apple.com/newsroom/2024/10/apple-introduces-m4-pro-and-m4-max/?ref=krabf.com) chips alongside new [MacBooks](https://www.apple.com/macbook-pro/?ref=krabf.com). Though they look tempting, I'll stick to my trusty MacBook Pro M1 Max — still going strong after 4 years! The new [Mac mini](https://www.apple.com/mac-mini/?ref=krabf.com) caught my eye, though I definitely don't need it, but WANT it because it's both cutesy and mighty. They also launched colorful new [iMacs](https://www.apple.com/imac/?ref=krabf.com) that would look perfect in any family home.
 
@@ -653,6 +675,8 @@ This is quite impressive for a news organization here in the Philippines. What R
 
 ✺ [You should be using an RSS reader](https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/#read-receipts-are-you-kidding-me-seriously-fuck-that-noise) - I've always had a soft spot for RSS since I was younger. When Tumblr added RSS support, I jumped on it to keep tabs on my favorite blogs. It's such a handy tool that I even pitched it at work as a way to stay updated on news. There's something satisfying about having all your content neatly organized in one place, without the noise of social media or ads even!
 
+{{< sep >}}
+
 ✺ I can't pinpoint exactly when I first stumbled upon Minimalissimo, but it definitely coincided with my college-era fascination with minimalism. Now, hearing that Minimalissimo is [hibernating](https://buttondown.com/minimalissimo/archive/minimalissimo-edited-2670/) is making me sad.
 
 {{< sep >}}
@@ -699,6 +723,8 @@ This is quite impressive for a news organization here in the Philippines. What R
 
 > We know, when we’re reading a blog, that we’re getting a glimpse into the writer’s active psyche, a tour of their studio as it were — not hearing their thesis presentation or reading their pre-print publication; **hearing from other people _being people_ is part of the appeal of blogs**.
 
+{{< sep >}}
+
 [ Trigger Warning: Twitter link]
 ✺ I never imagined Helena Bonham Carter would be [reading](https://x.com/AllieEsiri/status/1841729552705306913) Mary Oliver's I Worried
 
@@ -710,9 +736,13 @@ This is quite impressive for a news organization here in the Philippines. What R
 
 ✺ [At the clinic](https://www.thewhitereview.org/fiction/at-the-clinic/) *via* [kottke.org](https://kottke.org/24/10/two-sally-rooney-things-i-didnt-know-about/?ref=krabf.com)
 
+{{< sep >}}
+
 ✺ Speaking of cars, I spent a good 15 minutes in [slowroads](https://nileane.fr/@nileane/113194188891066173). Thanks to [Niléane](https://nileane.fr/@nileane/113194188891066173). Quite addicting.
 
 ![Slowroads](/weeknotes/2024-W39/slowroads2.gif "Slowroads")
+
+{{< sep >}}
 
 ✺ Apparently, my used to be favorite camera app was [rejected from the App Store](https://mjtsai.com/blog/2024/09/24/halide-rejected-from-the-app-store/?ref=krabf.com). Also, turns out I was a bit out of the loop — it seems like a lot of folks had fallen out of love with it [a while back](https://new.reddit.com/r/ShotWithHalide/comments/xkc5jf/your_free_updates_to_halide_have_ended/). Apparently, there are tons of [other](https://apps.apple.com/us/app/no-fusion-a-simple-pro-cam/id6444706244) [apps](https://www.mood.camera/) out there using [Process Zero](https://www.lux.camera/introducing-process-zero-for-iphone/) too. I kinda get why people got annoyed when they switched to a subscription model., which I don't subscribe by the way because I do't really use it as much.
 
@@ -724,11 +754,15 @@ This is quite impressive for a news organization here in the Philippines. What R
 
 ✺ [Raycast for iOS seems to be in the works](https://www.raycast.com/blog/series-b). Just signed up for the waitlist! Raycast is my most used utility app and I'm excited for them.
 
+{{< sep >}}
+
 ✺ Notion's Notion AI has got a [new face](https://www.notion.so/product/ai), and it's cute and fun. They recently did an [interview](https://www.notion.so/blog/clippy-walked-so-notion-ai-could-run) with [Steven Sinofsky](https://en.wikipedia.org/wiki/Steven_Sinofsky), former leader of the Office product team.
 
 {{< sep >}}
 
 ✺ [Meta's new smart glasses](https://www.theverge.com/24253908/meta-orion-ar-glasses-demo-mark-zuckerberg-interview), Orion, actually look pretty IMO. I like this style of frames. I know it got a lot of hate, but it looks impressive and at least it’s less bulky than Apple's Vision Pro. Also Alex Heath needs to be in more videos!
+
+{{< sep >}}
 
 ✺ Gosh, the tech drama this week. [WordPress](https://kevquirk.com/blog/my-thoughts-on-the-wordpress-drama/?ref=krabf.com) and [MKBHD Wallpaper](https://www.forbes.com/sites/danidiplacido/2024/09/25/marques-brownlees-panels-backlash-explained/). Mira Murati [leaving OpenAI](https://www.theverge.com/2024/9/25/24254431/openai-cto-mira-murati-leaving). Fun week. Yes.
 
@@ -743,6 +777,8 @@ This is quite impressive for a news organization here in the Philippines. What R
 {{< sep >}}
 
 ✺ [Comedian John Mulaney brutally roasts SF techies at Dreamforce](https://pxlnv.com/linklog/mulaney-dreamforce/?ref=krabf.com) *via* [Pixel Envy](https://pxlnv.com/)
+
+{{< sep >}}
 
 ✺ *[Simplicity](https://minimalism.substack.com/p/removing-complexity-to-add-meaning) is important in every aspect of your work—not only in how you design, but how you collaborate, how you choose to communicate, how you organize your files, how you lead your meetings*
 
@@ -760,11 +796,15 @@ This is quite impressive for a news organization here in the Philippines. What R
 
 ✺ RIP James Earl Jones. [Here's him reading Edgar Allan Poe's The Raven](https://www.youtube.com/watch?v=sXU3RfB7308).
 
+{{< sep >}}
+
 ✺ The iPhone 16 lineup is built for [Apple Intelligence](https://www.apple.com/newsroom/2024/09/apple-intelligence-comes-to-iphone-ipad-and-mac-starting-next-month/) and introduces Camera Control. The Capture button will be a solid state capacitive button, with haptic feedback supplied by a built-in Taptic engine which mimics how a physical button would react when pressed. Neato. And for someone who still has the iPhone 12 Pro, I am eyeing for this upgrade that for sure will last me for another 5 years.
 
 ![Apple iPhone 16 Camera Control](/weeknotes/2024-W37/Apple-iPhone-16-Camera-Control.jpg "Camera Control makes it even easier to capture memories on iPhone 16 Pro and iPhone 16. // via Apple")
 
-✺ Next, we have Apple's new "Hearing Aid Feature" for AirPods Pro 2, approved by the FDA, transforms them into personalized hearing aids via a software update. It targets adults with mild to moderate hearing loss, offering accessibility and affordability compared to traditional hearing aids.
+{{< sep >}}
+
+✺ Apple's new "Hearing Aid Feature" for AirPods Pro 2, approved by the FDA, transforms them into personalized hearing aids via a software update. It targets adults with mild to moderate hearing loss, offering accessibility and affordability compared to traditional hearing aids.
 
 ![Apple AirPods Hearing Aid feature](/weeknotes/2024-W37/Apple-AirPods-Hearing-Aid-240909.jpg "Users can fine-tune their experience at any time with the Hearing Aid feature, making access to hearing assistance easier than ever. // via Apple")
 
@@ -807,6 +847,8 @@ This is quite impressive for a news organization here in the Philippines. What R
 </div>
 </div>
 
+{{< sep >}}
+
 📷 Leica recently released a new addition to the M-Cameras, the [Leica M11-D](https://leica-camera.com/en-int/photography/cameras/m/m11-d-black). The M11-D enables images with a resolution of either 60, 36 or 18 MP. With a cache of 3 GB, continuous shooting of up to 5 pictures per second with 60 MP is possible. With ISO range from native ISO 64 to ISO 50,000. Full specs is on the [Red Dot Forum](https://www.reddotforum.com/content/2024/09/leica-m11-d-cutting-edge-digital-with-analog-feel/) website. The M11-D also had the hardware-based Leica Content Credentials technology (based on the [Content Authenticity Initiative](https://leica-camera.com/en-int/news/partnership-greater-trust-digital-photography-leica-and-content-authenticity-initiative) framework) that we saw on the [M11-P](https://leica-camera.com/en-int/photography/content-credentials) to protect the authenticity of digital images.
 
 > The Leica M11-D brings the analogue experience to digital photography, but without creating limits. With the Leica FOTOS app, you can integrate the digital workflow into your work whenever you want. Use your device as a camera display to assess your shots and adjust nearly all camera settings to your liking. Once saved, your settings are locked in. The Leica FOTOS app also enables photo transfer, remote control, geotagging and direct editing in Adobe Lightroom, Capture One Pro or the Darkroom app.
@@ -815,12 +857,16 @@ This is quite impressive for a news organization here in the Philippines. What R
 
 ![Leica M11-D](/weeknotes/2024-W37/Product-7.jpg "The M11-D enables images with a resolution of either 60, 36 or 18 MP")
 
-💬 [List of pangrams](https://clagnut.com/blog/2380)
+{{< sep >}}
+
+✺ [List of pangrams](https://clagnut.com/blog/2380)
 > Ang bawat rehistradong kalahok sa patimpalak ay umaasang magantimpalaan ng Ã±ino
 
 TIL that this is the Tagalog version for the infamous "The quick brown fox..." but the character encoding issue on the website for **ñ** is so funny.
 
-📑 [Big publishers think libraries are the enemy](https://www.citationneeded.news/hachette-v-internet-archive/) *by* [Molly White](https://www.citationneeded.news/).
+{{< sep >}}
+
+✺ [Big publishers think libraries are the enemy](https://www.citationneeded.news/hachette-v-internet-archive/) *by* [Molly White](https://www.citationneeded.news/).
 
 > Libraries are critical infrastructure. Access to information is a human right. When you buy a book you should [truly own it](https://www.citationneeded.news/we-need-to-talk-about-digital-ownership/). When a library buys a book, they should be able to lend it. Readers should be able to read without any third parties spying over their shoulders, or preventing them from accessing the materials they have legally obtained.
 
@@ -831,6 +877,8 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 ![The Periodic Table of Tools](/weeknotes/2024-W36/the-periodic-table-of-tools.jpg "The Periodic Table of Tools")
 
 ![The Periodic Table of Tools](/weeknotes/2024-W36/the-periodic-table-of-tools-protractors.jpg "Protractors")
+
+{{< sep >}}
 
 ✺ Silvio Rizzi's new [Reeder](https://apps.apple.com/us/app/reeder/id6475002485) app launched this week, integrating RSS feeds with diverse content sources like podcasts, YouTube, and social media. Despite mixed reviews, I considered trying it as an alternative to my buggy NetNewsWire iOS app. However, discovering that OPML import is behind a paywall quickly changed my mind. For now, I'm sticking with NetNewsWire, hoping for improvements or a more accessible alternative in the future.
 
@@ -890,7 +938,9 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 
 ✺ [Chris Welch](https://www.threads.net/@chriswelch/post/C-8LF4BOSAP/) did a thread about how Google Pixel's New "Reimagine" feature that uses AI to make deepfakes easily accessible. The increasing sophistication of AI makes it harder for people to distinguish fake images from real ones, which could lead to a future where trust in visual media is severely compromised.
 
-[John Gruber](https://daringfireball.net/linked/2024/08/26/welch-reimagine-pixel-9):
+{{< sep >}}
+
+✺ [John Gruber](https://daringfireball.net/linked/2024/08/26/welch-reimagine-pixel-9):
 
 > Everyone alive today has grown up in a world where you can’t believe everything you read. Now we need to adapt to a world where that applies just as equally to photos and videos.
 
@@ -907,6 +957,8 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 {{< sep >}}
 
 ✺ [The Good Milk List](https://cheesemaking.com/pages/good-milk) - Find and share good milk near you
+
+{{< sep >}}
 
 ✺ It's great to see [feeeed](https://feeeed.nateparrott.com/) gaining some well-deserved attention! I had the opportunity to try it out during the early beta stages when Nate first started sharing access. The app had its quirks and felt somewhat scattered. But even in that early stage, I was impressed by its core functionality.
 
@@ -965,6 +1017,8 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 
 ✺ Casio just dropped their new [ABL-100](https://www.casio.com/intl/watches/casio/standard/vintage/abl-100/), which is basically an A168 with a Bluetooth step tracker. I'm seriously eyeing it, provided it doesn't break the bank. I've been using the classic A168 all week, and I've got to say, it's growing on me. Think I might have found my new daily driver.
 
+{{< sep >}}
+
 ✺ Only two days after winning a gold medal in Paris, the Algerian boxer, Imane Khelif [filed a harassment complaint](https://apnews.com/article/paris-olympics-khelif-cyber-harassment-boxing-algeria-investigation-cfc710d52ec0830936b0b3b0758fbf0f) with French authorities.
 
 {{< sep >}}
@@ -985,6 +1039,8 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 
 ✺ [Reddit CEO hints that subreddit paywalls are on the way](https://mashable.com/article/reddit-ceo-hints-subreddit-paywalls-on-the-way-earnings-call)
 
+{{< sep >}}
+
 ✺ Teenage Engineering goes medieval with the [EP-1320](https://mashable.com/article/reddit-ceo-hints-subreddit-paywalls-on-the-way-earnings-call). I don't really need it but I think I *WANT* it. Watch their [eclectic video](https://www.youtube.com/watch?v=LVLsRvGMwMk). Here's a review and demo by [Polo Tremolo](https://www.youtube.com/watch?v=U35OHxvYk5w)
 
 ![Teenage Engineering EP-1320 Medieval](/weeknotes/2024-W32/p-1-91169204-medieval-teenage-engineering.jpg "Teenage Engineering EP-1320 Medieval")
@@ -1003,11 +1059,15 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 
 ✺ [Public.Work](https://public.work/?ref=krabf.com) by Cosmos. An immersive search engine for *public domain* content. I have just deleted the iOS app few days ago since I haven't opened the app for the past 3 months but I guess that's going to change.
 
+{{< sep >}}
+
 ✺ E.L. Guerrero's webzine, [some eyes see you (some eyes do not see you)](https://some-eyes-see-you.glitch.me/) for a WAN (Wide Area Network) Party, is based on a [David Shrigley postcard](https://shrigshop.com/products/david-shrigley-postcard-some-eyes-see-you) print with excerpts from [John Cage's Diary](https://www.ubu.com/sound/cage_diary.html).
 
 {{< sep >}}
 
 ✺ [Bruce Lee's Never-Before-Seen Writings on Willpower, Emotion, Reason, Memory, Imagination, and Confidence](https://www.themarginalian.org/2016/08/01/bruce-lee-notebook/?ref=krabf.com)
+
+{{< sep >}}
 
 ✺ New browser in browser town. [Zen](https://get-zen.vercel.app/). A Firefox based browser with a focus on privacy and customization. It's been getting a lot of good feedback in r/browsers but the macOS installation is a pain in the ass because it's not yet fully supported so you'd have go to terminal and do the technical side of things to keep Apple from flagging Zen browser as unsafe.
 
@@ -1024,6 +1084,8 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 {{< sep >}}
 
 ✺ [Filipinos want the country’s biggest YouTube star to be their next president.](https://restofworld.org/2024/raffy-tulfo-philippines-president/?ref=krabf.com) Nope, not me.
+
+{{< sep >}}
 
 ✺ Trying out [Openvibe](https://openvibe.social/) this week. Openvibe promises to combine your decentralized social media accounts, Mastodon, Bluesky, Nostr, and soon Threads, into one timeline. While I don't maintain an active social media presence, I frequently browse Reddit and Threads. I'm still on Mastodon but don't really do much there. I've found myself returning to Twitter more often lately, as most of the people I look up to remain active on the platform and of course I don't want to miss all the *Pinoy Kanal Culture*™️.
 
@@ -1059,6 +1121,8 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 
 ✺ [Understanding the Eye-Mind Connection](https://www.chrbutler.com/understanding-the-eye-mind-connection)
 
+{{< sep >}}
+
 ✺ Everything you need. In the palm of your hand. [tinyPod](https://thetinypod.com/)
 
 {{< sep >}}
@@ -1078,6 +1142,8 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 {{< sep >}}
 
 ✺ [Smol Pub](https://smol.pub/), a tiny blogging hosting service
+
+{{< sep >}}
 
 ✺ I have been using [Flightly](https://apps.apple.com/us/app/flighty-live-flight-tracker/id1358823008) for all my travel since last 2022, and honestly, it's been a game-changer — even the free version is spot-on for what I need. As someone who gets pretty wound up about flying (yes I am THAT person constantly digging through emails, PDFs, and texts from my partner just to double-check flight details). The only thing I'm really wishing for is if it could automatically show my seat number after I input my booking reference.
 
@@ -1103,11 +1169,17 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 
 ✺ [Artvee](https://artvee.com/?ref=krabf.com) is a great resource for exploring and downloading high-resolution, public domain art. It's an excellent platform for art lovers and researchers alike.
 
+{{< sep >}}
+
 ✺ I am in love with [Melanie Richards' reading page](https://melanie-richards.com/blog/new-reading-page/?ref=krabf.com). It's just so beautifully done!
+
+{{< sep >}}
 
 ✺ It's a strange coincidence that "The Silence of the Lambs" has been on my mind lately due to work, and [then this interview](https://mubi.com/en/notebook/posts/movie-poster-of-the-week-an-interview-with-dawn-baillie) about its iconic poster popped up in my RSS feed. The article, featuring [Dawn Baillie](https://bltomato.com/) who designed one of my favorite movie posters, feels like a sign. I'm now convinced I absolutely need to rewatch the film soon.
 
 ![The Silence of The Lambs poster by Dawn Baillie](/weeknotes/2024-W27/silence-of-the-lambs.jpg "The Silence of The Lambs poster by Dawn Baillie")
+
+{{< sep >}}
 
 ✺ French camera startup Pixii [announced](https://petapixel.com/2024/07/03/the-pixii-max-is-a-new-m-mount-full-frame-digital-rangefinder/) the [Pixii Max](https://pixii.fr/pixii-max), a 24.5-megapixel full-frame digital rangefinder camera. It features a modern 64-bit platform, a native monochrome option, and a true rangefinder optical viewfinder for Leica M-mount lenses.
 
@@ -1116,6 +1188,8 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 {{< sep >}}
 
 ✺ [Proton has launched a new encrypted, collaborative document editor](https://proton.me/blog/docs-proton-drive). It offers end-to-end encryption for real-time collaboration and privacy. It "addresses" concerns about Big Tech's data collection and privacy breaches. The editor integrates with Proton Drive for secure document management.
+
+{{< sep >}}
 
 ✺ Phil Schiller, the head of Apple’s App Store and its former marketing chief, [joins OpenAI board](https://archive.is/20240702204831/https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)as "observer".
 
@@ -1129,19 +1203,31 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 
 ✺ [Japan sets new Internet speed record at 402Tb/s.](https://www.noypigeeks.com/internet/japan-internet-speed-record-402tbps/?ref=krabf.com) *Sana all*
 
+{{< sep >}}
+
 ✺ Mastodon has introduced a [new feature to support journalism](https://blog.joinmastodon.org/2024/07/highlighting-journalism-on-mastodon/). Author bylines under shared links now open the author's fediverse account, making it easier to follow journalists across different publications. The feature uses a new OpenGraph tag and supports multiple fediverse platforms.
 
+{{< sep >}}
+
 ✺ I recently got the [Aer Travel Pack 3 Small](https://aersf.com/collections/backpacks/products/travel-pack-3-small?country=PH), which I believe is ideal for one-bag travel. I used it during my trip to Manila last weekend and found it super! People who have of this bag in the EDC *cult* are not exaggerating when they praise its versatility. While it has a technical and masculine appearance, I don't view this negatively given its functionality. I'm pleased with the bag overall. 
+
+{{< sep >}}
 
 ✺ The [Boox Palma](https://shop.boox.com/products/palma) has gained significant attention recently, with many people expressing positive opinions about it. The e-paper device market is experiencing rapid growth and innovation, making it challenging to stay current with all the new developments. BUT I would still opt for an [iPad mini](https://www.apple.com/ph/ipad-mini/)(Apple, please add M4 chips on the iPad minis!) with cellular data or the [Samsung Galaxy Tab A9](https://www.samsung.com/ph/tablets/galaxy-tab-a9/buy/). I don't read much; instead, I mainly watch films and TV series.
 
 ![Boox Palma](/weeknotes/2024-W26/boox-palma.jpg "Boox Palma")
 
+{{< sep >}}
+
 ✺ The [Leica D-Lux 8](https://leica-camera.com/en-int/photography/cameras/d-lux/d-lux-8) is here... and it looks a bit like the Leica Q3? 17MP from the 22-megapixel ***micro four thirds*** CMOS image sensor paired to a 10.9-34mm f/1.7-2.8 DC Vario-Summilux lens. Interesting how this would compare to Ricoh GRs and Fujifilm's X100 cameras.
 
 ![Leica D-Lux 8](/weeknotes/2024-W26/leica-d-lux8.jpg "Leica D-Lux 8")
 
+{{< sep >}}
+
 ✺ Replaced Bartender with [Ice menu bar tool](https://icemenubar.app/). Simple but powerful!
+
+{{< sep >}}
 
 ✺ Stack the deck with [Figma Slides](https://www.figma.com/blog/figma-slides/)
 
@@ -1161,7 +1247,11 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 
 ✺ [Less activity, less energy](https://winnielim.org/journal/my-experience-on-starting-exercise-from-zero/?ref=krabf.com) by Winnie Lim
 
+{{< sep >}}
+
 ✺ Matt Evans's [MicroMac](https://axio.ms/projects/2024/06/16/MicroMac.html)
+
+{{< sep >}}
 
 ✺ Approximately 5.4 billion people used the internet in 2023. [Bots generate nearly half of internet traffic](https://www.chrbutler.com/the-internet-isnt-for-humans-anymore), increasing from 47.6% to 49.6% in 2023.
 
@@ -1170,6 +1260,8 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 ✺ [How will your city feel in the future?](https://pudding.cool/2024/06/climate-zones/) by [Derek Taylor](https://pudding.cool/author/derek-taylor/)
 
 ![Climate Zones by Derek Taylor](/weeknotes/2024-W25/the-pudding-climate-zones.png "Climate Zones by Derek Taylor")
+
+{{< sep >}}
 
 ✺ A photographer has been [disqualified from a picture competition](https://petapixel.com/2024/06/12/photographer-disqualified-from-ai-image-contest-after-winning-with-real-photo/) after his real photograph won in the AI image category.
 
@@ -1199,13 +1291,19 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 
 ✺ [A handy list of design sites, design news and newsletters](https://stephen.news/2024/06/a-handy-list-of-design-sites-design-news-and-newsletters/)
 
+{{< sep >}}
+
 ✺ I've seen little discussion about the new [Daylight](https://daylightcomputer.com/) e-paper display. While I typically avoid e-ink due to my eyesight issues, the claims of crisp text and interactive animations have piqued my interest. Has anyone had hands-on experience with this display that could share their impressions?
 
 {{< sep >}}
 
 ✺ [Sometimes, a Button Just Wants to Look Like a Button](https://blog.applaudstud.io/s/)
 
-🏆 Tiny Awards are a delightful celebration of the creative, odd, and experimental aspects of the internet, offering recognition to projects that truly embody the web's innovative spirit. [Go nominate a site!](https://tinyawards.net/)
+{{< sep >}}
+
+✺ Tiny Awards are a delightful celebration of the creative, odd, and experimental aspects of the internet, offering recognition to projects that truly embody the web's innovative spirit. [Go nominate a site!](https://tinyawards.net/)
+
+{{< sep >}}
 
 ✺ Happy Pride! Here are some [27 (give or take) greatest queer films of all time](https://gorhamandhenry.com/2023/06/27/27-give-or-take-of-the-best-queer-films-of-all-time/)
 
@@ -1214,6 +1312,8 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 ✺ [The church of Roblox: How young Filipino Catholics are building more inclusive spaces](https://restofworld.org/2024/roblox-church-filipino-catholics/)
 
 ![Roblox Filipino Catholics has an open-door policy for participants](/weeknotes/2024-W23/roblox-20240613.png "Roblox Filipino Catholics has an open-door policy for participants")
+
+{{< sep >}}
 
 ✺ Doing a research for work this week about texts on videos and in prints and stumbled upon the amazing archive of the creator of the Vertigo film poster, [Saul Bass](https://filmartgallery.com/pages/saul-bass-archive).
 
@@ -1229,7 +1329,11 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 
 ✺ [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/) by [Molly White](https://www.citationneeded.news/author/molly/) - Many yearn for the “good old days” of the web. We could have those good old days back — or something even better — and if anything, it would be easier now than it ever was.
 
+{{< sep >}}
+
 ✺ "Organizing is only necessary when you have too many things to easily find what you’re looking for." - Leo Babauta for [Minimalism Life®](https://minimalism.substack.com/p/minimalism-is-the-end-of-organizing)
+
+{{< sep >}}
 
 ✺ Trying out Jack Cheng's new lightweight note-taking app, [Bebop](https://apps.apple.com/us/app/bebop-quick-notes/id6477824795?ref=krabf.com)
 
@@ -1241,9 +1345,15 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 
 ✺ [Rebeca Toh's People and Blogs edition](https://manuelmoreale.com/pb-rebecca-toh)
 
+{{< sep >}}
+
 ✺ Google [recently](https://www.404media.co/google-search-web-filter-ai-overview/) added AI-generated overviews to search results, frustrating some users. Amidst these changes, [Google quietly introduced a "Web" filter that displays search results without additional content or pre-processed answers](https://tedium.co/2024/05/17/google-web-search-make-default/). This filter presents search results resembling how Google looked a decade ago, without knowledge panels or ads. It provides a simplified view of search results, removing clutter.
 
+{{< sep >}}
+
 ✺ A rabbit hole of [abandoned blogs](https://www.are.na/lucy-pham/abandoned-blogs)
+
+{{< sep >}}
 
 ✺ The most minimal sites on the web, curated in one [place](https://deadsimplesites.com/)
 
@@ -1251,11 +1361,15 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 
 ✺ [If you want to belong, find a third place](https://www.vox.com/the-highlight/24119312/how-to-find-a-third-place-cafe-bar-gym-loneliness-connection) - "Belonging isn’t some magical place that you can find in your next destination, it is where you feel most connected with the people around you, and that you have people who love you and that you love.”
 
+{{< sep >}}
+
 ✺ Keeping Ben Pobjoy and Craig Mod's [tips for long walks](https://craigmod.com/ridgeline/187/).
 
 {{< sep >}}
 
 ✺ [People and Blogs: Om Malik](https://manuelmoreale.com/pb-om-malik)
+
+{{< sep >}}
 
 ✺ I tried out [Memex](https://memex.garden/) way back when it first launched, but it was pretty rough around the edges at that point. It's a bookmarking tool that lets you save, highlight, and take notes on stuff you find online, right in your browser. Kinda similar to Omnivore, which I've been using. But I've noticed they've been pushing out updates like crazy lately, so I'm curious to give it another shot. The constant improvements have definitely caught my eye. Anyone else here using Memex these days? I'd love to hear if it's gotten better and more intuitive to use.
 
@@ -1306,6 +1420,8 @@ TIL that this is the Tagalog version for the infamous "The quick brown fox..." b
 {{< sep >}}
 
 ✺ [See how records get made in 2024](https://www.washingtonpost.com/business/interactive/2024/how-vinyl-records-made-taylor-swift/) - “The cut is almost like DNA,” said Matt Lindsey, United Record Pressing’s chief technology officer. “It’s specific and unique to that music content only.” via Chris Glass
+
+{{< sep >}}
 
 ✺ Also a favorite video from [Wired and Third Man Records](https://www.youtube.com/watch?v=Yd2SW-Fys6I)
 
@@ -1483,6 +1599,7 @@ The timing of this was perfect. Ever since college, I've struggled with maintain
 
 ✺ [You don't have to be a “content creator” to have a website](https://ohhelloana.blog/just-get-a-website/?ref=krabf.com) by [Ana Rodrigues](https://ohhelloana.blog/) - Yes! It's about being reachable! Heck, I want every local business to have their own website. I remember talking to some tourist years ago who were asking for directions. They said they had the hardest time finding this one shop because it had zero web presence. No website, not even a pinned location on Google Maps! A decent website doesn't have to be expensive or fancy.
 
+{{< sep >}}
 
 ✺ I have been playing New York Times new word game [Strands](https://www.nytimes.com/games/strands)
 
@@ -1490,19 +1607,30 @@ The timing of this was perfect. Ever since college, I've struggled with maintain
 
 ✺ [Manuel Moreale](https://manuelmoreale.com/) hosted the February edition of the IndieWeb Carnival on the theme of [Digital Relationship](https://manuelmoreale.com/indieweb-carnival-digital-relationships) and he recently did a fantastic [roundup](https://manuelmoreale.com/indieweb-carnival-roundup). I have been reading them and it kind of inspired me to write one despite being a month late.
 
+{{< sep >}}
+
 ✺ How to Have More Meaningful Conversations by [Charles Duhigg](https://time.com/author/charles-duhigg/) - I'm no supercommunicator but I do like talking and listening to people sometimes and when I do *engage* with people, I often do the "looping for understanding" thing.
 > Looping has three steps: Ask a question; repeat back what you heard in your own words; and then ask if you got it right.
 
  I really liked the article and now I'm happily listening to the audiobook. It's very interesting!
 
+{{< sep >}}
+
 ✺ How to Build a Better Writing Habit by [Anne-Laure Le Cunff](https://nesslabs.com/author/annelaure) - This is pushing me to dive into reading and writing more. My goal for this year? To finish at least one book. You see, I'm more of a video and film buff, and reading hasn't always been my thing. But, I know if I want to be a good writer, I've got to read more. Since my attention can be a bit all over the place, I'm starting my reading journey with audiobooks. And yes, I just made this decision this week!
 
+{{< sep >}}
 
 ✺ Happy [Dune Part Two](https://www.themoviedb.org/movie/693134-dune-part-two?language=en-US) to those who celebrate!
 
+{{< sep >}}
+
 ✺ My favorite Mastodon client Mona just had a [huge update for Mona 6](https://www.macstories.net/reviews/mona-6-moves-from-high-visual-customization-to-advanced-automation/)
 
+{{< sep >}}
+
 ✺ James Clear made a habits app and it's called Atoms. The app is focused on helping you build small habits and make tiny changes that lead to big results. [Click here to download it](https://apps.apple.com/us/app/atoms-from-atomic-habits/id6474421906/?ref=krabf.com). (iOS only right now, Android coming soon!). I used it this week for my new habits that are scheduled next month and I really like the haptic touch and I already love the Mindset corner which has Daily Lesson and Atoms 101. But with that $16.99/month, $120/year heavy price... I don't think it's sustainable for those who are creating habits on saving money. I'm probably going to pass on this after my trial because [it is just way too expensive](https://krabf.com/a-coffee-per-month/).
+
+{{< sep >}}
 
 ✺ Matt Web created an app called Galactic Compass presents you with a floating arrow with one purpose: to point the direction of the central supermassive black hole of the Milky Way galaxy, known as Sagittarius A*. [This was in collaboration with ChatGPT?](https://interconnected.org/home/2024/02/15/galactic-compass)
 
@@ -1510,18 +1638,27 @@ The timing of this was perfect. Ever since college, I've struggled with maintain
 
 ✺ [The 2023 Kottke Redesign](https://kottke.org/24/03/kottkeorg-redesigns-with-2024-vibes) - I've always loved how personal Jason Kottke's blog is and the new redesign is modern yet still feels personal in any way. There's a [trip down to memory lane](https://kottke.org/08/03/kottkeorg-is-ten-years-old-today) of his site redesigns over the past years.
 
+{{< sep >}}
+
 ✺ AI Chat Is Not (Always) the Answer via [Nielsen Norman Group](https://www.nngroup.com/articles/ai-chat-not-the-answer/) - AI advancements offer new possibilities but also pressure. Rushing to integrate AI chat into your product will not solve all user needs.
 
 {{< sep >}}
 
 ✺ [Tumblr and WordPress to Sell Users’ Data to Train AI Tools](https://www.404media.co/tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools/) via 404 Media - A lot is going on with [Automattic](https://automattic.com/) doing some weird stuff on users' data this week. User data privacy is at risk, and the [lack of transparency](https://www.404media.co/wordpress-firehose-allows-ai-companies-to-buy-access-to-a-million-posts-a-day/) and detailed responses from Automattic raises concerns about accountability.
 
+{{< sep >}}
 
 ✺ Vice Is Dead via [Pixel Envy by Nick Heer](https://pxlnv.com/linklog/vice-is-dead/) - I grew up reading Vice articles and it was where I get my news from other countries. This news is sad because Vice is one of the media sites that has the best coverage on the APAC art scene, especially from [Manila Community Radio](https://www.vice.com/en/article/epvdnw/manila-community-station-radio-music) shows.
 
+{{< sep >}}
+
 ✺ Jason Kottke of kottke.org and [his fiddle leaf tree](https://kottke.org/24/02/hows-it-going-today)
 
+{{< sep >}}
+
 ✺ The [Fujifilm X100VI](https://fujifilm-x.com/global/products/cameras/x100vi/) has been released and is now available for pre-order. I skipped on the X100V but after seeing reviews and photos of the X100VI, I'm considering purchasing one 👀
+
+{{< sep >}}
 
 ✺ Raycast is working on something exciting with their Emoji Picker. They have introduced custom keywords, which make it easier for users to find Emojis. Users can now save AI-searched Emojis with these custom keywords for quicker access.
 
@@ -1531,7 +1668,11 @@ The timing of this was perfect. Ever since college, I've struggled with maintain
 
 ✺ [Impressive first features](https://letterboxd.com/etolkin/list/what-a-fuckin-debut-impressive-first-features/) - Letterboxd list of impressive first features from beloved directors.
 
+{{< sep >}}
+
 ✺ There are a lot of [song releases](https://www.rollingstone.com/music/music-features/beyonce-dua-lipa-lainey-wilson-songs-you-need-to-know-1234969918/) this week!
+
+{{< sep >}}
 
 ✺ I have subscribed to [what happened last week](https://whathappenedlastweek.com/?ref=krabf.com) by Sham Jaff and I think you should too.
 

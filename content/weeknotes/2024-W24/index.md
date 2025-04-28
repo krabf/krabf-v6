@@ -25,7 +25,7 @@ It's been raining all week here in Cebu. Perfect for just staying at home and do
 
 ✺ [Sometimes, a Button Just Wants to Look Like a Button](https://blog.applaudstud.io/s/)
 
-🏆 Tiny Awards are a delightful celebration of the creative, odd, and experimental aspects of the internet, offering recognition to projects that truly embody the web's innovative spirit. [Go nominate a site!](https://tinyawards.net/)
+✺ Tiny Awards are a delightful celebration of the creative, odd, and experimental aspects of the internet, offering recognition to projects that truly embody the web's innovative spirit. [Go nominate a site!](https://tinyawards.net/)
 
 ---
 
