@@ -18,7 +18,7 @@ I spent most of my Friday, outside of work, watching and rewatching all of [OK G
 
 SAME
 
-✺ Emmy-nominated editor [Corey Frost](https://coreyscottfrost.com/ref?ref=krabf), and some amazing contributors created a Google Docs of [Post Production Resources](https://docs.google.com/document/d/1JwC-vxZVjY3DaoqTMwSaElK6JBxsI7fcxgGp2zR4Sdw/edit?usp=sharing)
+✺ Emmy-nominated editor[Corey Frost](https://coreyscottfrost.com/ref?ref=krabf), and some amazing contributors created a Google Docs of [Post Production Resources](https://docs.google.com/document/d/1JwC-vxZVjY3DaoqTMwSaElK6JBxsI7fcxgGp2zR4Sdw/edit?usp=sharing)
 
 ✺ [Why So Many MAGA Men Look Like Joe Rogan?](https://www.bloomberg.com/features/2025-maga-man-style-history/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc0NTM0NDQzNiwiZXhwIjoxNzQ1OTQ5MjM2LCJhcnRpY2xlSWQiOiJTVjRDMFlEV1gyUFMwMCIsImJjb25uZWN0SWQiOiI3MDQyN0U3REVGMkM0MDEzODNCNDUzRjAyNUE2NDc3NyJ9.Dz_Hi1MxGYvJ_qBc8Zo4A6QLZtNuodQ6CmKMogK4vgo&leadSource=uverify+wall)
 

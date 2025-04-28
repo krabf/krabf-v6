@@ -1,6 +1,5 @@
 +++
 description = "A collection of interesting links from my weeknotes"
-title: "Links"
 layout = "blog"
 +++
 
@@ -15,7 +14,7 @@ SAME
 
 {{< sep >}}
 
-✺ Emmy-nominated editor [Corey Frost](https://coreyscottfrost.com/ref?ref=krabf), and some amazing contributors created a Google Docs of [Post Production Resources](https://docs.google.com/document/d/1JwC-vxZVjY3DaoqTMwSaElK6JBxsI7fcxgGp2zR4Sdw/edit?usp=sharing)
+✺ Emmy-nominated editor[Corey Frost](https://coreyscottfrost.com/ref?ref=krabf), and some amazing contributors created a Google Docs of [Post Production Resources](https://docs.google.com/document/d/1JwC-vxZVjY3DaoqTMwSaElK6JBxsI7fcxgGp2zR4Sdw/edit?usp=sharing)
 
 {{< sep >}}
 
@@ -36,7 +35,7 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 ✺ [The Story Behind Those Incredible 'The Residence' Opening Credits](https://www.shondaland.com/shondaland-series/the-residence/the-story-behind-those-incredible-the-residence-opening-credits)
 
-![An opening illustration from 'The Residence by Maira Kalman](weeknotes/2025-W17/the-residence.webp "An opening illustration from 'The Residence by Maira Kalman")
+![An opening illustration from 'The Residence by Maira Kalman](the-residence.webp "An opening illustration from 'The Residence by Maira Kalman")
 
 {{< sep >}}
 
@@ -54,7 +53,7 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 ✺ [What to Draw and How to Draw It](https://publicdomainreview.org/collection/what-to-draw-and-how-to-draw-it-1913/?ref=krabf.com) *by* Edwin George Lutz *via* [The Public Domain Review](https://publicdomainreview.org/) - This brought back so many memories from when I first started working at my current company. We used to do a lot of creative exercises to keep things fun, and my guy Kyle would always come up with ones just like this. We'd always joke that we didn't know how to draw (which, to be fair, was mostly just me). Kyle would walk us through it, starting with simple shapes until, somehow, we had a bird hand-drawn on our paper. Another time, we did a maneki-neko, and it was just such a fun thing to draw together.
 
-![Maneki-neko drawing](weeknotes/2025-W16/maneki-neko-kush.jpg "My attempt to draw a maneki-neko")
+![Maneki-neko drawing](maneki-neko-kush.jpg "My attempt to draw a maneki-neko")
 
 {{< sep >}}
 
@@ -110,27 +109,27 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 ✺ [Lumon Industries WoeMeter](https://make3.co/work/woemeter/?ref=krabf.com) - Quick write-up on one of the standout props from Severance Season 2. Seriously, the amount of effort that went into it is wild. Massive credit to the props team (pun fully intended). The level of detail isn't just impressive! It's intentional. Everything feels like it belongs in that world, down to the most mundane object. You can tell they're not just filling space; they're building layers into the story with every item that shows up on screen.
 
-![Severance Season 2 Woemeter](weeknotes/2025-W14/severance_02_07_woemeter_03.jpg "Severance Season 2 Woemeter")
+![Severance Season 2 Woemeter](severance_02_07_woemeter_03.jpg "Severance Season 2 Woemeter")
 
-![Severance Season 2 Woemeter Intensity](weeknotes/2025-W14/severance_02_07_woemeter_04.jpg "Severance Season 2 Woemeter")
+![Severance Season 2 Woemeter Intensity](severance_02_07_woemeter_04.jpg "Severance Season 2 Woemeter")
 
 {{< sep >}}
 
 ✺ [Typography in Severance](https://severance.wiki/typography)
 
-![Manifold Extended type family designed by Connary Fagan](weeknotes/2025-W14/manifold-extended.jpg "Manifold Extended type family designed by Connary Fagan")
+![Manifold Extended type family designed by Connary Fagan](manifold-extended.jpg "Manifold Extended type family designed by Connary Fagan")
 
-![The Lumon Industries logo](weeknotes/2025-W14/lumon-industries-logo.jpg "The Lumon Industries logo with Manifold Extended as its corporate typeface")
+![The Lumon Industries logo](lumon-industries-logo.jpg "The Lumon Industries logo with Manifold Extended as its corporate typeface")
 
-![Forma DJR designed by David Jonathan and Roger Black](weeknotes/2025-W14/forma-djr.jpg "Forma DJR designed by David Jonathan and Roger Black")
+![Forma DJR designed by David Jonathan and Roger Black](forma-djr.jpg "Forma DJR designed by David Jonathan and Roger Black")
 
-![Senior Refiner Checklist](weeknotes/2025-W14/senior-refinder-checklist.jpg "Senior Refiner Checklist")
+![Senior Refiner Checklist](senior-refinder-checklist.jpg "Senior Refiner Checklist")
 
 {{< sep >}}
 
 ✺ [Ikea Australia leans Into the 'Severance' aesthetic](https://www.famouscampaigns.com/2025/03/ikea-australia-leans-into-the-severance-aesthetic/)
 
-![Severance Ikea ad](weeknotes/2025-W14/severance-ikea.jpg "For working that is mysterious and important")
+![Severance Ikea ad](severance-ikea.jpg "For working that is mysterious and important")
 
 {{< sep >}}
 
@@ -144,9 +143,9 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 ✺ [Coffee Receipt Stories](https://coffeereceiptstories.com/?ref=krabf.com) *by* [Odding](https://oddingwang.com/) - Such a beautiful collection and website! A fun idea too when traveling, if only I could draw like this.
 
-![Coffee Receipt Stories homepage](weeknotes/2025-W14/coffee-receipt-stories1.jpg "Coffee Receipt Stories")
+![Coffee Receipt Stories homepage](coffee-receipt-stories1.jpg "Coffee Receipt Stories")
 
-![Coffee Receipt Stories homepage](weeknotes/2025-W14/coffee-receipt-stories2.jpg "Coffee Receipt Stories")
+![Coffee Receipt Stories homepage](coffee-receipt-stories2.jpg "Coffee Receipt Stories")
 
 {{< sep >}}
 
@@ -164,7 +163,7 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 ✺ Jay Graber. BDE. 100%. [I want one](https://worldwithoutcaesars.com/). NOW! Please restock.
 
-![Alt text](weeknotes/2025-W13/shirt.webp "World Without Caesars")
+![Alt text](shirt.webp "World Without Caesars")
 
 {{< sep >}}
 
@@ -176,13 +175,13 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 The Swiss government unveiled a new design for its passport, created by Geneva-based studio [RETINAA](https://retinaa.ch/work/new-swiss-passport/?ref=krabf.com). The passport features intricate 3D-modeled reliefs of Switzerland's landscapes, custom typefaces, and security features that use water as a recurring theme to symbolize movement and connection. The color palette shifts through a gradient inspired by the country's diverse landscapes, and under ultraviolet light, hidden details emerge, creating a layered, interactive experience. It is so beautifully made. I want to see and hold one in person.
 
-![New Swiss Passport](weeknotes/2025-W13/new-swiss-passport.jpg "New Swiss Passport by the Geneva-based creative agency [RETINAA](https://retinaa.ch/work/new-swiss-passport)")
+![New Swiss Passport](new-swiss-passport.jpg "New Swiss Passport by the Geneva-based creative agency [RETINAA](https://retinaa.ch/work/new-swiss-passport)")
 
-![The watercourses in the new Swiss passport.](weeknotes/2025-W13/swiss-passport-watercourses.jpg "The watercourses in the new Swiss passport")
+![The watercourses in the new Swiss passport.](swiss-passport-watercourses.jpg "The watercourses in the new Swiss passport")
 
-![The data page of the passport.](weeknotes/2025-W13/new-swiss-passport-data-page.jpg "The data page of the passport")
+![The data page of the passport.](new-swiss-passport-data-page.jpg "The data page of the passport")
 
-![The Bundeshaus in Bern — only visible under UV light](weeknotes/2025-W13/the-bundeshaus-in-bern-UV-light.jpg "The Bundeshaus in Bern — only visible under UV light")
+![The Bundeshaus in Bern — only visible under UV light](the-bundeshaus-in-bern-UV-light.jpg "The Bundeshaus in Bern — only visible under UV light")
 
 {{< sep >}}
 
@@ -822,12 +821,12 @@ This is quite impressive for a news organization here in the Philippines. What R
 <div class="container">
   <div class="twocol">
     <figure class="sbs">
-<img src="/weeknotes/2024-W37/chihiro045.jpg" alt="Spirited Away (2001) Hayao Miyazaki/Studio Ghibli" data-action="zoom">
+<img src="chihiro045.jpg" alt="Spirited Away (2001) Hayao Miyazaki/Studio Ghibli" data-action="zoom">
 <figcaption>Spirited Away (2001) Hayao Miyazaki/Studio Ghibli<br>
 </figcaption>
 </figure>
   <figure class="sbs">
-<img src="/weeknotes/2024-W37/chihiro017.jpg" alt="Spirited Away (2001) Hayao Miyazaki/Studio Ghibli" data-action="zoom">
+<img src="chihiro017.jpg" alt="Spirited Away (2001) Hayao Miyazaki/Studio Ghibli" data-action="zoom">
 <figcaption>Spirited Away (2001) Hayao Miyazaki/Studio Ghibli<br>
 </figcaption>
 </div>
@@ -837,12 +836,12 @@ This is quite impressive for a news organization here in the Philippines. What R
 <div class="container">
   <div class="twocol">
     <figure class="sbs">
-<img src="/weeknotes/2024-W37/mononoke031.jpg" alt="Princess Mononoke (1997) Hayao Miyazaki/Studio Ghibli" data-action="zoom">
+<img src="mononoke031.jpg" alt="Princess Mononoke (1997) Hayao Miyazaki/Studio Ghibli" data-action="zoom">
 <figcaption>Princess Mononoke (1997) Hayao Miyazaki/Studio Ghibli<br>
 </figcaption>
 </figure>
   <figure class="sbs">
-<img src="/weeknotes/2024-W37/mononoke035.jpg" alt="Princess Mononoke (1997) Hayao Miyazaki/Studio Ghibli" data-action="zoom">
+<img src="mononoke035.jpg" alt="Princess Mononoke (1997) Hayao Miyazaki/Studio Ghibli" data-action="zoom">
 <figcaption>Princess Mononoke (1997) Hayao Miyazaki/Studio Ghibli<br>
 </figcaption>
 </div>
@@ -850,7 +849,7 @@ This is quite impressive for a news organization here in the Philippines. What R
 
 {{< sep >}}
 
-✺ Leica recently released a new addition to the M-Cameras, the [Leica M11-D](https://leica-camera.com/en-int/photography/cameras/m/m11-d-black). The M11-D enables images with a resolution of either 60, 36 or 18 MP. With a cache of 3 GB, continuous shooting of up to 5 pictures per second with 60 MP is possible. With ISO range from native ISO 64 to ISO 50,000. Full specs is on the [Red Dot Forum](https://www.reddotforum.com/content/2024/09/leica-m11-d-cutting-edge-digital-with-analog-feel/) website. The M11-D also had the hardware-based Leica Content Credentials technology (based on the [Content Authenticity Initiative](https://leica-camera.com/en-int/news/partnership-greater-trust-digital-photography-leica-and-content-authenticity-initiative) framework) that we saw on the [M11-P](https://leica-camera.com/en-int/photography/content-credentials) to protect the authenticity of digital images.
+📷 Leica recently released a new addition to the M-Cameras, the [Leica M11-D](https://leica-camera.com/en-int/photography/cameras/m/m11-d-black). The M11-D enables images with a resolution of either 60, 36 or 18 MP. With a cache of 3 GB, continuous shooting of up to 5 pictures per second with 60 MP is possible. With ISO range from native ISO 64 to ISO 50,000. Full specs is on the [Red Dot Forum](https://www.reddotforum.com/content/2024/09/leica-m11-d-cutting-edge-digital-with-analog-feel/) website. The M11-D also had the hardware-based Leica Content Credentials technology (based on the [Content Authenticity Initiative](https://leica-camera.com/en-int/news/partnership-greater-trust-digital-photography-leica-and-content-authenticity-initiative) framework) that we saw on the [M11-P](https://leica-camera.com/en-int/photography/content-credentials) to protect the authenticity of digital images.
 
 > The Leica M11-D brings the analogue experience to digital photography, but without creating limits. With the Leica FOTOS app, you can integrate the digital workflow into your work whenever you want. Use your device as a camera display to assess your shots and adjust nearly all camera settings to your liking. Once saved, your settings are locked in. The Leica FOTOS app also enables photo transfer, remote control, geotagging and direct editing in Adobe Lightroom, Capture One Pro or the Darkroom app.
 
