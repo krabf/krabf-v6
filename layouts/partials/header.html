@@ -1,51 +1,49 @@
-<head>
-    <!-- Basic Meta Tags -->
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
-    <meta name="description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
-    
-    <!-- Open Graph tags -->
-    <meta property="og:url" content="{{ .Permalink }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="{{ .Title }}" />
-    <meta property="og:locale" content="en_US" />
-    <meta property="og:site_name" content="{{ .Site.Title }}" />
-    
-    {{ $ogImage := "" }}
-    
-    {{/* First priority: Image from front matter */}}
-    {{ if .Params.image }}
-        {{ $ogImage = printf "%s%s" $.Site.BaseURL .Params.image }}
-    {{ end }}
-    
-    {{/* Second priority: First image from content */}}
-    {{ if not $ogImage }}
-        {{/* Look for markdown images ![alt](src) */}}
-        {{ $markdownImage := findRE `!\[[^\]]*\]\(([^)]+)\)` .Content 1 }}
-        {{ if $markdownImage }}
-            {{ $ogImage = index (findRE `\(([^)]+)\)` (index $markdownImage 0) 1) 0 | replaceRE `\(|\)` "" }}
-            {{ if not (hasPrefix $ogImage "http") }}
-                {{ $ogImage = printf "%s%s" $.Site.BaseURL $ogImage }}
-            {{ end }}
+<!-- Basic Meta Tags -->
+<title>{{ if ne .Title .Site.Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+<meta name="description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
+
+<!-- Open Graph tags -->
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+
+{{ $ogImage := "" }}
+
+{{/* First priority: Image from front matter */}}
+{{ if .Params.image }}
+    {{ $ogImage = printf "%s%s" $.Site.BaseURL .Params.image }}
+{{ end }}
+
+{{/* Second priority: First image from content */}}
+{{ if not $ogImage }}
+    {{/* Look for markdown images ![alt](src) */}}
+    {{ $markdownImage := findRE `!\[[^\]]*\]\(([^)]+)\)` .Content 1 }}
+    {{ if $markdownImage }}
+        {{ $ogImage = index (findRE `\(([^)]+)\)` (index $markdownImage 0) 1) 0 | replaceRE `\(|\)` "" }}
+        {{ if not (hasPrefix $ogImage "http") }}
+            {{ $ogImage = printf "%s%s" $.Site.BaseURL $ogImage }}
         {{ end }}
     {{ end }}
-    
-    {{/* Third priority: Default ogImage from config */}}
-    {{ if not $ogImage }}
-        {{ $ogImage = .Site.Params.ogimage | absURL }}
-    {{ end }}
-    
-    <meta property="og:image" content="{{ $ogImage }}" />
-    <meta property="og:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
-    
-    <!-- Twitter Card tags -->
-    <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:site" content="@krabf_"/>
-    <meta name="twitter:creator" content="@krabf_"/>
-    <meta name="twitter:title" content="{{ .Title }}"/>
-    <meta name="twitter:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
-    <meta name="twitter:image" content="{{ $ogImage }}" />
-    <meta property="twitter:domain" content="{{ .Site.BaseURL | replaceRE "^https?://" "" }}" />
-    <meta property="twitter:url" content="{{ .Permalink }}" />
+{{ end }}
 
-    {{ template "_internal/schema.html" . }}
-</head>
+{{/* Third priority: Default ogImage from config */}}
+{{ if not $ogImage }}
+    {{ $ogImage = .Site.Params.ogimage | absURL }}
+{{ end }}
+
+<meta property="og:image" content="{{ $ogImage }}" />
+<meta property="og:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
+
+<!-- Twitter Card tags -->
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@krabf_"/>
+<meta name="twitter:creator" content="@krabf_"/>
+<meta name="twitter:title" content="{{ .Title }}"/>
+<meta name="twitter:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
+<meta name="twitter:image" content="{{ $ogImage }}" />
+<meta property="twitter:domain" content="{{ .Site.BaseURL | replaceRE "^https?://" "" }}" />
+<meta property="twitter:url" content="{{ .Permalink }}" />
+
+{{ template "_internal/schema.html" . }}

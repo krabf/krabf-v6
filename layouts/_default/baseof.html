@@ -1,52 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-
-    {{ partial "header.html" . }}
-
-    {{ with resources.Get "css/zoom.css" | minify }}
-    <style>{{ .Content | safeCSS }}</style>
-  {{end}}
-
-
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    {{ if not (eq .Title $.Site.Title) }}
-      <title>{{ .Title }} — {{ $.Site.Title }}</title>
-    {{ else }}
-      <title>{{ $.Site.Title }}</title>
-    {{ end }}
+    
+    {{ partial "header.html" . }}
 
-
-   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-   <link rel="manifest" href="/site.webmanifest">
-   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#676767">
-   <meta name="msapplication-TileColor" content="#ffffff">
-   <meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#676767">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
 
     <link rel="alternate" type="application/rss+xml" href="/index.xml" title="Kushaiah Felisilda" />
     <link rel="alternate" type="application/rss+xml" href="/blog/index.xml" title="Kushaiah Felisilda: Blog" />
     <link rel="alternate" type="application/rss+xml" href="/coffee/index.xml" title="Kushaiah Felisilda: Coffee" />
     <link rel="alternate" type="application/rss+xml" href="/projects/index.xml" title="Kushaiah Felisilda: Projects" />
     <link rel="alternate" type="application/rss+xml" href="/newsletter/index.xml" title="Kushaiah Felisilda: Newsletter" />
- <!--
+    <!--
     <link rel="webmention" href="https://webmention.io/user102101.com/webmention" />
     <link rel="pingback" href="https://webmention.io/user102101.com/xmlrpc" />
-  -->
-  <link rel="stylesheet" href="https://use.typekit.net/pqc1quw.css">
+    -->
+    <link rel="stylesheet" href="https://use.typekit.net/pqc1quw.css">
 
-
-     {{ with resources.Get "css/reset.css" | minify }}
+    {{ with resources.Get "css/zoom.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
+    
+    {{ with resources.Get "css/reset.css" | minify }}
+      <style>{{ .Content | safeCSS }}</style>
+    {{ end }}
+    
     {{ with resources.Get "css/site.css" | minify }}
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
 
     <script defer src="https://cloud.umami.is/script.js" data-website-id="8ead2de3-71be-4719-b5ac-168642dd2e21"></script>
-
   </head>
   <body>
     <header class="header">
@@ -91,7 +81,7 @@
     <main class="content">
       <div class="wrap">
         {{ block "main" . }}{{ end }}
-     
+      </div>
     </main>
 
     {{ with resources.Get "css/chroma.css" | minify }}
@@ -104,6 +94,5 @@
     <script src="/js/lazyload.min.js"></script>
 
     {{ partial "footer.html" . }}
-  </div>
   </body>
 </html>
