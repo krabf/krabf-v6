@@ -281,9 +281,9 @@ input[type="submit"] {
 .sep, .sep-no, .sep-solid {
   position: relative;
   margin-bottom: var(--grid-content-spacing);
-  margin: 1.15rem auto;
-  width: 100%;
-  max-width: 100%;
+  width: 98vw;
+  left: 50%;
+  transform: translateX(-50%);
   border: none;
   height: 1px;
   background: var(--color-text);
@@ -293,9 +293,18 @@ input[type="submit"] {
 
 @media (min-width: 640px) {
   .sep, .sep-no, .sep-solid {
-    margin: 1.15rem;
-    left: calc(0rem - var(--grid-spacing));
-    width: calc(100% + 2 * var(--grid-spacing));
+    width: 100%;
+    left: 0;
+    transform: none;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+/* Ensure all content stays within .wrap on larger screens */
+@media (min-width: 640px) {
+  .wrap {
+    overflow-x: hidden;
   }
 }
 
