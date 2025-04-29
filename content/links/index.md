@@ -33,6 +33,7 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 {{< sep >}}
 
 ✺ [Modus Operandi](https://nazhamid.com/journal/modus-operandi/?ref=krabf.com) *by* [Naz Hamid](https://nazhamid.com/?ref=krabf.com)
+>This is a m.o. (mo) page, or modus operandi page. It lists out the way I approach my life and the rules I apply to it to thrive. This is a living document and will be added to as more comes to mind, or as I develop new ones.
 
 {{< sep >}}
 
@@ -43,6 +44,9 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 {{< sep >}}
 
 ✺ [A Love Letter to The People Who Believe in People](https://creativemornings.com/blog/a-love-letter-to-the-people-who-believe-in-people/?ref=krabf.com) *by* [Tina Roth Eisenberg](https://www.swiss-miss.com/?ref=krabf.com)
+>This is a love letter to the people who inspire us to be bolder and braver, but also an invitation to show an unwavering belief in someone else.
+>
+>People show us what’s possible every day—and each of us, in our own way, can be those very people. To be a fan is to open your heart, stand courageously in your enthusiasm, and help transform the world.
 
 {{< sep >}}
 
@@ -51,6 +55,8 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 {{< sep >}}
 
 ✺ [Making Software](https://www.makingsoftware.com/?ref=krabf.com) - A reference manual for people who design and build software. Written and Illustrated by Dan Hollick
+
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "Title")
 
 {{< sep >}}
 
@@ -80,9 +86,9 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 
 {{< sep >}}
 
-✺ [From the FrankOcean community on Reddit: Moonlight Screenplay Book/ Prologue by Frank Ocean](https://www.reddit.com/r/FrankOcean/comments/1jrt7wf/moonlight_screenplay_book_prologue_by_frank_ocean/)
+✺ [From the /r/FrankOcean community on Reddit: Moonlight Screenplay Book/ Prologue by Frank Ocean](https://www.reddit.com/r/FrankOcean/comments/1jrt7wf/moonlight_screenplay_book_prologue_by_frank_ocean/)
 
-![Moonlight Screenplay Book/ Prologue by Frank Ocean](moonlight-screenplay-book-prologue-by-frank-ocean.webp "Moonlight Screenplay Book/ Prologue by Frank Ocean")
+![Moonlight Screenplay Book/ Prologue by Frank Ocean](/weeknotes/2025-W15/moonlight-screenplay-book-prologue-by-frank-ocean.webp "Moonlight Screenplay Book/ Prologue by Frank Ocean")
 
 {{< sep >}}
 
