@@ -1,0 +1,28 @@
+{{ $url := .Get "url" }}
+{{ $parsed := urls.Parse $url }}
+{{ $host := $parsed.Host }}
+{{ $cleanHost := replace $host "www." "" }}
+
+
+<!-- Link Card -->
+<div class="link-entry">
+  <a href="{{ $url }}" class="link-preview" target="_blank" rel="noopener">
+    <img class="link-thumbnail" src="{{ .Get "image" }}" alt="{{ .Get "title" }} thumbnail">
+    <div class="link-meta">
+      <div class="link-title">{{ .Get "title" }}</div>
+      <div class="link-description">{{ .Get "description" }}</div>
+      <div class="link-url">
+        <span style="display: inline-flex; align-items: center; gap: 0.25rem;">
+          {{ $cleanHost }}
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="12" width="12">
+            <g stroke="#000" stroke-width="1.5">
+              <path d="M12 5H2v17h17V12" />
+              <path d="M10 14 22 2" />
+              <path d="M14 2h8v8" />
+            </g>
+          </svg>
+        </span>
+      </div>
+    </div>
+  </a>
+</div>
