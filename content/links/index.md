@@ -57,7 +57,7 @@ I actually have the same thoughts. trying to "clean them up" often just erases a
 ✺ [Making Software](https://www.makingsoftware.com/?ref=krabf.com) - A reference manual for people who design and build software. Written and Illustrated by Dan Hollick
 
 ![Cathode-ray tube](/links/media/making-software-fig-006.gif "Cathode-ray tube illustration by Dan Hollick")
-![Cathode-ray tube](/links/media/making-software-fig-007.gif "3.5" Hard Disk Drive illustration by Dan Hollick")
+![Cathode-ray tube](/links/media/making-software-fig-007.gif "Hard Disk Drive illustration by Dan Hollick")
 
 {{< sep >}}
 
