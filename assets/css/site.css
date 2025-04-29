@@ -281,14 +281,22 @@ input[type="submit"] {
 .sep, .sep-no, .sep-solid {
   position: relative;
   margin-bottom: var(--grid-content-spacing);
-  margin:1.15rem;
-  left: calc(0rem - var(--grid-spacing));
-  width: calc(100% + 2 * var(--grid-spacing));
+  margin: 1.15rem auto;
+  width: 100%;
+  max-width: 100%;
   border: none;
   height: 1px;
   background: var(--color-text);
   opacity: var(--grid-opacity);
   background: repeating-linear-gradient(90deg, transparent, transparent 5px, var(--color-text) 5px, var(--color-text) 10px);
+}
+
+@media (min-width: 640px) {
+  .sep, .sep-no, .sep-solid {
+    margin: 1.15rem;
+    left: calc(0rem - var(--grid-spacing));
+    width: calc(100% + 2 * var(--grid-spacing));
+  }
 }
 
 /******************************************************************************\
