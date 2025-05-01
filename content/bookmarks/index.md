@@ -15,7 +15,7 @@ description = ""
 
 {{< linkpreview
   url="https://www.slate.auto/en"
-  image="https://www.slate.auto/assets/images/og-image.jpg"
+ image="https://images.ctfassets.net/20dhmw20vttc/2gIoVu9g4sQyJBx3brpype/65bc459ee1d0eced3bc7d74361300e08/SKU1_F-resized.webp"
   title="Slate Auto"
   description="An innovative platform for automotive solutions."
 >}}

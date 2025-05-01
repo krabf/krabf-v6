@@ -281,9 +281,12 @@ input[type="submit"] {
 .sep, .sep-no, .sep-solid {
   position: relative;
   margin-bottom: var(--grid-content-spacing);
-  width: 98vw;
-  left: 50%;
-  transform: translateX(-50%);
+  width: 100%; /* Match container width */
+  max-width: 600px; /* Match the max-width of link-preview */
+  margin-left: 0; /* Align to the left instead of centering */
+  margin-right: auto; /* Keep right margin auto */
+  left: 0; /* No offset positioning */
+  transform: none; /* No transform needed */
   border: none;
   height: 1px;
   background: var(--color-text);
@@ -291,20 +294,15 @@ input[type="submit"] {
   background: repeating-linear-gradient(90deg, transparent, transparent 5px, var(--color-text) 5px, var(--color-text) 10px);
 }
 
+/* Update the media query for consistency */
 @media (min-width: 640px) {
   .sep, .sep-no, .sep-solid {
     width: 100%;
+    max-width: 600px;
     left: 0;
     transform: none;
     margin-left: 0;
-    margin-right: 0;
-  }
-}
-
-/* Ensure all content stays within .wrap on larger screens */
-@media (min-width: 640px) {
-  .wrap {
-    overflow-x: hidden;
+    margin-right: auto;
   }
 }
 
@@ -805,26 +803,29 @@ lite-youtube.lyt-activated > .lty-playbtn {
 
 .link-preview {
   display: flex;
-  text-decoration: none;
+  text-decoration: none !important;
   color: inherit;
   border: 1px solid #ccc;
-  border-radius: var(--border-radius);
+  border-radius: 0.4em;
   overflow: hidden;
   transition: box-shadow 0.2s ease;
   background: #fff;
   max-width: 600px;
 }
+  
 
 .link-preview:hover {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .link-thumbnail {
-  width: 120px;
-  height: 120px;
+  width: 160px;
+  height: 160px;
   object-fit: cover;
-  flex-shrink: 0;
+  display:block;
+  background-color: #eee;
 }
+
 
 .link-meta {
   padding: 1rem;
