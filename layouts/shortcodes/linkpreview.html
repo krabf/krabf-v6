@@ -3,6 +3,8 @@
 {{ $host := $parsed.Host }}
 {{ $cleanHost := replace $host "www." "" }}
 
+
+<!-- Link Card -->
 <div class="link-entry">
   <a href="{{ $url }}" class="link-preview" target="_blank" rel="noopener">
     <img class="link-thumbnail" src="{{ .Get "image" }}" alt="{{ .Get "title" }} thumbnail">
@@ -12,7 +14,7 @@
       <div class="link-url">
         <span style="display: inline-flex; align-items: center; gap: 0.25rem;">
           {{ $cleanHost }}
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="16" width="16">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="12" width="12">
             <g stroke="#000" stroke-width="1.5">
               <path d="M12 5H2v17h17V12" />
               <path d="M10 14 22 2" />
