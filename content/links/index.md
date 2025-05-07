@@ -451,7 +451,7 @@ image="https://rdl.ink/render/https%3A%2F%2Fpudding.cool%2F2025%2F03%2Flanguage%
   url="https://craigmod.com/ridgeline/203/?ref=krabf.com"
   image="https://craigmod.com/ridgeline/images/203/203.jpg"
   title="Garbage"
-  description="Craig Mod's version of *Leave no trace*"
+  description="Craig Mod's version of *leave no trace*"
   date="February 17, 2025"
 >}}
 
@@ -488,9 +488,9 @@ image="https://rdl.ink/render/https%3A%2F%2Fpudding.cool%2F2025%2F03%2Flanguage%
 {{< sep >}}
 
 {{< linkpreview
-  url="Words of Type"
+  url="https://wordsoftype.com/"
   image="https://cdn.sanity.io/images/mv721fyh/staging/51a7034a1e60fb956c8d2d781967619bc59ef988-6702x3519.jpg?auto=format&fit=max&q=75&w=838"
-  title="https://wordsoftype.com/"
+  title="Words of Type"
   description="Words of Type is a platform to expand and practice your knowledge in typography."
   date="January 24, 2025"
 >}}
