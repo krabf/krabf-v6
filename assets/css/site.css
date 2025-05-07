@@ -797,58 +797,169 @@ lite-youtube.lyt-activated > .lty-playbtn {
  * Link Preview                                                                *
 \******************************************************************************/
 
+
 .link-entry {
   margin-bottom: 2rem;
 }
 
 .link-preview {
   display: flex;
-  text-decoration: none !important;
+  text-decoration: none;
   color: inherit;
-  border: 1px solid #ccc;
-  border-radius: 0.4em;
-  overflow: hidden;
-  transition: box-shadow 0.2s ease;
-  background: #fff;
+  border: none;
+  border-radius: 0;
+  overflow: visible;
+  transition: all 0.2s ease;
+  background: transparent;
   max-width: 600px;
+  flex-direction: row;
+  gap: 1rem;
 }
-  
 
-.link-preview:hover {
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+.link-thumbnail-wrapper {
+  display: block;
+  text-decoration: none;
+  border: none;
 }
 
 .link-thumbnail {
   width: 160px;
+  min-width: 160px;
   height: 160px;
   object-fit: cover;
-  display:block;
+  display: block;
   background-color: #eee;
+  flex-shrink: 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  transition: all 0.2s ease;
 }
 
+.link-preview:hover .link-thumbnail {
+  border-color: #999;
+}
 
 .link-meta {
-  padding: 1rem;
+  padding: 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  flex-grow: 1;
+  overflow: hidden;
 }
 
 .link-title {
   font-size: 1.1rem;
   font-weight: bold;
   margin: 0 0 0.25rem;
+  overflow: visible;
+  text-overflow: unset;
+  display: block;
+  color: inherit;
+  text-decoration: none !important;
+  line-height: 1.4;
+}
+
+.link-title:hover {
+  text-decoration: underline;
 }
 
 .link-description {
   font-size: 0.95rem;
   margin: 0 0 0.5rem;
   color: #555;
+  overflow: visible;
+  display: block;
+  -webkit-line-clamp: unset;
+  -webkit-box-orient: unset;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
+}
+
+.link-description a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: #999;
+}
+
+.link-description a:hover {
+  text-decoration-color: var(--highlight);
 }
 
 .link-url {
   font-size: 0.85rem;
   color: #999;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.link-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.link-date {
+  font-size: 0.65rem;
+  color: #9ca3af;
+  font-family: 'IBM Plex Mono', monospace;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 480px) {
+  .link-preview {
+    gap: 0.75rem;
+  }
+
+  .link-thumbnail {
+    width: 120px;
+    min-width: 120px;
+    height: 120px;
+  }
+
+  .link-meta {
+    padding: 0;
+  }
+
+  .link-title {
+    font-size: 1rem;
+  }
+
+  .link-description {
+    font-size: 0.9rem;
+    -webkit-line-clamp: unset;
+  }
+}
+
+/* Support for dark mode */
+@media (prefers-color-scheme: dark) {
+  html:not(.light) .link-preview {
+    background-color: #333;
+    border-color: #444;
+  }
+
+  html:not(.light) .link-title {
+    color: #d7d7d7;
+  }
+
+  html:not(.light) .link-description {
+    color: #bbb;
+  }
+
+  html:not(.light) .link-url {
+    color: #777;
+  }
+
+  html:not(.light) .link-thumbnail {
+    background-color: #444;
+  }
 }
 
 
