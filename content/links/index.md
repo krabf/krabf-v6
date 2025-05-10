@@ -196,21 +196,21 @@ image="https://rdl.ink/render/https%3A%2F%2Fpudding.cool%2F2025%2F03%2Flanguage%
 {{< sep >}}
 
 {{< linkpreview
-  url="https://nazhamid.com/journal/email-collaboration/?ref=krabf.com"
-  image="https://nazhamid.com/assets/img/naz_avatar.png"
-  title="Operating Rules for Email Collaboration"
-  description="This is exactly how it should be. The example even matches my ideal for how feedback should be given over email. I honestly want to send this to my clients. I try to make things easier for both of us by sending Frame.io links, but some people are just stuck on writing feedback in emails, and they're not great at it. This is how it *should* be done."
-  date="March 26, 2025"
->}}
-
-{{< sep >}}
-
-{{< linkpreview
   url="https://retinaa.ch/work/new-swiss-passport/?ref=krabf.com"
   image="https://www.swiss.com/content/dam/swiss-magazine/images/switzerland/swiss-made/230627_swiss_passport/RETINAA_New_Swiss_Passport_%C2%A9Robin_Bucher_10.component.crop-1x1-M-2x.ts=1687866478438.jpg/content/swiss-magazine/en/switzerland/swiss-made/behind-the-design--the-story-of-the-new-swiss-passport/jcr:content/root/responsivegrid/articlecontentfragment/par5/teasercarousel/item_1688029846891"
   title="Design of the New Swiss Passport"
   description="The Swiss government unveiled a new design for its passport, created by Geneva-based studio [RETINAA](https://retinaa.ch/work/new-swiss-passport/?ref=krabf.com). The passport features intricate 3D-modeled reliefs of Switzerland's landscapes, custom typefaces, and security features that use water as a recurring theme to symbolize movement and connection. The color palette shifts through a gradient inspired by the country's diverse landscapes, and under ultraviolet light, hidden details emerge, creating a layered, interactive experience. It is so beautifully made. I want to see and hold one in person."
   date="March 28, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
+  url="https://nazhamid.com/journal/email-collaboration/?ref=krabf.com"
+  image="https://nazhamid.com/assets/img/naz_avatar.png"
+  title="Operating Rules for Email Collaboration"
+  description="This is exactly how it should be. The example even matches my ideal for how feedback should be given over email. I honestly want to send this to my clients. I try to make things easier for both of us by sending Frame.io links, but some people are just stuck on writing feedback in emails, and they're not great at it. This is how it *should* be done."
+  date="March 26, 2025"
 >}}
 
 {{< sep >}}
@@ -310,7 +310,7 @@ image="https://rdl.ink/render/https%3A%2F%2Fpudding.cool%2F2025%2F03%2Flanguage%
   image="https://binocularshot.com/assets/images/frames/the-grand-budapest-hotel-2014.jpg"
   title="Binocular Shot"
   description="Just found out about Binocular Shot. Part of me is disappointed because I've had this weird fascination with films featuring binocular shots ever since watching The Grand Budapest Hotel. Thought I might create something around this someday. But I'm also secretly pleased because now I have a list of films I've missed. Time to dive into some new viewing material."
-  date="May 18, 2025"
+  date="March 18, 2025"
 >}}
 
 {{< sep >}}
