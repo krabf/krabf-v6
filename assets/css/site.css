@@ -802,6 +802,14 @@ lite-youtube.lyt-activated > .lty-playbtn {
   margin-bottom: 2rem;
 }
 
+.link-date {
+  font-size: 0.65rem;
+  color: #9ca3af;
+  font-family: 'IBM Plex Mono', monospace;
+  margin-bottom: 0.5rem;
+  display: block;
+}
+
 .link-preview {
   display: flex;
   text-decoration: none;
@@ -902,14 +910,6 @@ lite-youtube.lyt-activated > .lty-playbtn {
   justify-content: space-between;
   align-items: center;
   margin-top: 0.5rem;
-}
-
-.link-date {
-  font-size: 0.65rem;
-  color: #9ca3af;
-  font-family: 'IBM Plex Mono', monospace;
-  margin-top: 0;
-  margin-bottom: 0;
 }
 
 /* Media query for smaller screens */

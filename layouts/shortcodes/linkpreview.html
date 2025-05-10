@@ -4,6 +4,9 @@
 {{ $cleanHost := replace $host "www." "" }}
 <!-- Link Card -->
 <div class="link-entry">
+  {{ if .Get "date" }}
+  <span class="link-date">{{ .Get "date" }}</span>
+  {{ end }}
   <div class="link-preview">
     <a href="{{ $url }}" class="link-thumbnail-wrapper" target="_blank" rel="noopener">
       <img class="link-thumbnail" src="{{ .Get "image" }}" alt="{{ .Get "title" }} thumbnail">
@@ -24,9 +27,6 @@
             </svg>
           </a>
         </span>
-        {{ if .Get "date" }}
-        <span class="link-date">{{ .Get "date" }}</span>
-        {{ end }}
       </div>
     </div>
   </div>
