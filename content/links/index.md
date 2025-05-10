@@ -269,7 +269,7 @@ image="https://rdl.ink/render/https%3A%2F%2Fpudding.cool%2F2025%2F03%2Flanguage%
   url="https://vimeo.com/1046594792"
   image="https://images.aeonmedia.co/images/55a73b28-5460-4b7a-9d2c-d4274be8ec0b/a2b_lvt_gfm_ttf_thumbnotextwide.jpg?width=3840&quality=75&format=auto"
   title="Application To Be Lars Von Trier's Female Girlfriend/Muse"
-  description="A filmmaker responds to Lars von Trier’s call for a new muse with a unique application. *via* [Aeon](https://aeon.co/?ref=krabf.com)"
+  description="A filmmaker responds to Lars von Trier’s call for a new muse with a unique application. — *via* [Aeon](https://aeon.co/?ref=krabf.com)"
   date="March 20, 2025"
 >}}
 
@@ -289,7 +289,7 @@ image="https://rdl.ink/render/https%3A%2F%2Fpudding.cool%2F2025%2F03%2Flanguage%
   url="https://vhbelvadi.com/gonville/?ref=krabf.com"
   image="https://vhbelvadi.com/assets/images/esg-sample.webp"
   title="The webiste as a book"
-  description="V.H. Belvadi probably has one of the most well-thought website that has a lot of character and this post explains it all. *via* [Chris Glass](https://chrisglass.com/?ref=krabf.com)"
+  description="V.H. Belvadi probably has one of the most well-thought website that has a lot of character and this post explains it all. — *via* [Chris Glass](https://chrisglass.com/?ref=krabf.com)"
   date="March 19, 2025"
 >}}
 
@@ -431,7 +431,7 @@ image="https://rdl.ink/render/https%3A%2F%2Fpudding.cool%2F2025%2F03%2Flanguage%
   url="https://linksiwouldgchatyou.substack.com/p/the-endless-internal-struggle-of/?ref=krabf.com"
   image="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5970d34f-621d-4011-867a-0feab6546f85_1080x1080.png"
   title="The endless internal struggle of phone photography"
-  description="A visual essay inspired by the Louvre, of all damn things — *by* [Caitlin Dewey of Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/)" 
+  description="A visual essay inspired by the Louvre, of all damn things — *by* [Caitlin Dewey of Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/)"
   date="February 21, 2025"
 >}}
 
