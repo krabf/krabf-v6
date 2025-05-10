@@ -831,9 +831,9 @@ lite-youtube.lyt-activated > .lty-playbtn {
 }
 
 .link-thumbnail {
-  width: 160px;
-  min-width: 160px;
-  height: 160px;
+  width: 150px;
+  min-width: 150px;
+  height: 150px;
   object-fit: cover;
   display: block;
   background-color: #eee;
