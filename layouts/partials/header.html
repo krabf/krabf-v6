@@ -1,41 +1,54 @@
 <!-- Basic Meta Tags -->
 <title>{{ if ne .Title .Site.Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 <meta name="description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
-
 <!-- Open Graph tags -->
 <meta property="og:url" content="{{ .Permalink }}" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
-
 {{ $ogImage := "" }}
-
 {{/* First priority: Image from front matter */}}
 {{ if .Params.image }}
-    {{ $ogImage = printf "%s%s" $.Site.BaseURL .Params.image }}
+    {{ if hasPrefix .Params.image "http" }}
+        {{ $ogImage = .Params.image }}
+    {{ else }}
+        {{ $ogImage = path.Join .Site.BaseURL .Params.image | absURL }}
+    {{ end }}
 {{ end }}
-
 {{/* Second priority: First image from content */}}
 {{ if not $ogImage }}
     {{/* Look for markdown images ![alt](src) */}}
     {{ $markdownImage := findRE `!\[[^\]]*\]\(([^)]+)\)` .Content 1 }}
     {{ if $markdownImage }}
-        {{ $ogImage = index (findRE `\(([^)]+)\)` (index $markdownImage 0) 1) 0 | replaceRE `\(|\)` "" }}
-        {{ if not (hasPrefix $ogImage "http") }}
-            {{ $ogImage = printf "%s%s" $.Site.BaseURL $ogImage }}
+        {{ $imgPath := index (findRE `\(([^)]+)\)` (index $markdownImage 0) 1) 0 | replaceRE `\(|\)` "" }}
+        {{ if hasPrefix $imgPath "http" }}
+            {{ $ogImage = $imgPath }}
+        {{ else }}
+            {{ $ogImage = path.Join .Site.BaseURL $imgPath | absURL }}
+        {{ end }}
+    {{ end }}
+    {{/* If no markdown image found, look for HTML img tags */}}
+    {{ if not $ogImage }}
+        {{ $htmlImage := findRE `<img.*?src="([^"]+)"` .Content 1 }}
+        {{ if $htmlImage }}
+            {{ $imgPath := index (findRE `src="([^"]+)"` (index $htmlImage 0) 1) 0 | replaceRE `src="([^"]+)"` "$1" }}
+            {{ if hasPrefix $imgPath "http" }}
+                {{ $ogImage = $imgPath }}
+            {{ else }}
+                {{ $ogImage = path.Join .Site.BaseURL $imgPath | absURL }}
+            {{ end }}
         {{ end }}
     {{ end }}
 {{ end }}
-
 {{/* Third priority: Default ogImage from config */}}
 {{ if not $ogImage }}
     {{ $ogImage = .Site.Params.ogimage | absURL }}
 {{ end }}
-
+{{/* Debug line - remove in production */}}
+{{ if eq hugo.Environment "development" }}<!-- Using OG Image: {{ $ogImage }} -->{{ end }}
 <meta property="og:image" content="{{ $ogImage }}" />
 <meta property="og:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
-
 <!-- Twitter Card tags -->
 <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:site" content="@krabf_"/>
@@ -45,5 +58,4 @@
 <meta name="twitter:image" content="{{ $ogImage }}" />
 <meta property="twitter:domain" content="{{ .Site.BaseURL | replaceRE "^https?://" "" }}" />
 <meta property="twitter:url" content="{{ .Permalink }}" />
-
 {{ template "_internal/schema.html" . }}
