@@ -9,6 +9,12 @@
 <meta property="og:locale" content="en_US" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />
 
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}">
+
 <!-- Set Open Graph image with appropriate fallback -->
 {{ $ogImage := "" }}
 {{ if .Params.image }}
