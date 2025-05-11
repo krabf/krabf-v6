@@ -26,4 +26,6 @@
 <meta property="og:image" content="{{ $ogImage }}" />
 <meta property="og:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
 
+{{ template "_internal/opengraph.html" . }}
+
 {{ template "_internal/schema.html" . }}
