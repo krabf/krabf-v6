@@ -5,7 +5,7 @@ slug = "new-apple-m3-chips"
 categories = ["apple", "MacBook", "technology"]
 keywords = ["Apple", "A17", "M3", "MacBook", "technology"]
 summary = "M3, M3 Pro, and M3 Max chips, refreshed iMac and Space Black MacBook"
-image = "new-apple-m3-chips.jpg"
+image = "/new-apple-m3-chips/new-apple-m3-chips.jpg"
 +++
 
 [Apple](https://www.apple.com/newsroom/2023/10/apple-unveils-new-macbook-pro-featuring-m3-chips/) has launched its new M3, M3 Pro, and M3 Max chips, accompanied by updated iMac and MacBook Pro models. These chips provide enhanced performance and optimizations, thanks to a 3nm fabrication process. The refreshed iMac now incorporates the M3 chip, which is purported to be twice as fast as its predecessor, with no major design changes. The M3 Max can be configured with up to 128GB of RAM. The laptops boast improved GPU performance and hardware-accelerated ray tracing, making them suitable for Mac gaming. Battery life Apple had tested seems a bit odd, the MacBook Pro 14" with the M3 chip lasts up to 22 hours, the same model with the M3 Pro or M3 Max chip only lasts up to 18 hours.

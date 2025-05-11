@@ -5,7 +5,7 @@ slug = "automating-automator"
 categories = ["automation", "tools", "AppleScript"]
 keywords = ["Apple", "automation", "AppleScript", "ChatGPT", "OpenAI"]
 summary = "Gee pee tee things"
-image = "automating-automator.jpg"
+image = "/automating-automator/automating-automator.jpg"
 +++
 
 

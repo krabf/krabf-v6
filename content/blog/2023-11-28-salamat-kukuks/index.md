@@ -5,7 +5,7 @@ slug = "salamat-kukuks"
 categories = ["personal", "Cebu", "places and spaces"]
 keywords = ["art", "Cebu", "Kukuk's", "Cebu Creatives"]
 summary = "Thank you for being both a creative canvas and a welcoming haven"
-image = "salamat-kukuks.jpg"
+image = "/salamat-kukuks/salamat-kukuks.jpg"
 +++
 
 

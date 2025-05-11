@@ -5,7 +5,7 @@ slug = "collections"
 categories = ["collections", "blogging"]
 keywords = ["collections", "Arena", "Pinterest", "Cosmos", "MyMind", "Mike Mills", "Christopher Butler", "Gemma Copeland"]
 summary = "Exploring curated online spaces"
-image = "collections.jpg"
+image = "/collections/collections.jpg"
 +++
 
   

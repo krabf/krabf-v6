@@ -5,7 +5,7 @@ slug = "a-calendar-shift-experiment"
 categories = ["personal", "productivity", "tools"]
 keywords = ["productivity", "calendar", "workflows"]
 summary = "Setting Monday as the start of the week"
-image = "a-calendar-shift-experiment.jpg"
+image = "/a-calendar-shift-experiment/a-calendar-shift-experiment.jpg"
 +++
 
 Calendars have always been a bit of a puzzle for me. I can never quite figure out the best way to manage my tasks and events. To add a layer of intrigue, I've got not one, not two, but four calendar apps on my devices. However, I'm only using two of them. You might wonder why – I suppose I enjoy making life a bit more interesting.

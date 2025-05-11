@@ -5,7 +5,7 @@ slug = "revisiting-sinekultura"
 categories = ["film", "personal"]
 keywords = ["cinema", "sinekultura", "Cebuano"]
 summary = "I stumbled upon my old Tumblr page for a class at university."
-image = "revisiting-sinekultura.jpg"
+image = "/revisiting-sinekultura/revisiting-sinekultura.jpg"
 +++
 
 

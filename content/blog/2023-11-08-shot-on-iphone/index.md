@@ -5,7 +5,7 @@ slug = "shot-on-iphone"
 categories = ["Apple", "technology"]
 keywords = ["Apple", "A17 Pro", "iPhone 15", "technology"]
 summary = "Apple's Shot on iPhone campaign and what it really means"
-image = "shot-on-iphone.jpg"
+image = "/shot-on-iphone/shot-on-iphone.jpg"
 +++
 
 ![Shot on iPhone frame at the end of their Scary Fast event](Apple-Shot-on-iPhone.jpg "Shot on iPhone frame at the end of their Scary Fast event")

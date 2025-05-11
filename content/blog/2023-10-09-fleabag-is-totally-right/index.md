@@ -5,7 +5,7 @@ slug = "fleabag-is-totally-right"
 categories = ["personal", "TV"]
 keywords = ["hairstyles", "haircut", "Felabag"]
 summary = "Hair is everything"
-image = "fleabag-is-totally-right.jpg"
+image = "/fleabag-is-totally-right/fleabag-is-totally-right.jpg"
 +++
 
 > Hair is everything. We wish it wasn’t so we could actually think about something else occasionally. But it is. It’s the difference between a good day and a bad day. We’re meant to think that it’s a symbol of power, that it’s a symbol of fertility. Some people are exploited for it and it pays your fucking bills. Hair is everything. - [Fleabag, S02E05](https://www.youtube.com/watch?v=q97iIDx-b7U)

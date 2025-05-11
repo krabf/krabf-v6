@@ -5,7 +5,7 @@ slug = "annual-cleanup"
 categories = ["personal", "Digital Relationships"]
 keywords = ["decluttering", "new year", "2024", "digital organization"]
 summary = "Clutter into order using a systematic approach"
-image = "annual-cleanup.jpg"
+image = "/annual-cleanup/annual-cleanup.jpg"
 +++
 
 I consistently make an effort to declutter my clothes and digital files every year. This time, I've made more progress than ever before. Previously, I would often stop halfway through the process, but this year, I'm committed to seeing it through.

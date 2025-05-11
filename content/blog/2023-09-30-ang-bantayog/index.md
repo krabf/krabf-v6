@@ -6,7 +6,7 @@ slug: "ang-bantayog"
 categories: ["Philippines", "Politics", "WWW"]
 keywords: ["Philippines", "Martial Law", "Chia Amisolo", "ML51"]
 summary: "An internet art piece that speaks to memorials, mourning, and memory as experienced by machines and technologies"
-image: "ang-bantayog.jpg"
+image: "/ang-bantayog/ang-bantayog.jpg"
 ---
 
 On September 23, 1972, the Philippines experienced a significant event when the dictator Ferdinand Marcos declared martial law. This decision granted Marcos immense authority and control over the nation, allowing him to exercise his power without limitations. The imposition of martial law marked a turning point in Philippine history, as it led to a period of repression, human rights violations, and political suppression. The digital landscape has played a role in the rise of Bongbong Marcos Jr., the son of the dictator, who now holds the position of the 17th president of the Philippines. The impact of this action reverberated throughout the country and left a lasting imprint on the collective memory of the Filipino people.
