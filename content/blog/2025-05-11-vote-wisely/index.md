@@ -4,8 +4,8 @@ title = "Vote Wisely"
 slug = "vote-wisely"
 categories = ["Philippines", "politics"]
 keywords = ["Philippines", "elections", "voting"]
+image = "/vote-wisely/vote-wisely-2025-elections.jpg"
 summary = "Support those who stand with workers, farmers, indigenous peoples, and marginalized communities."
-image = "vote-wisely-2025-elections.jpg"
 +++
 
 The Philippines has suffered under leadership that prioritizes power and wealth over people's needs. While "vote wisely" sounds hollow when families must choose between principles and putting food on the table, we need electoral choices that truly serve working people.
