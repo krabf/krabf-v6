@@ -26,14 +26,4 @@
 <meta property="og:image" content="{{ $ogImage }}" />
 <meta property="og:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
 
-<!-- Twitter Card tags -->
-<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:site" content="@krabf_"/>
-<meta name="twitter:creator" content="@krabf_"/>
-<meta name="twitter:title" content="{{ .Title }}"/>
-<meta name="twitter:description" content="{{ .Description | default (.Summary | plainify | default .Site.Params.description) }}" />
-<meta name="twitter:image" content="{{ $ogImage }}" />
-<meta property="twitter:domain" content="{{ .Site.BaseURL | replaceRE "^https?://" "" }}" />
-<meta property="twitter:url" content="{{ .Permalink }}" />
-
 {{ template "_internal/schema.html" . }}
