@@ -6,6 +6,56 @@ description = ""
 ##### A collection of interesting links
 
 {{< linkpreview
+  url="https://www.esquiremag.ph/culture/tech/yes-a-filipino-invented-video-conferencing-a00203-20240308?s=dlurj61napn749js31grvfbqbo"
+image="/links/media/Gregorio-Zara-videoconference.jpg"
+  title="Yes, a Filipino Invented Video Conferencing"
+  description="TIL that a Filipino engineer and physicist, Gregorio Ynciong Zara invented the first two-way video telephone. *[More information here.](https://www.thoughtco.com/gregorio-zara-filipino-scientist-1991703)* "
+  date="May 13, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
+  url="https://idonthavespotify.donado.co/"
+  image="https://user-images.githubusercontent.com/27580836/227801051-a71d389e-2510-4965-a23e-d7478fe28f13.jpeg"
+  title="I don't have spotify"
+  description="Copy a link from your favorite streaming service, paste it into the search bar, and voilà! Links to the track on all other supported platforms are displayed. If the original source is Spotify you'll even get a quick audio preview to ensure it's the right track."
+  date="May 11, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
+  url="https://neal.fun/internet-roadtrip/"
+  image="https://public-image.fafafa.ai/cmad9r88k00txud941ke09vex/2025-05-07/images/1746582775507-hhhz2o.png"
+  title="Internet Roadtrip"
+  description="Neal.fun's Internet Roadtrip: multiplayer street view where everyone votes on where to go, changing the radio station, and honking the horn"
+  date="May 7, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
+  url="https://bsky.app/profile/actingthefulemin.bsky.social/post/3lo4lf4da2c2l"
+  image="https://psp-logos.uptimerobot.com/logos/2102707-357837.png"
+  title="@actingthefulemin.bsky.social asks Bluesky a fun game for music dorks"
+  description="what is the best album released by a music act at least 15 years after its debut album?"
+  date="May 4, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
+  url="https://www.hirox-europe.com/gigapixel/girl-with-a-pearl-earring/"
+  image="https://kottke.org/cdn-cgi/image/format=auto,fit=scale-down,width=1200,metadata=none/plus/misc/images/girl-pearl-108gp-01.jpg"
+  title="108 billion pixels scan of Johannes Vermeer's Girl with a Pearl Earring"
+  description="The world-renowned Mauritshuis Museum in The Hague, the Netherlands, once again called upon Canon Production Printing to collaborate on a unique project. They wanted to dive into history and research what the famous Girl with a Pearl Earring painting looked like in 1665 when Johannes Vermeer created this masterpiece. Led by Mauritshuis restorer Abbie Vandivere and together with Technical University Delft and scanning expert Hirox Europe, Canon took on this challenge to find out ‘Who’s that girl?’. — *via* [kottke.org](https://kottke.org/25/05/what-108-gigapixel-scan-of-vermeers-girl-with-a-pearl-earring) "
+  date="May 4, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
   url="https://www.slate.auto/en"
  image="https://images.ctfassets.net/20dhmw20vttc/2gIoVu9g4sQyJBx3brpype/65bc459ee1d0eced3bc7d74361300e08/SKU1_F-resized.webp"
   title="Slate Auto"
