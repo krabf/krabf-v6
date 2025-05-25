@@ -6,6 +6,76 @@ description = ""
 ##### A collection of interesting links
 
 {{< linkpreview
+  url="https://www.youtube.com/watch?v=w_yJ2iA5zR0&t"
+  image="https://i.ytimg.com/vi/w_yJ2iA5zR0/maxresdefault.jpg"
+  title="PLAY UNO WITH YOUR KEYBOARD"
+  description="Woah! I didn't know YouTube can do interactive videos?!"
+  date="May 25, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
+  url=""
+  image="https://hackaday.com/wp-content/uploads/2025/04/WWW.jpg?w=800"
+  title="What Happened To WWW.?"
+  description="Have you ever wondered why those letters were there in the first place, and when exactly they became optional. Great internet history here. — *via* [Initial Charge](https://initialcharge.net/2025/05/www-subdomain/)"
+  date="May 25, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
+  url="https://www.esquiremag.ph/culture/food-and-drink/today-i-learned-ginisang-monggo-a7994-20250418/?ref=krabf.com"
+  image="https://images.esquiremag.ph/esquiremagph/images/2025/04/22/munggo-til-template-1-1-1745293030.jpg"
+  title="Today I Learned: Why Friday is Ginisang Monggo Day in the Philippines"
+  description="I literally just asked Denz if this was just a Manila thing and then it suddenly showed up all over my feed. Great read, and now I finally got my answer. Also kind of funny, because I don’t even eat Ginisang Monggo as a viand or with rice. I grew up having the sweet version for *meryenda* instead."
+  date="May 25, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
+  url="https://henry.codes/writing/collecting-webmentions/?ref=krabf.com"
+  image="https://screenshot.henry.codes/https%3A%2F%2Fhenry.codes%2Fopengraph%2Fwriting%2Fcollecting-webmentions/opengraph"
+  title="How to collect Webmentions for your site"
+  description="Bookmarking this because I definitely want it on my site. I shelved it before  because it felt a bit too tricky to figure out the first time I read about Webmentions. But maybe I’ll finally give it a go next time."
+  date="May 24, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
+  url="https://support.mozilla.org/en-US/kb/future-of-pocket/?ref=krabf.com"
+  image="https://www.mozilla.org/media/img/firefox/pocket/pocket-save-high-res.2bf76b23b72c.png"
+  title="Pocket is saying goodbye - What you need to know"
+  description="Mozilla is shutting down Pocket, the handy bookmarking tool used to save articles and webpages for later."
+  date="May 23, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
+  url="https://www.youtube.com/watch?v=Y6DokoApPVA"
+  image="https://i.ytimg.com/vi/Y6DokoApPVA/maxresdefault.jpg"
+  title="These deep sea creatures may never get names"
+  description="The deep sea is Earth's final frontier — and in the Clarion-Clipperton Zone, scientists are discovering thousands of strange, unnamed species living on the ocean floor everywhere time they drop down a camera. But this alien wilderness is under threat. What happens when industry collides with a world we barely understand?"
+  date="May 20, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
+  url="https://internetphonebook.net/?ref=krabf.com"
+  image="https://internetphonebook.net/images/documentation/34280016.jpg"
+  title="Internet Phone Book"
+  description="An annual publication for exploring the vast poetic web, featuring essays, musings and a directory with the personal websites of hundreds of designers, developers, writers, curators, and educators. Published since 2025."
+  date="May 18, 2025"
+>}}
+
+{{< sep >}}
+
+{{< linkpreview
   url="https://www.esquiremag.ph/culture/tech/yes-a-filipino-invented-video-conferencing-a00203-20240308?s=dlurj61napn749js31grvfbqbo"
 image="/links/media/Gregorio-Zara-videoconference.jpg"
   title="Yes, a Filipino Invented Video Conferencing"
