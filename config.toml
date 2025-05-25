@@ -23,11 +23,12 @@ block = true
 [params]
   name = "Kushaiah Felisilda"
   ogimage = "/media/og.jpg"
-  description = "Kushaiah Felisilda’s personal website — films, filmmaking, technology, photography & more."
+  description = "Kushaiah Felisilda's personal website — films, filmmaking, technology, photography & more."
   fediCreator = "@krabf@mastodon.social"
 
 [outputs]
   home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
 
 [markup]
   [markup.highlight]
