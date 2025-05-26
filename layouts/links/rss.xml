@@ -13,46 +13,60 @@
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }} - Links{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{- if eq .Title .Site.Title -}}{{ .Site.Title | htmlEscape }} - Links{{- else -}}{{- with .Title -}}{{ . | htmlEscape }} on {{- end -}} {{ .Site.Title | htmlEscape }}{{- end -}}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent links {{ if ne .Title .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
-    <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
-    <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
-    <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
-    <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
-    <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
-    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
-    {{ with .OutputFormats.Get "RSS" }}
+    <description>Recent links {{- if ne .Title .Site.Title -}}{{- with .Title -}} in {{ . | htmlEscape }} {{- end -}}{{- end -}} on {{ .Site.Title | htmlEscape }}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    {{- with .Site.LanguageCode }}
+    <language>{{ . }}</language>
+    {{- end }}
+    {{- with .Site.Params.Author.email }}
+    <managingEditor>{{ . | htmlEscape }}{{- with $.Site.Params.Author.name }} ({{ . | htmlEscape }}){{- end }}</managingEditor>
+    {{- end }}
+    {{- with .Site.Params.Author.email }}
+    <webMaster>{{ . | htmlEscape }}{{- with $.Site.Params.Author.name }} ({{ . | htmlEscape }}){{- end }}</webMaster>
+    {{- end }}
+    {{- with .Site.Copyright }}
+    <copyright>{{ . | htmlEscape }}</copyright>
+    {{- end }}
+    {{- if not .Date.IsZero }}
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
+    {{- end }}
+    {{- with .OutputFormats.Get "RSS" }}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
-    {{ end }}
-    {{ range $pages }}
+    {{- end }}
+    {{- range $pages }}
     <item>
-      <title>{{ .Title }}</title>
-      {{ if .Params.external_url }}
-        <link>{{ .Params.external_url }}</link>
-      {{ else }}
+      <title>{{ .Title | htmlEscape }}</title>
+      {{- if .Params.external_url }}
+        <link>{{ .Params.external_url | htmlEscape }}</link>
+      {{- else }}
         <link>{{ .Permalink }}</link>
-      {{ end }}
+      {{- end }}
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+      {{- with .Site.Params.Author.email }}
+      <author>{{ . | htmlEscape }}{{- with $.Site.Params.Author.name }} ({{ . | htmlEscape }}){{- end }}</author>
+      {{- end }}
       <guid>{{ .Permalink }}</guid>
-      <description><![CDATA[
+      <description>
+        {{- $content := "" -}}
         {{- if .Params.image -}}
-          <img src="{{ .Params.image | absURL }}" alt="{{ .Title | htmlEscape }}" style="max-width: 100%; height: auto;" />
-          <br/><br/>
+          {{- $content = printf "%s<img src=\"%s\" alt=\"%s\" style=\"max-width: 100%%; height: auto;\" /><br/><br/>" $content (.Params.image | absURL) (.Title | htmlEscape) -}}
         {{- end -}}
         {{- if .Params.description -}}
-          {{ .Params.description | markdownify | safeHTML }}
+          {{- $content = printf "%s%s" $content (.Params.description | markdownify) -}}
         {{- else -}}
-          {{ .Content | safeHTML }}
+          {{- $content = printf "%s%s" $content .Content -}}
         {{- end -}}
-        <hr style="margin: 20px 0; border: none; border-top: 1px solid #ccc;" />
-        <p><a href="mailto:{{ .Site.Author.email | default "your-email@example.com" }}?subject={{ printf "Reply to: %s" .Title | urlquery }}">Reply via email</a></p>
-      ]]></description>
-      {{ if .Params.image }}
+        {{- $content = printf "%s<hr style=\"margin: 20px 0; border: none; border-top: 1px solid #ccc;\" />" $content -}}
+        {{- $emailSubject := printf "Reply to: %s" .Title -}}
+        {{- $content = printf "%s<p><a href=\"mailto:%s?subject=%s\">Reply via email</a></p>" $content (.Site.Params.Author.email | default "your-email@example.com") ($emailSubject | urlquery) -}}
+        <![CDATA[{{ $content | safeHTML }}]]>
+      </description>
+      {{- if .Params.image }}
       <enclosure url="{{ .Params.image | absURL }}" type="image/jpeg" />
-      {{ end }}
+      {{- end }}
     </item>
-    {{ end }}
+    {{- end }}
   </channel>
 </rss>

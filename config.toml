@@ -23,7 +23,7 @@ block = true
   description = "Kushaiah Felisilda's personal website — films, filmmaking, technology, photography & more."
   fediCreator = "@krabf@mastodon.social"
 
-[author]
+[params.Author]
   name = "Kushaiah Felisilda"
   email = "krabfx@gmail.com"
 
