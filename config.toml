@@ -24,8 +24,8 @@ block = true
   fediCreator = "@krabf@mastodon.social"
 
 [outputs]
-  home = ["HTML", "RSS"]
-  section = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "Links"]
+  section = ["HTML", "RSS", "Links"]
 
 [markup]
   [markup.highlight]
