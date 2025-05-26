@@ -39,7 +39,7 @@
     <item>
       <title>{{ .Title | htmlEscape }}</title>
       {{- if .Params.external_url }}
-        <link>{{ .Params.external_url | htmlEscape }}</link>
+        <link>{{ .Params.external_url }}</link>
       {{- else }}
         <link>{{ .Permalink }}</link>
       {{- end }}
@@ -48,21 +48,23 @@
       <author>{{ . | htmlEscape }}{{- with $.Site.Params.Author.name }} ({{ . | htmlEscape }}){{- end }}</author>
       {{- end }}
       <guid>{{ .Permalink }}</guid>
-      <description>
-        {{- $content := "" -}}
+      <description><![CDATA[
         {{- if .Params.image -}}
-          {{- $content = printf "%s<img src=\"%s\" alt=\"%s\" style=\"max-width: 100%%; height: auto;\" /><br/><br/>" $content (.Params.image | absURL) (.Title | htmlEscape) -}}
+        <p><img src="{{ .Params.image | absURL }}" alt="{{ .Title | htmlEscape }}" style="max-width: 100%; height: auto; display: block;" /></p>
         {{- end -}}
+        
         {{- if .Params.description -}}
-          {{- $content = printf "%s%s" $content (.Params.description | markdownify) -}}
+        <div>{{ .Params.description | markdownify }}</div>
+        {{- else if .Content -}}
+        <div>{{ .Content }}</div>
         {{- else -}}
-          {{- $content = printf "%s%s" $content .Content -}}
+        <p>No description available.</p>
         {{- end -}}
-        {{- $content = printf "%s<hr style=\"margin: 20px 0; border: none; border-top: 1px solid #ccc;\" />" $content -}}
+        
+        <hr style="margin: 20px 0; border: none; border-top: 1px solid #ccc;" />
         {{- $emailSubject := printf "Reply to: %s" .Title -}}
-        {{- $content = printf "%s<p><a href=\"mailto:%s?subject=%s\">Reply via email</a></p>" $content (.Site.Params.Author.email | default "your-email@example.com") ($emailSubject | urlquery) -}}
-        <![CDATA[{{ $content | safeHTML }}]]>
-      </description>
+        <p><a href="mailto:{{ .Site.Params.Author.email | default "your-email@example.com" }}?subject={{ $emailSubject | urlquery }}">Reply via email</a></p>
+      ]]></description>
       {{- if .Params.image }}
       <enclosure url="{{ .Params.image | absURL }}" type="image/jpeg" />
       {{- end }}
