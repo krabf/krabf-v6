@@ -6,6 +6,8 @@
 {{- else -}}
 {{- $pages = $pctx.Pages -}}
 {{- end -}}
+{{- /* Filter to only include blog and weeknotes sections */ -}}
+{{- $pages = where $pages "Section" "in" (slice "blog" "weeknotes") -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}
