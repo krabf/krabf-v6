@@ -13,9 +13,9 @@
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent links {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
+    <description>Recent links {{ if ne .Title .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
     <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
     <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
     <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
@@ -29,39 +29,43 @@
     <item>
       <title>{{ .Title }}</title>
       {{ if .Params.external_url }}
-        <link>{{ .Params.external_url }}</link>
+      <link>{{ .Params.external_url }}</link>
       {{ else }}
-        <link>{{ .Permalink }}</link>
+      <link>{{ .Permalink }}</link>
       {{ end }}
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description><![CDATA[
-        {{- if .Params.image -}}
-          <img src="{{ .Params.image | absURL }}" alt="{{ .Title | htmlEscape }}" />
+        {{- with .Params.external_url -}}
+        <p>⌘ <a href="{{ . }}">{{ (urls.Parse .).Host }}</a></p>
         {{- end -}}
-        {{- if .Params.description -}}
-          {{ .Params.description | markdownify | plainify }}
-        {{- else if .Content -}}
-          {{ .Content | plainify }}
+        {{- with .Params.image -}}
+        <img src="{{ . | absURL }}" alt="{{ $.Title | htmlEscape }}" />
+        {{- end -}}
+        {{- with .Params.description -}}
+        {{ . | markdownify | plainify }}
         {{- else -}}
-          No description available.
+        No description available.
         {{- end -}}
       ]]></description>
       <content:encoded><![CDATA[
-        {{- if .Params.image -}}
-          <img src="{{ .Params.image | absURL }}" alt="{{ .Title | htmlEscape }}" style="max-width: 100%; height: auto; display: block;" />
+        {{- with .Params.external_url -}}
+        <p>⌘ <a href="{{ . }}">{{ (urls.Parse .).Host }}</a></p>
         {{- end -}}
-        {{- if .Params.description -}}
-          {{ .Params.description | markdownify }}
-        {{- else if .Content -}}
-          {{ .Content }}
-        {{- else -}}
-          <p>No description available.</p>
+        {{- with .Params.image -}}
+        <figure>
+          <img src="{{ . | absURL }}" alt="{{ $.Title | htmlEscape }}" />
+        </figure>
+        {{- end -}}
+        {{- with .Params.description -}}
+        <div>
+          {{ . | markdownify }}
+        </div>
         {{- end -}}
       ]]></content:encoded>
       {{ if .Params.image }}
-      <enclosure url="{{ .Params.image }}" type="image/jpeg" />
+      <enclosure url="{{ .Params.image | absURL }}" type="image/jpeg" />
       {{ end }}
     </item>
     {{ end }}

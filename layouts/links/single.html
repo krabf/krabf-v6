@@ -1,38 +1,28 @@
 {{ define "main" }}
-<article class="link-post">
-
-  <!-- Title -->
-  <h1>{{ .Title }}</h1>
-
-  <!-- External URL -->
-  {{ with .Params.external_url }}
+<article class="blog">
+  <header>
+    <h2>{{ .Title }}</h2>
     <p>
-      <a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a>
+      {{ with .Params.external_url }}
+        ⌘ <a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ (urls.Parse .).Host }}</a>
+    {{ end }}
     </p>
-  {{ end }}
-
-  <!-- Date -->
-  {{ if .Date }}
-    <p style="font-family: monospace; color: #666;">
-     {{ .Date.Format "January 2, 2006, at 3:04 PM" }}
-    </p>
-  {{ end }}
-
-  <!-- Image -->
+    <p>
+    <time datetime="{{ .Date.Format "January 2, 2006" }}">
+        {{ .Date.Format "January 2, 2006" }}
+      </time>
+      </p>
+  </header>
   {{ with .Params.image }}
     <figure style="margin: 2rem 0;">
       <img src="{{ . }}" alt="{{ $.Title }}" width="1200" height="675" style="width:100%; max-width:100%; height:auto;" loading="lazy">
     </figure>
   {{ end }}
-
-  <!-- Description -->
   {{ with .Params.description }}
     <div class="markup" style="margin-top: 1.5rem;">
       {{ . | markdownify }}
     </div>
   {{ end }}
-
-  <!-- CTA Partial -->
   <hr class="s1">
   {{ partial "cta.html" . }}
   <hr class="s1">
