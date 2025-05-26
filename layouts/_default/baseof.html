@@ -37,6 +37,10 @@
       <style>{{ .Content | safeCSS }}</style>
     {{ end }}
 
+    {{ with resources.Get "css/links.css" | minify }}
+      <style>{{ .Content | safeCSS }}</style>
+    {{ end }}
+
     <script defer src="https://cloud.umami.is/script.js" data-website-id="8ead2de3-71be-4719-b5ac-168642dd2e21"></script>
   </head>
   <body>

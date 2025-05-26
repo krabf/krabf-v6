@@ -1,0 +1,53 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  
+  <div class="links-list">
+    {{ range .Pages.ByDate.Reverse }}
+      {{ $url := .Params.external_url }}
+  {{ $host := "" }}
+  {{ if strings.Contains $url "://" }}
+    {{ $parts := split $url "://" }}
+    {{ if gt (len $parts) 1 }}
+      {{ $hostPart := index $parts 1 }}
+      {{ $hostParts := split $hostPart "/" }}
+      {{ $host = index $hostParts 0 }}
+      {{ $host = replace $host "www." "" }}
+    {{ end }}
+  {{ end }}
+  
+  <div class="link-entry">
+    {{ if .Date }}
+    <span class="link-date">{{ .Date.Format "January 2, 2006" }}</span>
+    {{ end }}
+    <div class="link-preview">
+      <a href="{{ $url }}" class="link-thumbnail-wrapper" target="_blank" rel="noopener">
+        {{ if .Params.image }}
+        <img class="link-thumbnail" src="{{ .Params.image }}" alt="{{ .Title }} thumbnail">
+        {{ end }}
+      </a>
+      <div class="link-meta">
+        <a href="{{ $url }}" class="link-title" target="_blank" rel="noopener">{{ .Title }}</a>
+        {{ if .Params.description }}
+        <div class="link-description">{{ .Params.description | markdownify }}</div>
+        {{ end }}
+        <div class="link-footer">
+          <span class="link-url">
+            <a href="{{ $url }}" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 0.25rem; text-decoration: none; color: inherit;">
+              {{ $host }}
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 23 23" height="9" width="9">
+                <g stroke="currentColor" stroke-width="1.5">
+                  <path d="M12 5H2v17h17V12" />
+                  <path d="M10 14 22 2" />
+                  <path d="M14 2h8v8" />
+                </g>
+              </svg>
+            </a>
+          </span>
+        </div>
+      </div>
+    </div>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

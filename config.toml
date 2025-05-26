@@ -1,7 +1,6 @@
 baseURL = "https://krabf.com"
 languageCode = "en-us"
 title = "Kushaiah Felisilda"
-
 summaryLength = 1_000_000
 rssLimit = 10
 enableGitInfo = true
@@ -17,8 +16,6 @@ block = true
   coffee = "/coffee/:slug"
   categories = "/categories/:slug"
   tags = "/tags/:title"
-  links = "/links/:slug/"
-
 
 [params]
   name = "Kushaiah Felisilda"
@@ -34,16 +31,17 @@ block = true
   [markup.highlight]
     noClasses = false
   [markup.goldmark.renderer]
-      unsafe = true
-      block = true
-      title = true
+    unsafe = true
+    block = true
+    title = true
   [markup.goldmark.parser.attribute]
-      unsafe = true
-      block = true
-      title = true
+    unsafe = true
+    block = true
+    title = true
   [markup.tableOfContents]
     ordered = true
-  [sitemap]
+
+[sitemap]
   changefreq = 'daily'
   filename = 'sitemap.xml'
   priority = 0.5
