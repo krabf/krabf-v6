@@ -23,9 +23,14 @@ block = true
   description = "Kushaiah Felisilda's personal website — films, filmmaking, technology, photography & more."
   fediCreator = "@krabf@mastodon.social"
 
+[author]
+  name = "Kushaiah Felisilda"
+  email = "krabfx@gmail.com"
+
 [outputs]
-  home = ["HTML", "RSS", "Links"]
-  section = ["HTML", "RSS", "Links"]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+  links = ["HTML", "RSS"]  
 
 [markup]
   [markup.highlight]

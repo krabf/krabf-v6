@@ -13,9 +13,9 @@
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }} - Links{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent links {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
+    <description>Recent links {{ if ne .Title .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
     <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
     <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
     <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
@@ -36,26 +36,23 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <description>
-        {{ if .Params.image }}
-          <![CDATA[
-            <img src="{{ .Params.image }}" alt="{{ .Title }}" />
-          ]]>
-        {{ end }}
-        {{ if .Params.description }}
-          <![CDATA[
-            {{ .Params.description | markdownify }}
-          ]]>
-        {{ else }}
-          <![CDATA[
-            {{ .Content }}
-          ]]>
-        {{ end }}
-      </description>
+      <description><![CDATA[
+        {{- if .Params.image -}}
+          <img src="{{ .Params.image | absURL }}" alt="{{ .Title | htmlEscape }}" style="max-width: 100%; height: auto;" />
+          <br/><br/>
+        {{- end -}}
+        {{- if .Params.description -}}
+          {{ .Params.description | markdownify | safeHTML }}
+        {{- else -}}
+          {{ .Content | safeHTML }}
+        {{- end -}}
+        <hr style="margin: 20px 0; border: none; border-top: 1px solid #ccc;" />
+        <p><a href="mailto:{{ .Site.Author.email | default "your-email@example.com" }}?subject={{ printf "Reply to: %s" .Title | urlquery }}">Reply via email</a></p>
+      ]]></description>
       {{ if .Params.image }}
-      <enclosure url="{{ .Params.image }}" type="image/jpeg" />
+      <enclosure url="{{ .Params.image | absURL }}" type="image/jpeg" />
       {{ end }}
     </item>
     {{ end }}
   </channel>
-</rss> 
+</rss>
