@@ -5,4 +5,4 @@ image = "https://images.esquiremag.ph/esquiremagph/images/2025/04/22/munggo-til-
 description = "I literally just asked Denz if this was just a Manila thing and then it suddenly showed up all over my feed. Great read! And now I finally got my answer. Also kind of funny, because I don't even eat Ginisang Monggo as a viand or with rice. I grew up having the sweet kind for *merienda* instead."
 date = 2025-05-25
 slug = "why-friday-is-ginisang-monggo-day"
-+++ 
++++

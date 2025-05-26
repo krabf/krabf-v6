@@ -1,32 +1,41 @@
 {{ define "main" }}
+<article class="link-post">
+
+  <!-- Title -->
   <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  <div class="links-list">
-    {{ range .Pages.ByDate.Reverse }}
-      <article class="link-item">
-        <h2>
-          {{ with .Params.url }}
-            <a href="{{ . }}" target="_blank" rel="noopener">{{ $.Title }}</a>
-          {{ else }}
-            {{ $.Title }}
-          {{ end }}
-        </h2>
-        {{ if .Params.description }}
-          <p>{{ .Params.description | markdownify }}</p>
-        {{ end }}
-        {{ if .Params.image }}
-          <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
-        {{ end }}
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-      </article>
-    {{ end }}
-<br>
-<hr>
-<hr class="s1">
-<br>
-{{ partial "cta.html" . }}
 
-<hr class="s1">
+  <!-- External URL -->
+  {{ with .Params.external_url }}
+    <p>
+      <a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a>
+    </p>
+  {{ end }}
 
-</div>
+  <!-- Date -->
+  {{ if .Date }}
+    <p style="font-family: monospace; color: #666;">
+     {{ .Date.Format "January 2, 2006, at 3:04 PM" }}
+    </p>
+  {{ end }}
+
+  <!-- Image -->
+  {{ with .Params.image }}
+    <figure style="margin: 2rem 0;">
+      <img src="{{ . }}" alt="{{ $.Title }}" width="1200" height="675" style="width:100%; max-width:100%; height:auto;" loading="lazy">
+    </figure>
+  {{ end }}
+
+  <!-- Description -->
+  {{ with .Params.description }}
+    <div class="markup" style="margin-top: 1.5rem;">
+      {{ . | markdownify }}
+    </div>
+  {{ end }}
+
+  <!-- CTA Partial -->
+  <hr class="s1">
+  {{ partial "cta.html" . }}
+  <hr class="s1">
+
+</article>
 {{ end }}
