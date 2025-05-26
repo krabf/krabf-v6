@@ -1,73 +1,58 @@
-{{- $pctx := . -}}
-{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
-{{- $pages := slice -}}
-{{- if or $.IsHome $.IsSection -}}
-{{- $pages = $pctx.RegularPages -}}
-{{- else -}}
-{{- $pages = $pctx.Pages -}}
-{{- end -}}
-{{- $limit := .Site.Config.Services.RSS.Limit -}}
-{{- if ge $limit 1 -}}
-{{- $pages = $pages | first $limit -}}
-{{- end -}}
+{{- $authorEmail := "" }}
+{{- with site.Params.author }}
+  {{- if reflect.IsMap . }}
+    {{- with .email }}
+      {{- $authorEmail = . }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- $authorName := "" }}
+{{- with site.Params.author }}
+  {{- if reflect.IsMap . }}
+    {{- with .name }}
+      {{- $authorName = . }}
+    {{- end }}
+  {{- else }}
+    {{- $authorName  = . }}
+  {{- end }}
+{{- end }}
+
+{{- $pctx := . }}
+{{- if .IsHome }}{{ $pctx = .Site }}{{ end }}
+{{- $pages := slice }}
+{{- if or $.IsHome $.IsSection }}
+{{- $pages = $pctx.RegularPages }}
+{{- else }}
+{{- $pages = $pctx.Pages }}
+{{- end }}
+{{- $limit := .Site.Config.Services.RSS.Limit }}
+{{- if ge $limit 1 }}
+{{- $pages = $pages | first $limit }}
+{{- end }}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{- if eq .Title .Site.Title -}}{{ .Site.Title | htmlEscape }} - Links{{- else -}}{{- with .Title -}}{{ . | htmlEscape }} on {{- end -}} {{ .Site.Title | htmlEscape }}{{- end -}}</title>
+    <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent links {{- if ne .Title .Site.Title -}}{{- with .Title -}} in {{ . | htmlEscape }} {{- end -}}{{- end -}} on {{ .Site.Title | htmlEscape }}</description>
-    <generator>Hugo -- gohugo.io</generator>
-    {{- with .Site.LanguageCode }}
-    <language>{{ . }}</language>
-    {{- end }}
-    {{- with .Site.Params.Author.email }}
-    <managingEditor>{{ . | htmlEscape }}{{- with $.Site.Params.Author.name }} ({{ . | htmlEscape }}){{- end }}</managingEditor>
-    {{- end }}
-    {{- with .Site.Params.Author.email }}
-    <webMaster>{{ . | htmlEscape }}{{- with $.Site.Params.Author.name }} ({{ . | htmlEscape }}){{- end }}</webMaster>
-    {{- end }}
-    {{- with .Site.Copyright }}
-    <copyright>{{ . | htmlEscape }}</copyright>
-    {{- end }}
-    {{- if not .Date.IsZero }}
-    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
-    {{- end }}
+    <description>Recent content {{ if ne .Title .Site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ .Site.Title }}</description>
+    <generator>Hugo</generator>
+    <language>{{ site.Language.LanguageCode }}</language>{{ with $authorEmail }}
+    <managingEditor>{{.}}{{ with $authorName }} ({{ . }}){{ end }}</managingEditor>{{ end }}{{ with $authorEmail }}
+    <webMaster>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</webMaster>{{ end }}{{ with .Site.Copyright }}
+    <copyright>{{ . }}</copyright>{{ end }}{{ if not .Date.IsZero }}
+    <lastBuildDate>{{ (index $pages.ByLastmod.Reverse 0).Lastmod.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
     {{- with .OutputFormats.Get "RSS" }}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end }}
     {{- range $pages }}
     <item>
-      <title>{{ .Title | htmlEscape }}</title>
-      {{- if .Params.external_url }}
-        <link>{{ .Params.external_url }}</link>
-      {{- else }}
-        <link>{{ .Permalink }}</link>
-      {{- end }}
-      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      {{- with .Site.Params.Author.email }}
-      <author>{{ . | htmlEscape }}{{- with $.Site.Params.Author.name }} ({{ . | htmlEscape }}){{- end }}</author>
-      {{- end }}
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .PublishDate.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
       <guid>{{ .Permalink }}</guid>
-      <description><![CDATA[
-        {{- if .Params.image -}}
-        <p><img src="{{ .Params.image | absURL }}" alt="{{ .Title | htmlEscape }}" style="max-width: 100%; height: auto; display: block;" /></p>
-        {{- end -}}
-        
-        {{- if .Params.description -}}
-        <div>{{ .Params.description | markdownify }}</div>
-        {{- else if .Content -}}
-        <div>{{ .Content }}</div>
-        {{- else -}}
-        <p>No description available.</p>
-        {{- end -}}
-        
-        <hr style="margin: 20px 0; border: none; border-top: 1px solid #ccc;" />
-        {{- $emailSubject := printf "Reply to: %s" .Title -}}
-        <p><a href="mailto:{{ .Site.Params.Author.email | default "your-email@example.com" }}?subject={{ $emailSubject | urlquery }}">Reply via email</a></p>
-      ]]></description>
-      {{- if .Params.image }}
-      <enclosure url="{{ .Params.image | absURL }}" type="image/jpeg" />
-      {{- end }}
+      <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
     </item>
     {{- end }}
   </channel>
