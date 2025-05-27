@@ -1,3 +1,8 @@
+{{- if ne .Section "links" -}}
+{{- /* Use Hugo's default RSS template for non-links sections */ -}}
+{{ partial "rss.xml" . }}
+{{- else -}}
+{{- /* Custom RSS template for links section */ -}}
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
@@ -36,8 +41,29 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Content | html }}</description>
+      <description><![CDATA[
+<h3>{{ .Title }}</h3>
+<p><strong>Date:</strong> {{ .Date.Format "January 2, 2006" }}</p>
+{{- if .Params.external_url }}
+<p><strong>Link:</strong> <a href="{{ .Params.external_url }}" target="_blank" rel="noopener noreferrer">{{ .Params.external_url }}</a></p>
+{{- end }}
+{{- if .Params.image }}
+<p><img src="{{ .Params.image }}" alt="{{ .Title | htmlEscape }}" style="width:100%; max-width:100%; height:auto;" /></p>
+{{- end }}
+{{- if .Params.description }}
+<p><strong>Description:</strong></p>
+<p>{{ .Params.description }}</p>
+{{- else }}
+<p>No description available.</p>
+{{- end }}
+<hr/>
+<p><a href="mailto:{{ $.Site.Author.email }}?subject=Reply to: {{ .Title | htmlEscape }}">Reply via email</a></p>
+      ]]></description>
+      {{ if .Params.image }}
+      <enclosure url="{{ .Params.image }}" type="image/jpeg" />
+      {{ end }}
     </item>
     {{ end }}
   </channel>
 </rss>
+{{- end -}}
