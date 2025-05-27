@@ -1,69 +1,52 @@
-{{- if ne .Section "links" -}}
-{{- /* Use Hugo's default RSS template for non-links sections */ -}}
-{{ partial "rss.xml" . }}
-{{- else -}}
-{{- /* Custom RSS template for links section */ -}}
 {{- $pctx := . -}}
-{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+{{- if .IsHome }}{{ $pctx = .Site }}{{ end -}}
 {{- $pages := slice -}}
-{{- if or $.IsHome $.IsSection -}}
-{{- $pages = $pctx.RegularPages -}}
-{{- else -}}
-{{- $pages = $pctx.Pages -}}
-{{- end -}}
-{{- $limit := .Site.Config.Services.RSS.Limit -}}
-{{- if ge $limit 1 -}}
-{{- $pages = $pages | first $limit -}}
-{{- end -}}
+{{- if or $.IsHome $.IsSection }}
+  {{- $pages = $pctx.RegularPages -}}
+{{- else }}
+  {{- $pages = $pctx.Pages -}}
+{{- end }}
+{{- $pages = where $pages "Section" "links" -}}
+{{- $limit := .Site.Config.Services.RSS.Limit | default 15 -}}
+{{- if ge $limit 1 }}{{ $pages = first $limit $pages }}{{ end }}
+
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ .Site.Title }} — Links</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent links {{ if ne .Title .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
-    <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
-    <language>{{.}}</language>{{end}}{{ with .Site.Author.email }}
-    <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Author.email }}
-    <webMaster>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
-    <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
-    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    <description>Recent link posts from {{ .Site.Title }}</description>
+    <language>{{ .Site.LanguageCode | default "en-us" }}</language>
+    <generator>Hugo -- gohugo.io</generator>
     {{ with .OutputFormats.Get "RSS" }}
-    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+      <atom:link href="{{ .Permalink }}" rel="self" type="{{ .MediaType.Type }}" />
     {{ end }}
+
     {{ range $pages }}
     <item>
       <title>{{ .Title }}</title>
+
       {{ if .Params.external_url }}
-      <link>{{ .Params.external_url }}</link>
+        <link>{{ .Params.external_url }}</link>
       {{ else }}
-      <link>{{ .Permalink }}</link>
+        <link>{{ .Permalink }}</link>
       {{ end }}
-      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
-      {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
-      <guid>{{ .Permalink }}</guid>
-      <description><![CDATA[
-<h3>{{ .Title }}</h3>
-<p><strong>Date:</strong> {{ .Date.Format "January 2, 2006" }}</p>
-{{- if .Params.external_url }}
-<p><strong>Link:</strong> <a href="{{ .Params.external_url }}" target="_blank" rel="noopener noreferrer">{{ .Params.external_url }}</a></p>
-{{- end }}
-{{- if .Params.image }}
-<p><img src="{{ .Params.image }}" alt="{{ .Title | htmlEscape }}" style="width:100%; max-width:100%; height:auto;" /></p>
-{{- end }}
-{{- if .Params.description }}
-<p><strong>Description:</strong></p>
-<p>{{ .Params.description }}</p>
-{{- else }}
-<p>No description available.</p>
-{{- end }}
-<hr/>
-<p><a href="mailto:{{ $.Site.Author.email }}?subject=Reply to: {{ .Title | htmlEscape }}">Reply via email</a></p>
-      ]]></description>
-      {{ if .Params.image }}
-      <enclosure url="{{ .Params.image }}" type="image/jpeg" />
-      {{ end }}
+
+      <guid isPermaLink="false">{{ .Permalink }}</guid>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+
+      <description>{{ .Params.description | htmlEscape }}</description>
+
+      <content:encoded><![CDATA[
+        {{ if .Params.description }}<p>{{ .Params.description }}</p>{{ end }}
+        {{ if .Params.image }}<p><img src="{{ .Params.image }}" alt="{{ .Title }}" /></p>{{ end }}
+        {{ .Content }}
+        <hr />
+        <p><a href="mailto:you@example.com?subject={{ .Title | urlquery }}">Thoughts? Email me</a></p>
+      ]]></content:encoded>
     </item>
     {{ end }}
   </channel>
 </rss>
-{{- end -}}
