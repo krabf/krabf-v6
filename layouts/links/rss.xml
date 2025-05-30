@@ -33,8 +33,7 @@
       <guid isPermaLink="false">{{ .Permalink }}</guid>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
       {{ with $.Site.Author.email }}<dc:creator><![CDATA[{{ . }}]]></dc:creator>{{ end }}
-
-      <description><![CDATA[
+      <description>
         {{ with .Params.image }}
           <p><img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" style="max-width: 100%; height: auto;"></p>
         {{ end }}
@@ -43,7 +42,7 @@
         {{ else }}
           <p>No description available.</p>
         {{ end }}
-      ]]></description>
+      </description>
     </item>
     {{ end }}
 
