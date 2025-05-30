@@ -1,50 +1,42 @@
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
 {{- $pages := slice -}}
-{{- if or .IsHome .IsSection -}}
-  {{- $pages = $pctx.RegularPages -}}
+{{- if or $.IsHome $.IsSection -}}
+{{- $pages = $pctx.RegularPages -}}
 {{- else -}}
-  {{- $pages = $pctx.Pages -}}
+{{- $pages = $pctx.Pages -}}
 {{- end -}}
-{{- $limit := .Site.Config.Services.RSS.Limit | default 15 -}}
+{{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
-  {{- $pages = $pages | first $limit -}}
+{{- $pages = $pages | first $limit -}}
 {{- end -}}
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-  xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
->
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ .Title }}</title>
+    <title>{{ if eq .Title .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ .Site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent links on {{ .Site.Title }}</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-us{{ end }}</language>
-    {{ with .Site.Author.email }}<managingEditor>{{ . }}</managingEditor>{{ end }}
-    {{ with .Site.Copyright }}<copyright>{{ . }}</copyright>{{ end }}
-    <lastBuildDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
-    <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml"/>
-
+    <description>Recent content {{ if ne .Title .Site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ .Site.Title }}</description>
+    <generator>Hugo -- gohugo.io</generator>{{ with .Site.LanguageCode }}
+    <language>{{ . }}</language>{{end}}{{ with .Site.Author.email }}
+    <managingEditor>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</managingEditor>{{end}}{{ with .Site.Author.email }}
+    <webMaster>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</webMaster>{{end}}{{ with .Site.Copyright }}
+    <copyright>{{ . }}</copyright>{{end}}{{ if not .Date.IsZero }}
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    {{- with .OutputFormats.Get "RSS" -}}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{- end -}}
     {{ range $pages }}
     <item>
-      <title>{{ .Title | html }}</title>
-      <link>{{ with .Params.external_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}</link>
-      <guid isPermaLink="false">{{ .Permalink }}</guid>
-      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
-      {{ with $.Site.Author.email }}<dc:creator><![CDATA[{{ . }}]]></dc:creator>{{ end }}
-      <description>
-        {{ with .Params.image }}
-          <p><img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" style="max-width: 100%; height: auto;"></p>
-        {{ end }}
-        {{ with .Params.description }}
-          <p>{{ . | markdownify }}</p>
-        {{ else }}
-          <p>No description available.</p>
-        {{ end }}
-      </description>
+      <title>{{ .Title }}</title>
+      <link>{{ .Params.external_url | default .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      {{ with .Site.Author.email }}<author>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</author>{{end}}
+      <guid>{{ .Params.external_url | default .Permalink }}</guid>
+      <description>{{ with .Params.image }}&lt;img src="{{ . }}" alt="{{ $.Title }}" /&gt;&lt;br/&gt;&lt;br/&gt;{{ end }}{{ .Params.description | default .Summary | html }}
+
+
+&lt;a href="mailto:{{ $.Site.Author.email | default "your-email@example.com" }}?subject={{ .Title | urlquery }}"&gt;Reply via email&lt;/a&gt;</description>
     </item>
     {{ end }}
-
   </channel>
 </rss>
