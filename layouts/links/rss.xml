@@ -34,8 +34,9 @@
       <guid>{{ .Params.external_url | default .Permalink }}</guid>
       <description>{{ with .Params.image }}&lt;img src="{{ . }}" alt="{{ $.Title }}" /&gt;&lt;br/&gt;&lt;br/&gt;{{ end }}{{ .Params.description | default .Summary | html }}
 
+&lt;p&gt;&lt;a href="mailto:{{ $.Site.Author.email | default "your-email@example.com" }}?subject={{ .Title | htmlEscape }}"&gt;Thoughts? Email me&lt;/a&gt;&lt;/p&gt;
 
-&lt;a href="mailto:{{ $.Site.Author.email | default "your-email@example.com" }}?subject={{ .Title | urlquery }}"&gt;Reply via email&lt;/a&gt;</description>
+&lt;p&gt;&lt;a href="https://www.buymeacoffee.com/krabf"&gt;Buy Me A Coffee&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     {{ end }}
   </channel>
