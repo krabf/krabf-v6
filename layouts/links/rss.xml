@@ -29,7 +29,7 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{ with .Site.Author.email }}<author>{{ . }}{{ with $.Site.Author.name }} ({{ . }}){{ end }}</author>{{end}}
       <guid>{{ .Params.external_url | default .Permalink }}</guid>
-      <description>{{ with .Params.image }}&lt;img src="{{ . }}" alt="{{ $.Title }}" /&gt;&lt;br/&gt;&lt;br/&gt;{{ end }}{{ .Params.description | default .Summary | html }}
+      <description>{{ with .Params.image }}&lt;img src="{{ . }}" alt="{{ $.Title }}" /&gt;&lt;br/&gt;&lt;br/&gt;{{ end }}{{ .Params.description | default .Summary | markdownify }}
 
 &lt;p&gt;&lt;a href="mailto:{{ $.Site.Author.email | default "your-email@example.com" }}?subject={{ .Title | htmlEscape }}"&gt;Thoughts? Email me&lt;/a&gt;&lt;/p&gt;
 
