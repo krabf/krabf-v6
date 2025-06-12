@@ -18,7 +18,7 @@ Trying to shake things up with a new hobby though. Just ordered some tools off S
 ✺ [!Camera](https://notbor.ing/product/camera) by Andy, maker of [Not Boring Apps](https://notbor.ing/) is such a joy to use. The haptics are so satisfying and I have been using it almost everyday. Even my partner loves it. 
 
 ✺ [Ernie Smith posted:](https://bsky.app/profile/ernie.tedium.co/post/3lqy4kynq722u)
-![[WEEKNOTES 23/ernie-smith-bsky.jpg]]
+![Ernie Smith on Bluesky](ernie-smith-bsky.jpg "@ernie.tedium.com")
 
 And comments are so hilarious.
 
