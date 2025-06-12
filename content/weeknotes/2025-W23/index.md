@@ -38,4 +38,4 @@ And comments are so hilarious.
 
 Talking Heads - Psycho Killer Directed by Mike Mills
 <br>
-I didn't expect a music video to come out about 50 years late.
+Woah, I didn't expect a music video to come out about 50 years late.
