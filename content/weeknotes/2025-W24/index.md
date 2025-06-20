@@ -7,7 +7,7 @@ week = "2025-W24 - 9 June to 15 June"
 summary = "Glass"
 +++
 
-My Casio A158WEA-9 just arrived, and I'm completely smitten with how delicate and beautiful this little thing is. The watch tools came in too - went with the budget options since I'm just starting out. (Pretty sure I said the exact same thing when I first got into coffee, and look how that turned out.)
+My Casio A158WEA-9 just arrived, and I'm completely in awe with how delicate and beautiful this little thing is. The watch tools came in too - went with the budget options since I'm just starting out. (Pretty sure I said the exact same thing when I first got into coffee, and look how that turned out.)
 
 <figure> 
 <div align="center">
