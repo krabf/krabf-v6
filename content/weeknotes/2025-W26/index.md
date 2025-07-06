@@ -48,7 +48,7 @@ Another thing I *tackled* this week was the Downloads folder on my personal lapt
 ---
 
 <div align="center">
-   <a href="https://album.link/krabfwk2526"><img src="/weeknotes/weeknote01/the-kooks-inside-in-inside-out.webp" alt="Virgin by Lorde" width="450">
+   <a href="https://album.link/krabfwk2526"><img src="virgin-lorde.jpg" alt="Virgin by Lorde" width="450">
 </a>
 <figcaption>Virgin by Lorde is so authentic and sonic.</figcaption>
 </figure>
