@@ -32,7 +32,7 @@ Still in the honeymoon phase with this piece, though the bracelet definitely has
 Liquid Glass gives a sense of depth and motion that actually feels modern. It's playful, elegant, and more immersive without being overbearing. Makes everyday interactions feel more alive and [enjoyable](https://krabf.com/links/someone-at-apple-has-a-real-opinion-about-design-again-thank-god/). At least so far. 
 
 
-<video controls width="600" poster="Apple-WWDC25-iOS-26-Apple-Intelligence-Call-Screening-250609.jpg">
+<video controls width="600" poster="Apple-Liquid-Glass.png">
   <source src="Apple-WWDC25-Liquid-Glass-details-250609.mp4" type="video/mp4">
   Apple's new software design called "Liquid Glass"
 </video>
