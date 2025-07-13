@@ -27,17 +27,17 @@ If anyone knows of a mechanical pencil with a built-in ruler, or a ruler with a 
 
 # The Week in Links
 
-✺ Even though AI is sold as fully automated, it actually depends on a vast network of people who handle tasks like labeling data, moderating content, and filtering out harmful material. These [low-paid workers around the world](https://restofworld.org/2025/the-ai-con-book-invisible-labor/) do everything from drawing boxes around images to checking for hate speech and making sure AI systems don’t generate inappropriate responses. Many companies that call their work “ethical AI” actually subcontract these jobs to workers in poorer countries, where conditions are often unstable and protections are lacking. Without more transparency and better labor standards, this kind of data work remains exploitative, even though it has the potential to be a decent and sustainable job.
+✺ Even though AI is sold as fully automated, it actually depends on a vast network of people who handle tasks like labeling data, moderating content, and filtering out harmful material. These [low-paid workers around the world](https://restofworld.org/2025/the-ai-con-book-invisible-labor/?ref=krabf.com) do everything from drawing boxes around images to checking for hate speech and making sure AI systems don’t generate inappropriate responses. Many companies that call their work “ethical AI” actually subcontract these jobs to workers in poorer countries, where conditions are often unstable and protections are lacking. Without more transparency and better labor standards, this kind of data work remains exploitative, even though it has the potential to be a decent and sustainable job.
 
-✺ [Hued](https://playhued.com/) is a daily game that you have to mathc color have three guesses to match a target color.
+✺ [Hued](https://playhued.com/?ref=krabf.com) is a daily game that you have to mathc color have three guesses to match a target color.
 
 ✺ [Mike Brock points out](https://www.techdirt.com/2025/07/01/the-moral-imperative-of-clear-language/?ref=krabf.com) that euphemisms and vague language make it easier for authoritarianism to thrive and for people to avoid moral responsibility.
 
-✺ [Astronomers may have found a third interstellar object](https://arstechnica.com/space/2025/07/astronomers-may-have-found-a-third-interstellar-object/)
+✺ [Astronomers may have found a third interstellar object](https://arstechnica.com/space/2025/07/astronomers-may-have-found-a-third-interstellar-object/?ref=krabf.com)
 
- ✺ Content creators are finding it harder to earn value from their work as AI tools become more common. The traditional model of trading content for web traffic is no longer working due to AI-driven answers reducing site visits. [Cloudflare is changing its default to block AI crawlers unless they compensate content creators.](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/)
+ ✺ Content creators are finding it harder to earn value from their work as AI tools become more common. The traditional model of trading content for web traffic is no longer working due to AI-driven answers reducing site visits. [Cloudflare is changing its default to block AI crawlers unless they compensate content creators.](https://blog.cloudflare.com/content-independence-day-no-ai-crawl-without-compensation/?ref=krabf.com)
 
-✺ [“Take Two: Roundup”](https://www.nicksimson.com//posts/2025-take-two-roundup.html) by Nick Simson recaps the [June 2025](https://www.nicksimson.com/posts/2025-indieweb-carnival-take-two.html)[IndieWeb Carnival](https://indieweb.org/IndieWeb_Carnival), where bloggers shared honest takes on do-overs, regrets, and what it means to get a second chance. Gosh I love these.
+✺ [“Take Two: Roundup”](https://www.nicksimson.com//posts/2025-take-two-roundup.html/?ref=krabf.com) by Nick Simson recaps the [June 2025](https://www.nicksimson.com/posts/2025-indieweb-carnival-take-two.html/?ref=krabf.com)[IndieWeb Carnival](https://indieweb.org/IndieWeb_Carnival/?ref=krabf.com), where bloggers shared honest takes on do-overs, regrets, and what it means to get a second chance. Gosh I love these.
 
 ---
 
