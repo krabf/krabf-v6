@@ -11,7 +11,7 @@ summary = "Unused apps"
 
 Now I have this pile of unused apps staring at me. Most are completely untouched, some I opened once and never again. A bunch of them have been totally replaced by Raycast anyway. And there's Structured, which I only use on my phone now.
 
-![Folder with macOS apps](hunused-apps.png "So much unused apps")
+![Folder with macOS apps](unused-apps.jpg "So much unused apps")
 Turns out deciding what to delete is harder than finding what's unused in the first place. 
 
 ---
