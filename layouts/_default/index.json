@@ -4,6 +4,7 @@
       "title" .Title
       "keywords" .Params.keywords
       "date" (.Date.Format "2006-01-02")
+      "desc" (.Summary | plainify | truncate 150)
       "formatted_date" (.Date.Format "January 2, 2006")
       "summary" .Content .Summary
       "permalink" .Permalink

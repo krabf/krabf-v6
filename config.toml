@@ -28,9 +28,9 @@ block = true
   email = "krabfx@gmail.com"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
-  links = ["HTML", "RSS"]  
+  links = ["HTML", "RSS"]
 
 [markup]
   [markup.highlight]
