@@ -245,13 +245,10 @@ const DEFAULT_CONFIG = {
       const searchItems = results.map(item => `
         <li>
           <a href="${escapeHtml(item.permalink)}" tabindex="0">
-            <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 4px;">
-              <span class="title">${escapeHtml(item.title)}</span>
-              <span class="sc">${escapeHtml(item.section || 'PAGE')}</span>
-            </div>
-            <div style="color: #666; font-size: 0.9em; line-height: 1.4;">
-              ${escapeHtml(item.desc || 'No description available')}
-            </div>
+            <span class="title">${escapeHtml(item.title)}</span><br />
+            <span class="sc">${escapeHtml(item.section)}</span> — 
+            ${escapeHtml(item.date)} — 
+            <em>${escapeHtml(item.desc)}</em>
           </a>
         </li>
       `).join('');
@@ -265,41 +262,6 @@ const DEFAULT_CONFIG = {
         return;
       }
       performSearch(this.value);
-    });
-
-    // Close search when clicking outside
-    fastSearch.addEventListener('click', function(event) {
-      if (event.target === fastSearch) {
-        fastSearch.style.visibility = 'hidden';
-        searchInput.blur();
-        searchInput.value = '';
-        searchResults.innerHTML = '';
-        searchVisible = false;
-      }
-    });
-
-    // Ensure links work properly by preventing event bubbling
-    searchResults.addEventListener('click', function(event) {
-      if (event.target.tagName === 'A') {
-        // Close search immediately when clicking a link
-        fastSearch.style.visibility = 'hidden';
-        searchInput.blur();
-        searchInput.value = '';
-        searchResults.innerHTML = '';
-        searchVisible = false;
-        // Don't prevent default - let the link work normally
-      }
-    });
-
-    // Close search when clicking on any link on the page
-    document.addEventListener('click', function(event) {
-      if (searchVisible && event.target.tagName === 'A' && !fastSearch.contains(event.target)) {
-        fastSearch.style.visibility = 'hidden';
-        searchInput.blur();
-        searchInput.value = '';
-        searchResults.innerHTML = '';
-        searchVisible = false;
-      }
     });
   
     // Add minimal styles
