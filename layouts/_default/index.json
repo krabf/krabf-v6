@@ -1,12 +1,10 @@
 {{- $.Scratch.Add "index" slice -}}
-{{- range where $.Site.RegularPages "Section" "posts" -}}
+{{- range .Site.RegularPages -}}
     {{- $.Scratch.Add "index" (dict
       "title" .Title
-      "keywords" .Params.keywords
+      "section" .Section
       "date" (.Date.Format "2006-01-02")
       "desc" (.Summary | plainify | truncate 150)
-      "formatted_date" (.Date.Format "January 2, 2006")
-      "summary" .Content .Summary
       "permalink" .Permalink
     ) -}}
 {{- end -}}
