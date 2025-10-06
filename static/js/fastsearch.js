@@ -261,6 +261,7 @@ const DEFAULT_CONFIG = {
               <span class="title">${escapeHtml(item.title)}</span>
               <span class="sc">${escapeHtml(item.section || 'PAGE')}</span>
             </div>
+            ${item.date ? `<div style="color: #999; font-size: 0.8em; margin-bottom: 4px;">${escapeHtml(item.date)}</div>` : ''}
             <div style="color: #666; font-size: 0.9em; line-height: 1.4;">
               ${escapeHtml(item.desc || 'No description available')}
             </div>

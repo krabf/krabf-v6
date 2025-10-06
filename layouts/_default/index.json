@@ -4,11 +4,19 @@
     {{- with .Params.keywords -}}
         {{- $keywords = delimit . ", " -}}
     {{- end -}}
+    {{- $desc := "" -}}
+    {{- if .Params.description -}}
+        {{- $desc = .Params.description | plainify | htmlUnescape -}}
+    {{- else if ne .Summary "" -}}
+        {{- $desc = .Summary | plainify | htmlUnescape | truncate 150 -}}
+    {{- else -}}
+        {{- $desc = .Content | plainify | htmlUnescape | truncate 150 -}}
+    {{- end -}}
     {{- $.Scratch.Add "index" (dict
       "title" .Title
       "section" .Section
-      "date" (cond (not .Date.IsZero) (.Date.Format "January, 2006") "")
-      "desc" (cond (ne .Summary "") (.Summary | plainify | htmlUnescape | truncate 150) (.Content | plainify | htmlUnescape | truncate 150))
+      "date" (cond (not .Date.IsZero) (.Date.Format "January 2006") "")
+      "desc" $desc
       "content" (.Content | plainify | htmlUnescape)
       "keywords" $keywords
       "permalink" .Permalink
