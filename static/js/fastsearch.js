@@ -27,7 +27,9 @@ const DEFAULT_CONFIG = {
       fields: {                 // Fields to search through
         title: true,            // Allow searching in title
         description: true,      // Allow searching in description
-        section: true           // Allow searching in section
+        section: true,          // Allow searching in section
+        keywords: true,         // Allow searching in keywords
+        content: true           // Allow searching in content
       }
     }
   };
@@ -58,7 +60,9 @@ const DEFAULT_CONFIG = {
           ...item,
           searchableTitle: item.title?.toLowerCase() || '',
           searchableDesc: item.desc?.toLowerCase() || '',
-          searchableSection: item.section?.toLowerCase() || ''
+          searchableSection: item.section?.toLowerCase() || '',
+          searchableKeywords: item.keywords?.toLowerCase() || '',
+          searchableContent: item.content?.toLowerCase() || ''
         }));
         
         if (searchInput.value) {
@@ -212,12 +216,20 @@ const DEFAULT_CONFIG = {
             
             // Other field matches
             if (!matched) {
+              if (CONFIG.search.fields.keywords && item.searchableKeywords.includes(term)) {
+                score += 1.5;  // High score for keyword matches
+                matched = true;
+              }
               if (CONFIG.search.fields.description && item.searchableDesc.includes(term)) {
                 score += 0.5;  // Lower score for description matches
                 matched = true;
               }
               if (CONFIG.search.fields.section && item.searchableSection.includes(term)) {
                 score += 0.5;  // Lower score for section matches
+                matched = true;
+              }
+              if (CONFIG.search.fields.content && item.searchableContent.includes(term)) {
+                score += 0.3;  // Lowest score for content matches
                 matched = true;
               }
             }
