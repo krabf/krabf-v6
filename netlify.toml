@@ -3,7 +3,7 @@ command = "hugo --minify"
 publish = "public"
 
 [build.environment]
-HUGO_VERSION = "0.148.0"
+HUGO_VERSION = "0.151.0"
 HUGO_ENV = "production"
 TZ = "Asia/Manila"
 
