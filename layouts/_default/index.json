@@ -1,11 +1,17 @@
 {{- $.Scratch.Add "index" slice -}}
 {{- range .Site.RegularPages -}}
-    {{- $.Scratch.Add "index" (dict 
-        "title" .Title 
-        "tags" .Params.tags 
-        "categories" .Params.categories 
-        "contents" .Plain 
-        "permalink" .Permalink
+    {{- $keywords := "" -}}
+    {{- with .Params.keywords -}}
+        {{- $keywords = delimit . ", " -}}
+    {{- end -}}
+    {{- $.Scratch.Add "index" (dict
+      "title" .Title
+      "section" .Section
+      "date" (cond (not .Date.IsZero) (.Date.Format "January, 2006") "")
+      "desc" (cond (ne .Summary "") (.Summary | plainify | htmlUnescape | truncate 150) (.Content | plainify | htmlUnescape | truncate 150))
+      "content" (.Content | plainify | htmlUnescape)
+      "keywords" $keywords
+      "permalink" .Permalink
     ) -}}
 {{- end -}}
 {{- $.Scratch.Get "index" | jsonify -}}
