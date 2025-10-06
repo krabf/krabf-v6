@@ -5,8 +5,8 @@
   --text: #111827;
   --text-light: #9ca3af;
   --text-inverted: #f3f4f6;
-  --highlight: #3b82f6;
-  --link: #1d4ed8;
+  --highlight: #F54F00;
+  --link: #F54F00;
   --button: var(--text);
 
   --font-small:  0.75rem;
@@ -116,18 +116,21 @@ body {
   font-family: 'ff-meta-serif-web-pro', serif;
   font-size: 1rem;
   -moz-hyphens: auto;
+  --border-color: linear-gradient(to right, #ffafc7 10%, #73d7ee 10% 20%, #613915 20% 30%, #000000 30% 40%, #e50000 40% 50%, #ff8d00 50% 60%, #ffee00 60% 70%, #028121 70% 80%, #004cff 80% 90%, #760088 90%);
+  border-top: 0.5em solid transparent;
+  border-image: var(--border-color) 1;
 
 /******************************************************************************\
 * Selection                                                                    *
 \******************************************************************************/
-a { color: inherit; text-decoration-color: #007AFC; border: 0; box-shadow: none; }
-a:hover { color: #007AFC; }
+a { color: inherit; text-decoration-color: #F54F00; border: 0; box-shadow: none; }
+a:hover { color: #F54F00; }
 a:focus:not(:focus-visible) { outline: none; }
 a:focus-visible { outline: 2px solid var(--highlight); outline-offset: 2px; }
 
 figure a { box-shadow: none; }
 figure a:hover { box-shadow: none; }
-figcaption a, figcaption a:hover { box-shadow: inset 0 -1px 0 #007AFC; box-shadow: none; }
+figcaption a, figcaption a:hover { box-shadow: inset 0 -1px 0 #F54F00; box-shadow: none; }
 
 em { font-style: italic; }
 
@@ -672,12 +675,12 @@ lite-youtube.lyt-activated > .lty-playbtn {
 .cta a {
   position: relative;
   color: var(--link);
-  text-decoration: #007AFC wavy underline;
+  text-decoration: #F54F00 wavy underline;
 }
 
 .useful {
   text-transform: uppercase;
-  color: #007AFC;
+  color: #F54F00;
   font-weight: 700;
   font-size: 1.2rem;
   margin-top: 0.5rem;
@@ -1044,7 +1047,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
 .markup-link 
 a:hover { 
   text-decoration: underline;
-  text-decoration-color: #007AFC;
+  text-decoration-color: #F54F00;
 }
 
 .markup em {
@@ -1100,14 +1103,14 @@ a:hover {
   font-weight: 500;
   color: var(--text);
   margin-bottom: 0.1em; 
-  text-decoration: #007AFC wavy underline;
+  text-decoration: #F54F00 wavy underline;
 }
 .markup .link-list strong:hover { 
-  color: #007AFC;
+  color: #F54F00;
 }
 @media (max-width: 640px) {
   .markup .link-list strong {
-    text-decoration: #007AFC wavy underline;
+    text-decoration: #F54F00 wavy underline;
   }
 }
 
@@ -1324,6 +1327,23 @@ a:hover {
   .social-media {
     fill: #A2A8B4;
   }
+}
+
+.free.palestine {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1rem;
+}
+
+.free.palestine:after {
+  top: auto;
+  bottom: 100%;
+  margin-bottom: 8px;
+}
+
+.free.palestine svg {
+  display: block;
 }
 /******************************************************************************\
  * Table of contents                                                          *
