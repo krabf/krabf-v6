@@ -14,8 +14,6 @@ block = true
 [permalinks]
   blog = "/:slug"
   coffee = "/coffee/:slug"
-  categories = "/categories/:slug"
-  tags = "/tags/:title"
 
 [params]
   name = "Kushaiah Felisilda"
@@ -30,6 +28,7 @@ block = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
   links = ["HTML", "RSS"]  
 
 [markup]

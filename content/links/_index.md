@@ -4,4 +4,4 @@ outputs:
   - HTML
   - RSS
 ---
-<a href="https://krabf.com/links/index.xml/" style="text-decoration: underline wavy #007AFC;">RSS Feed</a>
+<a href="https://krabf.com/links/index.xml/" style="text-decoration: underline wavy #F54F00;">RSS Feed</a>

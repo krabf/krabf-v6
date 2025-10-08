@@ -20,10 +20,11 @@
   --grid-opacity: 0.3;
   --color-text: var(--text);
 
-  :root {
-  --font-sans: 'ff-meta-serif-web-pro', serif, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --font-mono: 'IBM Plex Mono', monospace, ui-monospace, SFMono-Regular, Menlo,
-  }
+  /* Font variables */
+  --font-sans: 'IBM Plex Sans', sans-serif, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace, ui-monospace, SFMono-Regular, Menlo;
+  --font-h1: 'Schibsted Grotesk', sans-serif;
+
   --border-radius: 0.3em;
 }
 
@@ -97,13 +98,12 @@
 
 
 html {
-  font-size: 1.15rem;
+  font-size: 100%;
 }
 
 @media (max-width: 640px) {
   html {
-    font-size: 1.125rem;
-    font-weight: 500;
+    font-size: 100%;
   }
 }
 
@@ -111,9 +111,8 @@ body {
   margin: 0;
   color: var(--text);
   background-color: var(--body);
-  line-height: 1.5;
-  font-family: 'IBM Plex Mono', monospace;
-  font-family: 'ff-meta-serif-web-pro', serif;
+  line-height: 1.6;
+  font-family: var(--font-sans);
   font-size: 1rem;
   -moz-hyphens: auto;
   --border-color: linear-gradient(to right, #ffafc7 10%, #73d7ee 10% 20%, #613915 20% 30%, #000000 30% 40%, #e50000 40% 50%, #ff8d00 50% 60%, #ffee00 60% 70%, #028121 70% 80%, #004cff 80% 90%, #760088 90%);
@@ -234,6 +233,7 @@ input[type="submit"] {
   color: var(--text);
   text-align: left;
   margin-bottom: 0.5rem;
+  font-family: var(--font-h1);
 }
 
 .header strong span {
@@ -343,6 +343,7 @@ input[type="submit"] {
   line-height: 1.15;
   padding:  0 1.5rem;
   margin: 0 auto;
+  font-family: var(--font-h1);
 }
 
 .blog header h2 {
@@ -444,6 +445,7 @@ input[type="submit"] {
 .coffee-title {
   font-size: 1rem;
   margin: 0;
+  font-family: var(--font-h1);
 }
 
 @media (max-width: 640px) {
@@ -469,6 +471,7 @@ input[type="submit"] {
   line-height: 1.15;
   padding:  0 1.5rem;
   margin: 0 auto;
+  font-family: var(--font-h1);
 }
 
 .coffee header p {
@@ -721,10 +724,11 @@ lite-youtube.lyt-activated > .lty-playbtn {
 }
 
 .archive > li li {
-  font-size: 1.5rem; 
+  font-size: 1.5rem;
   font-weight: 500;
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;
+  font-family: var(--font-h1);
 }
 
 .archive a {
@@ -869,6 +873,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
   color: inherit;
   text-decoration: none !important;
   line-height: 1.4;
+  font-family: var(--font-h1);
 }
 
 .link-title:hover {
@@ -1017,6 +1022,7 @@ lite-youtube.lyt-activated > .lty-playbtn {
   font-size: var(--font-extra-large);
   font-weight: 700;
   margin-bottom: 3rem;
+  font-family: var(--font-h1);
 }
 .markup h2 {
   font-size: 1.6rem;
