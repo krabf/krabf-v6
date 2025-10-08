@@ -263,6 +263,7 @@ input[type="submit"] {
   display: inline-block;
   white-space: nowrap;
   padding: 0.15rem 0;
+  font-weight: 400;
 }
 
 .content {
