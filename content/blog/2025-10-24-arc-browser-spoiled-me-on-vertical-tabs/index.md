@@ -15,7 +15,7 @@ I've been testing out [Helium](https://helium.computer/?ref=krabf.com), a new br
 
 ![Helium browser developer tweet \"not gonna shave until we release vertical tabs in @heliumbrowser\"](@uwukko-helium.png "Hmmm some dedication right there.")
 
-I'm not daily-driving Helium yet since I'm already using Zen most of the time and Arc when I'm coding. Chrome still sticks around because it's the only browser that plays "nice" with every streaming site like Netflix and Disney+. I tried making Chrome my main browser again, but I just can't. I *need* my vertical tabs.
+I'm not daily-driving Helium since still in beta and I'm already using Zen most of the time and Arc when I'm coding. Chrome still sticks around because it's the only browser that plays "nice" with every streaming site like Netflix and Disney+. I tried making Chrome my main browser again, but I just can't. I *need* my vertical tabs.
 
 I think the main reason I keep gravitating toward Chromium browsers is the extension ecosystem. Most apps and websites have their extensions readily available for Chrome, and I don't really get why Firefox gets left out so often (yes, you [Cosmos](https://www.cosmos.so/?ref=krabf.com)). Firefox is actually a solid browser, and with Arc's recent [downfall](https://www.theverge.com/web/770947/browser-company-arc-dia-acquired-atlassian/?ref=krabf.com), tons of people are jumping ship to Zen anyway. Developers should really be supporting Firefox more.
 
