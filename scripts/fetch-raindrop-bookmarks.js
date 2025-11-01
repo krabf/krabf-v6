@@ -88,14 +88,14 @@ async function fetchImageFromUrl(url) {
 
 async function fetchRaindropBookmarks() {
   try {
-    console.log('Fetching bookmarks from Raindrop.io API...');
+    console.log('Fetching bookmarks with #twil tag from Raindrop.io API...');
     const data = await httpsGet(
-      'https://api.raindrop.io/rest/v1/raindrops/0?perpage=5&sort=-created',
+      'https://api.raindrop.io/rest/v1/raindrops/0?perpage=5&sort=-created&search=%23twil',
       { 'Authorization': `Bearer ${RAINDROP_TOKEN}` }
     );
     
     const response = JSON.parse(data);
-    console.log(`Successfully fetched ${response.items?.length || 0} bookmarks`);
+    console.log(`Successfully fetched ${response.items?.length || 0} bookmarks with #twil tag`);
     return response.items || [];
   } catch (error) {
     console.error('Error fetching bookmarks:', error.message);
@@ -148,20 +148,20 @@ draft: true
       const filepath = path.join(LINKS_DIR, filename);
       
       if (fs.existsSync(filepath)) {
-        console.log(`  ⏭️  Skipping - file already exists`);
+        console.log(`  Skipping - file already exists`);
         skippedCount++;
         continue;
       }
       
       fs.writeFileSync(filepath, frontMatter);
-      console.log(`  ✅ Created: ${filename}`);
+      console.log(`  Created: ${filename}`);
       createdCount++;
     } catch (error) {
-      console.error(`  ❌ Error processing bookmark: ${error.message}`);
+      console.error(`  Error processing bookmark: ${error.message}`);
     }
   }
 
-  console.log(`\n📊 Summary:`);
+  console.log(`\nSummary:`);
   console.log(`  Created: ${createdCount} files`);
   console.log(`  Skipped: ${skippedCount} files (already existed)`);
 }
@@ -180,10 +180,10 @@ async function main() {
   
   await generateMarkdownFiles(bookmarks);
   
-  console.log('\n✨ Done!');
+  console.log('\nDone!');
 }
 
 main().catch(error => {
-  console.error('\n💥 Fatal error:', error);
+  console.error('\nFatal error:', error);
   process.exit(1);
 });
