@@ -1,0 +1,193 @@
+name: Fetch Raindrop Bookmarks
+
+on:
+  schedule:
+    # Runs every Saturday at 9:00 AM Philippine Time (1:00 AM UTC)
+    - cron: '0 1 * * 6'
+  workflow_dispatch: # Allows manual trigger for testing
+
+jobs:
+  fetch-bookmarks:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Fetch and process bookmarks
+        env:
+          RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
+        run: |
+          node << 'EOF'
+          const https = require('https');
+          const fs = require('fs');
+          const path = require('path');
+
+          const RAINDROP_TOKEN = process.env.RAINDROP_TOKEN;
+          const LINKS_DIR = 'content/links';
+
+          function httpsGet(url, headers = {}) {
+            return new Promise((resolve, reject) => {
+              https.get(url, { headers }, (res) => {
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => {
+                  if (res.statusCode === 200) {
+                    resolve(data);
+                  } else {
+                    reject(new Error(`HTTP ${res.statusCode}: ${data}`));
+                  }
+                });
+              }).on('error', reject);
+            });
+          }
+
+          function createSlug(title) {
+            return title
+              .toLowerCase()
+              .replace(/[^a-z0-9]+/g, '-')
+              .replace(/^-+|-+$/g, '');
+          }
+
+          function extractDomain(url) {
+            try {
+              const urlObj = new URL(url);
+              return urlObj.hostname;
+            } catch {
+              return '';
+            }
+          }
+
+          async function fetchImageFromUrl(url) {
+            try {
+              const html = await httpsGet(url);
+              
+              // Try Open Graph image
+              const ogImageMatch = html.match(/<meta[^>]*property=["']og:image["'][^>]*content=["']([^"']+)["']/i) ||
+                                   html.match(/<meta[^>]*content=["']([^"']+)["'][^>]*property=["']og:image["']/i);
+              if (ogImageMatch) {
+                return ogImageMatch[1];
+              }
+
+              // Try Twitter card image
+              const twitterImageMatch = html.match(/<meta[^>]*name=["']twitter:image["'][^>]*content=["']([^"']+)["']/i) ||
+                                        html.match(/<meta[^>]*content=["']([^"']+)["'][^>]*name=["']twitter:image["']/i);
+              if (twitterImageMatch) {
+                return twitterImageMatch[1];
+              }
+
+              // Try to find first img tag
+              const imgMatch = html.match(/<img[^>]*src=["']([^"']+)["']/i);
+              if (imgMatch) {
+                const imgSrc = imgMatch[1];
+                // Skip common small icons, tracking pixels, etc.
+                if (!imgSrc.includes('1x1') && !imgSrc.includes('pixel') && !imgSrc.includes('icon')) {
+                  return imgSrc.startsWith('http') ? imgSrc : new URL(imgSrc, url).href;
+                }
+              }
+
+              // Fallback to common favicon locations
+              const domain = extractDomain(url);
+              return `https://${domain}/favicon.ico`;
+            } catch (error) {
+              console.error(`Error fetching image for ${url}:`, error.message);
+              const domain = extractDomain(url);
+              return `https://${domain}/favicon.ico`;
+            }
+          }
+
+          async function fetchRaindropBookmarks() {
+            try {
+              const data = await httpsGet(
+                'https://api.raindrop.io/rest/v1/raindrops/0?perpage=5&sort=-created',
+                { 'Authorization': `Bearer ${RAINDROP_TOKEN}` }
+              );
+              
+              const response = JSON.parse(data);
+              return response.items || [];
+            } catch (error) {
+              console.error('Error fetching bookmarks:', error.message);
+              process.exit(1);
+            }
+          }
+
+          async function generateMarkdownFiles(bookmarks) {
+            if (!fs.existsSync(LINKS_DIR)) {
+              fs.mkdirSync(LINKS_DIR, { recursive: true });
+            }
+
+            for (const bookmark of bookmarks) {
+              try {
+                const title = bookmark.title || 'Untitled';
+                const url = bookmark.link;
+                const createdDate = new Date(bookmark.created);
+                const dateStr = createdDate.toISOString().split('T')[0]; // YYYY-MM-DD
+                const slug = createSlug(title);
+                
+                console.log(`Processing: ${title}`);
+                
+                // Fetch image
+                const image = await fetchImageFromUrl(url);
+                
+                // Add referral parameter
+                const urlObj = new URL(url);
+                urlObj.searchParams.set('ref', 'krabf.com');
+                const externalUrl = urlObj.toString();
+                
+                // Create front matter
+                const frontMatter = `---
+title: ${title}
+external_url: ${externalUrl}
+image: ${image}
+description: 
+date: ${dateStr}
+slug: ${slug}
+draft: true
+---
+`;
+                
+                // Write file
+                const filename = `${dateStr}-${slug}.md`;
+                const filepath = path.join(LINKS_DIR, filename);
+                
+                // Don't overwrite existing files
+                if (fs.existsSync(filepath)) {
+                  console.log(`Skipping ${filename} - already exists`);
+                  continue;
+                }
+                
+                fs.writeFileSync(filepath, frontMatter);
+                console.log(`Created: ${filename}`);
+              } catch (error) {
+                console.error(`Error processing bookmark "${bookmark.title}":`, error.message);
+              }
+            }
+          }
+
+          async function main() {
+            console.log('Fetching latest 5 bookmarks from Raindrop.io...');
+            const bookmarks = await fetchRaindropBookmarks();
+            console.log(`Found ${bookmarks.length} bookmarks`);
+            
+            await generateMarkdownFiles(bookmarks);
+            console.log('Done!');
+          }
+
+          main().catch(error => {
+            console.error('Fatal error:', error);
+            process.exit(1);
+          });
+          EOF
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add content/links/
+          git diff --staged --quiet || git commit -m "Add latest Raindrop.io bookmarks (draft)"
+          git push
