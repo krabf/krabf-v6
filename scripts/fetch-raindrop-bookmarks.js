@@ -132,9 +132,12 @@ async function generateMarkdownFiles(bookmarks) {
       urlObj.searchParams.set('ref', 'krabf.com');
       const externalUrl = urlObj.toString();
       
+      // Escape title for YAML (wrap in quotes and escape quotes)
+      const escapedTitle = title.replace(/"/g, '\\"');
+      
       // Create front matter
       const frontMatter = `---
-title: ${title}
+title: "${escapedTitle}"
 external_url: ${externalUrl}
 image: ${image}
 description: 
