@@ -19,11 +19,9 @@ jobs:
         with:
           node-version: '20'
           
-      - name: Fetch and process bookmarks
-        env:
-          RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
+      - name: Create script file
         run: |
-          node << 'EOF'
+          cat > fetch-bookmarks.js << 'SCRIPT_END'
           const https = require('https');
           const fs = require('fs');
           const path = require('path');
@@ -67,31 +65,26 @@ jobs:
             try {
               const html = await httpsGet(url);
               
-              // Try Open Graph image
               const ogImageMatch = html.match(/<meta[^>]*property=["']og:image["'][^>]*content=["']([^"']+)["']/i) ||
                                    html.match(/<meta[^>]*content=["']([^"']+)["'][^>]*property=["']og:image["']/i);
               if (ogImageMatch) {
                 return ogImageMatch[1];
               }
 
-              // Try Twitter card image
               const twitterImageMatch = html.match(/<meta[^>]*name=["']twitter:image["'][^>]*content=["']([^"']+)["']/i) ||
                                         html.match(/<meta[^>]*content=["']([^"']+)["'][^>]*name=["']twitter:image["']/i);
               if (twitterImageMatch) {
                 return twitterImageMatch[1];
               }
 
-              // Try to find first img tag
               const imgMatch = html.match(/<img[^>]*src=["']([^"']+)["']/i);
               if (imgMatch) {
                 const imgSrc = imgMatch[1];
-                // Skip common small icons, tracking pixels, etc.
                 if (!imgSrc.includes('1x1') && !imgSrc.includes('pixel') && !imgSrc.includes('icon')) {
                   return imgSrc.startsWith('http') ? imgSrc : new URL(imgSrc, url).href;
                 }
               }
 
-              // Fallback to common favicon locations
               const domain = extractDomain(url);
               return `https://${domain}/favicon.ico`;
             } catch (error) {
@@ -126,36 +119,31 @@ jobs:
                 const title = bookmark.title || 'Untitled';
                 const url = bookmark.link;
                 const createdDate = new Date(bookmark.created);
-                const dateStr = createdDate.toISOString().split('T')[0]; // YYYY-MM-DD
+                const dateStr = createdDate.toISOString().split('T')[0];
                 const slug = createSlug(title);
                 
                 console.log(`Processing: ${title}`);
                 
-                // Fetch image
                 const image = await fetchImageFromUrl(url);
                 
-                // Add referral parameter
                 const urlObj = new URL(url);
                 urlObj.searchParams.set('ref', 'krabf.com');
                 const externalUrl = urlObj.toString();
                 
-                // Create front matter
                 const frontMatter = `---
-title: ${title}
-external_url: ${externalUrl}
-image: ${image}
-description: 
-date: ${dateStr}
-slug: ${slug}
-draft: true
----
-`;
+          title: ${title}
+          external_url: ${externalUrl}
+          image: ${image}
+          description: 
+          date: ${dateStr}
+          slug: ${slug}
+          draft: true
+          ---
+          `;
                 
-                // Write file
                 const filename = `${dateStr}-${slug}.md`;
                 const filepath = path.join(LINKS_DIR, filename);
                 
-                // Don't overwrite existing files
                 if (fs.existsSync(filepath)) {
                   console.log(`Skipping ${filename} - already exists`);
                   continue;
@@ -182,7 +170,12 @@ draft: true
             console.error('Fatal error:', error);
             process.exit(1);
           });
-          EOF
+          SCRIPT_END
+      
+      - name: Run script
+        env:
+          RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
+        run: node fetch-bookmarks.js
           
       - name: Commit and push changes
         run: |
